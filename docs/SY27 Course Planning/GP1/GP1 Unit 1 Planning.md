@@ -18,7 +18,7 @@ status: active
 | **Grades** | 11/12 |
 | **Unit Number** | 1 |
 | **Unit Title** | Data Under the Hood |
-| **Meetings** | 8 (Days 1–8, W01–W02) |
+| **Meetings** | 8 instruction (Days 1–8, W01–W02) + 1 quiz (Day 10, W03) |
 
 ### Driving Question
 
@@ -65,15 +65,17 @@ The "how does the machine actually work" unit. Parts of a computer, file systems
 | LT6 | Convert between binary, decimal, and hexadecimal. Apply hex codes to represent colors. | CSTA 3A-CS-01, ACT WME 402, N 302 | 6 |
 | LT7 | Apply hex and RGB conversions fluently. | CSTA 3A-CS-01, ACT WME 402 | 7 |
 | LT8 | Demonstrate mastery of binary, hex, and RGB conversions through a practical. | CSTA 3A-CS-01, ACT WME 402 | 8 |
+| LT1–8 | Unit 1 Quiz (cumulative). | CSTA 3A-DA-09, 3A-CS-01, ACT WME 402, N 302, IDT 403 | 10 (W03) |
 
 ## Assessment Plan
 
 ### Unit Assessment
 
-| Assessment | Type |
-|---|---|
-| Number & Color Conversion Practical | Summative (checkpoint) |
-| Pixel Coloring Practical | Summative (checkpoint) |
+| Assessment | Type | Day |
+|---|---|---|
+| Number & Color Conversion Practical | Summative (checkpoint) | 8 |
+| Pixel Coloring Practical | Summative (checkpoint) | 8 |
+| Unit 1 Quiz | Summative | 10 (W03) |
 
 ### Learning Checkpoints
 
@@ -94,6 +96,7 @@ The "how does the machine actually work" unit. Parts of a computer, file systems
 | ET6 | Convert 255 from decimal to hex. In RGBA, what does the A stand for? What color is #FF0000? | LT6 |
 | ET7 | Convert 1A from hex to decimal. | LT6, LT7 |
 | ET8 | Submit pixel coloring practical + number/color conversions. | LT8 |
+| ET10 | Unit 1 Quiz submitted. | LT1–LT8 (cumulative) |
 
 ## Lesson Schedule
 
@@ -107,6 +110,7 @@ The "how does the machine actually work" unit. Parts of a computer, file systems
 | 6 | Tue 9/1 | A | 48 | 6 | Hexadecimal & Color Codes | LT6 |
 | 7 | Wed 9/2 | A | 48 | 7 | Hex & RGB Practice | LT7 |
 | 8 | Thu 9/4 | B | 72 | 8 | Pixel Coloring Checkpoint | LT8 |
+| 10 | Wed 9/9 | A | 48 | — | Unit 1 Quiz & Reading | LT1–8 (cumulative) |
 
 ## Written Pathway
 
@@ -124,6 +128,7 @@ The "how does the machine actually work" unit. Parts of a computer, file systems
 | Day 2 Do Now/Exit Ticket | Chunk 2 | ✅ | [Doc](https://docs.google.com/document/d/1aPkdrY2C9iWgY5pMHbtRzUgUp-iqRQmRrsFtnbL8_U0/edit) |
 | Day 3 Do Now/Exit Ticket | Chunk 3 | ✅ | [Doc](https://docs.google.com/document/d/1ZWDL1X-EQHS0mJCtZE8hra1YC8emp2-sBkBN-lMRlts/edit) |
 | Parts of a Computer Practice | Chunks 3–4 | ✅ | [Doc](https://docs.google.com/document/d/1nyE64McqAykjdXX9ob6UrwJ9BBatpy7Mxyk_btWUkms/edit) |
+| Unit 1 Quiz | Day 10 | 🚧 | Not built |
 
 ## Connections
 
