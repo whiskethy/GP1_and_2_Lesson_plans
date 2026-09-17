@@ -10,30 +10,6 @@ updated: 2026-09-17
 
 GP1 meets Mon/Tue/Wed (A, 48 min) and Thu (B, 72 min). No Friday class.
 
-## Daily Riddle & Joke
-
-Both classes get the same riddle and joke on the same day. Pick from [[Riddles]] and [[Dumb Jokes]]. Mark each as used with `x` in the `Used?` column after updating the daily slides.
-
-| Date | Riddle | Answer | Joke | Punchline | Status |
-|------|--------|--------|------|-----------|--------|
-| 9/7 Mon | *(no class — Labor Day)* | | | | |
-| 9/8 Tue | What goes up but never comes down? | Your age | Did you hear about the ice cream truck accident? | It crashed on a rocky road. | ✅ Done |
-| 9/9 Wed | What is always in front of you but can't be seen? | The future | I went to buy a pair of camouflage pants... | ...but I couldn't find any. | ✅ Done |
-| 9/10 Thu | What is full of holes but still holds water? | A sponge | Did you hear about the archeologist that got fired? | Now his career is in ruins. | ✅ Done |
-| 9/11 Fri | *(no GP1 class)* | | | | |
-| 9/14 Mon | What question can you never answer yes to? | Are you asleep yet? | Did you hear about the circus fire? | It was in tents! | ✅ Done |
-| 9/15 Tue | It stalks the countryside with ears that can't hear. What is it? | Corn | Did you hear about the cleaners who went to space? | They ended up scrubbing the mission. | ✅ Done |
-| 9/17 Thu | What has legs, but doesn't walk? | A table | Did you hear about the guy who invented Lifesavers? | They say he made a mint. | ✅ Done |
-| 9/21 Mon | What building has the most stories? | The library | What did the buffalo say to his son when he dropped him off at school? | Bison! | 📋 Ready |
-| 9/22 Tue | What can travel all around the world without leaving its corner? | A stamp | I'm reading a book about anti-gravity. | It's impossible to put down! | 📋 Ready |
-| 9/23 Wed | What can you catch, but not throw? | A cold | What did the ocean say to the beach? | Nothing. It just waved. | 📋 Ready |
-| 9/24 Thu | What has 13 hearts but no other organs? | A deck of cards | Did you hear about the restaurant on the moon? | Great food, no atmosphere! | 📋 Ready |
-| 9/29 Tue | What has a bottom at the top? | Your legs | How do you organize a space party? | You planet. | 📋 Ready |
-| 9/30 Wed | What has a thumb and four fingers but is not a hand? | A glove | I used to work at a soft drink can crushing company. | It was soda pressing. | 📋 Ready |
-| 10/1 Thu | What has hands but can't clap? | A clock | I wondered why the frisbee kept getting bigger. | Then it hit me. | 📋 Ready |
-
-*Fill in rows as you plan ahead. Status: ✅ Done (slides updated), 📋 Ready (picked, not yet on slides), ⬜ Blank (not picked yet).*
-
 ## Schedule
 
 ### W01: Aug 24–28 (Days 1–4) — Unit 1: How Computers Work

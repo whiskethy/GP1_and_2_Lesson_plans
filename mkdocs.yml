@@ -30,39 +30,37 @@ extra_css:
 nav:
   - Home: index.md
   - GP1:
-    - Overview: SY27 Course Planning/GP1/index.md
     - Scope & Sequence: SY27 Course Planning/GP1/Scope & Sequence - Game Programming 1 (GP1).md
     - Q1 Calendar: SY27 Course Planning/GP1/GP1 Q1 Calendar.md
     - Q1 Materials: SY27 Course Planning/GP1/GP1 Q1 Materials.md
-    - Days:
-      - SY27 Course Planning/GP1/Days/index.md
-      - Week 01: SY27 Course Planning/GP1/Days/Week 01/index.md
-      - Week 02: SY27 Course Planning/GP1/Days/Week 02/index.md
-      - Week 03: SY27 Course Planning/GP1/Days/Week 03/index.md
-      - Week 04: SY27 Course Planning/GP1/Days/Week 04/index.md
-      - Week 05: SY27 Course Planning/GP1/Days/Week 05/index.md
-      - Week 06: SY27 Course Planning/GP1/Days/Week 06/index.md
-      - Week 07: SY27 Course Planning/GP1/Days/Week 07/index.md
-      - Week 08: SY27 Course Planning/GP1/Days/Week 08/index.md
+    - Lesson Plans:
+      - SY27 Course Planning/GP1/Lesson Plans/index.md
+      - Week 01: SY27 Course Planning/GP1/Lesson Plans/Week 01/index.md
+      - Week 02: SY27 Course Planning/GP1/Lesson Plans/Week 02/index.md
+      - Week 03: SY27 Course Planning/GP1/Lesson Plans/Week 03/index.md
+      - Week 04: SY27 Course Planning/GP1/Lesson Plans/Week 04/index.md
+      - Week 05: SY27 Course Planning/GP1/Lesson Plans/Week 05/index.md
+      - Week 06: SY27 Course Planning/GP1/Lesson Plans/Week 06/index.md
+      - Week 07: SY27 Course Planning/GP1/Lesson Plans/Week 07/index.md
+      - Week 08: SY27 Course Planning/GP1/Lesson Plans/Week 08/index.md
     - Worksheets:
       - SY27 Course Planning/GP1/Worksheets/index.md
       - "Render Loop Worksheet": SY27 Course Planning/GP1/Worksheets/GP1 Q1 Day 11 - Render Loop Worksheet.md
       - "Transforms Worksheet": SY27 Course Planning/GP1/Worksheets/GP1 - Transforms Worksheet.md
   - GP2:
-    - Overview: SY27 Course Planning/GP2/index.md
     - Scope & Sequence: SY27 Course Planning/GP2/Scope & Sequence - Game Programming 2 (GP2).md
     - Q1 Calendar: SY27 Course Planning/GP2/GP2 Q1 Calendar.md
     - Q1 Materials: SY27 Course Planning/GP2/GP2 Q1 Materials.md
-    - Days:
-      - SY27 Course Planning/GP2/Days/index.md
-      - Week 01: SY27 Course Planning/GP2/Days/Week 01/index.md
-      - Week 02: SY27 Course Planning/GP2/Days/Week 02/index.md
-      - Week 03: SY27 Course Planning/GP2/Days/Week 03/index.md
-      - Week 04: SY27 Course Planning/GP2/Days/Week 04/index.md
-      - Week 05: SY27 Course Planning/GP2/Days/Week 05/index.md
-      - Week 06: SY27 Course Planning/GP2/Days/Week 06/index.md
-      - Week 07: SY27 Course Planning/GP2/Days/Week 07/index.md
-      - Week 08: SY27 Course Planning/GP2/Days/Week 08/index.md
+    - Lesson Plans:
+      - SY27 Course Planning/GP2/Lesson Plans/index.md
+      - Week 01: SY27 Course Planning/GP2/Lesson Plans/Week 01/index.md
+      - Week 02: SY27 Course Planning/GP2/Lesson Plans/Week 02/index.md
+      - Week 03: SY27 Course Planning/GP2/Lesson Plans/Week 03/index.md
+      - Week 04: SY27 Course Planning/GP2/Lesson Plans/Week 04/index.md
+      - Week 05: SY27 Course Planning/GP2/Lesson Plans/Week 05/index.md
+      - Week 06: SY27 Course Planning/GP2/Lesson Plans/Week 06/index.md
+      - Week 07: SY27 Course Planning/GP2/Lesson Plans/Week 07/index.md
+      - Week 08: SY27 Course Planning/GP2/Lesson Plans/Week 08/index.md
     - Worksheets:
       - SY27 Course Planning/GP2/Worksheets/index.md
       - "Variables & Code Reading Check (Sub)": SY27 Course Planning/GP2/Worksheets/GP2 - Variables & Code Reading Check (Sub).md

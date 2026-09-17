@@ -11,30 +11,6 @@ updated: 2026-09-11
 
 Meeting pattern: Mon/Tue/Wed A (48 min), Fri C (72 min). No Thursday class.
 
-## Daily Riddle & Joke
-
-Both classes get the same riddle and joke on the same day. Pick from [[Riddles]] and [[Dumb Jokes]]. Mark each as used with `x` in the `Used?` column after updating the daily slides.
-
-| Date | Day | Riddle | Answer | Joke | Punchline | Status |
-|------|-----|--------|--------|------|-----------|--------|
-| 9/8 Mon | — | *(no class — Labor Day)* | | | | |
-| 9/8 Tue | Day 9 | What goes up but never comes down? | Your age | Did you hear about the ice cream truck accident? | It crashed on a rocky road. | ✅ Done |
-| 9/9 Wed | Day 10 | What is always in front of you but can't be seen? | The future | I went to buy a pair of camouflage pants... | ...but I couldn't find any. | ✅ Done |
-| 9/10 Thu | — | *(no GP2 class)* | | | | |
-| 9/11 Fri | Day 11 | *(field trip — cancelled)* | | | | |
-| 9/14 Mon | Day 12 | What question can you never answer yes to? | Are you asleep yet? | Did you hear about the circus fire? | It was in tents! | ⬜ |
-| 9/15 Tue | Day 13 | It stalks the countryside with ears that can't hear. What is it? | Corn | Did you hear about the cleaners who went to space? | They ended up scrubbing the mission. | ✅ Done |
-| 9/18 Fri | Day 14 | What has many teeth, but can't bite? | A comb | How do you make holy water? | You boil the hell out of it. | ⬜ |
-| 9/21 Mon | Day 15 | What building has the most stories? | The library | What did the buffalo say to his son when he dropped him off at school? | Bison! | ⬜ |
-| 9/22 Tue | Day 16 | What can travel all around the world without leaving its corner? | A stamp | I'm reading a book about anti-gravity. | It's impossible to put down! | ⬜ |
-| 9/23 Wed | Day 17 | What can you catch, but not throw? | A cold | What did the ocean say to the beach? | Nothing. It just waved. | ⬜ |
-| 9/25 Fri | Day 18 | What invention lets you look right through a wall? | A window | Broken guitar for sale. | No strings attached. | ⬜ |
-| 9/29 Tue | Day 19 | What has a bottom at the top? | Your legs | How do you organize a space party? | You planet. | ⬜ |
-| 9/30 Wed | Day 20 | What has a thumb and four fingers but is not a hand? | A glove | I used to work at a soft drink can crushing company. | It was soda pressing. | ⬜ |
-| 10/2 Fri | Day 21 | What word of five letters has one left when two are removed? | Stone | How do you fix a broken tomato? | With tomato paste. | ⬜ |
-
-*Status: ✅ Done (slides updated), 📋 Ready (picked, not yet on slides), ⬜ Blank (not picked yet).*
-
 ## Week 1 (8/24–8/28)
 
 | Day | Date | Type | Minutes | Topic | Link |
