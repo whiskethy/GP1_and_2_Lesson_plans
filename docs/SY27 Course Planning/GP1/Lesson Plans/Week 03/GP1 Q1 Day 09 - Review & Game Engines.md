@@ -14,7 +14,6 @@ status: completed
 # GP1 Q1 Day 09 — Review & Game Engines
 
 **Date:** Tue 9/8 · **Unit:** 2 · **Chunk:** 9
-**Planning Sheet:** [Week of 9/7](https://docs.google.com/spreadsheets/d/1eBWMHgWaEAkI7I6R8dwK7vmPgxCHK9VDh_oEGA-ouSw/edit)
 
 ## Learning Target
 

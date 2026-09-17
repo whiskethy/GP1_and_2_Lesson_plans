@@ -17,7 +17,6 @@ sub: true
 # GP1 Q1 Day 18 — Rotation (Sub)
 
 **Date:** Thu 9/24 · **Unit:** 3 · **Chunk:** 3 (rotation)
-**Planning Sheet:** [Week of 9/21](https://docs.google.com/spreadsheets/d/1eBWMHgWaEAkI7I6R8dwK7vmPgxCHK9VDh_oEGA-ouSw/edit)
 
 > **Sub coverage.** Nick is out. Students watch EdPuzzle Video 05 and complete the Transforms Worksheet (Parts 3-4: rotation and scale sections).
 

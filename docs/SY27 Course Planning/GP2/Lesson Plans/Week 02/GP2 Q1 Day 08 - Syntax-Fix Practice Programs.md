@@ -14,7 +14,6 @@ status: active
 # GP2 Q1 Day 8 — Syntax-Fix Practice Programs
 
 **Date:** Fri 9/4 · **Unit:** 1 · **Chunk:** 6 (continued)
-**Planning Sheet:** [Week of 8/31](https://docs.google.com/spreadsheets/d/1BAraM0o0eLd7zR2-72g7UeiI0KIG54fnvjsCVU_h5sk/edit)
 
 ## Learning Target
 

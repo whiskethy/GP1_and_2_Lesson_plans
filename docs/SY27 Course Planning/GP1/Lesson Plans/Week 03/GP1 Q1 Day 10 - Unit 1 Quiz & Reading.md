@@ -14,7 +14,6 @@ status: completed
 # GP1 Q1 Day 10 — Unit 1 Quiz & Reading
 
 **Date:** Wed 9/9 · **Unit:** 2 · **Chunk:** 9/reading
-**Planning Sheet:** [Week of 9/7](https://docs.google.com/spreadsheets/d/1eBWMHgWaEAkI7I6R8dwK7vmPgxCHK9VDh_oEGA-ouSw/edit)
 
 ## Learning Target
 

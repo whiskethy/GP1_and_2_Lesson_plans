@@ -15,7 +15,6 @@ updated: 2026-09-09
 # GP2 Q1 Day 10 — VS Setup
 
 **Date:** Wed 9/9 · **Unit:** 1 · **Chunk:** 8
-**Planning Sheet:** [Week of 9/7](https://docs.google.com/spreadsheets/d/1BAraM0o0eLd7zR2-72g7UeiI0KIG54fnvjsCVU_h5sk/edit)
 
 ## What Actually Happened
 

@@ -14,7 +14,6 @@ status: active
 # GP2 Q1 Day 1 — Syllabus & Norms
 
 **Date:** Mon 8/24 · **Unit:** 1 · **Chunk:** 1
-**Planning Sheet:** [Week of 8/24](https://docs.google.com/spreadsheets/d/1BAraM0o0eLd7zR2-72g7UeiI0KIG54fnvjsCVU_h5sk/edit)
 
 ## Learning Target
 

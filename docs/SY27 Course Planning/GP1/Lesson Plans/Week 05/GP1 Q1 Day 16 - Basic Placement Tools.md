@@ -17,7 +17,6 @@ sub: false
 # GP1 Q1 Day 16 — Basic Placement Tools
 
 **Date:** Tue 9/22 · **Unit:** 3 · **Chunk:** 3
-**Planning Sheet:** [Week of 9/21](https://docs.google.com/spreadsheets/d/1eBWMHgWaEAkI7I6R8dwK7vmPgxCHK9VDh_oEGA-ouSw/edit)
 
 ## Learning Target
 

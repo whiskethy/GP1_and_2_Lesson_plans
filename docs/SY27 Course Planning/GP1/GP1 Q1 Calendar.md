@@ -94,6 +94,5 @@ GP1 meets Mon/Tue/Wed (A, 48 min) and Thu (B, 72 min). No Friday class.
 
 ## Links
 
-- [GP1 Unit Planning Sheet](https://docs.google.com/spreadsheets/d/1eBWMHgWaEAkI7I6R8dwK7vmPgxCHK9VDh_oEGA-ouSw/edit)
 - [[GP1 Q1 Materials]]
 - [[Scope & Sequence - Game Programming 1 (GP1)]]

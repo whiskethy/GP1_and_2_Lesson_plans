@@ -18,7 +18,6 @@ sub: false
 # GP2 Q1 Day 21 — Unit 1 Checkpoint
 
 **Date:** Fri 10/2 · **Unit:** 1 · **Chunk:** 17
-**Planning Sheet:** [Week of 9/28](https://docs.google.com/spreadsheets/d/1BAraM0o0eLd7zR2-72g7UeiI0KIG54fnvjsCVU_h5sk/edit)
 
 ## Learning Target
 

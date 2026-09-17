@@ -18,7 +18,6 @@ sub: false
 # GP2 Q1 Day 17 — Loops Intro
 
 **Date:** Wed 9/23 · **Unit:** 1 · **Chunk:** 14
-**Planning Sheet:** [Week of 9/21](https://docs.google.com/spreadsheets/d/1BAraM0o0eLd7zR2-72g7UeiI0KIG54fnvjsCVU_h5sk/edit)
 
 ## Learning Target
 

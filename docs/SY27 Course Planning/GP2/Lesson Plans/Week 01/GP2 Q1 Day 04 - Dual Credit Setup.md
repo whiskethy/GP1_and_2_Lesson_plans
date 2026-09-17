@@ -14,7 +14,6 @@ status: active
 # GP2 Q1 Day 4 — Dual Credit Setup
 
 **Date:** Fri 8/28 · **Unit:** 1 · **Chunk:** none (setup day)
-**Planning Sheet:** [Week of 8/24](https://docs.google.com/spreadsheets/d/1BAraM0o0eLd7zR2-72g7UeiI0KIG54fnvjsCVU_h5sk/edit)
 
 ## Learning Target
 

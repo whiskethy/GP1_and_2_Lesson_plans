@@ -138,18 +138,15 @@ Key ideas and details
 
 **CENTRAL IDEAS, THEMES, AND SUMMARIES (IDT)** 
 
-
 **IDT 501\.** Infer a central idea or theme in somewhat challenging  passages or their paragraphs 
 
 **IDT 502\.** Identify a clear central idea or theme in more challenging  passages or their paragraphs 
 
 **IDT 503\.** Summarize key supporting ideas and details in more  challenging passages 
 
-
 **IDT 601\.** Infer a central idea or theme in more challenging passages  or their paragraphs 
 
 **IDT 602\.** Summarize key supporting ideas and details in complex  passages 
-
 
 **IDT 701\.** Identify or infer a central idea or theme in complex passages  or their paragraphs 
 
@@ -208,7 +205,6 @@ Key ideas and details
 
 **RELATIONSHIPS (REL)** 
 
-
 **REL 501\.** Order sequences of events in somewhat challenging  passages 
 
 **REL 502\.** Understand implied or subtly stated comparative  relationships in somewhat challenging passages 
@@ -219,7 +215,6 @@ Key ideas and details
 
 **REL 505\.** Identify clear cause-effect relationships in more challenging  passages 
 
-
 **REL 601\.** Order sequences of events in more challenging passages 
 
 **REL 602\.** Understand implied or subtly stated comparative  relationships in more challenging passages 
@@ -229,7 +224,6 @@ Key ideas and details
 **REL 604\.** Understand implied or subtly stated cause-effect  relationships in more challenging passages 
 
 **REL 605\.** Identify clear cause-effect relationships in complex  passages 
-
 
 **REL 701\.** Order sequences of events in complex passages 
 
@@ -290,7 +284,6 @@ Craft and structure
 
 **WORD MEANINGS AND WORD CHOICE (WME)** 
 
-
 **WME 501\.** Analyze how the choice of a specific word or phrase  shapes meaning or tone in somewhat challenging passages when  the effect is subtle 
 
 **WME 502\.** Analyze how the choice of a specific word or phrase  shapes meaning or tone in more challenging passages 
@@ -299,13 +292,11 @@ Craft and structure
 
 **WME 504\.** Interpret most words and phrases as they are used  in more challenging passages, including determining technical,  connotative, and figurative meanings 
 
-
 **WME 601\.** Analyze how the choice of a specific word or phrase  shapes meaning or tone in complex passages 
 
 **WME 602\.** Interpret virtually any word or phrase as it is used in more  challenging passages, including determining technical, connotative,  and figurative meanings 
 
 **WME 603\.** Interpret words and phrases in a passage that makes  consistent use of figurative, general academic, domain-specific, or  otherwise difficult language 
-
 
 **WME 701\.** Analyze how the choice of a specific word or phrase  shapes meaning or tone in passages when the effect is subtle or  complex 
 
@@ -366,7 +357,6 @@ Craft and structure
 
 **TEXT STRUCTURE (TST)** 
 
-
 **TST 501\.** Analyze how one or more sentences in somewhat  challenging passages relate to the whole passage when the function  is subtle 
 
 **TST 502\.** Analyze how one or more sentences in more challenging  passages relate to the whole passage 
@@ -377,13 +367,11 @@ Craft and structure
 
 **TST 505\.** Analyze the overall structure of more challenging passages 
 
-
 **TST 601\.** Analyze how one or more sentences in complex passages  relate to the whole passage 
 
 **TST 602\.** Infer the function of paragraphs in more challenging  passages 
 
 **TST 603\.** Analyze the overall structure of complex passages 
-
 
 **TST 701\.** Analyze how one or more sentences in passages relate to  the whole passage when the function is subtle or complex 
 
@@ -438,18 +426,15 @@ Craft and structure
 
 **PURPOSE AND POINT OF VIEW (PPV)** 
 
-
 **PPV 501\.** Infer a purpose in somewhat challenging passages and how  that purpose shapes content and style 
 
 **PPV 502\.** Identify a clear purpose of more challenging passages and  how that purpose shapes content and style 
 
 **PPV 503\.** Understand point of view in more challenging passages 
 
-
 **PPV 601\.** Infer a purpose in more challenging passages and how that  purpose shapes content and style 
 
 **PPV 602\.** Understand point of view in complex passages 
-
 
 **PPV 701\.** Identify or infer a purpose in complex passages and how  that purpose shapes content and style 
 
@@ -502,16 +487,13 @@ Integration of knowledge and ideas
 
 **ARGUMENTS (ARG)** 
 
-
 **ARG 501\.** Analyze how one or more sentences in more challenging  passages offer reasons for or support a claim 
 
 **ARG 502\.** Infer a central claim in somewhat challenging passages **ARG 503\.** Identify a clear central claim in more challenging passages 
 
-
 **ARG 601\.** Analyze how one or more sentences in complex passages  offer reasons for or support a claim 
 
 **ARG 602\.** Infer a central claim in more challenging passages 
-
 
 **ARG 701\.** Analyze how one or more sentences in passages offer  reasons for or support a claim when the relationship is subtle or  complex 
 
@@ -562,12 +544,9 @@ Integration of knowledge and ideas
 
 **MULTIPLE TEXTS (SYN)** 
 
-
 **SYN 501\.** Draw logical conclusions using information from two  informational texts 
 
-
 **SYN 601\.** Draw logical conclusions using information from multiple  portions of two literary narratives 
-
 
 **SYN 701\.** Draw logical conclusions using information from multiple  portions of two informational texts 
 

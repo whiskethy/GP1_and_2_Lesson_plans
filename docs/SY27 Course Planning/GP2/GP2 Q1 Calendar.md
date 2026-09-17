@@ -73,7 +73,6 @@ Meeting pattern: Mon/Tue/Wed A (48 min), Fri C (72 min). No Thursday class.
 
 | Resource | Link |
 |----------|------|
-| GP2 Planning Sheet | [Google Sheets](https://docs.google.com/spreadsheets/d/1BAraM0o0eLd7zR2-72g7UeiI0KIG54fnvjsCVU_h5sk/edit) |
 | GP2 Daily Slides | [Google Slides](https://docs.google.com/presentation/d/14am1CG2k2GkLF_0ctMmzqfX7kSiE4OyZtw36kiyegVU/edit) |
 | Scope & Sequence | [[Scope & Sequence - Game Programming 2 (GP2)]] |
 | Loop Slides Content Plan | [[Loop Slides Content Plan]] |

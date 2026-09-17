@@ -20,7 +20,6 @@ sub: true
 > **Sub coverage.** Nick is out. Students watch the EdPuzzle video and complete the worksheet. The sub does not need content knowledge.
 
 **Date:** Fri 9/25 · **Unit:** 1 · **Chunk:** 15
-**Planning Sheet:** [Week of 9/21](https://docs.google.com/spreadsheets/d/1BAraM0o0eLd7zR2-72g7UeiI0KIG54fnvjsCVU_h5sk/edit)
 
 ## Learning Target
 

@@ -17,7 +17,6 @@ sub: false
 # GP1 Q1 Day 21 — Importing & Basic Materials
 
 **Date:** Thu 10/1 · **Unit:** 3 · **Chunk:** 6 + 8
-**Planning Sheet:** [Week of 9/28](https://docs.google.com/spreadsheets/d/1eBWMHgWaEAkI7I6R8dwK7vmPgxCHK9VDh_oEGA-ouSw/edit)
 
 ## Learning Target
 

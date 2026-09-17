@@ -17,7 +17,6 @@ joke: Did you hear about the circus fire?
 # GP2 — Variables & Code Reading Check (Sub)
 
 **Date:** Mon 9/14 · **Unit:** 1 · **Chunk:** review + practice
-**Planning Sheet:** [Week of 9/14](https://docs.google.com/spreadsheets/d/1BAraM0o0eLd7zR2-72g7UeiI0KIG54fnvjsCVU_h5sk/edit)
 
 > **Sub coverage.** Nick is out. No new instruction. Students complete this form independently using their notes. No phones, no internet, no Codédex.
 

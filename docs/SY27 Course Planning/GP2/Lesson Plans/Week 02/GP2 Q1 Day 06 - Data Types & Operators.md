@@ -14,7 +14,6 @@ status: active
 # GP2 Q1 Day 6 — Data Types & Operators
 
 **Date:** Tue 9/1 · **Unit:** 1 · **Chunk:** 5
-**Planning Sheet:** [Week of 8/31](https://docs.google.com/spreadsheets/d/1BAraM0o0eLd7zR2-72g7UeiI0KIG54fnvjsCVU_h5sk/edit)
 
 ## Learning Target
 

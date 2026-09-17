@@ -14,7 +14,6 @@ status: active
 # GP1 Q1 Day 02 — What a Computer Is
 
 **Date:** Tue 8/25 · **Unit:** 1 · **Chunk:** 2
-**Planning Sheet:** [Week of 8/24](https://docs.google.com/spreadsheets/d/1eBWMHgWaEAkI7I6R8dwK7vmPgxCHK9VDh_oEGA-ouSw/edit)
 
 ## Learning Target
 

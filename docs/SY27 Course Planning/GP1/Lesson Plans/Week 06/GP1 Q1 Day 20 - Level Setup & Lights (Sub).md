@@ -17,7 +17,6 @@ sub: true
 # GP1 Q1 Day 20 — Level Setup & Transforms Consolidation (Sub)
 
 **Date:** Wed 9/30 · **Unit:** 3 · **Chunks:** 3 (consolidation) + 5 (level setup/lights)
-**Planning Sheet:** [Week of 9/28](https://docs.google.com/spreadsheets/d/1eBWMHgWaEAkI7I6R8dwK7vmPgxCHK9VDh_oEGA-ouSw/edit)
 
 > **Sub coverage.** Nick is out. Students watch EdPuzzle Video 07 (Level Setup) and complete the full Transforms Worksheet (Parts 1-5), consolidating location, rotation, and scale skills from Videos 04-06.
 

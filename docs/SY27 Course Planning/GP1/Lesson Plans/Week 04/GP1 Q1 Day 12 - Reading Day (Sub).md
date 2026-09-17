@@ -17,7 +17,6 @@ joke: Did you hear about the circus fire?
 # GP1 Q1 Day 12 — Reading Day (Sub)
 
 **Date:** Mon 9/14 · **Unit:** 2 · **Chunk:** reading
-**Planning Sheet:** [Week of 9/7](https://docs.google.com/spreadsheets/d/1eBWMHgWaEAkI7I6R8dwK7vmPgxCHK9VDh_oEGA-ouSw/edit)
 
 > **Sub coverage.** Nick is out. No new instruction. Students read independently and complete the article assignment.
 

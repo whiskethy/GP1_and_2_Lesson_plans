@@ -16,7 +16,6 @@ joke: Did you hear about the guy who invented Lifesavers?
 # GP1 Q1 Day 14 — Viewport & Navigation
 
 **Date:** Thu 9/17 · **Unit:** 3 · **Chunk:** 2
-**Planning Sheet:** [Week of 9/14](https://docs.google.com/spreadsheets/d/1eBWMHgWaEAkI7I6R8dwK7vmPgxCHK9VDh_oEGA-ouSw/edit)
 
 ## Learning Target
 
@@ -90,7 +89,6 @@ Navigate the Unreal viewport using orbit, fly, and focus controls, and identify 
 | Game Engine Notes deck (viewport/navigation slides) | ✅         | [Drive](https://docs.google.com/presentation/d/18Bmk0XdICuy0gxQAMjgrTDGpEfoDQApchPI7A6XW85A/edit) |
 | Epic Games Launcher + Unreal Engine 5               | ✅         | Driver fix from Day 11 verified                                                                   |
 | Unreal in-engine guided tutorial                    | ✅         | Built into Unreal Engine                                                                          |
-
 
 ## Notes after teaching
 

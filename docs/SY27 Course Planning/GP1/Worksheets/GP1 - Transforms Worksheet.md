@@ -20,8 +20,6 @@ Which direction is +Z in Unreal? What is the color?  _______________________
 
 Draw a quick sketch of a cube at the origin (0,0,0). Label the X, Y, Z axes.
 
-
-
 What are values for a Transform for an object that is at the origin?
 
 Location:  _______, _______, _______
@@ -119,8 +117,6 @@ __________ True or False: Scaling all axes by the same value (ex: (3,3,3)) keeps
 ## Part 5: Challenge Questions
 
 A cylinder is at (0,0,0). It is moved to (0,0,200), rotated 90° on the X-axis, and scaled to (1,2,1). Draw what it looked like before, and then what it looks like after the changes.
-
-
 
 Imagine you want to make a tall, skinny skyscraper out of a cube at the origin. What transform values would you apply?
 

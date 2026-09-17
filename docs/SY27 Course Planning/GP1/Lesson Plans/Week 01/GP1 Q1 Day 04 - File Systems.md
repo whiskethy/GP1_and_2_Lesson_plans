@@ -14,7 +14,6 @@ status: active
 # GP1 Q1 Day 04 — File Systems
 
 **Date:** Thu 8/28 · **Unit:** 1 · **Chunk:** 4
-**Planning Sheet:** [Week of 8/24](https://docs.google.com/spreadsheets/d/1eBWMHgWaEAkI7I6R8dwK7vmPgxCHK9VDh_oEGA-ouSw/edit)
 
 ## Learning Target
 

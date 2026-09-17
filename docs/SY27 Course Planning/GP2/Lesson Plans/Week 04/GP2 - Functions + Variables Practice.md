@@ -17,7 +17,6 @@ joke: How do you make holy water?
 # GP2 Q1 Day 14 — Functions + Variables Practice
 
 **Date:** Fri 9/18 · **Unit:** 1 · **Chunk:** 9 (continued) / 7 (retrieval)
-**Planning Sheet:** [Week of 9/14](https://docs.google.com/spreadsheets/d/1BAraM0o0eLd7zR2-72g7UeiI0KIG54fnvjsCVU_h5sk/edit)
 
 ## Learning Target
 

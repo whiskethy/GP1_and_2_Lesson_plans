@@ -14,7 +14,6 @@ status: planned
 # GP2 Q1 Days 22–32 — Unit 3: Roll-A-Ball in C++
 
 **Date:** TBD · **Unit:** 3 · **Chunks:** 22–32
-**Planning Sheet:** [GP2 Planning Sheet](https://docs.google.com/spreadsheets/d/1BAraM0o0eLd7zR2-72g7UeiI0KIG54fnvjsCVU_h5sk/edit)
 
 ## Planned Content
 

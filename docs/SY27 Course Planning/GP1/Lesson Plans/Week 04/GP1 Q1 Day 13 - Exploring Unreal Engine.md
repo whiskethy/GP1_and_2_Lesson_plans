@@ -16,7 +16,6 @@ joke: Did you hear about the cleaners who went to space?
 # GP1 Q1 Day 13 — Exploring Unreal Engine
 
 **Date:** Tue 9/15 · **Unit:** 3 · **Chunk:** 1
-**Planning Sheet:** [Week of 9/14](https://docs.google.com/spreadsheets/d/1eBWMHgWaEAkI7I6R8dwK7vmPgxCHK9VDh_oEGA-ouSw/edit)
 
 ## Learning Target
 

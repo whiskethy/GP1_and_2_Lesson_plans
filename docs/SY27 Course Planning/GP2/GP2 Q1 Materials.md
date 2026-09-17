@@ -40,7 +40,6 @@ updated: 2026-09-09
 
 | Resource | Link |
 |----------|------|
-| GP2 Unit Planning Sheet | [Google Sheets](https://docs.google.com/spreadsheets/d/1BAraM0o0eLd7zR2-72g7UeiI0KIG54fnvjsCVU_h5sk/edit) |
 | Loop Slides Content Plan | [[Loop Slides Content Plan]] |
 | Build Status | [[Build Status]] |
 | Scope & Sequence | [[Scope & Sequence - Game Programming 2 (GP2)]] |

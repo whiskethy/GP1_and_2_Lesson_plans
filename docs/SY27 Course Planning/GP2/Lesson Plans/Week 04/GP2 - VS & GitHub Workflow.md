@@ -15,7 +15,6 @@ updated: 2026-09-11
 # GP2 Q1 Day 13 — VS & GitHub Workflow
 
 **Date:** Tue 9/15 · **Unit:** 1 · **Chunk:** 10
-**Planning Sheet:** [Week of 9/14](https://docs.google.com/spreadsheets/d/1BAraM0o0eLd7zR2-72g7UeiI0KIG54fnvjsCVU_h5sk/edit)
 
 ## Learning Target
 

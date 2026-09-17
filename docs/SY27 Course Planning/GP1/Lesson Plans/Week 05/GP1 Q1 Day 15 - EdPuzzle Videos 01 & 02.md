@@ -17,7 +17,6 @@ sub: false
 # GP1 Q1 Day 15 — EdPuzzle Videos 01 & 02
 
 **Date:** Mon 9/21 · **Unit:** 3 · **Chunks:** 1-2 (review)
-**Planning Sheet:** [Week of 9/21](https://docs.google.com/spreadsheets/d/1eBWMHgWaEAkI7I6R8dwK7vmPgxCHK9VDh_oEGA-ouSw/edit)
 
 > **Review day.** Students watch EdPuzzle Videos 01 and 02, reinforcing what they explored on Days 13-14. No new instruction — the videos re-cover editor panels, project creation, viewport navigation, levels, and multi-view placement.
 

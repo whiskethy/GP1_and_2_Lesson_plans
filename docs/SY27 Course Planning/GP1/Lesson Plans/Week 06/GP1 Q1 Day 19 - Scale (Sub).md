@@ -17,7 +17,6 @@ sub: true
 # GP1 Q1 Day 19 — Scale (Sub)
 
 **Date:** Tue 9/29 · **Unit:** 3 · **Chunk:** 3 (scale)
-**Planning Sheet:** [Week of 9/28](https://docs.google.com/spreadsheets/d/1eBWMHgWaEAkI7I6R8dwK7vmPgxCHK9VDh_oEGA-ouSw/edit)
 
 > **Sub coverage.** Nick is out. Students watch EdPuzzle Video 06 and practice scale in Unreal. No worksheet today — the full Transforms Worksheet is tomorrow.
 

@@ -14,7 +14,6 @@ status: completed
 # GP1 Q1 Day 11 — Rendering Pipeline
 
 **Date:** Thu 9/10 · **Unit:** 2 · **Chunk:** 10
-**Planning Sheet:** [Week of 9/7](https://docs.google.com/spreadsheets/d/1eBWMHgWaEAkI7I6R8dwK7vmPgxCHK9VDh_oEGA-ouSw/edit)
 
 ## Learning Target
 

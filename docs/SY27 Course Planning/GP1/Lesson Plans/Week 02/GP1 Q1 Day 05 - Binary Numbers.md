@@ -14,7 +14,6 @@ status: active
 # GP1 Q1 Day 05 — Binary Numbers
 
 **Date:** Mon 8/31 · **Unit:** 1 · **Chunk:** 5
-**Planning Sheet:** [Week of 8/31](https://docs.google.com/spreadsheets/d/1eBWMHgWaEAkI7I6R8dwK7vmPgxCHK9VDh_oEGA-ouSw/edit)
 
 ## Learning Target
 

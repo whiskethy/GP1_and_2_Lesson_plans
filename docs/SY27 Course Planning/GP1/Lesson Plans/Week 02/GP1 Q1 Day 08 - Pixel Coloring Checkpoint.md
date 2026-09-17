@@ -14,7 +14,6 @@ status: active
 # GP1 Q1 Day 08 — Pixel Coloring Checkpoint
 
 **Date:** Thu 9/4 · **Unit:** 1 · **Chunk:** 8
-**Planning Sheet:** [Week of 8/31](https://docs.google.com/spreadsheets/d/1eBWMHgWaEAkI7I6R8dwK7vmPgxCHK9VDh_oEGA-ouSw/edit)
 
 ## Learning Target
 

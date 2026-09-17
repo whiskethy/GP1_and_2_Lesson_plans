@@ -17,7 +17,6 @@ joke: What did the buffalo say to his son when he dropped him off at school?
 # GP2 Q1 Day 15 — Conditionals
 
 **Date:** Mon 9/21 · **Unit:** 1 · **Chunk:** 11
-**Planning Sheet:** [Week of 9/14](https://docs.google.com/spreadsheets/d/1BAraM0o0eLd7zR2-72g7UeiI0KIG54fnvjsCVU_h5sk/edit)
 
 ## Learning Target
 
