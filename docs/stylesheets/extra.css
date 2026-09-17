@@ -5,3 +5,64 @@
   --md-accent-fg-color: #3a918d;
   --md-accent-fg-color--light: #4fb0ab;
 }
+
+/* === Wider content area === */
+.md-grid {
+  max-width: 72rem;
+}
+
+/* === Tighter tables in planning docs === */
+.md-typeset table:not([class]) {
+  font-size: 0.78rem;
+}
+
+.md-typeset table:not([class]) th {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+/* === Standard heading styles === */
+h4 {
+  margin-top: 1.2em;
+  margin-bottom: 0.4em;
+  font-size: 0.85em;
+  color: var(--md-primary-fg-color);
+}
+
+h5 {
+  margin-top: 1em;
+  margin-bottom: 0.3em;
+  font-size: 0.8em;
+  color: var(--md-primary-fg-color--light);
+}
+
+/* === Section color overrides (set by JS) === */
+/* GP1 teal (default, no override needed) */
+
+/* GP2 purple */
+[data-section="gp2"] {
+  --md-primary-fg-color: #5c3d8f;
+  --md-primary-fg-color--light: #7b5fbf;
+  --md-primary-fg-color--dark: #422c68;
+  --md-accent-fg-color: #7b5fbf;
+  --md-accent-fg-color--light: #9b82d4;
+}
+
+/* Standards amber/rust */
+[data-section="standards"] {
+  --md-primary-fg-color: #b5542a;
+  --md-primary-fg-color--light: #d4713e;
+  --md-primary-fg-color--dark: #8e3f1a;
+  --md-accent-fg-color: #d4713e;
+  --md-accent-fg-color--light: #e8935f;
+}
+
+/* GP1 teal explicit */
+[data-section="gp1"] {
+  --md-primary-fg-color: #2b706d;
+  --md-primary-fg-color--light: #3a918d;
+  --md-primary-fg-color--dark: #1e5452;
+  --md-accent-fg-color: #3a918d;
+  --md-accent-fg-color--light: #4fb0ab;
+}
