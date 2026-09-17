@@ -1,0 +1,10 @@
+.DS_Store
+*.DS_Store
+school_calendar.json
+school_days_compact.json
+*.json
+Archive/
+Build Status.md
+Blueprint Variables - Epic Reference.md
+*Video Series Map*
+site/
