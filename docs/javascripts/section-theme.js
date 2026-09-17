@@ -8,7 +8,16 @@ document.addEventListener("DOMContentLoaded", function() {
 
   // Determine section from URL path
   if (path.indexOf("/GP2/") !== -1 || path.indexOf("/GP2%20") !== -1) {
-    // GP2: deep purple
+    // GP2: warm amber/rust
+    colors = {
+      '--md-primary-fg-color': '#b5542a',
+      '--md-primary-fg-color--light': '#d4713e',
+      '--md-primary-fg-color--dark': '#8e3f1a',
+      '--md-accent-fg-color': '#d4713e',
+      '--md-accent-fg-color--light': '#e8935f'
+    };
+  } else if (path.indexOf("/Standards/") !== -1 || path.indexOf("/Standards%20") !== -1) {
+    // Standards: deep purple
     colors = {
       '--md-primary-fg-color': '#5c3d8f',
       '--md-primary-fg-color--light': '#7b5fbf',
@@ -16,14 +25,14 @@ document.addEventListener("DOMContentLoaded", function() {
       '--md-accent-fg-color': '#7b5fbf',
       '--md-accent-fg-color--light': '#9b82d4'
     };
-  } else if (path.indexOf("/Standards/") !== -1 || path.indexOf("/Standards%20") !== -1) {
-    // Standards: warm amber/rust
+  } else if (path === "/" || path.endsWith("/GP1_and_2_Lesson_plans/") || path.endsWith("/GP1_and_2_Lesson_plans/index.html") || path.endsWith("/index.html") && path.indexOf("/SY27") === -1 && path.indexOf("/Standards") === -1) {
+    // Home page: neutral gray
     colors = {
-      '--md-primary-fg-color': '#b5542a',
-      '--md-primary-fg-color--light': '#d4713e',
-      '--md-primary-fg-color--dark': '#8e3f1a',
-      '--md-accent-fg-color': '#d4713e',
-      '--md-accent-fg-color--light': '#e8935f'
+      '--md-primary-fg-color': '#546e7a',
+      '--md-primary-fg-color--light': '#78909c',
+      '--md-primary-fg-color--dark': '#37474f',
+      '--md-accent-fg-color': '#78909c',
+      '--md-accent-fg-color--light': '#90a4ae'
     };
   } else {
     // GP1 (default): teal
@@ -45,6 +54,7 @@ document.addEventListener("DOMContentLoaded", function() {
   // Also set data-section for any CSS that needs it
   var section = path.indexOf("/GP2/") !== -1 || path.indexOf("/GP2%20") !== -1 ? 'gp2'
     : path.indexOf("/Standards/") !== -1 ? 'standards'
+    : path === "/" || path.endsWith("/GP1_and_2_Lesson_plans/") || path.endsWith("/GP1_and_2_Lesson_plans/index.html") ? 'home'
     : 'gp1';
   root.setAttribute('data-section', section);
 });

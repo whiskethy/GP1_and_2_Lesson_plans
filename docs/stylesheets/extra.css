@@ -1,9 +1,9 @@
 :root {
-  --md-primary-fg-color: #2b706d;
-  --md-primary-fg-color--light: #3a918d;
-  --md-primary-fg-color--dark: #1e5452;
-  --md-accent-fg-color: #3a918d;
-  --md-accent-fg-color--light: #4fb0ab;
+  --md-primary-fg-color: #546e7a;
+  --md-primary-fg-color--light: #78909c;
+  --md-primary-fg-color--dark: #37474f;
+  --md-accent-fg-color: #78909c;
+  --md-accent-fg-color--light: #90a4ae;
 }
 
 /* === Wider content area === */
@@ -38,19 +38,20 @@ h5 {
 }
 
 /* === Section color overrides (set by JS) === */
-/* GP1 teal (default, no override needed) */
 
-/* GP2 purple */
-[data-section="gp2"] {
-  --md-primary-fg-color: #5c3d8f;
-  --md-primary-fg-color--light: #7b5fbf;
-  --md-primary-fg-color--dark: #422c68;
-  --md-accent-fg-color: #7b5fbf;
-  --md-accent-fg-color--light: #9b82d4;
+/* Home: neutral gray (default above) */
+
+/* GP1 teal */
+[data-section="gp1"] {
+  --md-primary-fg-color: #2b706d;
+  --md-primary-fg-color--light: #3a918d;
+  --md-primary-fg-color--dark: #1e5452;
+  --md-accent-fg-color: #3a918d;
+  --md-accent-fg-color--light: #4fb0ab;
 }
 
-/* Standards amber/rust */
-[data-section="standards"] {
+/* GP2: warm amber/rust */
+[data-section="gp2"] {
   --md-primary-fg-color: #b5542a;
   --md-primary-fg-color--light: #d4713e;
   --md-primary-fg-color--dark: #8e3f1a;
@@ -58,11 +59,11 @@ h5 {
   --md-accent-fg-color--light: #e8935f;
 }
 
-/* GP1 teal explicit */
-[data-section="gp1"] {
-  --md-primary-fg-color: #2b706d;
-  --md-primary-fg-color--light: #3a918d;
-  --md-primary-fg-color--dark: #1e5452;
-  --md-accent-fg-color: #3a918d;
-  --md-accent-fg-color--light: #4fb0ab;
+/* Standards: deep purple */
+[data-section="standards"] {
+  --md-primary-fg-color: #5c3d8f;
+  --md-primary-fg-color--light: #7b5fbf;
+  --md-primary-fg-color--dark: #422c68;
+  --md-accent-fg-color: #7b5fbf;
+  --md-accent-fg-color--light: #9b82d4;
 }
