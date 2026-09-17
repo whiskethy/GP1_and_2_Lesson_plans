@@ -119,15 +119,14 @@ Rebuilt from scratch. Fundamentals first and independent of working computers, t
 	- **Written:** Doc Annotation on hex color reference → attached to Chunk 6. The Doc Annotation on "how a CPU runs an instruction" moves to a bridge day before Blueprints (see Unit 3). File systems, paths, and naming is folded into Unit 3 when students import assets (see Re-pacing Notes). Compiling vs. interpreting and primitive data types are taught before and during Blueprint introduction respectively (see Re-pacing Notes).
 	- **Deliverable:** pixel coloring practical + number/color conversion.
 
-- **Unit 2: Game Engines, Pipelines & the Industry** (3 meetings, W03) — *re-paced 2026-09-04; merged roles + playtesting into one day*
-	1. What a game engine is and why one exists (abstraction), with history of engines folded in as brief context — *new idea* · *Performance Task Connection: Students cannot compare game engines for the Unit 2 deliverable (engine comparison brief) without understanding what an engine does and why abstraction matters.*
+- **Unit 2: Game Engines, Pipelines & the Industry** (3 meetings, W03) — *re-paced 2026-09-17; dropped roles/playtesting chunk to uncovered content*
+	1. What a game engine is and why one exists (abstraction), with history of engines folded in as brief context — *new idea* · *Performance Task Connection: Understanding what an engine does and why abstraction matters is prerequisite for the editor work in Unit 3 and for making sense of Unreal's architecture.*
 	2. The rendering cycle and render pipeline — *new idea* · *Performance Task Connection: The pipeline is the abstraction layer between game data and what appears on screen. Understanding it is prerequisite for troubleshooting viewport issues in Unit 3 and for the pipeline diagram checkpoint.*
-	3. Roles in game development + playtesting and balancing as disciplines — *independent reading* + **checkpoint** · *Performance Task Connection: The role research one-pager is the Unit 2 deliverable. Understanding team roles is required to write it.*
-	- **Written:** Doc Annotation on Epic's rendering overview → attached to Chunk 2. SYN 301 comparison (Epic's marketing page vs. technical reference page) → attached to Chunk 3.
-	- **Deliverable:** engine comparison brief + role research one-pager, due at Chunk 3.
-	- **CSTA:** 3A-CS-01 (Chunk 1, 2), 3A-CS-02 (Chunk 2), 3A-DA-09 (Chunk 1 review), 3A-AP-18 (Chunk 3)
-	- **ACT Reading:** WME 402 (all chunks — technical vocabulary), IDT 403 (Chunks 2, 3 — summarize key ideas), SYN 301 (Chunk 3 — comparison)
-	- **ACT Math:** S 304 (Chunk 3 — extract data from comparison tables)
+	3. Unit 1 Quiz + game engine history reading — *quiz + independent reading* · *Performance Task Connection: The quiz measures mastery of Unit 1 foundations (binary, hex, data representation) that are prerequisite for all subsequent work.*
+	- **Written:** Doc Annotation on Epic's rendering overview → attached to Chunk 2.
+	- **Deliverable:** render loop diagram (formative, Chunk 2). No standalone summative for Unit 2; engine concepts are checked formatively and revisited in Unit 3.
+	- **CSTA:** 3A-CS-01 (Chunk 1, 2), 3A-CS-02 (Chunk 2), 3A-DA-09 (Chunk 3 — Unit 1 quiz review)
+	- **ACT Reading:** WME 402 (all chunks — technical vocabulary), IDT 403 (Chunk 2 — summarize key ideas)
 
 - **Unit 3: Unreal Editor & First Blueprints** (14 meetings, W03–late W07) — *re-paced 2026-09-04; added Exploring UE day 1, moved compiling and data types in from Unit 1*
 	1. Exploring Unreal Engine: install, first project, follow a simple tutorial — *new idea* · *Performance Task Connection: Students must be able to open UE and navigate a project before they can build anything. This is the on-ramp for the level layout practical (Chunk 9).*
@@ -161,9 +160,11 @@ Rebuilt from scratch. Fundamentals first and independent of working computers, t
 
 ### Days
 
-32 meetings: Unit 1 8 (was 7), Unit 2 3 (was 4), Unit 3 14 (was 13), Unit 4 8 (unchanged).
+32 meetings: Unit 1 8 (was 7), Unit 2 3 (2 content chunks + Unit 1 quiz), Unit 3 14 (was 13), Unit 4 8 (unchanged).
 
 ### Re-pacing Notes
+
+**Re-paced 2026-09-17.** Unit 2 reduced from 3 content chunks to 2. Chunk 3 (roles in game development + playtesting as disciplines) did not receive a dedicated day and has been moved to Uncovered Content below. The third meeting (Day 10) is a Unit 1 quiz, not a Unit 2 content chunk. Standards orphaned by this cut (CSTA 3A-AP-18, ACT Reading SYN 301, ACT Math S 304) are preserved in Uncovered Content for future scheduling. Day 10's unit tag corrected from 2 to 1 — it is a Unit 1 assessment administered during the Unit 2 calendar week.
 
 **Re-paced 2026-09-09.** Unit 2 ACT math standards corrected: G 406/G 407 (coordinate geometry) removed from Days 9 and 11 — they belong in Unit 3 (transforms/viewport). Replaced with WME 402 (technical vocabulary) and IDT 403 (summarize key ideas) which align with what was actually taught. Added 3A-CS-02 (compare levels of abstraction) to Day 11 for the rendering pipeline. Added explicit Performance Task Connections to all Unit 1 and Unit 2 chunks per the lesson evaluation look-fors (Indicators 1-4).
 
@@ -183,12 +184,18 @@ Unit 3 expanded from 13 to 14 meetings: one new Exploring Unreal Engine day at t
 - **[[ISBE Computer Science Standards|ISBE]]:** 9-10.DA.09, 9-10.DA.10, 9-10.CS.01, 9-10.CS.02, 9-10.CS.03, 9-10.AP.13, 9-10.AP.15, 9-10.AP.16, 9-10.AP.17, 9-10.AP.18, 9-10.AP.19, 9-10.AP.20, 9-10.AP.21, 9-10.AP.23, 9-10.AP.24, 9-10.IC.25, 9-10.ET.B, 11-12.CS.03, 11-12.AP.20, 11-12.AP.23, 11-12.AP.28
 - **[[ISTE Standards|ISTE]]:** 1.1.d, 1.3.a, 1.3.b, 1.4.a, 1.4.b, 1.4.c, 1.5.c, 1.5.d, 1.6.d
 
-Anchors: **3A-DA-09** (translate between bit representations of characters, numbers, and images) is Unit 1's reason for existing. **3A-AP-16** (use events to initiate instructions) is Unit 4's overlap-event work. **11-12.AP.20** (conversion of source code into machine code using compilers) is the compiling lesson. **1.3.b** (evaluate accuracy, validity, bias, origin, relevance of digital content) is the Unit 2 marketing-page versus reference-page comparison.
+Anchors: **3A-DA-09** (translate between bit representations of characters, numbers, and images) is Unit 1's reason for existing. **3A-AP-16** (use events to initiate instructions) is Unit 4's overlap-event work. **11-12.AP.20** (conversion of source code into machine code using compilers) is the compiling lesson. **1.3.b** (evaluate accuracy, validity, bias, origin, relevance of digital content) was planned for a Unit 2 marketing-page versus reference-page comparison; that chunk has been moved to Uncovered Content.
 
 ### Aligned ACT Standards
 
-- **Math:** N 301, N 302, N 402 (Unit 1 place value and exponents) · N 403, N 405, G 406, G 407, G 401, G 402 (Unit 3 transforms and rotation) · A 301, A 401, AF 401, AF 403, S 301 (Unit 4 variables, timer, score) · S 303, S 304 (Unit 2 comparison data)
-- **Reading:** WME 402 all quarter · IDT 403, TST 404, PPV 401 (Unit 1 and 2 Doc Annotations and readings) · SYN 301, ARG 401, ARG 402 (Unit 2 comparison and brief) · CLR 401, CLR 402, TST 403 (Unit 3 Doc Hunt and Build Guide) · REL 403 (Unit 4 debugging)
+- **Math:** N 301, N 302, N 402 (Unit 1 place value and exponents) · N 403, N 405, G 406, G 407, G 401, G 402 (Unit 3 transforms and rotation) · A 301, A 401, AF 401, AF 403, S 301 (Unit 4 variables, timer, score)
+- **Reading:** WME 402 all quarter · IDT 403, TST 404, PPV 401 (Unit 1 and 2 Doc Annotations and readings) · ARG 401, ARG 402 (Unit 2 brief) · CLR 401, CLR 402, TST 403 (Unit 3 Doc Hunt and Build Guide) · REL 403 (Unit 4 debugging)
+
+### Uncovered Content (Q1)
+
+Chunks that were planned but did not receive a dedicated day. Preserved here for future scheduling in Q2+ or as a reading day filler.
+
+- **Roles in game development + playtesting and balancing as disciplines** — originally Unit 2 Chunk 3. Students would research game development roles and write a one-pager, then compare playtesting approaches. Standards: CSTA 3A-AP-18, ACT Reading SYN 301, ACT Math S 304. The SYN 301 comparison (Epic's marketing page vs. technical reference page) was attached to this chunk.
 
 ### Instructional Gaps Identified
 

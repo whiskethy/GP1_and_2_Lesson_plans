@@ -7,7 +7,7 @@ day_type: A
 chunk: '9/quiz'
 type: quiz
 class_minutes: 48
-unit: 2
+unit: 1
 status: completed
 ---
 

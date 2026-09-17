@@ -36,7 +36,7 @@ GP1 meets Mon/Tue/Wed (A, 48 min) and Thu (B, 72 min). No Friday class.
 |-----|------|------|-----|------|--------|------|
 | — | Mon 9/7 | — | — | | *Labor Day — no school* | |
 | 9 | Tue 9/8 | A | 48 | 2 | Review & Game Engines | [[GP1 Q1 Day 09 - Review & Game Engines]] |
-| 10 | Wed 9/9 | A | 48 | 1→2 | Unit 1 Quiz & Reading | [[GP1 Q1 Day 10 - Unit 1 Quiz & Reading]] |
+| 10 | Wed 9/9 | A | 48 | 1 | Unit 1 Quiz & Reading | [[GP1 Q1 Day 10 - Unit 1 Quiz & Reading]] |
 | 11 | Thu 9/10 | B | 72 | 2 | Rendering Pipeline & Reading | [[GP1 Q1 Day 11 - Rendering Pipeline & Reading]] |
 
 ### W04: Sep 14–18 (Days 12–14) — Unit 3: Unreal Editor & First Blueprints
