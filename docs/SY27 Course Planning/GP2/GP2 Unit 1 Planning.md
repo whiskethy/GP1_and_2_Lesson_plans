@@ -42,10 +42,10 @@ The "now you write real code" unit. Students leave Blueprint-only thinking and b
 
 | Framework | Standards |
 |---|---|
-| CSTA 3A | 3A-CS-01, 3A-CS-02, 3A-DA-09, 3A-DA-10, 3A-AP-13, 3A-AP-16, 3A-AP-17, 3A-AP-18, 3A-AP-19, 3A-AP-20, 3A-AP-21, 3A-AP-23 |
-| ISBE 9-10 | 9-10.CS.01, 9-10.CS.02, 9-10.DA.09, 9-10.DA.10, 9-10.AP.13, 9-10.AP.15, 9-10.AP.16, 9-10.AP.17, 9-10.AP.18, 9-10.AP.19, 9-10.AP.20, 9-10.AP.21, 9-10.AP.23, 9-10.AP.24, 9-10.IC.25 |
+| CSTA 3A | [3A-CS-01](../../Standards/CSTA%20Standards.md#3a-cs-01), [3A-CS-02](../../Standards/CSTA%20Standards.md#3a-cs-02), [3A-DA-09](../../Standards/CSTA%20Standards.md#3a-da-09), [3A-DA-10](../../Standards/CSTA%20Standards.md#3a-da-10), [3A-AP-13](../../Standards/CSTA%20Standards.md#3a-ap-13), [3A-AP-16](../../Standards/CSTA%20Standards.md#3a-ap-16), [3A-AP-17](../../Standards/CSTA%20Standards.md#3a-ap-17), [3A-AP-18](../../Standards/CSTA%20Standards.md#3a-ap-18), [3A-AP-19](../../Standards/CSTA%20Standards.md#3a-ap-19), [3A-AP-20](../../Standards/CSTA%20Standards.md#3a-ap-20), [3A-AP-21](../../Standards/CSTA%20Standards.md#3a-ap-21), [3A-AP-23](../../Standards/CSTA%20Standards.md#3a-ap-23) |
+| ISBE 9-10 | [9-10.CS.01](../../Standards/ISBE%20Computer%20Science%20Standards.md#9-10cs01), [9-10.CS.02](../../Standards/ISBE%20Computer%20Science%20Standards.md#9-10cs02), [9-10.DA.09](../../Standards/ISBE%20Computer%20Science%20Standards.md#9-10da09), [9-10.DA.10](../../Standards/ISBE%20Computer%20Science%20Standards.md#9-10da10), [9-10.AP.13](../../Standards/ISBE%20Computer%20Science%20Standards.md#9-10ap13), [9-10.AP.15](../../Standards/ISBE%20Computer%20Science%20Standards.md#9-10ap15), [9-10.AP.16](../../Standards/ISBE%20Computer%20Science%20Standards.md#9-10ap16), [9-10.AP.17](../../Standards/ISBE%20Computer%20Science%20Standards.md#9-10ap17), [9-10.AP.18](../../Standards/ISBE%20Computer%20Science%20Standards.md#9-10ap18), [9-10.AP.19](../../Standards/ISBE%20Computer%20Science%20Standards.md#9-10ap19), [9-10.AP.20](../../Standards/ISBE%20Computer%20Science%20Standards.md#9-10ap20), [9-10.AP.21](../../Standards/ISBE%20Computer%20Science%20Standards.md#9-10ap21), [9-10.AP.23](../../Standards/ISBE%20Computer%20Science%20Standards.md#9-10ap23), [9-10.AP.24](../../Standards/ISBE%20Computer%20Science%20Standards.md#9-10ap24), [9-10.IC.25](../../Standards/ISBE%20Computer%20Science%20Standards.md#9-10ic25) |
 | ACT Math | N 302, N 402, N 403, N 405, G 406, G 407, A 301, A 401, AF 401, AF 403, S 301 |
-| ACT Reading | WME 402, CLR 401, CLR 402, TST 403, IDT 403, REL 403, PPV 401 |
+| ACT Reading | [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402), [CLR 401](../../Standards/CCRS-ReadingStandards.md#clr-401), [CLR 402](../../Standards/CCRS-ReadingStandards.md#clr-402), [TST 403](../../Standards/CCRS-ReadingStandards.md#tst-403), [IDT 403](../../Standards/CCRS-ReadingStandards.md#idt-403), [REL 403](../../Standards/CCRS-ReadingStandards.md#rel-403), [PPV 401](../../Standards/CCRS-ReadingStandards.md#ppv-401) |
 
 ### Enduring Understandings
 
@@ -59,21 +59,21 @@ The "now you write real code" unit. Students leave Blueprint-only thinking and b
 | LT | Learning Target | Standards | Day |
 |---|---|---|---|
 | LT1-1 | Understand course expectations, norms, and grading. | N/A (first day) | 1 |
-| LT1-2 | Explain what C++ is, why it is fast, and how the build pipeline works (editor → compiler → linker → executable). | CSTA 3A-CS-01, ACT WME 402 | 2 |
-| LT1-3 | Write and run a first C++ program using Codédex (Hello World + basic variables). | CSTA 3A-AP-13, ACT WME 402 | 3 |
+| LT1-2 | Explain what C++ is, why it is fast, and how the build pipeline works (editor → compiler → linker → executable). | CSTA [3A-CS-01](../../Standards/CSTA%20Standards.md#3a-cs-01), ACT [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402) | 2 |
+| LT1-3 | Write and run a first C++ program using Codédex (Hello World + basic variables). | CSTA [3A-AP-13](../../Standards/CSTA%20Standards.md#3a-ap-13), ACT [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402) | 3 |
 | LT1-4 | Complete Dual Credit registration and computer setup. | N/A (setup day) | 4 |
-| LT1-5 | Identify the parts of a C++ program: `#include`, `main()`, `std::cout`, `<<`, `std::endl`, `;`, `{}`, `using namespace std`. | CSTA 3A-CS-01, ACT WME 402 | 5 |
-| LT1-6 | Use data types, arithmetic operators, `cout`, and `cin` for input and output. | CSTA 3A-DA-09, ACT WME 402 | 6 |
-| LT1-7 | Identify and fix syntax errors in C++ programs using Codédex Build and Visual Studio exercises. | CSTA 3A-AP-17, ACT TST 403 | 7–8 |
-| LT1-8 | Declare, assign, and re-assign variables with correct data types and naming conventions. | CSTA 3A-DA-10, ACT WME 402, N 302 | 9 |
-| LT1-9 | Set up Visual Studio, clone a repo, and push a change via GitHub. | CSTA 3A-AP-23, ACT TST 403 | 10 |
-| LT1-10 | Declare and call functions with parameters and return values. Use git add/commit/push in Visual Studio. | CSTA 3A-AP-16, ACT WME 402 | 13–14 |
-| LT1-11 | Write functions and use variables in independent practice exercises, committed via VS/Git. | CSTA 3A-AP-16, 3A-AP-18, ACT WME 402 | 12 |
-| LT1-12 | Use if/else, else if, comparison operators, logical operators, ternary, and switch for conditional logic. | CSTA 3A-AP-17, ACT CLR 401, REL 403 | 15 |
-| LT1-13 | Apply conditionals in practice exercises; introduce for/while loops if 80% checkpoint is met. | CSTA 3A-AP-17, 3A-AP-19, ACT CLR 402 | 16 |
-| LT1-14 | Use for and while loops in practice exercises; explain variable scope and lifetime. | CSTA 3A-AP-19, 3A-AP-20, ACT IDT 403 | 17–18 |
-| LT1-15 | Consolidate variables, functions, conditionals, and loops through mixed practice and a Code Read trace. | CSTA 3A-AP-18, 3A-AP-21, ACT CLR 401, CLR 402, TST 403 | 19–20 |
-| LT1-16 | Demonstrate mastery of Unit 1 skills through working console programs committed to GitHub and a Code Read trace. | CSTA 3A-AP-16, 3A-AP-21, 3A-AP-23, ACT CLR 401, TST 403 | 21 |
+| LT1-5 | Identify the parts of a C++ program: `#include`, `main()`, `std::cout`, `<<`, `std::endl`, `;`, `{}`, `using namespace std`. | CSTA [3A-CS-01](../../Standards/CSTA%20Standards.md#3a-cs-01), ACT [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402) | 5 |
+| LT1-6 | Use data types, arithmetic operators, `cout`, and `cin` for input and output. | CSTA [3A-DA-09](../../Standards/CSTA%20Standards.md#3a-da-09), ACT [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402) | 6 |
+| LT1-7 | Identify and fix syntax errors in C++ programs using Codédex Build and Visual Studio exercises. | CSTA [3A-AP-17](../../Standards/CSTA%20Standards.md#3a-ap-17), ACT [TST 403](../../Standards/CCRS-ReadingStandards.md#tst-403) | 7–8 |
+| LT1-8 | Declare, assign, and re-assign variables with correct data types and naming conventions. | CSTA [3A-DA-10](../../Standards/CSTA%20Standards.md#3a-da-10), ACT [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402), [N 302](../../Standards/CCRS-MathematicsStandards.md#n-302) | 9 |
+| LT1-9 | Set up Visual Studio, clone a repo, and push a change via GitHub. | CSTA [3A-AP-23](../../Standards/CSTA%20Standards.md#3a-ap-23), ACT [TST 403](../../Standards/CCRS-ReadingStandards.md#tst-403) | 10 |
+| LT1-10 | Declare and call functions with parameters and return values. Use git add/commit/push in Visual Studio. | CSTA [3A-AP-16](../../Standards/CSTA%20Standards.md#3a-ap-16), ACT [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402) | 13–14 |
+| LT1-11 | Write functions and use variables in independent practice exercises, committed via VS/Git. | CSTA [3A-AP-16](../../Standards/CSTA%20Standards.md#3a-ap-16), [3A-AP-18](../../Standards/CSTA%20Standards.md#3a-ap-18), ACT [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402) | 12 |
+| LT1-12 | Use if/else, else if, comparison operators, logical operators, ternary, and switch for conditional logic. | CSTA [3A-AP-17](../../Standards/CSTA%20Standards.md#3a-ap-17), ACT [CLR 401](../../Standards/CCRS-ReadingStandards.md#clr-401), [REL 403](../../Standards/CCRS-ReadingStandards.md#rel-403) | 15 |
+| LT1-13 | Apply conditionals in practice exercises; introduce for/while loops if 80% checkpoint is met. | CSTA [3A-AP-17](../../Standards/CSTA%20Standards.md#3a-ap-17), [3A-AP-19](../../Standards/CSTA%20Standards.md#3a-ap-19), ACT [CLR 402](../../Standards/CCRS-ReadingStandards.md#clr-402) | 16 |
+| LT1-14 | Use for and while loops in practice exercises; explain variable scope and lifetime. | CSTA [3A-AP-19](../../Standards/CSTA%20Standards.md#3a-ap-19), [3A-AP-20](../../Standards/CSTA%20Standards.md#3a-ap-20), ACT [IDT 403](../../Standards/CCRS-ReadingStandards.md#idt-403) | 17–18 |
+| LT1-15 | Consolidate variables, functions, conditionals, and loops through mixed practice and a Code Read trace. | CSTA [3A-AP-18](../../Standards/CSTA%20Standards.md#3a-ap-18), [3A-AP-21](../../Standards/CSTA%20Standards.md#3a-ap-21), ACT [CLR 401](../../Standards/CCRS-ReadingStandards.md#clr-401), [CLR 402](../../Standards/CCRS-ReadingStandards.md#clr-402), [TST 403](../../Standards/CCRS-ReadingStandards.md#tst-403) | 19–20 |
+| LT1-16 | Demonstrate mastery of Unit 1 skills through working console programs committed to GitHub and a Code Read trace. | CSTA [3A-AP-16](../../Standards/CSTA%20Standards.md#3a-ap-16), [3A-AP-21](../../Standards/CSTA%20Standards.md#3a-ap-21), [3A-AP-23](../../Standards/CSTA%20Standards.md#3a-ap-23), ACT [CLR 401](../../Standards/CCRS-ReadingStandards.md#clr-401), [TST 403](../../Standards/CCRS-ReadingStandards.md#tst-403) | 21 |
 
 ## Assessment Plan
 

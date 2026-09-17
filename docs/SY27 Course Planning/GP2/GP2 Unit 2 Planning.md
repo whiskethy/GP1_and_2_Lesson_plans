@@ -42,10 +42,10 @@ The "now it's real" unit. Students take their console C++ foundations and apply 
 
 | Framework | Standards |
 |---|---|
-| CSTA 3A | 3A-CS-01, 3A-CS-02, 3A-AP-16, 3A-AP-18, 3A-AP-19, 3A-AP-21 |
-| ISBE 9-10 | 9-10.CS.01, 9-10.CS.02, 9-10.AP.16, 9-10.AP.18, 9-10.AP.19, 9-10.AP.21 |
+| CSTA 3A | [3A-CS-01](../../Standards/CSTA%20Standards.md#3a-cs-01), [3A-CS-02](../../Standards/CSTA%20Standards.md#3a-cs-02), [3A-AP-16](../../Standards/CSTA%20Standards.md#3a-ap-16), [3A-AP-18](../../Standards/CSTA%20Standards.md#3a-ap-18), [3A-AP-19](../../Standards/CSTA%20Standards.md#3a-ap-19), [3A-AP-21](../../Standards/CSTA%20Standards.md#3a-ap-21) |
+| ISBE 9-10 | [9-10.CS.01](../../Standards/ISBE%20Computer%20Science%20Standards.md#9-10cs01), [9-10.CS.02](../../Standards/ISBE%20Computer%20Science%20Standards.md#9-10cs02), [9-10.AP.16](../../Standards/ISBE%20Computer%20Science%20Standards.md#9-10ap16), [9-10.AP.18](../../Standards/ISBE%20Computer%20Science%20Standards.md#9-10ap18), [9-10.AP.19](../../Standards/ISBE%20Computer%20Science%20Standards.md#9-10ap19), [9-10.AP.21](../../Standards/ISBE%20Computer%20Science%20Standards.md#9-10ap21) |
 | ACT Math | A 301, A 401, AF 401, S 301 |
-| ACT Reading | WME 402, CLR 401, CLR 402, TST 403, IDT 403 |
+| ACT Reading | [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402), [CLR 401](../../Standards/CCRS-ReadingStandards.md#clr-401), [CLR 402](../../Standards/CCRS-ReadingStandards.md#clr-402), [TST 403](../../Standards/CCRS-ReadingStandards.md#tst-403), [IDT 403](../../Standards/CCRS-ReadingStandards.md#idt-403) |
 
 ### Enduring Understandings
 
@@ -57,12 +57,12 @@ The "now it's real" unit. Students take their console C++ foundations and apply 
 
 | LT | Learning Target | Standards | Chunk |
 |---|---|---|---|
-| LT2-1 | Explain the header/source split and walk through a generated Unreal class. | CSTA 3A-CS-01, ACT WME 402, CLR 401 | 1 |
-| LT2-2 | Use UCLASS, UPROPERTY, and UFUNCTION to create a class and expose properties and functions to Blueprint. | CSTA 3A-AP-16, ACT WME 402, CLR 402 | 2 |
-| LT2-3 | Modify a stub Actor, expose properties, wire in Blueprint, and test in the editor. | CSTA 3A-AP-18, ACT TST 403, IDT 403 | 3 |
-| LT2-4 | Explain how Build.cs, .generated.h, and the module structure organize a Unreal C++ project. | CSTA 3A-CS-02, ACT WME 402, CLR 401 | 4 |
-| LT2-5 | Read compiler output and build errors, distinguishing Live Coding from full rebuild, and fix seeded errors. | CSTA 3A-AP-19, ACT TST 403, CLR 402 | 5 |
-| LT2-6 | Create, compile, and commit a C++ class into an Unreal project. | CSTA 3A-AP-21, ACT WME 402, A 301 | 6 |
+| LT2-1 | Explain the header/source split and walk through a generated Unreal class. | CSTA [3A-CS-01](../../Standards/CSTA%20Standards.md#3a-cs-01), ACT [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402), [CLR 401](../../Standards/CCRS-ReadingStandards.md#clr-401) | 1 |
+| LT2-2 | Use UCLASS, UPROPERTY, and UFUNCTION to create a class and expose properties and functions to Blueprint. | CSTA [3A-AP-16](../../Standards/CSTA%20Standards.md#3a-ap-16), ACT [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402), [CLR 402](../../Standards/CCRS-ReadingStandards.md#clr-402) | 2 |
+| LT2-3 | Modify a stub Actor, expose properties, wire in Blueprint, and test in the editor. | CSTA [3A-AP-18](../../Standards/CSTA%20Standards.md#3a-ap-18), ACT [TST 403](../../Standards/CCRS-ReadingStandards.md#tst-403), [IDT 403](../../Standards/CCRS-ReadingStandards.md#idt-403) | 3 |
+| LT2-4 | Explain how Build.cs, .generated.h, and the module structure organize a Unreal C++ project. | CSTA [3A-CS-02](../../Standards/CSTA%20Standards.md#3a-cs-02), ACT [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402), [CLR 401](../../Standards/CCRS-ReadingStandards.md#clr-401) | 4 |
+| LT2-5 | Read compiler output and build errors, distinguishing Live Coding from full rebuild, and fix seeded errors. | CSTA [3A-AP-19](../../Standards/CSTA%20Standards.md#3a-ap-19), ACT [TST 403](../../Standards/CCRS-ReadingStandards.md#tst-403), [CLR 402](../../Standards/CCRS-ReadingStandards.md#clr-402) | 5 |
+| LT2-6 | Create, compile, and commit a C++ class into an Unreal project. | CSTA [3A-AP-21](../../Standards/CSTA%20Standards.md#3a-ap-21), ACT [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402), [A 301](../../Standards/CCRS-MathematicsStandards.md#a-301) | 6 |
 
 ## Assessment Plan
 

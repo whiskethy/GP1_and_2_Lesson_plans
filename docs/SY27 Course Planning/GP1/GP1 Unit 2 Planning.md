@@ -42,8 +42,8 @@ A short unit that bridges the hardware foundations of Unit 1 and the editor work
 
 | Framework | Standards |
 |---|---|
-| CSTA 3A | 3A-CS-01, 3A-CS-02, 3A-DA-09 |
-| ACT Reading | WME 402, IDT 403 |
+| CSTA 3A | [3A-CS-01](../../Standards/CSTA%20Standards.md#3a-cs-01), [3A-CS-02](../../Standards/CSTA%20Standards.md#3a-cs-02), [3A-DA-09](../../Standards/CSTA%20Standards.md#3a-da-09) |
+| ACT Reading | [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402), [IDT 403](../../Standards/CCRS-ReadingStandards.md#idt-403) |
 | ACT Math | — |
 
 ### Enduring Understandings
@@ -55,9 +55,9 @@ A short unit that bridges the hardware foundations of Unit 1 and the editor work
 
 | LT | Learning Target | Standards | Day |
 |---|---|---|---|
-| LT2-1 | Explain what a game engine is and why game developers use one instead of building from scratch. | CSTA 3A-CS-01, ACT WME 402, IDT 403 | 9 |
-| LT1-Review | Demonstrate mastery of Unit 1 concepts (binary, hex, RGB, computer parts). | CSTA 3A-DA-09, ACT WME 402, N 302, IDT 403 | 10 |
-| LT2-2 | Describe the render loop and trace the path from game data to pixels on screen. | CSTA 3A-CS-01, 3A-CS-02, ACT WME 402, IDT 403 | 11 |
+| LT2-1 | Explain what a game engine is and why game developers use one instead of building from scratch. | CSTA [3A-CS-01](../../Standards/CSTA%20Standards.md#3a-cs-01), ACT [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402), [IDT 403](../../Standards/CCRS-ReadingStandards.md#idt-403) | 9 |
+| LT1-Review | Demonstrate mastery of Unit 1 concepts (binary, hex, RGB, computer parts). | CSTA [3A-DA-09](../../Standards/CSTA%20Standards.md#3a-da-09), ACT [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402), [N 302](../../Standards/CCRS-MathematicsStandards.md#n-302), [IDT 403](../../Standards/CCRS-ReadingStandards.md#idt-403) | 10 |
+| LT2-2 | Describe the render loop and trace the path from game data to pixels on screen. | CSTA [3A-CS-01](../../Standards/CSTA%20Standards.md#3a-cs-01), [3A-CS-02](../../Standards/CSTA%20Standards.md#3a-cs-02), ACT [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402), [IDT 403](../../Standards/CCRS-ReadingStandards.md#idt-403) | 11 |
 
 ## Assessment Plan
 
@@ -93,7 +93,7 @@ No standalone summative for Unit 2. Engine and pipeline concepts are assessed fo
 ## Written Pathway
 
 - **Doc Annotation** on Epic's rendering overview → Day 11 (render loop worksheet)
-- ~~SYN 301 comparison (Epic's marketing page vs. technical reference page)~~ → moved to Uncovered Content
+- ~~[SYN 301](../../Standards/CCRS-ReadingStandards.md#syn-301) comparison (Epic's marketing page vs. technical reference page)~~ → moved to Uncovered Content
 
 ## Materials
 
@@ -108,7 +108,7 @@ No standalone summative for Unit 2. Engine and pipeline concepts are assessed fo
 
 The following chunk was originally planned for this unit but did not receive a dedicated day. It is preserved here for future scheduling.
 
-- **Roles in game development + playtesting and balancing as disciplines** — originally Unit 2 Chunk 3 (independent reading + checkpoint). Students would research game development roles and write a one-pager. Standards: CSTA 3A-AP-18, ACT Reading SYN 301, ACT Math S 304. May be folded into a later unit or addressed as a reading day in Q2+.
+- **Roles in game development + playtesting and balancing as disciplines** — originally Unit 2 Chunk 3 (independent reading + checkpoint). Students would research game development roles and write a one-pager. Standards: CSTA [3A-AP-18](../../Standards/CSTA%20Standards.md#3a-ap-18), ACT Reading [SYN 301](../../Standards/CCRS-ReadingStandards.md#syn-301), ACT Math [S 304](../../Standards/CCRS-MathematicsStandards.md#s-304). May be folded into a later unit or addressed as a reading day in Q2+.
 
 ## Connections
 

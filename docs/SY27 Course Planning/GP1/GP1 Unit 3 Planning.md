@@ -42,10 +42,10 @@ The editor unit. Students go from "what is a game engine" to building inside one
 
 | Framework | Standards |
 |---|---|
-| CSTA 3A | 3A-CS-01, 3A-CS-02, 3A-DA-09, 3A-AP-13, 3A-AP-16, 3A-AP-18 |
-| ISBE 9-10 | 9-10.CS.01, 9-10.CS.02, 9-10.AP.13, 9-10.AP.16 |
+| CSTA 3A | [3A-CS-01](../../Standards/CSTA%20Standards.md#3a-cs-01), [3A-CS-02](../../Standards/CSTA%20Standards.md#3a-cs-02), [3A-DA-09](../../Standards/CSTA%20Standards.md#3a-da-09), [3A-AP-13](../../Standards/CSTA%20Standards.md#3a-ap-13), [3A-AP-16](../../Standards/CSTA%20Standards.md#3a-ap-16), [3A-AP-18](../../Standards/CSTA%20Standards.md#3a-ap-18) |
+| ISBE 9-10 | [9-10.CS.01](../../Standards/ISBE%20Computer%20Science%20Standards.md#9-10cs01), [9-10.CS.02](../../Standards/ISBE%20Computer%20Science%20Standards.md#9-10cs02), [9-10.AP.13](../../Standards/ISBE%20Computer%20Science%20Standards.md#9-10ap13), [9-10.AP.16](../../Standards/ISBE%20Computer%20Science%20Standards.md#9-10ap16) |
 | ACT Math | N 403, N 405, G 401, G 402, G 406, G 407 |
-| ACT Reading | WME 402, CLR 401, CLR 402, TST 403 |
+| ACT Reading | [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402), [CLR 401](../../Standards/CCRS-ReadingStandards.md#clr-401), [CLR 402](../../Standards/CCRS-ReadingStandards.md#clr-402), [TST 403](../../Standards/CCRS-ReadingStandards.md#tst-403) |
 
 ### Enduring Understandings
 
@@ -57,15 +57,15 @@ The editor unit. Students go from "what is a game engine" to building inside one
 
 | LT | Learning Target | Standards | Day |
 |---|---|---|---|
-| LT3-1 | Open Unreal Engine, create a first project from a template, and navigate the editor interface. | CSTA 3A-CS-01, 3A-CS-02, ACT WME 402 | 13 |
-| LT3-2 | Navigate the Unreal viewport using orbit, fly, and focus controls, and identify the three axes in Unreal's coordinate system. | CSTA 3A-CS-01, ACT G 406, G 407, WME 402 | 14 |
-| LT3-R1 | Reinforce understanding of the Unreal Editor interface, project creation, viewport navigation, and level management through guided EdPuzzle viewing. | CSTA 3A-CS-01, 3A-CS-02, ACT WME 402 | 15 |
-| LT3-3a | Identify the three transform tools and their keyboard shortcuts, and use them to place, rotate, and scale objects in Unreal. | CSTA 3A-CS-01, ACT G 406, G 407, WME 402 | 16 |
-| LT3-3b | Use Unreal's coordinate system (X forward, Y sideways, Z up) to place objects at specific locations using transform values. | CSTA 3A-CS-01, ACT G 406, G 407, WME 402 | 17 |
-| LT3-3c | Use Unreal's Rotate tool to change object orientation, and explain how pitch, yaw, and roll correspond to X, Y, and Z rotation. | CSTA 3A-CS-01, ACT G 406, G 407, WME 402 | 18 |
-| LT3-3d | Use Unreal's Scale tool to resize objects, and explain the difference between uniform and non-uniform scaling. | CSTA 3A-CS-01, ACT G 406, G 407, WME 402 | 19 |
-| LT3-3+5 | Apply location, rotation, and scale transforms to place objects at specific positions, orientations, and sizes. Identify and place light types in Unreal. | CSTA 3A-CS-01, ACT G 406, G 407, WME 402 | 20 |
-| LT3-6+8 | Import an FBX asset into Unreal, organize files in the Content Browser, create a basic material, and apply it to an object. | CSTA 3A-CS-01, ACT WME 402 | 21 |
+| LT3-1 | Open Unreal Engine, create a first project from a template, and navigate the editor interface. | CSTA [3A-CS-01](../../Standards/CSTA%20Standards.md#3a-cs-01), [3A-CS-02](../../Standards/CSTA%20Standards.md#3a-cs-02), ACT [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402) | 13 |
+| LT3-2 | Navigate the Unreal viewport using orbit, fly, and focus controls, and identify the three axes in Unreal's coordinate system. | CSTA [3A-CS-01](../../Standards/CSTA%20Standards.md#3a-cs-01), ACT [G 406](../../Standards/CCRS-MathematicsStandards.md#g-406), [G 407](../../Standards/CCRS-MathematicsStandards.md#g-407), [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402) | 14 |
+| LT3-R1 | Reinforce understanding of the Unreal Editor interface, project creation, viewport navigation, and level management through guided EdPuzzle viewing. | CSTA [3A-CS-01](../../Standards/CSTA%20Standards.md#3a-cs-01), [3A-CS-02](../../Standards/CSTA%20Standards.md#3a-cs-02), ACT [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402) | 15 |
+| LT3-3a | Identify the three transform tools and their keyboard shortcuts, and use them to place, rotate, and scale objects in Unreal. | CSTA [3A-CS-01](../../Standards/CSTA%20Standards.md#3a-cs-01), ACT [G 406](../../Standards/CCRS-MathematicsStandards.md#g-406), [G 407](../../Standards/CCRS-MathematicsStandards.md#g-407), [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402) | 16 |
+| LT3-3b | Use Unreal's coordinate system (X forward, Y sideways, Z up) to place objects at specific locations using transform values. | CSTA [3A-CS-01](../../Standards/CSTA%20Standards.md#3a-cs-01), ACT [G 406](../../Standards/CCRS-MathematicsStandards.md#g-406), [G 407](../../Standards/CCRS-MathematicsStandards.md#g-407), [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402) | 17 |
+| LT3-3c | Use Unreal's Rotate tool to change object orientation, and explain how pitch, yaw, and roll correspond to X, Y, and Z rotation. | CSTA [3A-CS-01](../../Standards/CSTA%20Standards.md#3a-cs-01), ACT [G 406](../../Standards/CCRS-MathematicsStandards.md#g-406), [G 407](../../Standards/CCRS-MathematicsStandards.md#g-407), [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402) | 18 |
+| LT3-3d | Use Unreal's Scale tool to resize objects, and explain the difference between uniform and non-uniform scaling. | CSTA [3A-CS-01](../../Standards/CSTA%20Standards.md#3a-cs-01), ACT [G 406](../../Standards/CCRS-MathematicsStandards.md#g-406), [G 407](../../Standards/CCRS-MathematicsStandards.md#g-407), [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402) | 19 |
+| LT3-3+5 | Apply location, rotation, and scale transforms to place objects at specific positions, orientations, and sizes. Identify and place light types in Unreal. | CSTA [3A-CS-01](../../Standards/CSTA%20Standards.md#3a-cs-01), ACT [G 406](../../Standards/CCRS-MathematicsStandards.md#g-406), [G 407](../../Standards/CCRS-MathematicsStandards.md#g-407), [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402) | 20 |
+| LT3-6+8 | Import an FBX asset into Unreal, organize files in the Content Browser, create a basic material, and apply it to an object. | CSTA [3A-CS-01](../../Standards/CSTA%20Standards.md#3a-cs-01), ACT [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402) | 21 |
 
 *Learning targets for Days 22–25 (Chunks 9–14) are TBD pending lesson plan creation.*
 

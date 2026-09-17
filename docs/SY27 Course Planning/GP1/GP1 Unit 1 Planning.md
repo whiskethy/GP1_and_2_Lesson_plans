@@ -42,10 +42,10 @@ The "how does the machine actually work" unit. Parts of a computer, file systems
 
 | Framework | Standards |
 |---|---|
-| CSTA 3A | 3A-CS-01, 3A-CS-02, 3A-DA-09, 3A-DA-10 |
-| ISBE 9-10 | 9-10.CS.01, 9-10.CS.02, 9-10.DA.09, 9-10.DA.10 |
+| CSTA 3A | [3A-CS-01](../../Standards/CSTA%20Standards.md#3a-cs-01), [3A-CS-02](../../Standards/CSTA%20Standards.md#3a-cs-02), [3A-DA-09](../../Standards/CSTA%20Standards.md#3a-da-09), [3A-DA-10](../../Standards/CSTA%20Standards.md#3a-da-10) |
+| ISBE 9-10 | [9-10.CS.01](../../Standards/ISBE%20Computer%20Science%20Standards.md#9-10cs01), [9-10.CS.02](../../Standards/ISBE%20Computer%20Science%20Standards.md#9-10cs02), [9-10.DA.09](../../Standards/ISBE%20Computer%20Science%20Standards.md#9-10da09), [9-10.DA.10](../../Standards/ISBE%20Computer%20Science%20Standards.md#9-10da10) |
 | ACT Math | N 301, N 302, N 402 |
-| ACT Reading | WME 402, IDT 403, TST 404, PPV 401 |
+| ACT Reading | [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402), [IDT 403](../../Standards/CCRS-ReadingStandards.md#idt-403), [TST 404](../../Standards/CCRS-ReadingStandards.md#tst-404), [PPV 401](../../Standards/CCRS-ReadingStandards.md#ppv-401) |
 
 ### Enduring Understandings
 
@@ -58,14 +58,14 @@ The "how does the machine actually work" unit. Parts of a computer, file systems
 | LT | Learning Target | Standards | Chunk |
 |---|---|---|---|
 | LT1 | Understand course expectations, norms, and grading. | N/A (first day) | 1 |
-| LT2 | Explain what a computer is and why it uses binary. | CSTA 3A-CS-01, ACT WME 402 | 2 |
-| LT3 | Identify the major parts of a computer and explain what each does. | CSTA 3A-CS-01, ACT WME 402 | 3 |
-| LT4 | Explain how a computer stores and organizes files. | CSTA 3A-CS-02, ACT WME 402, IDT 403 | 4 |
-| LT5 | Convert between binary and decimal number systems. | CSTA 3A-CS-01, ACT WME 402 | 5 |
-| LT6 | Convert between binary, decimal, and hexadecimal. Apply hex codes to represent colors. | CSTA 3A-CS-01, ACT WME 402, N 302 | 6 |
-| LT7 | Apply hex and RGB conversions fluently. | CSTA 3A-CS-01, ACT WME 402 | 7 |
-| LT8 | Demonstrate mastery of binary, hex, and RGB conversions through a practical. | CSTA 3A-CS-01, ACT WME 402 | 8 |
-| LT1–8 | Unit 1 Quiz (cumulative). | CSTA 3A-DA-09, 3A-CS-01, ACT WME 402, N 302, IDT 403 | 10 (W03) |
+| LT2 | Explain what a computer is and why it uses binary. | CSTA [3A-CS-01](../../Standards/CSTA%20Standards.md#3a-cs-01), ACT [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402) | 2 |
+| LT3 | Identify the major parts of a computer and explain what each does. | CSTA [3A-CS-01](../../Standards/CSTA%20Standards.md#3a-cs-01), ACT [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402) | 3 |
+| LT4 | Explain how a computer stores and organizes files. | CSTA [3A-CS-02](../../Standards/CSTA%20Standards.md#3a-cs-02), ACT [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402), [IDT 403](../../Standards/CCRS-ReadingStandards.md#idt-403) | 4 |
+| LT5 | Convert between binary and decimal number systems. | CSTA [3A-CS-01](../../Standards/CSTA%20Standards.md#3a-cs-01), ACT [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402) | 5 |
+| LT6 | Convert between binary, decimal, and hexadecimal. Apply hex codes to represent colors. | CSTA [3A-CS-01](../../Standards/CSTA%20Standards.md#3a-cs-01), ACT [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402), [N 302](../../Standards/CCRS-MathematicsStandards.md#n-302) | 6 |
+| LT7 | Apply hex and RGB conversions fluently. | CSTA [3A-CS-01](../../Standards/CSTA%20Standards.md#3a-cs-01), ACT [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402) | 7 |
+| LT8 | Demonstrate mastery of binary, hex, and RGB conversions through a practical. | CSTA [3A-CS-01](../../Standards/CSTA%20Standards.md#3a-cs-01), ACT [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402) | 8 |
+| LT1–8 | Unit 1 Quiz (cumulative). | CSTA [3A-DA-09](../../Standards/CSTA%20Standards.md#3a-da-09), [3A-CS-01](../../Standards/CSTA%20Standards.md#3a-cs-01), ACT [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402), [N 302](../../Standards/CCRS-MathematicsStandards.md#n-302), [IDT 403](../../Standards/CCRS-ReadingStandards.md#idt-403) | 10 (W03) |
 
 ## Assessment Plan
 

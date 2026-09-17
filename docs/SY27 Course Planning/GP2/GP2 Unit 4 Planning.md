@@ -42,10 +42,10 @@ The "prove it" unit. Students apply everything from Units 1–3 to modify an exi
 
 | Framework | Standards |
 |---|---|
-| CSTA 3A | 3A-AP-16, 3A-AP-19, 3A-AP-21, 3A-AP-23 |
-| ISBE 9-10 | 9-10.AP.16, 9-10.AP.19, 9-10.AP.21, 9-10.AP.23 |
+| CSTA 3A | [3A-AP-16](../../Standards/CSTA%20Standards.md#3a-ap-16), [3A-AP-19](../../Standards/CSTA%20Standards.md#3a-ap-19), [3A-AP-21](../../Standards/CSTA%20Standards.md#3a-ap-21), [3A-AP-23](../../Standards/CSTA%20Standards.md#3a-ap-23) |
+| ISBE 9-10 | [9-10.AP.16](../../Standards/ISBE%20Computer%20Science%20Standards.md#9-10ap16), [9-10.AP.19](../../Standards/ISBE%20Computer%20Science%20Standards.md#9-10ap19), [9-10.AP.21](../../Standards/ISBE%20Computer%20Science%20Standards.md#9-10ap21), [9-10.AP.23](../../Standards/ISBE%20Computer%20Science%20Standards.md#9-10ap23) |
 | ACT Math | A 301, A 401, AF 401 |
-| ACT Reading | CLR 401, CLR 402, REL 403 |
+| ACT Reading | [CLR 401](../../Standards/CCRS-ReadingStandards.md#clr-401), [CLR 402](../../Standards/CCRS-ReadingStandards.md#clr-402), [REL 403](../../Standards/CCRS-ReadingStandards.md#rel-403) |
 
 ### Enduring Understandings
 
@@ -57,10 +57,10 @@ The "prove it" unit. Students apply everything from Units 1–3 to modify an exi
 
 | LT | Learning Target | Standards | Chunk |
 |---|---|---|---|
-| LT4-1 | Trace PlayerBall.cpp in a structured Code Read: identify purpose, inputs/outputs, control flow, function calls, and what the code does not tell you. | CSTA 3A-AP-16, ACT CLR 401, CLR 402 | 1 |
-| LT4-2 | Fill in missing functions and fix seeded bugs in the Roll-A-Ball starter code. | CSTA 3A-AP-19, ACT REL 403, A 301 | 2 |
-| LT4-3 | Add a feature (pickup, jump, camera tweak) to the Roll-A-Ball and independently implement it. | CSTA 3A-AP-21, ACT A 401, AF 401 | 3 |
-| LT4-4 | Commit a working Roll-A-Ball to GitHub and demonstrate the deliverable. | CSTA 3A-AP-23, ACT CLR 402 | 4 |
+| LT4-1 | Trace PlayerBall.cpp in a structured Code Read: identify purpose, inputs/outputs, control flow, function calls, and what the code does not tell you. | CSTA [3A-AP-16](../../Standards/CSTA%20Standards.md#3a-ap-16), ACT [CLR 401](../../Standards/CCRS-ReadingStandards.md#clr-401), [CLR 402](../../Standards/CCRS-ReadingStandards.md#clr-402) | 1 |
+| LT4-2 | Fill in missing functions and fix seeded bugs in the Roll-A-Ball starter code. | CSTA [3A-AP-19](../../Standards/CSTA%20Standards.md#3a-ap-19), ACT [REL 403](../../Standards/CCRS-ReadingStandards.md#rel-403), [A 301](../../Standards/CCRS-MathematicsStandards.md#a-301) | 2 |
+| LT4-3 | Add a feature (pickup, jump, camera tweak) to the Roll-A-Ball and independently implement it. | CSTA [3A-AP-21](../../Standards/CSTA%20Standards.md#3a-ap-21), ACT [A 401](../../Standards/CCRS-MathematicsStandards.md#a-401), [AF 401](../../Standards/CCRS-MathematicsStandards.md#af-401) | 3 |
+| LT4-4 | Commit a working Roll-A-Ball to GitHub and demonstrate the deliverable. | CSTA [3A-AP-23](../../Standards/CSTA%20Standards.md#3a-ap-23), ACT [CLR 402](../../Standards/CCRS-ReadingStandards.md#clr-402) | 4 |
 
 ## Assessment Plan
 
