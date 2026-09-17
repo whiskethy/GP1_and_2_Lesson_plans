@@ -5,1054 +5,628 @@ type: reference
 tags: []
 ---
 
-ACT College & Career Readiness Standards 
+# ACT College & Career Readiness Standards — Reading
 
-READING 
+The ACT CCRS Reading standards describe what students who score in specific score ranges on the ACT Reading test are likely to know and be able to do. Each standard is identified by a code (e.g., CLR 401) where the first digit maps to a score range: **2** = 13–15, **3** = 16–19, **4** = 20–23, **5** = 24–27, **6** = 28–32, **7** = 33–36. The ACT College Readiness Benchmark for Reading is 22.
 
-These Standards describe what students who score in specific score ranges  on the reading section of the ACT® college readiness assessment are likely to  know and be able to do.
+## Table of Contents
 
-**SCORE RANGE** 
+- [Key Ideas and Details](#key-ideas-and-details)
+  - [Close Reading — CLR](#close-reading-clr)
+  - [Central Ideas, Themes, and Summaries — IDT](#central-ideas-themes-and-summaries-idt)
+  - [Relationships — REL](#relationships-rel)
+- [Craft and Structure](#craft-and-structure)
+  - [Word Meanings and Word Choice — WME](#word-meanings-and-word-choice-wme)
+  - [Text Structure — TST](#text-structure-tst)
+  - [Purpose and Point of View — PPV](#purpose-and-point-of-view-ppv)
+  - [Arguments — ARG](#arguments-arg)
+- [Integration of Knowledge and Ideas](#integration-of-knowledge-and-ideas)
+  - [Multiple Texts — SYN](#multiple-texts-syn)
 
-**13–15** 
+---
 
-**16–19** 
+# Key Ideas and Details
 
-**20–23**   
-Key ideas and details 
+## Close Reading — CLR
 
-**CLOSE READING (CLR)** 
+### Score Range 13–15
 
-    
-**CLR 201\.** Locate basic facts (e.g., names, dates, events) clearly stated in  a passage 
+### CLR 201
 
-**CLR 202\.** Draw simple logical conclusions about the main characters  in somewhat challenging literary narratives 
+Locate basic facts (e.g., names, dates, events) clearly stated in a passage.
 
-    
-**CLR 301\.** Locate simple details at the sentence and paragraph level in  somewhat challenging passages 
+### CLR 202
 
-**CLR 302\.** Draw simple logical conclusions in somewhat challenging  passages 
+Draw simple logical conclusions about the main characters in somewhat challenging literary narratives.
 
-22   
-    
-**CLR 401\.** Locate important details in somewhat challenging passages **CLR 402\.** Draw logical conclusions in somewhat challenging passages 
+### Score Range 16–19
 
-**CLR 403\.** Draw simple logical conclusions in more challenging  passages 
+### CLR 301
 
-**CLR 404\.** Paraphrase some statements as they are used in somewhat  challenging passages 
+Locate simple details at the sentence and paragraph level in somewhat challenging passages.
 
-Students who score in the  1–12 range are most likely  beginning to develop  
+### CLR 302
 
-the knowledge and skills  assessed in the other ranges. 
+Draw simple logical conclusions in somewhat challenging passages.
 
-**THE ACT COLLEGE**    
-**READINESS BENCHMARK  FOR READING IS 22\.** Students  who achieve this score on the  ACT Reading Test have a 50%  likelihood of achieving a B  or better in a first-year social  science course at a typical  college. The knowledge  and skills highly likely to be  demonstrated by students  who meet the Benchmark are  shaded. 
+### Score Range 20–23
 
-© 2017 BY ACT, INC. ALL RIGHTS RESERVED. | MS2490 **1**   
-ACT College & Career Readiness Standards 
+### CLR 401
 
-READING 
+Locate important details in somewhat challenging passages.
 
-**SCORE RANGE** 
+### CLR 402
 
-**24–27 28–32 33–36**  
-Key ideas and details 
+Draw logical conclusions in somewhat challenging passages.
 
-**CLOSE READING (CLR)** 
+### CLR 403
 
-**CLR 501\.** Locate and interpret minor or subtly stated details in  somewhat challenging passages 
+Draw simple logical conclusions in more challenging passages.
 
-**CLR 502\.** Locate important details in more challenging passages 
+### CLR 404
 
-**CLR 503\.** Draw subtle logical conclusions in somewhat challenging  passages 
+Paraphrase some statements as they are used in somewhat challenging passages.
 
-**CLR 504\.** Draw logical conclusions in more challenging passages 
+### Score Range 24–27
 
-**CLR 505\.** Paraphrase virtually any statement as it is used in somewhat  challenging passages 
+### CLR 501
 
-**CLR 506\.** Paraphrase some statements as they are used in more  challenging passages 
+Locate and interpret minor or subtly stated details in somewhat challenging passages.
 
-**CLR 601\.** Locate and interpret minor or subtly stated details in more  challenging passages 
+### CLR 502
 
-**CLR 602\.** Locate important details in complex passages 
+Locate important details in more challenging passages.
 
-**CLR 603\.** Draw subtle logical conclusions in more challenging  passages 
+### CLR 503
 
-**CLR 604\.** Draw simple logical conclusions in complex passages 
+Draw subtle logical conclusions in somewhat challenging passages.
 
-**CLR 605\.** Paraphrase virtually any statement as it is used in more  challenging passages 
+### CLR 504
 
-**CLR 701\.** Locate and interpret minor or subtly stated details in  complex passages 
+Draw logical conclusions in more challenging passages.
 
-**CLR 702\.** Locate important details in highly complex passages **CLR 703\.** Draw logical conclusions in complex passages **CLR 704\.** Draw simple logical conclusions in highly complex passages 
+### CLR 505
 
-**CLR 705\.** Draw complex or subtle logical conclusions, often by  synthesizing information from different portions of the passage 
+Paraphrase virtually any statement as it is used in somewhat challenging passages.
 
-**CLR 706\.** Paraphrase statements as they are used in complex  passages 
+### CLR 506
 
-© 2017 BY ACT, INC. ALL RIGHTS RESERVED. | MS2490 **2**   
-ACT College & Career Readiness Standards 
+Paraphrase some statements as they are used in more challenging passages.
 
-READING 
+### Score Range 28–32
 
-**SCORE RANGE** 
+### CLR 601
 
-**13–15** 
+Locate and interpret minor or subtly stated details in more challenging passages.
 
-**16–19** 
+### CLR 602
 
-**20–23**   
-Key ideas and details 
+Locate important details in complex passages.
 
-**CENTRAL IDEAS, THEMES, AND SUMMARIES (IDT)**
+### CLR 603
 
-    
-**IDT 201\.** Identify the topic of passages and distinguish the topic from  the central idea or theme 
+Draw subtle logical conclusions in more challenging passages.
 
-    
-**IDT 301\.** Identify a clear central idea in straightforward paragraphs in  somewhat challenging literary narratives 
+### CLR 604
 
-22   
-    
-**IDT 401\.** Infer a central idea in straightforward paragraphs in  somewhat challenging literary narratives 
+Draw simple logical conclusions in complex passages.
 
-**IDT 402\.** Identify a clear central idea or theme in somewhat  challenging passages or their paragraphs 
+### CLR 605
 
-**IDT 403\.** Summarize key supporting ideas and details in somewhat  challenging passages 
+Paraphrase virtually any statement as it is used in more challenging passages.
 
-Students who score in the  1–12 range are most likely  beginning to develop  
+### Score Range 33–36
 
-the knowledge and skills  assessed in the other ranges. 
+### CLR 701
 
-**THE ACT COLLEGE**    
-**READINESS BENCHMARK  FOR READING IS 22\.** Students  who achieve this score on the  ACT Reading Test have a 50%  likelihood of achieving a B  or better in a first-year social  science course at a typical  college. The knowledge  and skills highly likely to be  demonstrated by students  who meet the Benchmark are  shaded. 
+Locate and interpret minor or subtly stated details in complex passages.
 
-© 2017 BY ACT, INC. ALL RIGHTS RESERVED. | MS2490 **3**   
-ACT College & Career Readiness Standards 
+### CLR 702
 
-READING 
+Locate important details in highly complex passages.
 
-**SCORE RANGE** 
+### CLR 703
 
-**24–27 28–32 33–36**  
-Key ideas and details 
+Draw logical conclusions in complex passages.
 
-**CENTRAL IDEAS, THEMES, AND SUMMARIES (IDT)** 
+### CLR 704
 
-**IDT 501\.** Infer a central idea or theme in somewhat challenging  passages or their paragraphs 
+Draw simple logical conclusions in highly complex passages.
 
-**IDT 502\.** Identify a clear central idea or theme in more challenging  passages or their paragraphs 
+### CLR 705
 
-**IDT 503\.** Summarize key supporting ideas and details in more  challenging passages 
+Draw complex or subtle logical conclusions, often by synthesizing information from different portions of the passage.
 
-**IDT 601\.** Infer a central idea or theme in more challenging passages  or their paragraphs 
+### CLR 706
 
-**IDT 602\.** Summarize key supporting ideas and details in complex  passages 
+Paraphrase statements as they are used in complex passages.
 
-**IDT 701\.** Identify or infer a central idea or theme in complex passages  or their paragraphs 
+## Central Ideas, Themes, and Summaries — IDT
 
-**IDT 702\.** Summarize key supporting ideas and details in highly  complex passages 
+### Score Range 13–15
 
-© 2017 BY ACT, INC. ALL RIGHTS RESERVED. | MS2490 **4**   
-ACT College & Career Readiness Standards 
+### IDT 201
 
-READING 
+Identify the topic of passages and distinguish the topic from the central idea or theme.
 
-**SCORE RANGE** 
+### Score Range 16–19
 
-**13–15** 
+### IDT 301
 
-**16–19** 
+Identify a clear central idea in straightforward paragraphs in somewhat challenging literary narratives.
 
-**20–23**   
-Key ideas and details 
+### Score Range 20–23
 
-**RELATIONSHIPS (REL)**
+### IDT 401
 
-    
-**REL 201\.** Determine when (e.g., first, last, before, after) an event occurs  in somewhat challenging passages 
+Infer a central idea in straightforward paragraphs in somewhat challenging literary narratives.
 
-**REL 202\.** Identify simple cause-effect relationships within a single  sentence in a passage 
+### IDT 402
 
-    
-**REL 301\.** Identify clear comparative relationships between main  characters in somewhat challenging literary narratives 
+Identify a clear central idea or theme in somewhat challenging passages or their paragraphs.
 
-**REL 302\.** Identify simple cause-effect relationships within a single  paragraph in somewhat challenging literary narratives 
+### IDT 403
 
-22   
-    
-**REL 401\.** Order simple sequences of events in somewhat challenging  literary narratives 
+Summarize key supporting ideas and details in somewhat challenging passages.
 
-**REL 402\.** Identify clear comparative relationships in somewhat  challenging passages 
+### Score Range 24–27
 
-**REL 403\.** Identify clear cause-effect relationships in somewhat  challenging passages 
+### IDT 501
 
-Students who score in the  1–12 range are most likely  beginning to develop  
+Infer a central idea or theme in somewhat challenging passages or their paragraphs.
 
-the knowledge and skills  assessed in the other ranges. 
+### IDT 502
 
-**THE ACT COLLEGE**    
-**READINESS BENCHMARK  FOR READING IS 22\.** Students  who achieve this score on the  ACT Reading Test have a 50%  likelihood of achieving a B  or better in a first-year social  science course at a typical  college. The knowledge  and skills highly likely to be  demonstrated by students  who meet the Benchmark are  shaded. 
+Identify a clear central idea or theme in more challenging passages or their paragraphs.
 
-© 2017 BY ACT, INC. ALL RIGHTS RESERVED. | MS2490 **5**   
-ACT College & Career Readiness Standards 
+### IDT 503
 
-READING 
+Summarize key supporting ideas and details in more challenging passages.
 
-**SCORE RANGE** 
+### Score Range 28–32
 
-**24–27 28–32 33–36**  
-Key ideas and details 
+### IDT 601
 
-**RELATIONSHIPS (REL)** 
+Infer a central idea or theme in more challenging passages or their paragraphs.
 
-**REL 501\.** Order sequences of events in somewhat challenging  passages 
+### IDT 602
 
-**REL 502\.** Understand implied or subtly stated comparative  relationships in somewhat challenging passages 
+Summarize key supporting ideas and details in complex passages.
 
-**REL 503\.** Identify clear comparative relationships in more challenging  passages 
+### Score Range 33–36
 
-**REL 504\.** Understand implied or subtly stated cause-effect  relationships in somewhat challenging passages 
+### IDT 701
 
-**REL 505\.** Identify clear cause-effect relationships in more challenging  passages 
+Identify or infer a central idea or theme in complex passages or their paragraphs.
 
-**REL 601\.** Order sequences of events in more challenging passages 
+### IDT 702
 
-**REL 602\.** Understand implied or subtly stated comparative  relationships in more challenging passages 
+Summarize key supporting ideas and details in highly complex passages.
 
-**REL 603\.** Identify clear comparative relationships in complex  passages 
+## Relationships — REL
 
-**REL 604\.** Understand implied or subtly stated cause-effect  relationships in more challenging passages 
+### Score Range 13–15
 
-**REL 605\.** Identify clear cause-effect relationships in complex  passages 
+### REL 201
 
-**REL 701\.** Order sequences of events in complex passages 
+Determine when (e.g., first, last, before, after) an event occurs in somewhat challenging passages.
 
-**REL 702\.** Understand implied or subtly stated comparative  relationships in complex passages 
+### REL 202
 
-**REL 703\.** Identify clear comparative relationships in highly complex  passages 
+Identify simple cause-effect relationships within a single sentence in a passage.
 
-**REL 704\.** Understand implied or subtly stated cause-effect  relationships in complex passages 
+### Score Range 16–19
 
-**REL 705\.** Identify clear cause-effect relationships in highly complex  passages 
+### REL 301
 
-© 2017 BY ACT, INC. ALL RIGHTS RESERVED. | MS2490 **6**   
-ACT College & Career Readiness Standards 
+Identify clear comparative relationships between main characters in somewhat challenging literary narratives.
 
-READING 
+### REL 302
 
-**SCORE RANGE** 
+Identify simple cause-effect relationships within a single paragraph in somewhat challenging literary narratives.
 
-**13–15** 
+### Score Range 20–23
 
-**16–19** 
+### REL 401
 
-**20–23**   
-Craft and structure 
+Order simple sequences of events in somewhat challenging literary narratives.
 
-**WORD MEANINGS AND WORD CHOICE (WME)**
+### REL 402
 
-    
-**WME 201\.** Understand the implication of a familiar word or phrase  and of simple descriptive language 
+Identify clear comparative relationships in somewhat challenging passages.
 
-    
-**WME 301\.** Analyze how the choice of a specific word or phrase shapes  meaning or tone in somewhat challenging passages when the effect  is simple 
+### REL 403
 
-**WME 302\.** Interpret basic figurative language as it is used in a passage 
+Identify clear cause-effect relationships in somewhat challenging passages.
 
-22   
-    
-**WME 401\.** Analyze how the choice of a specific word or phrase shapes  meaning or tone in somewhat challenging passages 
+### Score Range 24–27
 
-**WME 402\.** Interpret most words and phrases as they are used in  somewhat challenging passages, including determining technical,  connotative, and figurative meanings 
+### REL 501
 
-Students who score in the  1–12 range are most likely  beginning to develop  
+Order sequences of events in somewhat challenging passages.
 
-the knowledge and skills  assessed in the other ranges. 
+### REL 502
 
-**THE ACT COLLEGE**    
-**READINESS BENCHMARK  FOR READING IS 22\.** Students  who achieve this score on the  ACT Reading Test have a 50%  likelihood of achieving a B  or better in a first-year social  science course at a typical  college. The knowledge  and skills highly likely to be  demonstrated by students  who meet the Benchmark are  shaded. 
+Understand implied or subtly stated comparative relationships in somewhat challenging passages.
 
-© 2017 BY ACT, INC. ALL RIGHTS RESERVED. | MS2490 **7**   
-ACT College & Career Readiness Standards 
+### REL 503
 
-READING 
+Identify clear comparative relationships in more challenging passages.
 
-**SCORE RANGE** 
+### REL 504
 
-**24–27 28–32 33–36**  
-Craft and structure 
+Understand implied or subtly stated cause-effect relationships in somewhat challenging passages.
 
-**WORD MEANINGS AND WORD CHOICE (WME)** 
+### REL 505
 
-**WME 501\.** Analyze how the choice of a specific word or phrase  shapes meaning or tone in somewhat challenging passages when  the effect is subtle 
+Identify clear cause-effect relationships in more challenging passages.
 
-**WME 502\.** Analyze how the choice of a specific word or phrase  shapes meaning or tone in more challenging passages 
+### Score Range 28–32
 
-**WME 503\.** Interpret virtually any word or phrase as it is used in  somewhat challenging passages, including determining technical,  connotative, and figurative meanings 
+### REL 601
 
-**WME 504\.** Interpret most words and phrases as they are used  in more challenging passages, including determining technical,  connotative, and figurative meanings 
+Order sequences of events in more challenging passages.
 
-**WME 601\.** Analyze how the choice of a specific word or phrase  shapes meaning or tone in complex passages 
+### REL 602
 
-**WME 602\.** Interpret virtually any word or phrase as it is used in more  challenging passages, including determining technical, connotative,  and figurative meanings 
+Understand implied or subtly stated comparative relationships in more challenging passages.
 
-**WME 603\.** Interpret words and phrases in a passage that makes  consistent use of figurative, general academic, domain-specific, or  otherwise difficult language 
+### REL 603
 
-**WME 701\.** Analyze how the choice of a specific word or phrase  shapes meaning or tone in passages when the effect is subtle or  complex 
+Identify clear comparative relationships in complex passages.
 
-**WME 702\.** Interpret words and phrases as they are used in complex  passages, including determining technical, connotative, and  figurative meanings 
+### REL 604
 
-**WME 703\.** Interpret words and phrases in a passage that makes  extensive use of figurative, general academic, domain-specific, or  otherwise difficult language 
+Understand implied or subtly stated cause-effect relationships in more challenging passages.
 
-© 2017 BY ACT, INC. ALL RIGHTS RESERVED. | MS2490 **8**   
-ACT College & Career Readiness Standards 
+### REL 605
 
-READING 
+Identify clear cause-effect relationships in complex passages.
 
-**SCORE RANGE** 
+### Score Range 33–36
 
-**13–15** 
+### REL 701
 
-**16–19** 
+Order sequences of events in complex passages.
 
-**20–23**   
-Craft and structure 
+### REL 702
 
-**TEXT STRUCTURE (TST)**
+Understand implied or subtly stated comparative relationships in complex passages.
 
-    
-**TST 201\.** Analyze how one or more sentences in passages relate to the  whole passage when the function is stated or clearly indicated 
+### REL 703
 
-    
-**TST 301\.** Analyze how one or more sentences in somewhat  challenging passages relate to the whole passage when the function  is simple 
+Identify clear comparative relationships in highly complex passages.
 
-**TST 302\.** Identify a clear function of straightforward paragraphs in  somewhat challenging literary narratives 
+### REL 704
 
-22   
-    
-**TST 401\.** Analyze how one or more sentences in somewhat  challenging passages relate to the whole passage 
+Understand implied or subtly stated cause-effect relationships in complex passages.
 
-**TST 402\.** Infer the function of straightforward paragraphs in somewhat  challenging literary narratives 
+### REL 705
 
-**TST 403\.** Identify a clear function of paragraphs in somewhat  challenging passages 
+Identify clear cause-effect relationships in highly complex passages.
 
-**TST 404\.** Analyze the overall structure of somewhat challenging  passages 
+---
 
-Students who score in the  1–12 range are most likely  beginning to develop  
+# Craft and Structure
 
-the knowledge and skills  assessed in the other ranges. 
+## Word Meanings and Word Choice — WME
 
-**THE ACT COLLEGE**    
-**READINESS BENCHMARK  FOR READING IS 22\.** Students  who achieve this score on the  ACT Reading Test have a 50%  likelihood of achieving a B  or better in a first-year social  science course at a typical  college. The knowledge  and skills highly likely to be  demonstrated by students  who meet the Benchmark are  shaded. 
+### Score Range 13–15
 
-© 2017 BY ACT, INC. ALL RIGHTS RESERVED. | MS2490 **9**   
-ACT College & Career Readiness Standards 
+### WME 201
 
-READING 
+Understand the implication of a familiar word or phrase and of simple descriptive language.
 
-**SCORE RANGE** 
+### Score Range 16–19
 
-**24–27 28–32 33–36**  
-Craft and structure 
+### WME 301
 
-**TEXT STRUCTURE (TST)** 
+Analyze how the choice of a specific word or phrase shapes meaning or tone in somewhat challenging passages when the effect is simple.
 
-**TST 501\.** Analyze how one or more sentences in somewhat  challenging passages relate to the whole passage when the function  is subtle 
+### WME 302
 
-**TST 502\.** Analyze how one or more sentences in more challenging  passages relate to the whole passage 
+Interpret basic figurative language as it is used in a passage.
 
-**TST 503\.** Infer the function of paragraphs in somewhat challenging  passages 
+### Score Range 20–23
 
-**TST 504\.** Identify a clear function of paragraphs in more challenging  passages 
+### WME 401
 
-**TST 505\.** Analyze the overall structure of more challenging passages 
+Analyze how the choice of a specific word or phrase shapes meaning or tone in somewhat challenging passages.
 
-**TST 601\.** Analyze how one or more sentences in complex passages  relate to the whole passage 
+### WME 402
 
-**TST 602\.** Infer the function of paragraphs in more challenging  passages 
+Interpret most words and phrases as they are used in somewhat challenging passages, including determining technical, connotative, and figurative meanings.
 
-**TST 603\.** Analyze the overall structure of complex passages 
+### Score Range 24–27
 
-**TST 701\.** Analyze how one or more sentences in passages relate to  the whole passage when the function is subtle or complex 
+### WME 501
 
-**TST 702\.** Identify or infer the function of paragraphs in complex  passages 
+Analyze how the choice of a specific word or phrase shapes meaning or tone in somewhat challenging passages when the effect is subtle.
 
-**TST 703\.** Analyze the overall structure of highly complex passages 
+### WME 502
 
-© 2017 BY ACT, INC. ALL RIGHTS RESERVED. | MS2490 **10**   
-ACT College & Career Readiness Standards 
+Analyze how the choice of a specific word or phrase shapes meaning or tone in more challenging passages.
 
-READING 
+### WME 503
 
-**SCORE RANGE** 
+Interpret virtually any word or phrase as it is used in somewhat challenging passages, including determining technical, connotative, and figurative meanings.
 
-**13–15** 
+### WME 504
 
-**16–19** 
+Interpret most words and phrases as they are used in more challenging passages, including determining technical, connotative, and figurative meanings.
 
-**20–23**   
-Craft and structure 
+### Score Range 28–32
 
-**PURPOSE AND POINT OF VIEW (PPV)**
+### WME 601
 
-    
-**PPV 201\.** Recognize a clear intent of an author or narrator in  somewhat challenging literary narratives 
+Analyze how the choice of a specific word or phrase shapes meaning or tone in complex passages.
 
-    
-**PPV 301\.** Recognize a clear intent of an author or narrator in  somewhat challenging passages 
+### WME 602
 
-22   
-    
-**PPV 401\.** Identify a clear purpose of somewhat challenging passages  and how that purpose shapes content and style 
+Interpret virtually any word or phrase as it is used in more challenging passages, including determining technical, connotative, and figurative meanings.
 
-**PPV 402\.** Understand point of view in somewhat challenging  passages 
+### WME 603
 
-Students who score in the  1–12 range are most likely  beginning to develop  
+Interpret words and phrases in a passage that makes consistent use of figurative, general academic, domain-specific, or otherwise difficult language.
 
-the knowledge and skills  assessed in the other ranges. 
+### Score Range 33–36
 
-**THE ACT COLLEGE**    
-**READINESS BENCHMARK  FOR READING IS 22\.** Students  who achieve this score on the  ACT Reading Test have a 50%  likelihood of achieving a B  or better in a first-year social  science course at a typical  college. The knowledge  and skills highly likely to be  demonstrated by students  who meet the Benchmark are  shaded. 
+### WME 701
 
-© 2017 BY ACT, INC. ALL RIGHTS RESERVED. | MS2490 **11**   
-ACT College & Career Readiness Standards 
+Analyze how the choice of a specific word or phrase shapes meaning or tone in passages when the effect is subtle or complex.
 
-READING 
+### WME 702
 
-**SCORE RANGE** 
+Interpret words and phrases as they are used in complex passages, including determining technical, connotative, and figurative meanings.
 
-**24–27 28–32 33–36**  
-Craft and structure 
+### WME 703
 
-**PURPOSE AND POINT OF VIEW (PPV)** 
+Interpret words and phrases in a passage that makes extensive use of figurative, general academic, domain-specific, or otherwise difficult language.
 
-**PPV 501\.** Infer a purpose in somewhat challenging passages and how  that purpose shapes content and style 
+## Text Structure — TST
 
-**PPV 502\.** Identify a clear purpose of more challenging passages and  how that purpose shapes content and style 
+### Score Range 13–15
 
-**PPV 503\.** Understand point of view in more challenging passages 
+### TST 201
 
-**PPV 601\.** Infer a purpose in more challenging passages and how that  purpose shapes content and style 
+Analyze how one or more sentences in passages relate to the whole passage when the function is stated or clearly indicated.
 
-**PPV 602\.** Understand point of view in complex passages 
+### Score Range 16–19
 
-**PPV 701\.** Identify or infer a purpose in complex passages and how  that purpose shapes content and style 
+### TST 301
 
-**PPV 702\.** Understand point of view in highly complex passages 
+Analyze how one or more sentences in somewhat challenging passages relate to the whole passage when the function is simple.
 
-© 2017 BY ACT, INC. ALL RIGHTS RESERVED. | MS2490 **12**   
-ACT College & Career Readiness Standards 
+### TST 302
 
-READING 
+Identify a clear function of straightforward paragraphs in somewhat challenging literary narratives.
 
-**SCORE RANGE** 
+### Score Range 20–23
 
-**13–15** 
+### TST 401
 
-**16–19** 
+Analyze how one or more sentences in somewhat challenging passages relate to the whole passage.
 
-**20–23**   
-Integration of knowledge and ideas 
+### TST 402
 
-**ARGUMENTS (ARG)**
+Infer the function of straightforward paragraphs in somewhat challenging literary narratives.
 
-    
-**ARG 201\.** Analyze how one or more sentences in passages offer  reasons for or support a claim when the relationship is clearly  indicated 
+### TST 403
 
-    
-**ARG 301\.** Analyze how one or more sentences in somewhat  challenging passages offer reasons for or support a claim when the  relationship is simple 
+Identify a clear function of paragraphs in somewhat challenging passages.
 
-22   
-    
-**ARG 401\.** Analyze how one or more sentences in somewhat  challenging passages offer reasons for or support a claim 
+### TST 404
 
-**ARG 402\.** Identify a clear central claim in somewhat challenging  passages 
+Analyze the overall structure of somewhat challenging passages.
 
-Students who score in the  1–12 range are most likely  beginning to develop  
+### Score Range 24–27
 
-the knowledge and skills  assessed in the other ranges. 
+### TST 501
 
-**THE ACT COLLEGE**    
-**READINESS BENCHMARK  FOR READING IS 22\.** Students  who achieve this score on the  ACT Reading Test have a 50%  likelihood of achieving a B  or better in a first-year social  science course at a typical  college. The knowledge  and skills highly likely to be  demonstrated by students  who meet the Benchmark are  shaded. 
+Analyze how one or more sentences in somewhat challenging passages relate to the whole passage when the function is subtle.
 
-© 2017 BY ACT, INC. ALL RIGHTS RESERVED. | MS2490 **13**   
-ACT College & Career Readiness Standards 
+### TST 502
 
-READING 
+Analyze how one or more sentences in more challenging passages relate to the whole passage.
 
-**SCORE RANGE** 
+### TST 503
 
-**24–27 28–32 33–36**  
-Integration of knowledge and ideas 
+Infer the function of paragraphs in somewhat challenging passages.
 
-**ARGUMENTS (ARG)** 
+### TST 504
 
-**ARG 501\.** Analyze how one or more sentences in more challenging  passages offer reasons for or support a claim 
+Identify a clear function of paragraphs in more challenging passages.
 
-**ARG 502\.** Infer a central claim in somewhat challenging passages **ARG 503\.** Identify a clear central claim in more challenging passages 
+### TST 505
 
-**ARG 601\.** Analyze how one or more sentences in complex passages  offer reasons for or support a claim 
+Analyze the overall structure of more challenging passages.
 
-**ARG 602\.** Infer a central claim in more challenging passages 
+### Score Range 28–32
 
-**ARG 701\.** Analyze how one or more sentences in passages offer  reasons for or support a claim when the relationship is subtle or  complex 
+### TST 601
 
-**ARG 702\.** Identify or infer a central claim in complex passages **ARG 703\.** Identify a clear central claim in highly complex passages 
+Analyze how one or more sentences in complex passages relate to the whole passage.
 
-© 2017 BY ACT, INC. ALL RIGHTS RESERVED. | MS2490 **14**   
-ACT College & Career Readiness Standards 
+### TST 602
 
-READING 
+Infer the function of paragraphs in more challenging passages.
 
-**SCORE RANGE** 
+### TST 603
 
-**13–15** 
+Analyze the overall structure of complex passages.
 
-**16–19** 
+### Score Range 33–36
 
-**20–23**   
-Integration of knowledge and ideas 
+### TST 701
 
-**MULTIPLE TEXTS (SYN)**
+Analyze how one or more sentences in passages relate to the whole passage when the function is subtle or complex.
 
-    
-**SYN 201\.** Make simple comparisons between two passages 
+### TST 702
 
-    
-**SYN 301\.** Make straightforward comparisons between two passages 
+Identify or infer the function of paragraphs in complex passages.
 
-22   
-    
-**SYN 401\.** Draw logical conclusions using information from two literary  narratives 
+### TST 703
 
-Students who score in the  1–12 range are most likely  beginning to develop  
+Analyze the overall structure of highly complex passages.
 
-the knowledge and skills  assessed in the other ranges. 
+## Purpose and Point of View — PPV
 
-**THE ACT COLLEGE**    
-**READINESS BENCHMARK  FOR READING IS 22\.** Students  who achieve this score on the  ACT Reading Test have a 50%  likelihood of achieving a B  or better in a first-year social  science course at a typical  college. The knowledge  and skills highly likely to be  demonstrated by students  who meet the Benchmark are  shaded. 
+### Score Range 13–15
 
-© 2017 BY ACT, INC. ALL RIGHTS RESERVED. | MS2490 **15**   
-ACT College & Career Readiness Standards 
+### PPV 201
 
-READING 
+Recognize a clear intent of an author or narrator in somewhat challenging literary narratives.
 
-**SCORE RANGE** 
+### Score Range 16–19
 
-**24–27 28–32 33–36**  
-Integration of knowledge and ideas 
+### PPV 301
 
-**MULTIPLE TEXTS (SYN)** 
+Recognize a clear intent of an author or narrator in somewhat challenging passages.
 
-**SYN 501\.** Draw logical conclusions using information from two  informational texts 
+### Score Range 20–23
 
-**SYN 601\.** Draw logical conclusions using information from multiple  portions of two literary narratives 
+### PPV 401
 
-**SYN 701\.** Draw logical conclusions using information from multiple  portions of two informational texts 
+Identify a clear purpose of somewhat challenging passages and how that purpose shapes content and style.
 
-© 2017 BY ACT, INC. ALL RIGHTS RESERVED. | MS2490 **16**   
-Text Complexity Rubric 
+### PPV 402
 
-READING 
+Understand point of view in somewhat challenging passages.
 
-*This rubric describes reading passages for ACT Aspire™ Grade 8, ACT Aspire  Early High School, and the ACT.* 
+### Score Range 24–27
 
-**LITERARY NARRATIVES: STORIES AND LITERARY NONFICTION** 
+### PPV 501
 
-Purpose/Levels of Meaning Structure   
-Somewhat Challenging Literary Narratives 
+Infer a purpose in somewhat challenging passages and how that purpose shapes content and style.
 
-• Have a largely    
-straightforward purpose  (*chiefly literary nonfiction*) • Contain literal and    
-inferential levels of    
-meaning (*chiefly stories*) 
+### PPV 502
 
-• Use a mostly    
-straightforward structure  and a wide range of  
+Identify a clear purpose of more challenging passages and how that purpose shapes content and style.
 
-transitions (*chiefly literary  nonfiction*) 
+### PPV 503
 
-• Offer insights into people,  situations, and events (e.g.,  motives) 
+Understand point of view in more challenging passages.
 
-• May contain subplots,  flashbacks, and flash   
-forwards (*chiefly stories*) • Explore largely    
-straightforward conflicts  that may be internal or  external (*chiefly stories*) • May have multiple    
-narrators, with switches  clearly signaled; main  characters exhibit growth  and change (*chiefly*  
+### Score Range 28–32
 
-*stories*)   
-More Challenging 
+### PPV 601
 
-Literary Narratives 
+Infer a purpose in more challenging passages and how that purpose shapes content and style.
 
-• Have a largely    
-straightforward to    
-somewhat complex    
-purpose (*chiefly literary  nonfiction*) 
+### PPV 602
 
-• Contain literal, inferential,  and interpretive levels of  meaning (*chiefly stories*) 
+Understand point of view in complex passages.
 
-• Use a somewhat complex  structure and a full range  of transitions (*chiefly  literary nonfiction*) 
+### Score Range 33–36
 
-• Offer deep insights into  people, situations, and  events (e.g., motives in  conflict) 
+### PPV 701
 
-• May contain numerous  subplots, flashbacks, and  flash-forwards as well as  parallel and nonlinear  plots; may lack clear  
+Identify or infer a purpose in complex passages and how that purpose shapes content and style.
 
-resolution (*chiefly stories*) • Explore subtle conflicts  that may be internal or  external (*chiefly stories*) • May have multiple    
-narrators; main characters  are well rounded (*chiefly  stories*)   
-Complex 
+### PPV 702
 
-Literary Narratives 
+Understand point of view in highly complex passages.
 
-• Have a somewhat    
-complex to complex    
-purpose; apparent    
-purpose may differ from  real purpose (*chiefly*  
+## Arguments — ARG
 
-*literary nonfiction*) 
+### Score Range 13–15
 
-• Contain literal, inferential,  and interpretive levels of  meaning (*chiefly stories*) 
+### ARG 201
 
-• Use a complex structure  (*chiefly literary nonfiction*) • Offer sophisticated and  profound insights into  people, situations, and  events (e.g., philosophical  commentary) 
+Analyze how one or more sentences in passages offer reasons for or support a claim when the relationship is clearly indicated.
 
-• May contain numerous  subplots, flashbacks, and  flash-forwards as well as  parallel and nonlinear  plots; may lack clear  
+### Score Range 16–19
 
-resolution (*chiefly stories*) • Explore complex conflicts  that are largely internal  and lack an obvious or  easy resolution (e.g., moral  dilemmas) (*chiefly stories*) • May have multiple and/ or unreliable narrator(s);  main characters are well  rounded (*chiefly stories*) 
+### ARG 301
 
-Highly Complex 
+Analyze how one or more sentences in somewhat challenging passages offer reasons for or support a claim when the relationship is simple.
 
-Literary Narratives
+### Score Range 20–23
 
-• Have a complex purpose;  apparent purpose may  differ from real purpose  
+### ARG 401
 
-(*chiefly literary nonfiction*) • Contain literal, inferential,  and interpretive levels of  meaning (*chiefly stories*) 
+Analyze how one or more sentences in somewhat challenging passages offer reasons for or support a claim.
 
-• Use a highly complex  structure (*chiefly literary  nonfiction*) 
+### ARG 402
 
-• Offer sophisticated and  profound insights into  people, situations, and  
+Identify a clear central claim in somewhat challenging passages.
 
-events (e.g., philosophical  commentary) 
+### Score Range 24–27
 
-• Contain plots that are  intricate, nonlinear, and/or  difficult to discern; may lack  resolution or may not be  plot driven (*chiefly stories*) 
+### ARG 501
 
-• Explore complex conflicts  that are largely internal  and lack an obvious or  easy resolution (e.g., moral  dilemmas) (*chiefly stories*) 
+Analyze how one or more sentences in more challenging passages offer reasons for or support a claim.
 
-• May have multiple and/ or unreliable narrator(s);  main characters are well  rounded (*chiefly stories*) 
+### ARG 502
 
-© 2017 BY ACT, INC. ALL RIGHTS RESERVED. | MS2490   
-**17**   
-Text Complexity Rubric 
+Infer a central claim in somewhat challenging passages.
 
-READING 
+### ARG 503
 
-**LITERARY NARRATIVES: STORIES AND LITERARY NONFICTION** 
+Identify a clear central claim in more challenging passages.
 
-Language   
-Somewhat Challenging Literary Narratives 
+### Score Range 28–32
 
-• Use some uncommon  words and phrases  
+### ARG 601
 
-(e.g., general academic  \[tier 2\] words, archaic  words, dialect) 
+Analyze how one or more sentences in complex passages offer reasons for or support a claim.
 
-• Use varied sentence  structures significantly  more or less formal than  in everyday language 
+### ARG 602
 
-• Use some somewhat  challenging nonliteral  and figurative language  and literary devices  
+Infer a central claim in more challenging passages.
 
-(e.g., symbols, irony) 
+### Score Range 33–36
 
-• Observe language    
-conventions (e.g., standard  paragraph breaks) (*chiefly  stories*) 
+### ARG 701
 
-• Depict some abstract  ideas and concepts that  may be important to  
+Analyze how one or more sentences in passages offer reasons for or support a claim when the relationship is subtle or complex.
 
-understanding the text   
-More Challenging 
+### ARG 702
 
-Literary Narratives 
+Identify or infer a central claim in complex passages.
 
-• Use some uncommon  words and phrases  
+### ARG 703
 
-(e.g., general academic  \[tier 2\] words, archaic  words, dialect) 
+Identify a clear central claim in highly complex passages.
 
-• Use varied, often complex,  and formal sentence  structures, with texts  from earlier time periods  containing structures  uncommon in more  
+---
 
-modern reading 
+# Integration of Knowledge and Ideas
 
-• Consistently use    
-somewhat challenging  nonliteral and figurative  language and literary  devices (e.g., symbols,  irony) 
+## Multiple Texts — SYN
 
-• Largely observe language  conventions, with some  unconventional elements  possible (e.g., dialogue  marked with dashes)  (*chiefly stories*) 
+### Score Range 13–15
 
-• Depict several abstract  ideas and concepts  
+### SYN 201
 
-that are essential to    
-understanding the text   
-Complex 
+Make simple comparisons between two passages.
 
-Literary Narratives 
+### Score Range 16–19
 
-• Consistently use    
-uncommon words and  phrases (e.g., general  
+### SYN 301
 
-academic \[tier 2\] words,  archaic words, dialect) • Use varied, often complex,  and formal sentence    
-structures, with texts    
-from earlier time periods  containing structures  uncommon in more  
+Make straightforward comparisons between two passages.
 
-modern reading 
+### Score Range 20–23
 
-• Consistently use    
-challenging nonliteral  and figurative language  and literary devices  
+### SYN 401
 
-(e.g., extended metaphors,  satire, parody) 
+Draw logical conclusions using information from two literary narratives.
 
-• May use unconventional  language structures  
+### Score Range 24–27
 
-(e.g., stream-of   
-consciousness) 
+### SYN 501
 
-• Depict numerous abstract  ideas and concepts  
+Draw logical conclusions using information from two informational texts.
 
-that are essential to    
-understanding the text 
+### Score Range 28–32
 
-Highly Complex 
+### SYN 601
 
-Literary Narratives
+Draw logical conclusions using information from multiple portions of two literary narratives.
 
-• Extensively use    
-uncommon words and  phrases (e.g., general  
+### Score Range 33–36
 
-academic \[tier 2\] words,  archaic words, dialect) • Use varied, often complex,  and formal sentence    
-structures, with texts    
-from earlier time periods  containing structures  uncommon in more  
+### SYN 701
 
-modern reading 
-
-• Extensively use    
-challenging nonliteral  and figurative language  and literary devices  
-
-(e.g., extended metaphors,  satire, parody) 
-
-• Use unconventional  language structures  
-
-(e.g., stream-of   
-consciousness) 
-
-• Depict numerous abstract  ideas and concepts  
-
-that are essential to    
-understanding the text 
-
-Abstractness    
-(*chiefly literary nonfiction*) 
-
-© 2017 BY ACT, INC. ALL RIGHTS RESERVED. | MS2490   
-**18**   
-Text Complexity Rubric 
-
-READING 
-
-**LITERARY NARRATIVES: STORIES AND LITERARY NONFICTION** 
-
-Density  
-
-ands: Textual Analysis;  Knowledge Dem  
-(*chiefly literary nonfiction*) Life Experiences; Cultural and Literary Knowledge   
-Somewhat Challenging Literary Narratives 
-
-• Have moderate    
-information/concept    
-density 
-
-• Assume readers can read  on literal and inferential  levels 
-
-• Assume readers can  handle somewhat  
-
-challenging themes and  subject matter with some  maturity and objectivity 
-
-• Assume readers can relate  to experiences outside of  their own 
-
-• Call on cultural or literary  knowledge to some  
-
-extent 
-
-• Have low intertextuality  (i.e., make no/few or  
-
-unimportant connections  to other texts); drawing  connections between  texts at the level of  
-
-theme may enhance  understanding and  
-
-appreciation   
-More Challenging 
-
-Literary Narratives 
-
-• Have moderately high  information/concept  
-
-density 
-
-• Assume readers can read  on literal, inferential, and  interpretive levels 
-
-• Assume readers can  handle somewhat  
-
-challenging themes and  subject matter with some  maturity and objectivity 
-
-• Assume readers can relate  to experiences distinctly  different from their own 
-
-• Call on cultural or literary  knowledge to some  
-
-extent 
-
-• Have moderate    
-intertextuality    
-(i.e., make some    
-important connections  to other texts); drawing  connections between  texts may enhance  
-
-understanding and    
-appreciation   
-Complex 
-
-Literary Narratives 
-
-• Have high information/  concept density 
-
-• Assume readers can read  on literal, inferential, and  interpretive levels 
-
-• Assume readers can  handle challenging  
-
-themes and subject    
-matter with maturity and  objectivity 
-
-• Assume readers can relate  to experiences distinctly  different from their own 
-
-• Call on cultural or literary  knowledge to some  
-
-extent 
-
-• Have moderate    
-intertextuality    
-(i.e., make some    
-important connections  to ther texts); drawing  connections between  texts may enhance  
-
-understanding and    
-appreciation 
-
-Highly Complex 
-
-Literary Narratives
-
-• Have very high    
-information/concept    
-density 
-
-• Assume readers can read  on literal, inferential, and  interpretive levels 
-
-• Assume readers can  handle complex themes  and subject matter with  maturity and objectivity 
-
-• Assume readers can relate  to experiences distinctly  different from their own • Require cultural or    
-literary knowledge for full  comprehension 
-
-• Have high intertextuality  (i.e., make many  
-
-important connections  to other texts); drawing  connections between  texts is essential for full  understanding and  
-
-appreciation 
-
-© 2017 BY ACT, INC. ALL RIGHTS RESERVED. | MS2490   
-**19**   
-Text Complexity Rubric 
-
-READING 
-
-**INFORMATIONAL TEXTS: SOCIAL SCIENCE, HUMANITIES, AND NATURAL SCIENCE** 
-
-Purpose Structure Language Abstractness Density   
-Somewhat Challenging 
-
-• Have a largely    
-straightforward purpose 
-
-• Use a mostly    
-straightforward structure  and a wide range of  
-
-transitions 
-
-• Exhibit norms and    
-conventions of a general  discipline (e.g., natural  science) 
-
-• Use some general    
-academic \[tier 2\] and  domain-specific \[tier 3\]  words and phrases 
-
-• Use varied and some  long and complicated  sentence structures 
-
-• Depict some abstract  ideas and concepts that  may be important to  understanding the text 
-
-• Have moderate    
-information/concept  density   
-More Challenging 
-
-Informational Texts 
-
-• Have a largely    
-straightforward to    
-somewhat complex    
-purpose 
-
-• Use a somewhat complex  structure and a full range  of transitions 
-
-• Exhibit norms and    
-conventions of a general  discipline (e.g., natural  science) 
-
-• Consistently use general  academic \[tier 2\] and  domain-specific \[tier 3\]  words and phrases 
-
-• Use varied and often  complex sentence  
-
-structures, with consistent  use of long and  
-
-complicated structures 
-
-• Depict several abstract  ideas and concepts  
-
-that are essential to    
-understanding the text 
-
-• Have moderately high  information/concept  density   
-Complex 
-
-Informational Texts 
-
-• Have a somewhat    
-complex to complex    
-purpose; apparent    
-purpose may differ from  real purpose 
-
-• Use a complex structure • Exhibit norms and    
-conventions of a general  discipline (e.g., natural  science) 
-
-• Consistently use general  academic \[tier 2\] and  domain-specific \[tier 3\]  words and phrases 
-
-• Use varied and often  complex sentence  
-
-structures, with consistent  use of long and  
-
-complicated structures 
-
-• Depict numerous abstract  ideas and concepts  
-
-that are essential to    
-understanding the text 
-
-• Have high information/ concept density 
-
-Highly Complex 
-
-Informational Texts• Have a complex purpose;  apparent purpose may  differ from real purpose 
-
-• Use a highly complex and  possibly highly formalized  structure (e.g., journal  article) 
-
-• Exhibit norms and    
-conventions of a specific  discipline (e.g., biology) 
-
-• Extensively use general  academic \[tier 2\] and  domain-specific \[tier 3\]  words and phrases 
-
-• Use varied and often  complex sentence  
-
-structures, with consistent  use of long and  
-
-complicated structures 
-
-• Depict numerous abstract  ideas and concepts  
-
-that are essential to    
-understanding the text 
-
-• Have very high    
-information/concept    
-density 
-
-© 2017 BY ACT, INC. ALL RIGHTS RESERVED. | MS2490   
-**20**   
-Text Complexity Rubric 
-
-READING 
-
-**INFORMATIONAL TEXTS: SOCIAL SCIENCE, HUMANITIES, AND NATURAL SCIENCE**
-
-ands: Textual Analysis;  Knowledge Dem  
-Life Experiences; Content and Discipline Knowledge   
-Somewhat Challenging Informational Texts 
-
-• Assume readers can read  on literal and inferential  levels 
-
-• Assume readers can  handle somewhat  
-
-challenging subject    
-matter, including    
-perspectives, values, and  ideas unlike their own,  with some maturity and  objectivity 
-
-• Assume readers have  everyday knowledge and  some broad content  knowledge, with texts at  the high end of the range  assuming some content  knowledge 
-
-• Have low intertextuality  (i.e., make no/few or  
-
-unimportant connections  to other texts); drawing  connections between  texts at the level of  
-
-general concept may  enhance understanding   
-More Challenging 
-
-Informational Texts 
-
-• Assume readers can read  on literal, inferential, and  evaluative levels 
-
-• Assume readers can  handle somewhat  
-
-challenging subject    
-matter, including    
-perspectives, values, and  ideas unlike their own,  with some maturity and  objectivity 
-
-• Assume readers have  some content knowledge,  with texts at the high end  of the range assuming  some discipline-specific  content knowledge 
-
-• Have moderate    
-intertextuality (i.e.,    
-make some important  connections to  
-
-other texts); drawing    
-connections between  texts may enhance  
-
-understanding   
-Complex 
-
-Informational Texts 
-
-• Assume readers can read  on literal, inferential, and  evaluative levels 
-
-• Assume readers can  handle challenging  
-
-subject matter, including  perspectives, values, and  ideas in opposition to  their own, with maturity  and objectivity 
-
-• Assume readers have  some discipline-specific  content knowledge 
-
-• Have moderate    
-intertextuality    
-(i.e., make some    
-important connections  to other texts); drawing  connections between  texts may enhance  
-
-understanding 
-
-Highly Complex 
-
-Informational Texts • Assume readers can read  on literal, inferential, and  evaluative levels 
-
-• Assume readers can  handle complex subject  matter, including  
-
-perspectives, values, and  ideas in opposition to  their own, with maturity  and objectivity 
-
-• Assume readers have  extensive discipline   
-specific content    
-knowledge, often in    
-specialized subjects or  areas 
-
-• Have high intertextuality  (i.e., make many  
-
-important connections  to other texts); drawing  connections between  texts is essential for full  understanding 
-
-© 2017 BY ACT, INC. ALL RIGHTS RESERVED. | MS2490   
-**21** 
+Draw logical conclusions using information from multiple portions of two informational texts.

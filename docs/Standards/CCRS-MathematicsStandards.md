@@ -5,566 +5,876 @@ type: reference
 tags: []
 ---
 
-ACT College & Career Readiness Standards 
+# ACT College & Career Readiness Standards — Mathematics
 
-MATHEMATICS
+The ACT College & Career Readiness Standards (CCRS) describe what students who score in specific score ranges on the ACT Mathematics test are likely to know and be able to do. Standards are organized by content category and score range; each standard has its own heading so you can link directly to it from lesson plans.
 
-These Standards describe what students who score in specific score ranges  on the mathematics section of the ACT® college readiness assessment are  likely to know and be able to do. 
+## Table of Contents
 
-For more information about the ACT College and Career Readiness Standards  in Mathematics, go to www.act.org/standard/planact/math/mathnotes.html. 
+- [Number and Quantity (N)](#number-and-quantity-n)
+  - [Score Range 13–15](#score-range-1315)
+  - [Score Range 16–19](#score-range-1619)
+  - [Score Range 20–23](#score-range-2023)
+  - [Score Range 24–27](#score-range-2427)
+  - [Score Range 28–32](#score-range-2832)
+  - [Score Range 33–36](#score-range-3336)
+- [Algebra and Functions - Shared Standards (AF)](#algebra-and-functions-shared-standards-af)
+  - [Score Range 13–15](#af-score-range-1315)
+  - [Score Range 16–19](#af-score-range-1619)
+  - [Score Range 20–23](#af-score-range-2023)
+  - [Score Range 24–27](#af-score-range-2427)
+  - [Score Range 28–32](#af-score-range-2832)
+  - [Score Range 33–36](#af-score-range-3336)
+- [Algebra (A)](#algebra-a)
+  - [Score Range 13–15](#a-score-range-1315)
+  - [Score Range 16–19](#a-score-range-1619)
+  - [Score Range 20–23](#a-score-range-2023)
+  - [Score Range 24–27](#a-score-range-2427)
+  - [Score Range 28–32](#a-score-range-2832)
+  - [Score Range 33–36](#a-score-range-3336)
+- [Functions (F)](#functions-f)
+  - [Score Range 13–15](#f-score-range-1315)
+  - [Score Range 16–19](#f-score-range-1619)
+  - [Score Range 20–23](#f-score-range-2023)
+  - [Score Range 24–27](#f-score-range-2427)
+  - [Score Range 28–32](#f-score-range-2832)
+  - [Score Range 33–36](#f-score-range-3336)
+- [Geometry (G)](#geometry-g)
+  - [Score Range 13–15](#g-score-range-1315)
+  - [Score Range 16–19](#g-score-range-1619)
+  - [Score Range 20–23](#g-score-range-2023)
+  - [Score Range 24–27](#g-score-range-2427)
+  - [Score Range 28–32](#g-score-range-2832)
+  - [Score Range 33–36](#g-score-range-3336)
+- [Statistics and Probability (S)](#statistics-and-probability-s)
+  - [Score Range 13–15](#s-score-range-1315)
+  - [Score Range 16–19](#s-score-range-1619)
+  - [Score Range 20–23](#s-score-range-2023)
+  - [Score Range 24–27](#s-score-range-2427)
+  - [Score Range 28–32](#s-score-range-2832)
+  - [Score Range 33–36](#s-score-range-3336)
+- [Modeling (MOD)](#modeling-mod)
 
-**SCORE** 
+---
 
-**RANGE** 
+## Number and Quantity (N)
 
-    
-Topics in the flow to 
+### Score Range 13–15
 
-**NUMBER AND QUANTITY (N)** 
+#### N 201
 
-**13–15 N 201\.** Perform one-operation computation with whole numbers and  decimals 
+Perform one-operation computation with whole numbers and decimals
 
-**N 202\.** Recognize equivalent fractions and fractions in lowest terms 
+#### N 202
 
-**N 203\.** Locate positive rational numbers (expressed as whole numbers,  fractions, decimals, and mixed numbers) on the number line 
+Recognize equivalent fractions and fractions in lowest terms
 
-Students who score in the  1–12 range are most likely  beginning to develop  the knowledge and skills  assessed in the other ranges. 
+#### N 203
 
-**16–19 20–23**   
-**N 301\.** Recognize one-digit factors of a number 
+Locate positive rational numbers (expressed as whole numbers, fractions, decimals, and mixed numbers) on the number line
 
-**N 302\.** Identify a digit’s place value 
+### Score Range 16–19
 
-**N 303\.** Locate rational numbers on the number line 
+#### N 301
 
-*Note: A matrix as a representation of data is treated here as a basic  table.* 
+Recognize one-digit factors of a number
 
-22   
-    
-**N 401\.** Exhibit knowledge of elementary number concepts such as  rounding, the ordering of decimals, pattern identification, primes, and  greatest common factor 
+#### N 302
 
-**N 402\.** Write positive powers of 10 by using exponents 
+Identify a digit's place value
 
-**N 403\.** Comprehend the concept of length on the number line, and  find the distance between two points 
+#### N 303
 
-**N 404\.** Understand absolute value in terms of distance 
+Locate rational numbers on the number line
 
-**N 405\.** Find the distance in the coordinate plane between two points  with the same *x*\-coordinate or *y*\-coordinate 
+### Score Range 20–23
 
-**N 406\.** Add two matrices that have whole number entries 
+#### N 401
 
-**THE ACT COLLEGE**    
-**READINESS BENCHMARK  FOR MATHEMATICS IS 22\.**  Students who achieve this  score on the ACT Mathematics  
+Exhibit knowledge of elementary number concepts such as rounding, the ordering of decimals, pattern identification, primes, and greatest common factor
 
-Test have a 50% likelihood  of achieving a B or better in  a first-year College Algebra  course at a typical college. The  knowledge and skills highly  likely to be demonstrated  by students who meet the  Benchmark are shaded. 
+#### N 402
 
-© 2017 BY ACT, INC. ALL RIGHTS RESERVED. | MS2490 **1**   
-ACT College & Career Readiness Standards 
+Write positive powers of 10 by using exponents
 
-MATHEMATICS 
+#### N 403
 
-**SCORE** 
+Comprehend the concept of length on the number line, and find the distance between two points
 
-**RANGE** 
+#### N 404
 
-    
-Topics in the flow to 
+Understand absolute value in terms of distance
 
-**NUMBER AND QUANTITY (N)** 
+#### N 405
 
-**24–27 N 501\.** Order fractions 
+Find the distance in the coordinate plane between two points with the same *x*-coordinate or *y*-coordinate
 
-**N 502\.** Find and use the least common multiple 
+#### N 406
 
-**N 503\.** Work with numerical factors 
+Add two matrices that have whole number entries
 
-**N 504\.** Exhibit some knowledge of the complex numbers **N 505\.** Add and subtract matrices that have integer entries 
+### Score Range 24–27
 
-**28–32 33–36**   
-    
-**N 601\.** Apply number properties involving prime factorization 
+#### N 501
 
-**N 602\.** Apply number properties involving even/odd numbers and  factors/multiples 
+Order fractions
 
-**N 603\.** Apply number properties involving positive/negative numbers 
+#### N 502
 
-**N 604\.** Apply the facts that π is irrational and that the square root of an  integer is rational only if that integer is a perfect square 
+Find and use the least common multiple
 
-**N 605\.** Apply properties of rational exponents 
+#### N 503
 
-**N 606\.** Multiply two complex numbers 
+Work with numerical factors
 
-**N 607\.** Use relations involving addition, subtraction, and scalar  multiplication of vectors and of matrices 
+#### N 504
 
-    
-**N 701\.** Analyze and draw conclusions based on number concepts 
+Exhibit some knowledge of the complex numbers
 
-**N 702\.** Apply properties of rational numbers and the rational number  system 
+#### N 505
 
-**N 703\.** Apply properties of real numbers and the real number system,  including properties of irrational numbers 
+Add and subtract matrices that have integer entries
 
-**N 704\.** Apply properties of complex numbers and the complex  number system 
+### Score Range 28–32
 
-**N 705\.** Multiply matrices 
+#### N 601
 
-**N 706\.** Apply properties of matrices and properties of matrices as a  number system 
+Apply number properties involving prime factorization
 
-Students who achieve the  28–32 level are likely able to  use variables fluently so that  they can solve problems with  variables in the same way that  they can solve the problems  with numbers, and they can  use variables to represent  general properties.
+#### N 602
 
-© 2017 BY ACT, INC. ALL RIGHTS RESERVED. | MS2490 **2**   
-ACT College & Career Readiness Standards 
+Apply number properties involving even/odd numbers and factors/multiples
 
-MATHEMATICS 
+#### N 603
 
-Because algebra and functions are closely connected, some Standards apply  to both categories. 
+Apply number properties involving positive/negative numbers
 
-**SCORE RANGE**   
-Topics in the flow to **ALGEBRA (A)** 
+#### N 604
 
-Topics in the flow to **FUNCTIONS (F)** 
+Apply the facts that π is irrational and that the square root of an integer is rational only if that integer is a perfect square
 
-**13–15**   
-**AF 201\.** Solve problems in one or two steps using whole numbers and  using decimals in the context of money 
+#### N 605
 
-Students who score in the  1–12 range are most likely  beginning to develop  the knowledge and skills  assessed in the other ranges.
+Apply properties of rational exponents
 
-**A 201\.** Exhibit knowledge of  basic expressions (e.g., identify  an expression for a total as  *b* \+ *g*) 
+#### N 606
 
-**A 202\.** Solve equations in the  form *x* \+ *a* \= *b*, where *a* and *b* are whole numbers or decimals   
-**F 201\.** Extend a given pattern  by a few terms for patterns that  have a constant increase or  decrease between terms 
+Multiply two complex numbers
 
-**16–19**   
-**AF 301\.** Solve routine one-step arithmetic problems using positive  rational numbers, such as single-step percent 
+#### N 607
 
-**AF 302\.** Solve some routine two-step arithmetic problems 
+Use relations involving addition, subtraction, and scalar multiplication of vectors and of matrices
 
-**AF 303\.** Relate a graph to a situation described qualitatively in  terms of familiar properties such as before and after, increasing and  decreasing, higher and lower 
+### Score Range 33–36
 
-**AF 304\.** Apply a definition of an operation for whole numbers  (e.g., *a* **□** *b* \= 3*a* – *b*) 
+#### N 701
 
-**A 301\.** Substitute whole  numbers for unknown  quantities to evaluate  expressions 
+Analyze and draw conclusions based on number concepts
 
-**A 302\.** Solve one-step  equations to get integer or  decimal answers 
+#### N 702
 
-**A 303\.** Combine like terms  (e.g., 2*x* \+ 5*x*)   
-**F 301\.** Extend a given pattern  by a few terms for patterns that  have a constant factor between  terms 
+Apply properties of rational numbers and the rational number system
 
-© 2017 BY ACT, INC. ALL RIGHTS RESERVED. | MS2490 **3**   
-ACT College & Career Readiness Standards 
+#### N 703
 
-MATHEMATICS 
+Apply properties of real numbers and the real number system, including properties of irrational numbers
 
-Because algebra and functions are closely connected, some Standards apply  to both categories. 
+#### N 704
 
-**SCORE RANGE**   
-Topics in the flow to **ALGEBRA (A)** 
+Apply properties of complex numbers and the complex number system
 
-Topics in the flow to **FUNCTIONS (F)** 
+#### N 705
 
-**20–23**   
-**AF 401\.** Solve routine two-step or three-step arithmetic problems  involving concepts such as rate and proportion, tax added,  percentage off, and estimating by using a given average value in  place of actual values 
+Multiply matrices
 
-**AF 402\.** Perform straightforward word-to-symbol translations 
+#### N 706
 
-**AF 403\.** Relate a graph to a situation described in terms of a starting  value and an additional amount per unit (e.g., unit cost, weekly  growth) 
+Apply properties of matrices and properties of matrices as a number system
 
-22 
+---
 
-**A 401\.** Evaluate algebraic  expressions by substituting  integers for unknown quantities 
+## Algebra and Functions - Shared Standards (AF)
 
-**A 402\.** Add and subtract simple  algebraic expressions 
+Because algebra and functions are closely connected, some standards apply to both categories.
 
-**A 403\.** Solve routine first degree equations 
+### AF Score Range 13–15
 
-**A 404\.** Multiply two binomials 
+#### AF 201
 
-**A 405\.** Match simple    
-inequalities with their graphs  on the number line    
-(e.g., *x* ≥ ––�₅)  
+Solve problems in one or two steps using whole numbers and using decimals in the context of money
 
-**A 406\.** Exhibit knowledge of  slope 
+### AF Score Range 16–19
 
-**F 401\.** Evaluate linear and  quadratic functions, expressed  in function notation, at integer  values 
+#### AF 301
 
-The ACT College Readiness  Benchmark for Mathematics  is 22\. Students who achieve  this score on the ACT  
+Solve routine one-step arithmetic problems using positive rational numbers, such as single-step percent
 
-Mathematics Test have a 50%  likelihood of achieving a B or  better in a first-year College  Algebra course at a typical  college. The knowledge  and skills highly likely to be  demonstrated by students  who meet the Benchmark  are shaded.
+#### AF 302
 
-© 2017 BY ACT, INC. ALL RIGHTS RESERVED. | MS2490 **4**   
-ACT College & Career Readiness Standards 
+Solve some routine two-step arithmetic problems
 
-MATHEMATICS 
+#### AF 303
 
-Because algebra and functions are closely connected, some Standards apply  to both categories. 
+Relate a graph to a situation described qualitatively in terms of familiar properties such as before and after, increasing and decreasing, higher and lower
 
-**SCORE RANGE**   
-Topics in the flow to **ALGEBRA (A)** 
+#### AF 304
 
-Topics in the flow to **FUNCTIONS (F)** 
+Apply a definition of an operation for whole numbers (e.g., *a* □ *b* = 3*a* – *b*)
 
-**24–27**  
-**AF 501\.** Solve multistep arithmetic problems that involve planning or  converting common derived units of measure (e.g., feet per second to  miles per hour) 
+### AF Score Range 20–23
 
-**AF 502\.** Build functions and write expressions, equations, or  inequalities with a single variable for common pre-algebra settings  (e.g., rate and distance problems and problems that can be solved by  using proportions) 
+#### AF 401
 
-**AF 503\.** Match linear equations with their graphs in the coordinate  plane 
+Solve routine two-step or three-step arithmetic problems involving concepts such as rate and proportion, tax added, percentage off, and estimating by using a given average value in place of actual values
 
-**A 501\.** Recognize that when  numerical quantities are reported  in real-world contexts, the  numbers are often rounded **A 502\.** Solve real-world problems  by using first-degree equations **A 503\.** Solve first-degree  
+#### AF 402
 
-inequalities when the method  does not involve reversing the  inequality sign 
+Perform straightforward word-to-symbol translations
 
-**A 504\.** Match compound    
-inequalities with their graphs on  the number line (e.g., –10.5 \< *x* ≤  20.3) 
+#### AF 403
 
-**A 505\.** Add, subtract, and multiply  polynomials 
+Relate a graph to a situation described in terms of a starting value and an additional amount per unit (e.g., unit cost, weekly growth)
 
-**A 506\.** Identify solutions to simple  quadratic equations 
+### AF Score Range 24–27
 
-**A 507\.** Solve quadratic equations  in the form (*x* \+ *a*)(*x* \+ *b*) \= 0, where  *a* and *b* are numbers or variables **A 508\.** Factor simple quadratics  (e.g., the difference of squares and  perfect square trinomials) 
+#### AF 501
 
-**A 509\.** Work with squares and  square roots of numbers 
+Solve multistep arithmetic problems that involve planning or converting common derived units of measure (e.g., feet per second to miles per hour)
 
-**A 510\.** Work with cubes and cube  roots of numbers 
+#### AF 502
 
-**A 511\.** Work with scientific notation **A 512\.** Work problems involving  positive integer exponents **A 513\.** Determine when an  expression is undefined 
+Build functions and write expressions, equations, or inequalities with a single variable for common pre-algebra settings (e.g., rate and distance problems and problems that can be solved by using proportions)
 
-**A 514\.** Determine the slope of a  line from an equation 
+#### AF 503
 
-**F 501\.** Evaluate polynomial  functions, expressed in function  notation, at integer values **F 502\.** Find the next term in a  sequence described recursively **F 503\.** Build functions and  use quantitative information  to identify graphs for relations  that are proportional or linear **F 504\.** Attend to the difference  between a function modeling a  situation and the reality of the  situation 
+Match linear equations with their graphs in the coordinate plane
 
-**F 505\.** Understand the concept  of a function as having a well defined output value at each  valid input value 
+### AF Score Range 28–32
 
-**F 506\.** Understand the concept  of domain and range in terms  of valid input and output, and  in terms of function graphs **F 507\.** Interpret statements  that use function notation in  terms of their context 
+#### AF 601
 
-**F 508\.** Find the domain of  polynomial functions and  rational functions 
+Solve word problems containing several rates, proportions, or percentages
 
-**F 509\.** Find the range of    
-polynomial functions   
-**F 510\.** Find where a rational  function’s graph has a vertical  asymptote 
+#### AF 602
 
-**F 511\.** Use function notation  for simple functions of two  variables 
+Build functions and write expressions, equations, and inequalities for common algebra settings (e.g., distance to a point on a curve and profit for variable cost and demand)
 
-© 2017 BY ACT, INC. ALL RIGHTS RESERVED. | MS2490 **5**   
-ACT College & Career Readiness Standards 
+#### AF 603
 
-MATHEMATICS 
+Interpret and use information from graphs in the coordinate plane
 
-Because algebra and functions are closely connected, some Standards apply  to both categories. 
+#### AF 604
 
-**SCORE RANGE**   
-Topics in the flow to **ALGEBRA (A)** 
+Given an equation or function, find an equation or function whose graph is a translation by a specified amount up or down
 
-Topics in the flow to **FUNCTIONS (F)** 
+### AF Score Range 33–36
 
-**28–32** Students who achieve the  **AF 601\.** Solve word problems containing several rates, proportions, or    
-percentages 
+#### AF 701
 
-**AF 602\.** Build functions and write expressions, equations, and  inequalities for common algebra settings (e.g., distance to a point on  a curve and profit for variable cost and demand) 
+Solve complex arithmetic problems involving percent of increase or decrease or requiring integration of several concepts (e.g., using several ratios, comparing percentages, or comparing averages)
 
-**AF 603\.** Interpret and use information from graphs in the coordinate  plane 
+#### AF 702
 
-**AF 604\.** Given an equation or function, find an equation or function  whose graph is a translation by a specified amount up or down 
+Build functions and write expressions, equations, and inequalities when the process requires planning and/or strategic manipulation
 
-28–32 level are likely able to  use variables fluently so that  they can solve the problems  with variables in the same  way that they can solve  problems with numbers,  and they can use variables to  represent general properties.
+#### AF 703
 
-**A 601\.** Manipulate expressions  and equations 
+Analyze and draw conclusions based on properties of algebra and/or functions
 
-**A 602\.** Solve linear inequalities  when the method involves  reversing the inequality sign 
+#### AF 704
 
-**A 603\.** Match linear inequalities  with their graphs on the number  line 
+Analyze and draw conclusions based on information from graphs in the coordinate plane
 
-**A 604\.** Solve systems of two linear  equations 
+#### AF 705
 
-**A 605\.** Solve quadratic equations 
+Identify characteristics of graphs based on a set of conditions or on a general equation such as *y* = *ax*² + *c*
 
-**A 606\.** Solve absolute value  equations 
+#### AF 706
 
-**F 601\.** Relate a graph to a  situation described qualitatively  in terms of faster change or  slower change 
+Given an equation or function, find an equation or function whose graph is a translation by specified amounts in the horizontal and vertical directions
 
-**F 602\.** Build functions for  relations that are inversely  proportional 
+---
 
-**F 603\.** Find a recursive    
-expression for the general  term in a sequence described  recursively 
+## Algebra (A)
 
-**F 604\.** Evaluate composite  functions at integer values 
+### A Score Range 13–15
 
-© 2017 BY ACT, INC. ALL RIGHTS RESERVED. | MS2490 **6**   
-ACT College & Career Readiness Standards 
+#### A 201
 
-MATHEMATICS 
+Exhibit knowledge of basic expressions (e.g., identify an expression for a total as *b* + *g*)
 
-Because algebra and functions are closely connected, some Standards apply  to both categories. 
+#### A 202
 
-**SCORE RANGE**   
-Topics in the flow to **ALGEBRA (A)** 
+Solve equations in the form *x* + *a* = *b*, where *a* and *b* are whole numbers or decimals
 
-Topics in the flow to **FUNCTIONS (F)** 
+### A Score Range 16–19
 
-**33–36**  
-**AF 701\.** Solve complex arithmetic problems involving percent of  increase or decrease or requiring integration of several concepts (e.g.,  using several ratios, comparing percentages, or comparing averages) **AF 702\.** Build functions and write expressions, equations, and  inequalities when the process requires planning and/or strategic  manipulation 
+#### A 301
 
-**AF 703\.** Analyze and draw conclusions based on properties of algebra  and/or functions 
+Substitute whole numbers for unknown quantities to evaluate expressions
 
-**AF 704\.** Analyze and draw conclusions based on information from  graphs in the coordinate plane 
+#### A 302
 
-**AF 705\.** Identify characteristics of graphs based on a set of conditions  or on a general equation such as *y* \= *ax*² \+ *c* 
+Solve one-step equations to get integer or decimal answers
 
-**AF 706\.** Given an equation or function, find an equation or function  whose graph is a translation by specified amounts in the horizontal  and vertical directions 
+#### A 303
 
-**A 701\.** Solve simple absolute value  inequalities 
+Combine like terms (e.g., 2*x* + 5*x*)
 
-**A 702\.** Match simple quadratic  inequalities with their graphs on  the number line 
+### A Score Range 20–23
 
-**A 703\.** Apply the remainder  theorem for polynomials, that  *P*(*a*) is the remainder when *P*(*x*)  is divided by (*x* – *a*)   
-**F 701\.** Compare actual values  and the values of a modeling  function to judge model fit and  compare models 
+#### A 401
 
-**F 702\.** Build functions for  relations that are exponential 
+Evaluate algebraic expressions by substituting integers for unknown quantities
 
-**F 703\.** Exhibit knowledge of  geometric sequences 
+#### A 402
 
-**F 704\.** Exhibit knowledge of  unit circle trigonometry 
+Add and subtract simple algebraic expressions
 
-**F 705\.** Match graphs of basic  trigonometric functions with  their equations 
+#### A 403
 
-**F 706\.** Use trigonometric  concepts and basic identities to  solve problems 
+Solve routine first-degree equations
 
-**F 707\.** Exhibit knowledge of  logarithms 
+#### A 404
 
-**F 708\.** Write an expression for  the composite of two simple  functions 
+Multiply two binomials
 
-© 2017 BY ACT, INC. ALL RIGHTS RESERVED. | MS2490 **7**   
-ACT College & Career Readiness Standards 
+#### A 405
 
-MATHEMATICS 
+Match simple inequalities with their graphs on the number line (e.g., *x* ≥ –5)
 
-**SCORE RANGE** 
+#### A 406
 
-**13–15** 
+Exhibit knowledge of slope
 
-**16–19** 
+### A Score Range 24–27
 
-**20–23**   
-Topics in the flow to 
+#### A 501
 
-**GEOMETRY (G)**
+Recognize that when numerical quantities are reported in real-world contexts, the numbers are often rounded
 
-    
-**G 201\.** Estimate the length of a line segment based on other lengths  in a geometric figure 
+#### A 502
 
-**G 202\.** Calculate the length of a line segment based on the lengths of  other line segments that go in the same direction (e.g., overlapping  line segments and parallel sides of polygons with only right angles) 
+Solve real-world problems by using first-degree equations
 
-**G 203\.** Perform common conversions of money and of length, weight,  mass, and time within a measurement system (e.g., dollars to dimes,  inches to feet, and hours to minutes) 
+#### A 503
 
-    
-**G 301\.** Exhibit some knowledge of the angles associated with parallel  lines 
+Solve first-degree inequalities when the method does not involve reversing the inequality sign
 
-**G 302\.** Compute the perimeter of polygons when all side lengths are  given 
+#### A 504
 
-**G 303\.** Compute the area of rectangles when whole number  dimensions are given 
+Match compound inequalities with their graphs on the number line (e.g., –10.5 < *x* ≤ 20.3)
 
-**G 304\.** Locate points in the first quadrant 
+#### A 505
 
-22   
-    
-**G 401\.** Use properties of parallel lines to find the measure of an angle 
+Add, subtract, and multiply polynomials
 
-**G 402\.** Exhibit knowledge of basic angle properties and special sums  of angle measures (e.g., 90°, 180°, and 360°) 
+#### A 506
 
-**G 403\.** Compute the area and perimeter of triangles and rectangles in  simple problems 
+Identify solutions to simple quadratic equations
 
-**G 404\.** Find the length of the hypotenuse of a right triangle when only  very simple computation is involved (e.g., 3-4-5 and 6-8-10 triangles) 
+#### A 507
 
-**G 405\.** Use geometric formulas when all necessary information is  given 
+Solve quadratic equations in the form (*x* + *a*)(*x* + *b*) = 0, where *a* and *b* are numbers or variables
 
-**G 406\.** Locate points in the coordinate plane 
+#### A 508
 
-**G 407\.** Translate points up, down, left, and right in the coordinate  plane 
+Factor simple quadratics (e.g., the difference of squares and perfect square trinomials)
 
-Students who score in the  1–12 range are most likely  beginning to develop  
+#### A 509
 
-the knowledge and skills  assessed in the other ranges. 
+Work with squares and square roots of numbers
 
-**THE ACT COLLEGE**    
-**READINESS BENCHMARK  FOR MATHEMATICS IS 22\.**  Students who achieve this  score on the ACT Mathematics  
+#### A 510
 
-Test have a 50% likelihood  of achieving a B or better in  a first-year College Algebra  course at a typical college. The  knowledge and skills highly  likely to be demonstrated  by students who meet the  Benchmark are shaded. 
+Work with cubes and cube roots of numbers
 
-© 2017 BY ACT, INC. ALL RIGHTS RESERVED. | MS2490 **8**   
-ACT College & Career Readiness Standards 
+#### A 511
 
-MATHEMATICS 
+Work with scientific notation
 
-**SCORE RANGE** 
+#### A 512
 
-**24–27**  
-Topics in the flow to 
+Work problems involving positive integer exponents
 
-**GEOMETRY (G)** 
+#### A 513
 
-**G 501\.** Use several angle properties to find an unknown angle  measure 
+Determine when an expression is undefined
 
-**G 502\.** Count the number of lines of symmetry of a geometric figure 
+#### A 514
 
-**G 503\.** Use symmetry of isosceles triangles to find unknown side  lengths or angle measures 
+Determine the slope of a line from an equation
 
-**G 504\.** Recognize that real-world measurements are typically  imprecise and that an appropriate level of precision is related to the  measuring device and procedure 
+### A Score Range 28–32
 
-**G 505\.** Compute the perimeter of simple composite geometric  figures with unknown side lengths 
+#### A 601
 
-**G 506\.** Compute the area of triangles and rectangles when one or  more additional simple steps are required 
+Manipulate expressions and equations
 
-**G 507\.** Compute the area and circumference of circles after  identifying necessary information 
+#### A 602
 
-**G 508\.** Given the length of two sides of a right triangle, find the third  when the lengths are Pythagorean triples 
+Solve linear inequalities when the method involves reversing the inequality sign
 
-**G 509\.** Express the sine, cosine, and tangent of an angle in a right  triangle as a ratio of given side lengths 
+#### A 603
 
-**G 510\.** Determine the slope of a line from points or a graph **G 511\.** Find the midpoint of a line segment 
+Match linear inequalities with their graphs on the number line
 
-**G 512\.** Find the coordinates of a point rotated 180° around a given  center point 
+#### A 604
 
-© 2017 BY ACT, INC. ALL RIGHTS RESERVED. | MS2490 **9**   
-ACT College & Career Readiness Standards 
+Solve systems of two linear equations
 
-MATHEMATICS 
+#### A 605
 
-**SCORE RANGE** 
+Solve quadratic equations
 
-**28–32 33–36**   
-Topics in the flow to 
+#### A 606
 
-**GEOMETRY (G)** 
+Solve absolute value equations
 
-**G 601\.** Use relationships involving area, perimeter, and volume of  geometric figures to compute another measure (e.g., surface area for  a cube of a given volume and simple geometric probability) 
+### A Score Range 33–36
 
-**G 602\.** Use the Pythagorean theorem 
+#### A 701
 
-**G 603\.** Apply properties of 30°-60°-90°, 45°-45°-90°, similar, and  congruent triangles 
+Solve simple absolute value inequalities
 
-**G 604\.** Apply basic trigonometric ratios to solve right-triangle  problems 
+#### A 702
 
-**G 605\.** Use the distance formula 
+Match simple quadratic inequalities with their graphs on the number line
 
-**G 606\.** Use properties of parallel and perpendicular lines to  determine an equation of a line or coordinates of a point 
+#### A 703
 
-**G 607\.** Find the coordinates of a point reflected across a vertical or  horizontal line or across *y* \= *x* 
+Apply the remainder theorem for polynomials, that *P*(*a*) is the remainder when *P*(*x*) is divided by (*x* – *a*)
 
-**G 608\.** Find the coordinates of a point rotated 90° about the origin 
+---
 
-**G 609\.** Recognize special characteristics of parabolas and circles  (e.g., the vertex of a parabola and the center or radius of a circle) 
+## Functions (F)
 
-**G 701\.** Use relationships among angles, arcs, and distances in a circle 
+### F Score Range 13–15
 
-**G 702\.** Compute the area of composite geometric figures when  planning and/or visualization is required 
+#### F 201
 
-**G 703\.** Use scale factors to determine the magnitude of a size change **G 704\.** Analyze and draw conclusions based on a set of conditions 
+Extend a given pattern by a few terms for patterns that have a constant increase or decrease between terms
 
-**G 705\.** Solve multistep geometry problems that involve integrating  concepts, planning, and/or visualization 
+### F Score Range 16–19
 
-Students who achieve the  28–32 level are likely able  to use variables fluently so  that they can solve problems  with variables in the same  way that they can solve the  problems with numbers,  and they can use variables to  represent general properties.
+#### F 301
 
-© 2017 BY ACT, INC. ALL RIGHTS RESERVED. | MS2490 **10**   
-ACT College & Career Readiness Standards 
+Extend a given pattern by a few terms for patterns that have a constant factor between terms
 
-MATHEMATICS 
+### F Score Range 20–23
 
-**SCORE RANGE** 
+#### F 401
 
-**13–15** 
+Evaluate linear and quadratic functions, expressed in function notation, at integer values
 
-**16–19** 
+### F Score Range 24–27
 
-**20–23**   
-Topics in the flow to 
+#### F 501
 
-**STATISTICS AND PROBABILITY (S)** 
+Evaluate polynomial functions, expressed in function notation, at integer values
 
-    
-**S 201\.** Calculate the average of a list of positive whole numbers 
+#### F 502
 
-**S 202\.** Extract one relevant number from a basic table or chart, and  use it in a single computation 
+Find the next term in a sequence described recursively
 
-    
-**S 301\.** Calculate the average of a list of numbers 
+#### F 503
 
-**S 302\.** Calculate the average given the number of data values and the  sum of the data values 
+Build functions and use quantitative information to identify graphs for relations that are proportional or linear
 
-**S 303\.** Read basic tables and charts 
+#### F 504
 
-**S 304\.** Extract relevant data from a basic table or chart and use the  data in a computation 
+Attend to the difference between a function modeling a situation and the reality of the situation
 
-**S 305\.** Use the relationship between the probability of an event and  the probability of its complement 
+#### F 505
 
-22   
-    
-**S 401\.** Calculate the missing data value given the average and all data  values but one 
+Understand the concept of a function as having a well-defined output value at each valid input value
 
-**S 402\.** Translate from one representation of data to another (e.g., a bar  graph to a circle graph) 
+#### F 506
 
-**S 403\.** Determine the probability of a simple event 
+Understand the concept of domain and range in terms of valid input and output, and in terms of function graphs
 
-**S 404\.** Describe events as combinations of other events (e.g., using  *and*, *or*, and *not*) 
+#### F 507
 
-**S 405\.** Exhibit knowledge of simple counting techniques
+Interpret statements that use function notation in terms of their context
 
-Students who score in the  1–12 range are most likely  beginning to develop  
+#### F 508
 
-the knowledge and skills  assessed in the other ranges. 
+Find the domain of polynomial functions and rational functions
 
-**THE ACT COLLEGE**    
-**READINESS BENCHMARK  FOR MATHEMATICS IS 22\.**  Students who achieve this  score on the ACT Mathematics  
+#### F 509
 
-Test have a 50% likelihood  of achieving a B or better in  a first-year College Algebra  course at a typical college. The  knowledge and skills highly  likely to be demonstrated  by students who meet the  Benchmark are shaded. 
+Find the range of polynomial functions
 
-© 2017 BY ACT, INC. ALL RIGHTS RESERVED. | MS2490 **11**   
-ACT College & Career Readiness Standards 
+#### F 510
 
-MATHEMATICS 
+Find where a rational function's graph has a vertical asymptote
 
-**SCORE** 
+#### F 511
 
-**RANGE** 
+Use function notation for simple functions of two variables
 
-    
-Topics in the flow to 
+### F Score Range 28–32
 
-**STATISTICS AND PROBABILITY (S)** 
+#### F 601
 
-**24–27 S 501\.** Calculate the average given the frequency counts of all the data  values 
+Relate a graph to a situation described qualitatively in terms of faster change or slower change
 
-**S 502\.** Manipulate data from tables and charts 
+#### F 602
 
-**S 503\.** Compute straightforward probabilities for common situations **S 504\.** Use Venn diagrams in counting 
+Build functions for relations that are inversely proportional
 
-**S 505\.** Recognize that when data summaries are reported in the real  world, results are often rounded and must be interpreted as having  appropriate precision 
+#### F 603
 
-**S 506\.** Recognize that when a statistical model is used, model values  typically differ from actual values 
+Find a recursive expression for the general term in a sequence described recursively
 
-**28–32 33–36**   
-    
-**S 601\.** Calculate or use a weighted average 
+#### F 604
 
-**S 602\.** Interpret and use information from tables and charts, including  two-way frequency tables 
+Evaluate composite functions at integer values
 
-**S 603\.** Apply counting techniques 
+### F Score Range 33–36
 
-**S 604\.** Compute a probability when the event and/or sample space are  not given or obvious 
+#### F 701
 
-**S 605\.** Recognize the concepts of conditional and joint probability  expressed in real-world contexts 
+Compare actual values and the values of a modeling function to judge model fit and compare models
 
-**S 606\.** Recognize the concept of independence expressed in real world contexts 
+#### F 702
 
-    
-**S 701\.** Distinguish between mean, median, and mode for a list of  numbers 
+Build functions for relations that are exponential
 
-**S 702\.** Analyze and draw conclusions based on information from  tables and charts, including two-way frequency tables 
+#### F 703
 
-**S 703\.** Understand the role of randomization in surveys, experiments,  and observational studies 
+Exhibit knowledge of geometric sequences
 
-**S 704\.** Exhibit knowledge of conditional and joint probability 
+#### F 704
 
-**S 705\.** Recognize that part of the power of statistical modeling comes  from looking at regularity in the differences between actual values  and model values 
+Exhibit knowledge of unit circle trigonometry
 
-Students who achieve the  28–32 level are likely able to  use variables fluently so that  they can solve problems with  variables in the same way that  they can solve the problems  with numbers, and they can  use variables to represent  general properties.
+#### F 705
 
-© 2017 BY ACT, INC. ALL RIGHTS RESERVED. | MS2490 **12** 
+Match graphs of basic trigonometric functions with their equations
+
+#### F 706
+
+Use trigonometric concepts and basic identities to solve problems
+
+#### F 707
+
+Exhibit knowledge of logarithms
+
+#### F 708
+
+Write an expression for the composite of two simple functions
+
+---
+
+## Geometry (G)
+
+### G Score Range 13–15
+
+#### G 201
+
+Estimate the length of a line segment based on other lengths in a geometric figure
+
+#### G 202
+
+Calculate the length of a line segment based on the lengths of other line segments that go in the same direction (e.g., overlapping line segments and parallel sides of polygons with only right angles)
+
+#### G 203
+
+Perform common conversions of money and of length, weight, mass, and time within a measurement system (e.g., dollars to dimes, inches to feet, and hours to minutes)
+
+### G Score Range 16–19
+
+#### G 301
+
+Exhibit some knowledge of the angles associated with parallel lines
+
+#### G 302
+
+Compute the perimeter of polygons when all side lengths are given
+
+#### G 303
+
+Compute the area of rectangles when whole number dimensions are given
+
+#### G 304
+
+Locate points in the first quadrant
+
+### G Score Range 20–23
+
+#### G 401
+
+Use properties of parallel lines to find the measure of an angle
+
+#### G 402
+
+Exhibit knowledge of basic angle properties and special sums of angle measures (e.g., 90°, 180°, and 360°)
+
+#### G 403
+
+Compute the area and perimeter of triangles and rectangles in simple problems
+
+#### G 404
+
+Find the length of the hypotenuse of a right triangle when only very simple computation is involved (e.g., 3-4-5 and 6-8-10 triangles)
+
+#### G 405
+
+Use geometric formulas when all necessary information is given
+
+#### G 406
+
+Locate points in the coordinate plane
+
+#### G 407
+
+Translate points up, down, left, and right in the coordinate plane
+
+### G Score Range 24–27
+
+#### G 501
+
+Use several angle properties to find an unknown angle measure
+
+#### G 502
+
+Count the number of lines of symmetry of a geometric figure
+
+#### G 503
+
+Use symmetry of isosceles triangles to find unknown side lengths or angle measures
+
+#### G 504
+
+Recognize that real-world measurements are typically imprecise and that an appropriate level of precision is related to the measuring device and procedure
+
+#### G 505
+
+Compute the perimeter of simple composite geometric figures with unknown side lengths
+
+#### G 506
+
+Compute the area of triangles and rectangles when one or more additional simple steps are required
+
+#### G 507
+
+Compute the area and circumference of circles after identifying necessary information
+
+#### G 508
+
+Given the length of two sides of a right triangle, find the third when the lengths are Pythagorean triples
+
+#### G 509
+
+Express the sine, cosine, and tangent of an angle in a right triangle as a ratio of given side lengths
+
+#### G 510
+
+Determine the slope of a line from points or a graph
+
+#### G 511
+
+Find the midpoint of a line segment
+
+#### G 512
+
+Find the coordinates of a point rotated 180° around a given center point
+
+### G Score Range 28–32
+
+#### G 601
+
+Use relationships involving area, perimeter, and volume of geometric figures to compute another measure (e.g., surface area for a cube of a given volume and simple geometric probability)
+
+#### G 602
+
+Use the Pythagorean theorem
+
+#### G 603
+
+Apply properties of 30°-60°-90°, 45°-45°-90°, similar, and congruent triangles
+
+#### G 604
+
+Apply basic trigonometric ratios to solve right-triangle problems
+
+#### G 605
+
+Use the distance formula
+
+#### G 606
+
+Use properties of parallel and perpendicular lines to determine an equation of a line or coordinates of a point
+
+#### G 607
+
+Find the coordinates of a point reflected across a vertical or horizontal line or across *y* = *x*
+
+#### G 608
+
+Find the coordinates of a point rotated 90° about the origin
+
+#### G 609
+
+Recognize special characteristics of parabolas and circles (e.g., the vertex of a parabola and the center or radius of a circle)
+
+### G Score Range 33–36
+
+#### G 701
+
+Use relationships among angles, arcs, and distances in a circle
+
+#### G 702
+
+Compute the area of composite geometric figures when planning and/or visualization is required
+
+#### G 703
+
+Use scale factors to determine the magnitude of a size change
+
+#### G 704
+
+Analyze and draw conclusions based on a set of conditions
+
+#### G 705
+
+Solve multistep geometry problems that involve integrating concepts, planning, and/or visualization
+
+---
+
+## Statistics and Probability (S)
+
+### S Score Range 13–15
+
+#### S 201
+
+Calculate the average of a list of positive whole numbers
+
+#### S 202
+
+Extract one relevant number from a basic table or chart, and use it in a single computation
+
+### S Score Range 16–19
+
+#### S 301
+
+Calculate the average of a list of numbers
+
+#### S 302
+
+Calculate the average given the number of data values and the sum of the data values
+
+#### S 303
+
+Read basic tables and charts
+
+#### S 304
+
+Extract relevant data from a basic table or chart and use the data in a computation
+
+#### S 305
+
+Use the relationship between the probability of an event and the probability of its complement
+
+### S Score Range 20–23
+
+#### S 401
+
+Calculate the missing data value given the average and all data values but one
+
+#### S 402
+
+Translate from one representation of data to another (e.g., a bar graph to a circle graph)
+
+#### S 403
+
+Determine the probability of a simple event
+
+#### S 404
+
+Describe events as combinations of other events (e.g., using *and*, *or*, and *not*)
+
+#### S 405
+
+Exhibit knowledge of simple counting techniques
+
+### S Score Range 24–27
+
+#### S 501
+
+Calculate the average given the frequency counts of all the data values
+
+#### S 502
+
+Manipulate data from tables and charts
+
+#### S 503
+
+Compute straightforward probabilities for common situations
+
+#### S 504
+
+Use Venn diagrams in counting
+
+#### S 505
+
+Recognize that when data summaries are reported in the real world, results are often rounded and must be interpreted as having appropriate precision
+
+#### S 506
+
+Recognize that when a statistical model is used, model values typically differ from actual values
+
+### S Score Range 28–32
+
+#### S 601
+
+Calculate or use a weighted average
+
+#### S 602
+
+Interpret and use information from tables and charts, including two-way frequency tables
+
+#### S 603
+
+Apply counting techniques
+
+#### S 604
+
+Compute a probability when the event and/or sample space are not given or obvious
+
+#### S 605
+
+Recognize the concepts of conditional and joint probability expressed in real-world contexts
+
+#### S 606
+
+Recognize the concept of independence expressed in real-world contexts
+
+### S Score Range 33–36
+
+#### S 701
+
+Distinguish between mean, median, and mode for a list of numbers
+
+#### S 702
+
+Analyze and draw conclusions based on information from tables and charts, including two-way frequency tables
+
+#### S 703
+
+Understand the role of randomization in surveys, experiments, and observational studies
+
+#### S 704
+
+Exhibit knowledge of conditional and joint probability
+
+#### S 705
+
+Recognize that part of the power of statistical modeling comes from looking at regularity in the differences between actual values and model values
+
+---
+
+## Modeling (MOD)
+
+The ACT CCRS does not define separate modeling standards. Modeling is integrated across the other categories: students are expected to apply Number and Quantity, Algebra, Functions, Geometry, and Statistics & Probability standards in modeling contexts (e.g., interpreting real-world data, making predictions, and justifying conclusions). Relevant modeling expectations are embedded within the standards above, particularly in the AF series and in standards that reference real-world or applied contexts.
