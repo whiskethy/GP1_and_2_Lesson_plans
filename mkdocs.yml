@@ -81,6 +81,7 @@ nav:
 plugins:
   - search
   - tags
+  - roamlinks
 
 markdown_extensions:
   - admonition
