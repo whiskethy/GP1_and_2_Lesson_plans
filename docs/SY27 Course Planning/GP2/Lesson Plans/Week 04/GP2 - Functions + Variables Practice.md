@@ -16,42 +16,43 @@ joke: How do you make holy water?
 
 # GP2 Q1 Day 14 — Functions + Variables Practice
 
-**Date:** Fri 9/18 · **Unit:** 1 · **Chunk:** 9 (continued) / 7 (retrieval)
+**Date:** Fri 9/18 · **Unit:** 1 · **Chunk:** 10 (tooling) + 11 (functions) — combined catch-up day
 
 ## Learning Target
 
-Write and call functions independently in Visual Studio. Debug function syntax errors. Commit and push work to GitHub. Apply variable declaration and arithmetic in practice programs.
+Declare and call C++ functions. Use git add, commit, and push in Visual Studio to submit work. Apply variable declaration and arithmetic in practice programs.
 
-**Standards:** CSTA 3A-AP-14 · ACT WME 402, CLR 401, CLR 402
+**Standards:** CSTA 3A-AP-14, 3A-CS-02 · ACT WME 402, CLR 401
 
-**Performance Task Connection:** Consolidation of function fluency and variable retrieval. Without these, students cannot write the Roll-A-Ball functions or read the Code Read.
+**Performance Task Connection:** Git workflow is required for every deliverable. Functions are the structural unit of C++ programming. Both must be in place before students can write or submit any checkpoint work.
 
 ## Do Now
 
-| # | Type    | Question |
+|| # | Type    | Question |
 |---|---------|----------|
-| 1 | Review  | Yesterday you used git add, commit, and push. What does each one do? |
-| 2 | Review  | What is the difference between a void function and a function that returns a value? |
-| 3 | Preview | Today you'll write your first C++ functions and practice combining them with variables. |
+| 1 | Review  | What is the difference between declaring a variable and assigning it a value? |
+| 2 | Review  | Go on Fab.com and get the newest limited time free assets. |
 
 ## Exit Ticket
 
-1. Write a function called multiply that takes two int parameters and returns their product.
-2. Call your multiply function from main() and print the result.
+1. Push your Hello C++ assignment to GitHub.
+2. Write a function called `multiply` that takes two int parameters and returns their product. Call it from main() and print the result.
 
-**Mastery Criteria:** Correctly declares, calls, and commits a function with parameters. Can write a program combining variables and functions.
+**Mastery Criteria:** Successfully pushes a commit to GitHub. Correctly declares, calls, and commits a function with parameters.
 
 ## Agenda
 
 1. Do Now review (5 min)
-2. Functions lesson — declaring, parameters, return values, void (25 min)
-3. Guided practice: write a function, commit and push (15 min)
-4. Independent practice — function + variable exercises in VS (20 min)
-5. Wrap up + commit and push (7 min)
+2. Functions intro — declaring, parameters, return values, void (20 min)
+3. Git workflow walkthrough — clone the repo, add, commit, push (10 min)
+4. Guided practice: Hello C++ assignment — write, compile, commit, push (10 min)
+5. Independent practice — Variables practice assignment (from Tuesday) (20 min)
+6. Start Functions practice assignment (remaining time, finish Monday)
+7. Wrap up — commit and push (7 min)
 
 ## What Changed
 
-Originally Day 14 was a sub day (Functions Practice only). Sub day moved to Day 12 (Mon 9/14). This is now a C day (72 min) with the Functions new-idea lesson plus practice time, since the teaching day shifted here from the cancelled Day 11.
+Originally Day 14 was a sub day (Functions Practice only). Sub day moved to Day 12 (Mon 9/14). This is now a C day (72 min). Git workflow never got taught (Days 10 and 13 ran into issues), so today is the first time students use Git in VS. Functions intro is also new today. The agenda combines both: Functions lesson first, then Git workflow with a simple Hello C++ assignment to learn the pipeline, then Variables practice (pushed from Tuesday), then start Functions practice. Functions practice carries over to Monday (Day 15).
 
 ## Differentiation & Accommodations
 
