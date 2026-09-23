@@ -1,22 +1,22 @@
 ---
 course: GP1
 quarter: Q1
-day: 21
-date: Thu 10/1
-day_type: B
-chunk: '6'
+day: 23
+date: Mon 10/5
+day_type: A
+chunk: '6+8'
 type: new idea (EdPuzzle)
-class_minutes: 72
+class_minutes: 48
 unit: 3
 status: active
-riddle: What has hands but can't clap?
-joke: I wondered why the frisbee kept getting bigger.
+riddle: What has lots of eyes, but can't see?
+joke: Did you hear about the bossy man at the bar?
 sub: false
 ---
 
-# GP1 Q1 Day 21 — Importing & Basic Materials
+# GP1 Q1 Day 23 — Importing & Basic Materials
 
-**Date:** Thu 10/1 · **Unit:** 3 · **Chunk:** 6 + 8
+**Date:** Mon 10/5 · **Unit:** 3 · **Chunks:** 6 + 8
 
 ## Learning Target
 
@@ -31,11 +31,11 @@ Import an FBX asset into Unreal, organize files in the Content Browser, create a
 | Field | Value |
 |---|---|
 | Learning target | Import an FBX asset into Unreal, organize files in the Content Browser, create a basic material, and apply it to an object. |
-| New concept | Asset import (FBX), Content Browser organization, material creation. Two chunks on a B-day: importing (Chunk 6) and basic materials (Chunk 8). |
+| New concept | Asset import (FBX), Content Browser organization, material creation. Two chunks on one day: importing (Chunk 6) and basic materials (Chunk 8) — both covered by Video 08, so this is one video lesson, one new-idea arc. |
 | Content standard | CSTA 3A-CS-01 |
 | ACT standard | WME 402 |
 | Unit performance task link | Importing and materials are required for the level layout practical (Chunk 9). Students must import the ring asset and apply a material. |
-| Rides on | Level Setup & Lights (Day 20). Students can set up a scene with proper lighting. Today they import their own assets and style them. |
+| Rides on | Level Setup & Lights (Day 21). Students can set up a scene with proper lighting. Today they import their own assets and style them. |
 | Vocabulary | FBX, import, Content Browser, folder structure, naming conventions (M_, SM_), material, base color, emissive, opacity, translucent, blend mode |
 | Prior-knowledge gaps | File paths and folder navigation (from Unit 1). The video walks through importing step by step. |
 
@@ -49,7 +49,6 @@ Import an FBX asset into Unreal, organize files in the Content Browser, create a
 
 **Agenda**
 
-0. Enter class → open your Unreal project. Download the ring asset from the Google Drive link on the worksheet.
 1. Do Now review (5 min)
 2. EdPuzzle Video 08 — Importing & Basic Materials (approx. 16-22 min with pauses)
 3. Guided practice: import the ring asset, create folders, create a material, apply it (20 min)
@@ -69,7 +68,7 @@ Import an FBX asset into Unreal, organize files in the Content Browser, create a
 - **Engagement:** Importing a real asset (the ring) that will be used in upcoming Blueprint lessons gives students ownership. Materials are immediately visual.
 - **Representation:** Video provides step-by-step visual demo. Folder structure diagram on the board (Content → Meshes, Materials, Blueprints). Naming convention reference card (SM_, M_, BP_).
 - **Action & Expression:** Exit ticket written or verbal. Students choose their own material colors and opacity levels.
-- **Accommodations:** Printed step list for importing and material creation. Extended time on the B-day. Pair-programming for students struggling with file navigation.
+- **Accommodations:** Printed step list for importing and material creation. Extended time. Pair-programming for students struggling with file navigation.
 - **Student Voice:** Students choose their own material colors and opacity levels.
 
 ## Materials
@@ -87,4 +86,4 @@ Import an FBX asset into Unreal, organize files in the Content Browser, create a
 
 ## Connections
 
-← [[GP1 Q1 Day 20 - Level Setup & Lights (Sub)]] | [[GP1 Q1 Calendar]] | [[GP1 Q1 - Days 15-25 TBD]] →
+← [[GP1 - Importing & Materials]] | [[GP1 Q1 Calendar]] | [[GP1 Q1 - Days 26-33 TBD]] →

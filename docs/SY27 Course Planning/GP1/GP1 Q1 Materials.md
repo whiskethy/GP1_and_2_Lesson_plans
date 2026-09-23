@@ -12,6 +12,7 @@ updated: 2026-09-08
 
 | Item | For Chunk(s) | Link |
 |------|-------------|------|
+| GP1 Task List (student-facing) | Ongoing | [Sheet](https://docs.google.com/spreadsheets/d/1j47jieaU-_4DD5jxINgxpLh8GKNHjOLj-tRlTRl-YQg/edit) — state tracked in [[GP1 Task List State]] |
 | GP1 Unit 1 Slides (96 slides) | Chunks 1–8 | [Drive](https://docs.google.com/presentation/d/12TPm76DITlUzEaebpKf8hTZLx5J_oMMuf189iACKqrU/edit) |
 | Game Engine Notes (43+ slides) | Chunks 9–11 | [Drive](https://docs.google.com/presentation/d/18Bmk0XdICuy0gxQAMjgrTDGpEfoDQApchPI7A6XW85A/edit) |
 | Game Development Intro Slideshow | Supplemental | [Drive](https://docs.google.com/presentation/d/1BaqOz1LlQt4XYGUuRhivheIe7GhIIVGaOY5h4I7ZMJY/edit) |

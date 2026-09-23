@@ -12,6 +12,8 @@ status: planned
 
 Chunks 3–14 (Days 15–25) cover: placement/transforms, snapping/pivot, light types, importing assets, Content Browser, basic materials, checkpoint, GitHub Desktop, compiling vs. interpreting + BP first contact, bp variables, class vs. instance, actor/pawn/character hierarchy + checkpoint.
 
+**Days 15-21 and 23 are now built as day files** (video-block shift applied 2026-09-23 — see [[GP1 Sub Prep - Sept 2026]]). This placeholder now only covers Days 24-25.
+
 **All materials NOT BUILT** — Unit 3 slide deck, checkpoint rubrics, build guides.
 
 Build out individual day files as you plan each week.

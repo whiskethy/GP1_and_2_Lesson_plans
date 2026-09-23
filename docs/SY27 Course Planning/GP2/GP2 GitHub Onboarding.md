@@ -57,15 +57,13 @@ GitHub Desktop downloads the repo to that folder.
 
 ---
 
-## Part 3: Open the Code in Visual Studio
+## Part 3: Open the Project in Visual Studio
 
-### Step 6 — Open the project
+### Step 6 — Open the solution
 
-In GitHub Desktop, click **Open in Visual Studio** (also under the **Repository** menu).
+Open Visual Studio. Go to **File → Open → Project/Solution**, navigate to where you cloned the repo, and open the `.sln` file (for example, `hello-cpp.sln`).
 
-If that doesn't work, open Visual Studio manually: **File → Open → Folder**, then navigate to where you cloned the repo.
-
-You should see `main.cpp` in the Solution Explorer. Open it.
+You should see `main.cpp` in the Solution Explorer. Double-click it to open.
 
 ---
 
@@ -154,7 +152,7 @@ After your first assignment, every new one is the same four steps:
 
 1. **Accept** — click the assignment in Classmoji
 2. **Clone** — GitHub Desktop → File → Clone Repository → paste the URL
-3. **Edit** — open in Visual Studio, make your changes, test locally
+3. **Edit** — open the `.sln` in Visual Studio, make your changes, test locally
 4. **Push** — GitHub Desktop → commit → Push origin
 
 Then check your score on Classmoji. Repeat if you need to.

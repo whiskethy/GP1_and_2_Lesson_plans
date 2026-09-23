@@ -96,7 +96,7 @@ Standards are reused across quarters on purpose. A standard hit once is not taug
 - **Q3 and Q4 videos** - [2D Platformer playlist](https://www.youtube.com/playlist?list=PLgLkLzgyXDdm-noPnni6jMYcBz3vE6FuT), 22 videos, 4h 47m.
 - **Glossary** - [[Unreal Terms & Concepts]].
 - **Epic documentation** (the reading spine of the course) - [Enhanced Input](https://dev.epicgames.com/documentation/en-us/unreal-engine/enhanced-input-in-unreal-engine), [asset naming conventions](https://dev.epicgames.com/documentation/en-us/unreal-engine/recommended-asset-naming-conventions-in-unreal-engine-projects), UMG and Widget Blueprints, Spring Arm Component, Landscape, Niagara, Behavior Trees, packaging.
-- **Assets** - [Kenney pixel assets](https://kenney.nl/assets/tag:pixel), [Spriters Resource](https://www.spriters-resource.com/), [OpenGameArt](https://opengameart.org/), [Craftpix](https://craftpix.net/sets/), [512 8-bit sound effects](https://opengameart.org/content/512-sound-effects-8-bit-style), Fab.com. Note: itch.io is blocked at school.
+- **Assets** - [Kenney pixel assets](https://kenney.nl/assets/tag:pixel), [Spriters Resource](https://www.spriters-resource.com/), [OpenGameArt](https://opengameart.org/), [Craftpix](https://craftpix.net/sets/), [512 8-bit sound effects](https://opengameart.org/content/512-sound-effects-8-bit-style), [Poly Pizza](https://poly.pizza/) (free low-poly 3D models), [Poly Haven](https://polyhaven.com/) (free PBR 3D models, HDRIs, textures), Fab.com. Note: itch.io is blocked at school.
 - **Lab** - see [[Computer Lab Setup]].
 
 ---
@@ -176,7 +176,7 @@ Unit 3 expanded from 13 to 14 meetings: one new Exploring Unreal Engine day at t
 
 **Sub coverage needed Mon 9/14.** Nick is out. GP1 Day 12 is a reading day (game engine article), no new instruction. See [[GP1 Q1 Day 12 - Reading Day (Sub)]].
 
-**Sub coverage needed, 9/24–9/30/26.** Nick is out of town and a certified substitute with no content knowledge will cover GP1's Thu 9/24 (long/B-day), Tue 9/29, and Wed 9/30 meetings. These 3 days should land inside Unit 3, most likely on practice/consolidation days rather than new-idea instruction. Materials to be built closer to the date once the actual chunk is known.
+**Sub coverage needed, 9/24–9/30/26.** Nick is out of town and a certified substitute with no content knowledge will cover GP1's Thu 9/24 (long/B-day), Tue 9/29, Wed 9/30, and Thu 10/1 (long/B-day) meetings. These 4 days land inside Unit 3 as EdPuzzle video + worksheet days — no new instruction from the sub. **Re-paced 2026-09-23:** Day 15 ran long on Video 01, so Day 16 was re-aimed to finish Video 02 and the whole video block shifted one meeting. Days 17-21 now cover Basic Placement Tools (Video 03), Transforms (Video 04), Rotation (Video 05), Scale (Video 06), and Level Setup (Video 07 + full Transforms Worksheet consolidation). Importing & Materials (Video 08, Chunks 6+8) moved from Day 21 to Day 23, eating one TBD day. See [[GP1 Sub Prep - Sept 2026]] for the applied plan. Known flag: the hardest chunk (coordinate math, Video 04) lands on a sub day instead of a live day.
 
 ### Priority Content Standards
 

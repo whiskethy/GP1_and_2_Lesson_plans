@@ -9,6 +9,8 @@ created: 2026-08-23
 
 A working reference for planning GP1/GP2 lessons — not a literature review. Built from backward design (Wiggins & McTighe), cognitive load / deep-thinking curriculum research (Sweller, Surma & Kirschner), explicit-instruction research (Rosenshine), Gold Standard PBL (PBLWorks / Ron Berger), and course-design practice from CS50 (Malan) and MIT 6.100L (Bell). Full source list at the bottom.
 
+**The school's formal lesson-plan look-fors rubric (8 categories, 10 indicators) is not duplicated here.** It lives in one place: `note-taking/lesson-building/references/lesson-evaluation-look-fors.md` in Sena's skills, cross-mapped to the four-lens check there. If you're looking for it, that's the file -- don't recreate it here.
+
 ## 1. The core principles, synthesized
 
 These sources converge on the same handful of ideas from different angles. Treat them as one system, not five separate frameworks.

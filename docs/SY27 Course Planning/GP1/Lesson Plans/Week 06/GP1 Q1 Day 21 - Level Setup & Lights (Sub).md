@@ -1,24 +1,24 @@
 ---
 course: GP1
 quarter: Q1
-day: 20
-date: Wed 9/30
-day_type: A
+day: 21
+date: Thu 10/1
+day_type: B
 chunk: '3+5'
 type: video + consolidation (sub)
-class_minutes: 48
+class_minutes: 72
 unit: 3
 status: active
-riddle: What has a thumb and four fingers but is not a hand?
-joke: I used to work at a soft drink can crushing company.
+riddle: What has hands but can't clap?
+joke: I wondered why the frisbee kept getting bigger.
 sub: true
 ---
 
-# GP1 Q1 Day 20 — Level Setup & Transforms Consolidation (Sub)
+# GP1 Q1 Day 21 — Level Setup & Transforms Consolidation (Sub)
 
-**Date:** Wed 9/30 · **Unit:** 3 · **Chunks:** 3 (consolidation) + 5 (level setup/lights)
+**Date:** Thu 10/1 · **Unit:** 3 · **Chunks:** 5 (level setup/lights) + 3 (consolidation)
 
-> **Sub coverage.** Nick is out. Students watch EdPuzzle Video 07 (Level Setup) and complete the full Transforms Worksheet (Parts 1-5), consolidating location, rotation, and scale skills from Videos 04-06.
+> **Sub coverage.** Nick is out. Students watch EdPuzzle Video 07 (Level Setup) and complete the full Transforms Worksheet (Parts 1-5), consolidating location, rotation, and scale skills from Videos 04-06. Nick is back tomorrow; no new instruction today.
 
 ## Learning Target
 
@@ -33,28 +33,30 @@ Apply location, rotation, and scale transforms to place objects at specific posi
 | Field | Value |
 |---|---|
 | Learning target | Apply location, rotation, and scale transforms to place objects at specific positions, orientations, and sizes. Identify and place light types in Unreal. |
-| New concept | Level setup and light types (from Video 07). Consolidation of transforms (worksheet). |
+| New concept | Level setup and light types (from Video 07). Consolidation of transforms (full worksheet). |
 | Content standard | CSTA 3A-CS-01 |
 | ACT standard | G 406, G 407, WME 402 |
 | Unit performance task link | Transform fluency and lighting are both required for the level layout practical (Chunk 9). |
-| Rides on | Transforms (Days 17-19) and Scale (Day 19). Today students consolidate all transform skills and add lighting. |
+| Rides on | Scale (Day 20). Today students consolidate all transform skills and add lighting. |
 | Vocabulary | Review: translate, rotate, scale, Move tool (W), Rotate tool (E), Scale tool (R), X/Y/Z axes, pitch/yaw/roll, uniform/non-uniform scale. New: Directional Light, Sky Light, Point Light, Spot Light, Static, Stationary, Movable |
 | Prior-knowledge gaps | Coordinate plane, signed numbers, proportional reasoning. All previewed in prior Do Nows. |
 
 **Do Now** (retrieval, on worksheet)
 
-| #   | Type    | Question                                                                                  |
-| --- | ------- | ----------------------------------------------------------------------------------------- |
-| 1   | Review  | What are the three transform tools and their keyboard shortcuts?                          |
-| 2   | Review  | An object is at X=0, Y=0, Z=100. You change X to -200. Where is the object now?           |
-| 3   | Preview | Think about a room in your house at night. How many different light sources can you name? |
+| # | Type | Question |
+|---|---------|----------|
+| 1 | Review | What are the three transform tools and their keyboard shortcuts? |
+| 2 | Review | An object is at X=0, Y=0, Z=100. You change X to -200. Where is the object now? |
+| 3 | Preview | Think about a room in your house at night. How many different light sources can you name? |
 
 **Agenda for sub**
 
 > 1. Students enter and start the Do Now on the Transforms Worksheet (5 min)
 > 2. EdPuzzle Video 07 — Level Setup (approx. 20-28 min with pauses)
 > 3. Students complete the Transforms Worksheet (Parts 1-5: coordinate basics, location, rotation, scale, challenge) (15 min)
-> 4. Exit ticket on the worksheet (5 min)
+> 4. Independent practice: add lights to the scene from the video and place objects to match the challenge section (20 min)
+> 5. Exit ticket on the worksheet (5 min)
+> 6. If time remains, students catch up on any outstanding video tasks or worksheet parts (17 min)
 >
 > The sub does NOT need to teach any content. The EdPuzzle video covers lighting content. The worksheet consolidates transform skills from the past three days. The sub's role is to circulate, keep students on task, and collect completed worksheets at the end of the period.
 
@@ -68,10 +70,12 @@ Apply location, rotation, and scale transforms to place objects at specific posi
 
 ## Agenda
 
-0. Enter class → open Unreal project, start Do Now on Transforms Worksheet (5 min)
-1. EdPuzzle Video 07 — Level Setup (approx. 20-28 min) (28 min)
-2. Transforms Worksheet Parts 1-5 (consolidation of transforms) (15 min)
-3. Exit ticket on worksheet (5 min)
+1. Do Now on Transforms Worksheet (5 min)
+2. EdPuzzle Video 07 — Level Setup (approx. 20-28 min) (28 min)
+3. Transforms Worksheet Parts 1-5 (consolidation of transforms) (15 min)
+4. Independent: lights + challenge section (20 min)
+5. Exit ticket on worksheet (5 min)
+6. Catch-up on outstanding work if time remains (17 min)
 
 ## Differentiation & Accommodations
 
@@ -94,4 +98,4 @@ Apply location, rotation, and scale transforms to place objects at specific posi
 
 ## Connections
 
-← [[GP1 Q1 Day 19 - Scale (Sub)]] | [[GP1 Q1 Calendar]] | [[GP1 Q1 Day 21 - Importing & Materials]] →
+← [[GP1 Q1 Day 20 - Scale (Sub)]] | [[GP1 Q1 Calendar]] | [[GP1 - Importing & Materials]] →

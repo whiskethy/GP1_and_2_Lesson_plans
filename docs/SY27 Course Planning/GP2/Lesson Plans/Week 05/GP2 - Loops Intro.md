@@ -9,7 +9,7 @@ type: new idea (loops)
 class_minutes: 48
 unit: 1
 status: active
-updated: 2026-09-13
+updated: 2026-09-22
 riddle: What can you catch, but not throw?
 joke: What did the ocean say to the beach?
 sub: false
@@ -18,6 +18,8 @@ sub: false
 # GP2 Q1 Day 17 — Loops Intro
 
 **Date:** Wed 9/23 · **Unit:** 1 · **Chunk:** 14
+
+> **Where the Class Actually Is:** Day 16 carried over the rest of Variables Practice — only name-and-age got done; rectangle-area and temperature-converter are still open. This day's plan needs to make room for that before its own planned content (Loops Intro). Not yet reconciled — run daily-prep before teaching this.
 
 ## Learning Target
 

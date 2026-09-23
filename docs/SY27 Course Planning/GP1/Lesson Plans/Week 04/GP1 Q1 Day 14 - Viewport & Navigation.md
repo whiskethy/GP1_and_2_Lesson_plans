@@ -92,6 +92,8 @@ Navigate the Unreal viewport using orbit, fly, and focus controls, and identify 
 
 ## Notes after teaching
 
+Half the class was out on a field trip. Students present worked through the in-engine tutorial project. The navigation demo and coordinate-axes coverage did not happen, and panel names got no depth beyond PIE. Absent students do not need to make it up — Day 15 treats everyone as a fresh start with one or two sessions in Unreal total.
+
 ## Connections
 
 ← [[GP1 Q1 Day 13 - Exploring Unreal Engine]] | [[GP1 Q1 Calendar]] | [[GP1 Q1 Day 15 - EdPuzzle Videos 01 & 02]] →

@@ -3,7 +3,7 @@ course: GP1
 quarter: Q1
 type: reference
 status: active
-updated: 2026-09-17
+updated: 2026-09-23
 ---
 
 # GP1 Q1 Calendar
@@ -53,24 +53,24 @@ GP1 meets Mon/Tue/Wed (A, 48 min) and Thu (B, 72 min). No Friday class.
 | Day | Date | Type | Min | Unit | Lesson | Link |
 |-----|------|------|-----|------|--------|------|
 | 15 | Mon 9/21 | A | 48 | 3 | EdPuzzle Videos 01 & 02 | [[GP1 Q1 Day 15 - EdPuzzle Videos 01 & 02]] |
-| 16 | Tue 9/22 | A | 48 | 3 | Basic Placement Tools | [[GP1 Q1 Day 16 - Basic Placement Tools]] |
-| 17 | Wed 9/23 | A | 48 | 3 | Transforms | [[GP1 Q1 Day 17 - Transforms]] |
-| 18 | Thu 9/24 | B | 72 | 3 | Rotation (sub) | [[GP1 Q1 Day 18 - Rotation (Sub)]] |
+| 16 | Tue 9/22 | A | 48 | 3 | Finish Video 02 + retake announcement | [[GP1 Q1 Day 16 - Basic Placement Tools]] |
+| 17 | Wed 9/23 | A | 48 | 3 | Basic Placement Tools + quiz retake | [[GP1 Q1 Day 17 - Basic Placement Tools]] |
+| 18 | Thu 9/24 | B | 72 | 3 | Transforms (sub) | [[GP1 Q1 Day 18 - Transforms (Sub)]] |
 
 ### W06: Sep 28–Oct 2 (Days 19–21) — Unit 3: Unreal Editor & First Blueprints
 
 | Day | Date | Type | Min | Unit | Lesson | Link |
 |-----|------|------|-----|------|--------|------|
 | — | Mon 9/28 | — | — | | *Staff PD — no school* | |
-| 19 | Tue 9/29 | A | 48 | 3 | Scale (sub) | [[GP1 Q1 Day 19 - Scale (Sub)]] |
-| 20 | Wed 9/30 | A | 48 | 3 | Level Setup & Transforms Consolidation (sub) | [[GP1 Q1 Day 20 - Level Setup & Lights (Sub)]] |
-| 21 | Thu 10/1 | B | 72 | 3 | Importing & Materials | [[GP1 Q1 Day 21 - Importing & Materials]] |
+| 19 | Tue 9/29 | A | 48 | 3 | Rotation (sub) | [[GP1 Q1 Day 19 - Rotation (Sub)]] |
+| 20 | Wed 9/30 | A | 48 | 3 | Scale (sub) | [[GP1 Q1 Day 20 - Scale (Sub)]] |
+| 21 | Thu 10/1 | B | 72 | 3 | Level Setup & Transforms Consolidation (sub) | [[GP1 Q1 Day 21 - Level Setup & Lights (Sub)]] |
 
 ### W07: Oct 5–9 (Days 23–25) — Unit 3: Unreal Editor & First Blueprints
 
 | Day | Date | Type | Min | Unit | Lesson | Link |
 |-----|------|------|-----|------|--------|------|
-| 23 | Mon 10/5 | A | 48 | 3 | TBD | [[GP1 Q1 - Days 15-25 TBD]] |
+| 23 | Mon 10/5 | A | 48 | 3 | Importing & Materials | [[GP1 Q1 Day 23 - Importing & Materials]] |
 | 24 | Tue 10/6 | A | 48 | 3 | TBD | [[GP1 Q1 - Days 15-25 TBD]] |
 | 25 | Wed 10/7 | A | 48 | 3 | TBD | [[GP1 Q1 - Days 15-25 TBD]] |
 

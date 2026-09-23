@@ -31,7 +31,7 @@ Declare and call C++ functions. Use git add, commit, and push in Visual Studio t
 || # | Type    | Question |
 |---|---------|----------|
 | 1 | Review  | What is the difference between declaring a variable and assigning it a value? |
-| 2 | Review  | Go on Fab.com and get the newest limited time free assets. |
+| 2 | Review  | What does `cout <<` do, and where does the output appear? |
 
 ## Exit Ticket
 
@@ -69,6 +69,12 @@ Originally Day 14 was a sub day (Functions Practice only). Sub day moved to Day 
 | Unit 1 Slides (185-198) | ✅ | [Drive](https://docs.google.com/presentation/d/1_kJrQM3yrKd2PUwhgPgngTF1KFGCZuni8POx-tua1gs/edit) |
 | Unit 1 Practice Programs (Slides 1-131) | ✅ | [Drive](https://docs.google.com/document/d/1Ni_OKgzrKJoFTAu3D-lTN19brjXyQmmvvSSYoamnnZc/edit) |
 | C++ Cheatsheet | ✅ | [Drive](https://docs.google.com/document/d/1F8eBV2oAfG8TkWrooIXVzs92VJaCUxbMWcU6m6KETbY/edit) |
+
+## Notes after teaching
+
+Functions lesson went well. Classmoji broke partway through so the practice activities (git workflow, variables practice, functions practice) didn't happen. Functions intro was delivered; practice carries to Day 15.
+
+Day 15 (Mon 9/21): Students got the Variables Practice assignment open and got partway through the first problem. Rest of the practice carries to Day 16.
 
 ## Connections
 

@@ -1,24 +1,24 @@
 ---
 course: GP1
 quarter: Q1
-day: 18
-date: Thu 9/24
-day_type: B
+day: 19
+date: Tue 9/29
+day_type: A
 chunk: '3'
 type: video (sub)
-class_minutes: 72
+class_minutes: 48
 unit: 3
 status: active
-riddle: What has 13 hearts but no other organs?
-joke: Did you hear about the restaurant on the moon?
+riddle: What has a bottom at the top?
+joke: How do you organize a space party?
 sub: true
 ---
 
-# GP1 Q1 Day 18 — Rotation (Sub)
+# GP1 Q1 Day 19 — Rotation (Sub)
 
-**Date:** Thu 9/24 · **Unit:** 3 · **Chunk:** 3 (rotation)
+**Date:** Tue 9/29 · **Unit:** 3 · **Chunk:** 3 (rotation)
 
-> **Sub coverage.** Nick is out. Students watch EdPuzzle Video 05 and complete the Transforms Worksheet (Parts 3-4: rotation and scale sections).
+> **Sub coverage.** Nick is out. Students watch EdPuzzle Video 05 and complete the rotation section of the Transforms Worksheet (Part 3).
 
 ## Learning Target
 
@@ -37,7 +37,7 @@ Use Unreal's Rotate tool to change object orientation, and explain how pitch, ya
 | Content standard | CSTA 3A-CS-01 |
 | ACT standard | G 406, G 407, WME 402 |
 | Unit performance task link | Rotation is required for the level layout practical (Chunk 9). Objects like rings and props need correct orientation. |
-| Rides on | Transforms (Day 17) — students understand location coordinates. Today they add rotation. |
+| Rides on | Transforms (Day 18) — students understand location coordinates. Today they add rotation. |
 | Vocabulary | rotate, pitch, yaw, roll, Rotate tool (E key), rotation rings |
 | Prior-knowledge gaps | Signed rotation values (negative = opposite direction). |
 
@@ -55,7 +55,7 @@ Use Unreal's Rotate tool to change object orientation, and explain how pitch, ya
 > 2. EdPuzzle Video 05 — Rotation + worksheet Part 3 (rotation section) (25 min)
 > 3. Independent practice: rotation challenges on worksheet (20 min)
 > 4. Exit ticket on worksheet (5 min)
-> 5. If time remains, students explore rotation with different objects (17 min)
+> 5. If time remains, students explore rotation with different objects (17 min — B-day length was trimmed for this A day; use remaining minutes for catch-up on any outstanding work)
 >
 > The sub does NOT need to teach any content. All instruction is in the EdPuzzle video and the worksheet. The sub's role is to circulate, keep students on task, and collect completed worksheets at the end of the period.
 
@@ -69,18 +69,18 @@ Use Unreal's Rotate tool to change object orientation, and explain how pitch, ya
 
 ## Agenda
 
-0. Enter class → open Unreal project, start Do Now on worksheet (5 min)
-1. EdPuzzle Video 05 + worksheet Part 3 (rotation) (25 min)
-2. Independent: worksheet rotation challenges (20 min)
-3. Exit ticket on worksheet (5 min)
-4. Independent exploration if time remains (17 min)
+1. Do Now on worksheet (5 min)
+2. EdPuzzle Video 05 + worksheet Part 3 (rotation) (25 min)
+3. Independent: worksheet rotation challenges (20 min)
+4. Exit ticket on worksheet (5 min)
+5. Catch-up or independent rotation exploration if time remains
 
 ## Differentiation & Accommodations
 
 - **Engagement:** EdPuzzle video pauses for embedded questions. Rotation challenges on the worksheet are hands-on.
 - **Representation:** Video provides visual demo of each rotation ring. Axis diagram on the worksheet.
 - **Action & Expression:** Exit ticket on worksheet (written). Students work at their own pace.
-- **Accommodations:** Extended time on the 72-minute B-day. Students who finish early can try rotating objects to match screenshot challenges. Pair seating for verbal check-ins.
+- **Accommodations:** Extended time. Students who finish early can try rotating objects to match screenshot challenges. Pair seating for verbal check-ins.
 - **Student Voice:** Students choose which objects to rotate in practice.
 
 ## Materials
@@ -96,4 +96,4 @@ Use Unreal's Rotate tool to change object orientation, and explain how pitch, ya
 
 ## Connections
 
-← [[GP1 Q1 Day 17 - Transforms]] | [[GP1 Q1 Calendar]] | [[GP1 Q1 Day 19 - Scale (Sub)]] →
+← [[GP1 Q1 Day 18 - Transforms (Sub)]] | [[GP1 Q1 Calendar]] | [[GP1 Q1 Day 20 - Scale (Sub)]] →

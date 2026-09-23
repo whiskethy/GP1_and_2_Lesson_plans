@@ -54,8 +54,8 @@ Meeting pattern: Mon/Tue/Wed A (48 min), Fri C (72 min). No Thursday class.
 
 | Day | Date | Type | Min | Unit | Topic | Link |
 |-----|------|------|-----|------|-------|------|
-| 15 | Mon 9/21 | A | 48 | 1 | Conditionals | [[GP2 - Conditionals]] |
-| 16 | Tue 9/22 | A | 48 | 1 | Conditionals Practice | [[GP2 - Conditionals Practice]] |
+| 15 | Mon 9/21 | A | 48 | 1 | Functions + Variables Practice | [[GP2 - Functions + Variables Practice (Day 15)]] |
+| 16 | Tue 9/22 | A | 48 | 1 | Variables Practice (cont.) | [[GP2 - Conditionals Practice]] |
 | 17 | Wed 9/23 | A | 48 | 1 | Loops Intro | [[GP2 - Loops Intro]] |
 | 18 | Fri 9/25 | C | 72 | 1 | Loops Practice + Scope (Sub) | [[GP2 - Loops Practice + Scope (Sub)]] |
 

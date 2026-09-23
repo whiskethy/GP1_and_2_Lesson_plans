@@ -1,24 +1,24 @@
 ---
 course: GP1
 quarter: Q1
-day: 19
-date: Tue 9/29
+day: 20
+date: Wed 9/30
 day_type: A
 chunk: '3'
 type: video (sub)
 class_minutes: 48
 unit: 3
 status: active
-riddle: What has a bottom at the top?
-joke: How do you organize a space party?
+riddle: What has a thumb and four fingers but is not a hand?
+joke: I used to work at a soft drink can crushing company.
 sub: true
 ---
 
-# GP1 Q1 Day 19 — Scale (Sub)
+# GP1 Q1 Day 20 — Scale (Sub)
 
-**Date:** Tue 9/29 · **Unit:** 3 · **Chunk:** 3 (scale)
+**Date:** Wed 9/30 · **Unit:** 3 · **Chunk:** 3 (scale)
 
-> **Sub coverage.** Nick is out. Students watch EdPuzzle Video 06 and practice scale in Unreal. No worksheet today — the full Transforms Worksheet is tomorrow.
+> **Sub coverage.** Nick is out. Students watch EdPuzzle Video 06 and practice scale in Unreal, completing the scale section of the Transforms Worksheet (Part 4). The full worksheet consolidation is tomorrow.
 
 ## Learning Target
 
@@ -37,7 +37,7 @@ Use Unreal's Scale tool to resize objects, and explain the difference between un
 | Content standard | CSTA 3A-CS-01 |
 | ACT standard | G 406, G 407, WME 402 |
 | Unit performance task link | Scale is required for the level layout practical (Chunk 9). Objects must be correctly proportioned. |
-| Rides on | Rotation (Day 18) — students can rotate objects. Today they add scale. |
+| Rides on | Rotation (Day 19) — students can rotate objects. Today they add scale. |
 | Vocabulary | scale, Scale tool (R key), uniform scale, non-uniform scale, vertices |
 | Prior-knowledge gaps | Proportional reasoning for scale (AF 401). |
 
@@ -54,7 +54,7 @@ Use Unreal's Scale tool to resize objects, and explain the difference between un
 > 1. Students enter and start the Do Now on the worksheet (5 min)
 > 2. EdPuzzle Video 06 — Scale (approx. 13-19 min with pauses)
 > 3. Students practice scale in Unreal: uniform and non-uniform scaling, reset to default (10 min)
-> 4. Independent practice: scale challenges in Unreal (place objects, scale them to match descriptions) (25 min)
+> 4. Independent practice: scale challenges in Unreal (place objects, scale them to match descriptions) + worksheet Part 4 (25 min)
 > 5. Wrap-up: collect exit tickets (3 min)
 >
 > The sub does NOT need to teach any content. All instruction is in the EdPuzzle video. The sub's role is to circulate, keep students on task, and collect exit tickets at the end of the period.
@@ -69,11 +69,11 @@ Use Unreal's Scale tool to resize objects, and explain the difference between un
 
 ## Agenda
 
-0. Enter class → open Unreal project, start Do Now on worksheet (5 min)
-1. EdPuzzle Video 06 (approx. 13-19 min with pauses) (20 min)
-2. Guided practice: uniform and non-uniform scaling in Unreal (10 min)
-3. Independent: scale challenges in Unreal (13 min)
-4. Exit ticket (3 min)
+1. Do Now on worksheet (5 min)
+2. EdPuzzle Video 06 (approx. 13-19 min with pauses) (20 min)
+3. Guided practice: uniform and non-uniform scaling in Unreal (10 min)
+4. Independent: scale challenges + worksheet Part 4 (13 min)
+5. Exit ticket (3 min)
 
 ## Differentiation & Accommodations
 
@@ -88,6 +88,8 @@ Use Unreal's Scale tool to resize objects, and explain the difference between un
 | Item | Status | Link |
 |------|--------|------|
 | EdPuzzle: Video 06 — Scale | ✅ | [[SY27 Q1 - Video 06 - Scale#SY27 EdPuzzle]] |
+| Transforms worksheet (source) | ✅ | [[GP1 Worksheets/GP1 - Transforms Worksheet]] |
+| Transforms worksheet (student copy) | NOT BUILT | |
 | Epic Games Launcher + Unreal Engine 5 | ✅ | Lab setup |
 | Sub instructions (printed) | NOT BUILT | |
 
@@ -95,4 +97,4 @@ Use Unreal's Scale tool to resize objects, and explain the difference between un
 
 ## Connections
 
-← [[GP1 Q1 Day 18 - Rotation (Sub)]] | [[GP1 Q1 Calendar]] | [[GP1 Q1 Day 20 - Level Setup & Lights (Sub)]] →
+← [[GP1 Q1 Day 19 - Rotation (Sub)]] | [[GP1 Q1 Calendar]] | [[GP1 Q1 Day 21 - Level Setup & Lights (Sub)]] →

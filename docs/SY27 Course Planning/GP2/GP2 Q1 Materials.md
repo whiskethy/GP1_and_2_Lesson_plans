@@ -13,6 +13,7 @@ updated: 2026-09-09
 
 | Item | For Chunk(s) | Status | Link |
 |------|-------------|--------|------|
+| GP2 Task List (student-facing) | Ongoing | ✅ | [Sheet](https://docs.google.com/spreadsheets/d/1LuTvMY9skYo7hUeUB0MmfR3dfUuJcnZXleiHXMQR5BU/edit) — state tracked in [[GP2 Task List State]] |
 | GP2 Unit 1 Slides (198 slides) | Chunks 1–15 | ✅ | [Drive](https://docs.google.com/presentation/d/1_kJrQM3yrKd2PUwhgPgngTF1KFGCZuni8POx-tua1gs/edit) |
 | GP2 Day 1 Do Now/Exit Ticket | Chunk 1 | ✅ | [Drive](https://docs.google.com/document/d/1RmasCgn-QSahEk7Ph_wPA4Pw_kNXPuPm/edit) |
 | GP2 Day 2 Do Now/Exit Ticket | Chunk 5 | ✅ | [Drive](https://docs.google.com/document/d/1MTrwXlekH5NibnF9y0rjB0Qq8-CgAbrSgSkEyPmy46w/edit) |

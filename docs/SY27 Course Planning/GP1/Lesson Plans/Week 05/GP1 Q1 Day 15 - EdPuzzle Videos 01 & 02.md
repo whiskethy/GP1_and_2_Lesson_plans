@@ -19,6 +19,8 @@ sub: false
 **Date:** Mon 9/21 · **Unit:** 3 · **Chunks:** 1-2 (review)
 
 > **Review day.** Students watch EdPuzzle Videos 01 and 02, reinforcing what they explored on Days 13-14. No new instruction — the videos re-cover editor panels, project creation, viewport navigation, levels, and multi-view placement.
+>
+> **Reality check after Day 14:** half the class was on a field trip and the navigation demo never happened. Treat today as a fresh start — most students have been in Unreal once or twice. The videos are first instruction for most of the room, not review.
 
 ## Learning Target
 
@@ -39,19 +41,19 @@ Reinforce understanding of the Unreal Editor interface, project creation, viewpo
 | Unit performance task link | Viewport and editor fluency is prerequisite for every subsequent task. Students who cannot navigate confidently will fall behind on transforms and lighting. |
 | Rides on | Exploring Unreal Engine (Day 13) and Viewport & Navigation (Day 14). |
 | Vocabulary | Review: project, template, viewport, Content Browser, Details panel, Outliner, orbit, fly, pan, zoom, focus (F key), level, save, perspective, orthographic, wireframe, lit |
-| Prior-knowledge gaps | Students who missed Days 13-14 need extra support. The videos provide the instruction they missed. |
+| Prior-knowledge gaps | Most of the class was absent for Day 14's tutorial (field trip) and Day 13's coverage was light. Treat the whole room as new to the editor. The videos carry the instruction; the Do Now leans only on PIE, which everyone did see. |
 
 **Do Now** (retrieval, not a cold open)
 
 | # | Type | Question |
 |---|---------|----------|
-| 1 | Review | Name the four main panels in the Unreal Editor and what each one shows you. |
-| 2 | Review | What are two ways to navigate the viewport? |
+| 1 | Review | What does PIE stand for, and what do you use it for? |
+| 2 | Review | What's one way to look at your level from a different angle in the viewport? |
 | 3 | Preview | What is the difference between perspective and orthographic views? |
 
 **Agenda**
 
-0. Enter class → open your Unreal project from last week. If you did not create one, follow the step list to create a new Blank project with Starter Content.
+0. Enter class → open Unreal. If you do not have a project yet, Video 01 walks through creating a Blank project with Starter Content.
 1. Do Now review (5 min)
 2. EdPuzzle Video 01 — Getting Started (approx. 18-25 min with pauses)
 3. EdPuzzle Video 02 — Levels and the Viewport (approx. 25-35 min with pauses)
@@ -81,9 +83,10 @@ Reinforce understanding of the Unreal Editor interface, project creation, viewpo
 | EdPuzzle: Video 01 — Getting Started | ✅ | [[SY27 Q1 - Video 01 - Getting Started#SY27 EdPuzzle]] |
 | EdPuzzle: Video 02 — Levels and the Viewport | ✅ | [[SY27 Q1 - Video 02 - Levels and the Viewport#SY27 EdPuzzle]] |
 | Epic Games Launcher + Unreal Engine 5 | ✅ | Lab setup |
-| Printed step list: project creation (same as Day 13) | NOT BUILT | |
 
 ## Notes after teaching
+
+Students finished Video 01, got a few minutes into Video 02. Video 02 tasks (folder structure, multi-view placement, screenshots) carry into Day 16.
 
 ## Connections
 

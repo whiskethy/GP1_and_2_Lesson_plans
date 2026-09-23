@@ -115,7 +115,7 @@ Standards are reused across quarters on purpose. A standard hit once is not taug
 - **Q1 reference code** - the Roll-A-Ball C++ `PlayerBall.h` / `PlayerBall.cpp` from [[GP2 - Q2 Planning]].
 - **Handouts** - [C++ Cheatsheet](https://docs.google.com/document/d/1F8eBV2oAfG8TkWrooIXVzs92VJaCUxbMWcU6m6KETbY/edit) and [C++ Visual Studio Setup Instructions](https://docs.google.com/document/d/1kMzXqVrknGaWsVaD-Th64S3MrjeHjtH-U1kvFPwSi_8/edit).
 - **Glossary** - [[Unreal Terms & Concepts]].
-- **Assets** - [Kenney pixel assets](https://kenney.nl/assets/tag:pixel), [Spriters Resource](https://www.spriters-resource.com/), [OpenGameArt](https://opengameart.org/), [Craftpix](https://craftpix.net/sets/), Fab.com. Note: itch.io is blocked at school.
+- **Assets** - [Kenney pixel assets](https://kenney.nl/assets/tag:pixel), [Spriters Resource](https://www.spriters-resource.com/), [OpenGameArt](https://opengameart.org/), [Craftpix](https://craftpix.net/sets/), [Poly Pizza](https://poly.pizza/) (free low-poly 3D models), [Poly Haven](https://polyhaven.com/) (free PBR 3D models, HDRIs, textures), Fab.com. Note: itch.io is blocked at school.
 - **Lab** - see [[Computer Lab Setup]].
 
 ---
