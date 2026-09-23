@@ -84,4 +84,4 @@ Day 15 (Mon 9/21): Students got the Variables Practice assignment open and got p
 
 ## Connections
 
-← [[GP2 - Functions + Variables Practice]] | [[GP2 Q1 Calendar]] | [[GP2 - Conditionals Practice]] →
+← [[GP2 - Functions + Variables Practice]] | [[GP2 Q1 Calendar]] | [[GP2 Q1 Day 16 - Variables Practice (Cont)]] →

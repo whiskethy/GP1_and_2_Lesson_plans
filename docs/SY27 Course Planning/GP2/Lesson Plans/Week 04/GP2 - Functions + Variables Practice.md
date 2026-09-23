@@ -78,4 +78,4 @@ Day 15 (Mon 9/21): Students got the Variables Practice assignment open and got p
 
 ## Connections
 
-← [[GP2 - VS & GitHub Workflow]] | [[GP2 Q1 Calendar]] | [[GP2 - Conditionals]] →
+← [[GP2 - VS & GitHub Workflow]] | [[GP2 Q1 Calendar]] | [[GP2 Q1 Day 15 - Functions + Variables Practice]] →

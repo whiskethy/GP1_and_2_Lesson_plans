@@ -29,4 +29,4 @@ status: planned
 
 ## Connections
 
-← [[GP2 Q1 - Days 16-21 TBD]] | [[GP2 Q1 Calendar]] | (End of Q1) →
+← [[GP2 Q1 Day 20 - Conditionals Practice (Sub)]] | [[GP2 Q1 Calendar]] | (End of Q1) →

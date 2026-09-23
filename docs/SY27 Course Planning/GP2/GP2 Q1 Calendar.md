@@ -54,10 +54,10 @@ Meeting pattern: Mon/Tue/Wed A (48 min), Fri C (72 min). No Thursday class.
 
 | Day | Date | Type | Min | Unit | Topic | Link |
 |-----|------|------|-----|------|-------|------|
-| 15 | Mon 9/21 | A | 48 | 1 | Functions + Variables Practice | [[GP2 - Functions + Variables Practice (Day 15)]] |
-| 16 | Tue 9/22 | A | 48 | 1 | Variables Practice (cont.) | [[GP2 - Conditionals Practice]] |
-| 17 | Wed 9/23 | A | 48 | 1 | Loops Intro | [[GP2 - Loops Intro]] |
-| 18 | Fri 9/25 | C | 72 | 1 | Loops Practice + Scope (Sub) | [[GP2 - Loops Practice + Scope (Sub)]] |
+| 15 | Mon 9/21 | A | 48 | 1 | Functions + Variables Practice | [[GP2 Q1 Day 15 - Functions + Variables Practice]] |
+| 16 | Tue 9/22 | A | 48 | 1 | Variables Practice (cont.) | [[GP2 Q1 Day 16 - Variables Practice (Cont)]] |
+| 17 | Wed 9/23 | A | 48 | 1 | Conditionals | [[GP2 Q1 Day 17 - Conditionals]] |
+| 18 | Fri 9/25 | C | 72 | 1 | Conditionals Practice (Sub) | [[GP2 Q1 Day 18 - Conditionals Practice (Sub)]] |
 
 ## Week 6 (9/28–10/2)
 
@@ -65,15 +65,15 @@ Meeting pattern: Mon/Tue/Wed A (48 min), Fri C (72 min). No Thursday class.
 
 | Day | Date | Type | Min | Unit | Topic | Link |
 |-----|------|------|-----|------|-------|------|
-| 19 | Tue 9/29 | A | 48 | 1 | Mixed Practice / Consolidation (Sub) | [[GP2 - Mixed Practice (Sub)]] |
-| 20 | Wed 9/30 | A | 48 | 1 | Conditionals + Loops Review (Sub) | [[GP2 - Conditionals + Loops Review (Sub)]] |
-| 21 | Fri 10/2 | C | 72 | 1 | Unit 1 Checkpoint | [[GP2 - Unit 1 Checkpoint]] |
+| 19 | Tue 9/29 | A | 48 | 1 | Variables Practice (Sub) | [[GP2 Q1 Day 19 - Variables Practice (Sub)]] |
+| 20 | Wed 9/30 | A | 48 | 1 | Conditionals Practice (Sub) | [[GP2 Q1 Day 20 - Conditionals Practice (Sub)]] |
+| 21 | Fri 10/2 | C | 72 | 1 | TBD (Nick back) | [[GP2 Q1 - Day 21 TBD]] |
 
 ## Week 7 (10/5–10/9)
 
 | Day | Date | Type | Min | Unit | Topic | Link |
 |-----|------|------|-----|------|-------|------|
-| 22+ | Mon 10/5 | A | 48 | 2 | TBD | [[GP2 Q1 - Days 15-21 TBD]] |
+| 22 | Mon 10/5 | A | 48 | 2 | TBD | [[GP2 Q1 - Days 22-32 TBD]] |
 
 ## Week 8 (10/12–10/16)
 

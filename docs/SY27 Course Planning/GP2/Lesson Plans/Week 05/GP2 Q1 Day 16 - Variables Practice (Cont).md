@@ -85,4 +85,4 @@ Re-aimed 2026-09-22. This file was originally written as Conditionals Practice, 
 
 ## Connections
 
-← [[GP2 - Functions + Variables Practice (Day 15)]] | [[GP2 Q1 Calendar]] | [[GP2 - Loops Intro]] →
+← [[GP2 Q1 Day 15 - Functions + Variables Practice]] | [[GP2 Q1 Calendar]] | [[GP2 Q1 Day 17 - Conditionals]] →
