@@ -38,9 +38,9 @@ Write conditional statements (if/else, else if) using comparison and logical ope
 ## Exit Ticket
 
 1. Write an if/else statement that checks if a variable `score` is 100 or above. If true, print "Perfect!". Otherwise, print "Keep going!".
-2. What does the `&&` operator do in a conditional?
+2. What does the `else` part of a conditional chain do, and when does it run?
 
-**Mastery Criteria:** Writes a correct if/else with proper syntax (parentheses, braces, semicolon placement). Explains `&&` as logical AND — both conditions must be true.
+**Mastery Criteria:** Writes a correct if/else with proper syntax (parentheses, braces, semicolon placement). Explains that else runs only when every condition above it was false.
 
 ## Agenda
 

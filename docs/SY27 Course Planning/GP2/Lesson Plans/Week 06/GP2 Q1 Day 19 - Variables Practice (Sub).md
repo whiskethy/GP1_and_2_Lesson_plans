@@ -50,8 +50,9 @@ Declare variables with correct types and write conditional statements, by comple
 > 2. Continue Variables Practice — any student who still owes rectangle-area or temperature-converter finishes it, commits, pushes (15 min)
 > 3. Students who are done with Variables Practice start the Conditionals Practice problem set (posted on Google Classroom) — writing conditional programs in the same repo, committing each as it works (25 min)
 > 4. Exit ticket (3 min)
+> 5. Students who finish early: move ahead in the problem set
 >
-> The sub does NOT need to teach content. All directions are in the Classroom post. The C++ Cheat Sheet answers most syntax questions — point stuck students there first.
+> The sub does NOT need to teach content. All directions are in the Classroom post. The C++ Cheat Sheet answers most syntax questions — point stuck students there first. Nothing to collect — everything is in the repo.
 
 ## Agenda
 

@@ -34,7 +34,7 @@ Write conditional statements (if/else, else if, logical operators) independently
 | # | Type    | Question |
 |---|---------|----------|
 | 1 | Review  | What's the difference between `else if` and another separate `if`? Why does order matter in a conditional chain? |
-| 2 | Review  | What does `&&` do? What does `\|\|` do? |
+| 2 | Review  | What happens if a conditional chain starts with `else if` instead of `if`? |
 | 3 | Preview | Nick is back tomorrow. What's one thing from this week you want to ask him about? |
 
 ## Exit Ticket
@@ -47,11 +47,12 @@ Write conditional statements (if/else, else if, logical operators) independently
 ## Agenda for sub
 
 > 1. Students enter, open Visual Studio and their repo, work the Do Now on paper (5 min)
-> 2. Continue the Conditionals Practice problem set from Tuesday — same Classroom post, work remaining problems (30 min)
-> 3. Any student fully done: early-finisher challenge — a number guessing game using conditionals to say "higher" or "lower" (optional, posted in the same Classroom post) (8 min)
+> 2. Continue the Conditionals Practice problem set — it's on Google Classroom (posted Tuesday). Students work the problems they haven't finished, committing and pushing as they go (30 min)
+> 3. Any student fully done: early-finisher challenge — a number guessing game using conditionals to say "higher" or "lower" (optional, at the bottom of the Classroom post) (8 min)
 > 4. Exit ticket (5 min)
+> 5. Students who finish everything: help a neighbor debug, or keep polishing their programs
 >
-> The sub does NOT need to teach content. All directions are in Tuesday's Classroom post. The C++ Cheat Sheet answers most syntax questions. Students behind on Variables Practice use the first part of the block to catch up — that takes priority over new problems.
+> The sub does NOT need to teach content. All directions are in the Classroom post. The C++ Cheat Sheet answers most syntax questions — point stuck students there first. Students behind on Variables Practice use the first part of the block to catch up — that takes priority over new problems. Nothing to collect — everything is in the repo. Nick is back Friday.
 
 ## Agenda
 

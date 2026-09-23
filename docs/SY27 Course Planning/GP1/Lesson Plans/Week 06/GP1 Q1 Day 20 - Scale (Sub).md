@@ -18,7 +18,7 @@ sub: true
 
 **Date:** Wed 9/30 · **Unit:** 3 · **Chunk:** 3 (scale)
 
-> **Sub coverage.** Nick is out. Students watch EdPuzzle Video 06 and practice scale in Unreal, completing the scale section of the Transforms Worksheet (Part 4). The full worksheet consolidation is tomorrow.
+> **Sub coverage.** Nick is out. Students watch EdPuzzle Video 06 (Scale) and practice scale in Unreal. The Transforms Worksheet is the LAST step of today — students do Videos 04, 05, and 06 first, then the worksheet consolidates all three.
 
 ## Learning Target
 
@@ -51,13 +51,14 @@ Use Unreal's Scale tool to resize objects, and explain the difference between un
 
 **Agenda for sub**
 
-> 1. Students enter and start the Do Now on the worksheet (5 min)
-> 2. EdPuzzle Video 06 — Scale (approx. 13-19 min with pauses)
-> 3. Students practice scale in Unreal: uniform and non-uniform scaling, reset to default (10 min)
-> 4. Independent practice: scale challenges in Unreal (place objects, scale them to match descriptions) + worksheet Part 4 (25 min)
-> 5. Wrap-up: collect exit tickets (3 min)
+> 1. Students enter and start the Do Now on paper (5 min)
+> 2. EdPuzzle Video 06 — Scale (approx. 13-19 min with pauses). All instruction is in the video.
+> 3. Independent practice: scale challenges in Unreal — uniform and non-uniform scaling, reset to default (15 min)
+> 4. Transforms Worksheet — the last step. Students who watched Videos 04, 05, and 06 complete the full worksheet, Parts 1-5 (20 min)
+> 5. Exit ticket on the worksheet, Part 5 challenge (5 min)
+> 6. Students who finish early: move on to any outstanding video tasks (the Task List sheet on Google Classroom has the list), or add lights and extra objects to their scene
 >
-> The sub does NOT need to teach any content. All instruction is in the EdPuzzle video. The sub's role is to circulate, keep students on task, and collect exit tickets at the end of the period.
+> The sub does NOT need to teach content — the video and the worksheet carry all instruction. Collect worksheets at the end of the period. If a student is stuck for more than five minutes, tell them to rewind the video section or check the worksheet's axis diagram.
 
 **Exit ticket** (on paper)
 
@@ -69,11 +70,12 @@ Use Unreal's Scale tool to resize objects, and explain the difference between un
 
 ## Agenda
 
-1. Do Now on worksheet (5 min)
-2. EdPuzzle Video 06 (approx. 13-19 min with pauses) (20 min)
-3. Guided practice: uniform and non-uniform scaling in Unreal (10 min)
-4. Independent: scale challenges + worksheet Part 4 (13 min)
-5. Exit ticket (3 min)
+1. Do Now on paper (5 min)
+2. EdPuzzle Video 06 — Scale (approx. 13-19 min with pauses) (20 min)
+3. Guided practice: uniform and non-uniform scaling in Unreal (15 min)
+4. Transforms Worksheet Parts 1-5 — last step, after Videos 04-06 (20 min)
+5. Exit ticket on worksheet, Part 5 challenge (5 min)
+6. Early finishers: outstanding video tasks or extra scene work
 
 ## Differentiation & Accommodations
 

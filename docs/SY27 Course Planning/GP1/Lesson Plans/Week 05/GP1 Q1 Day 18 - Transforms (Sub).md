@@ -18,7 +18,7 @@ sub: true
 
 **Date:** Thu 9/24 · **Unit:** 3 · **Chunk:** 3 (transforms/coordinate math)
 
-> **Sub coverage.** Nick is out. Students watch EdPuzzle Video 04 and complete the Transforms Worksheet (Parts 1-2: coordinate basics and location sections).
+> **Sub coverage.** Nick is out. Students watch EdPuzzle Video 04 (Transforms). No worksheet today — the Transforms Worksheet comes after Video 06, as the last step of the sequence.
 
 ## Learning Target
 
@@ -41,7 +41,7 @@ Use Unreal's coordinate system (X forward, Y sideways, Z up) to place objects at
 | Vocabulary | transform, location, origin, X/Y/Z axes, negative coordinates, pivot point |
 | Prior-knowledge gaps | Coordinate plane from math class. Signed numbers (negative coordinates). The video connects X/Y/Z to what students already know from math. |
 
-**Do Now** (retrieval, on worksheet)
+**Do Now** (retrieval, on paper)
 
 | # | Type | Question |
 |---|---------|----------|
@@ -51,16 +51,15 @@ Use Unreal's coordinate system (X forward, Y sideways, Z up) to place objects at
 
 **Agenda for sub**
 
-> 1. Students enter and start the Do Now on the worksheet (5 min)
-> 2. EdPuzzle Video 04 — Transforms (approx. 20-28 min with pauses)
-> 3. Students complete Transforms Worksheet Parts 1-2 (coordinate basics, location) alongside and after the video (30 min)
-> 4. Independent practice: coordinate challenges — place cubes next to, behind, and above an origin cube using the Details panel (25 min)
-> 5. Exit ticket on the worksheet (5 min)
-> 6. If time remains, students catch up on outstanding Video 02/03 tasks or finish the quiz retake (7 min)
+> 1. Students enter and start the Do Now on paper (5 min)
+> 2. EdPuzzle Video 04 — Transforms (approx. 20-28 min with pauses). All instruction is in the video — no worksheet today.
+> 3. Independent practice: coordinate challenges — place cubes next to, behind, and above an origin cube using the Details panel (30 min)
+> 4. Exit ticket on paper (5 min)
+> 5. Students who finish early: move on to any outstanding video tasks from earlier in the week (the Task List sheet on Google Classroom has the list), or keep practicing coordinate placement
 >
-> The sub does NOT need to teach any content. All instruction is in the EdPuzzle video and the worksheet. The sub's role is to circulate, keep students on task, and collect completed worksheets at the end of the period.
+> The sub does NOT need to teach content — the video carries all instruction. Collect exit tickets at the end of the period. If a student is stuck for more than five minutes, tell them to rewind the video section.
 
-**Exit ticket** (on the worksheet)
+**Exit ticket** (on paper)
 
 1. What are the three parts of an object's Transform?
 2. In Unreal, which direction is +X? Which direction is +Z?
@@ -70,12 +69,11 @@ Use Unreal's coordinate system (X forward, Y sideways, Z up) to place objects at
 
 ## Agenda
 
-1. Do Now on worksheet (5 min)
+1. Do Now on paper (5 min)
 2. EdPuzzle Video 04 — Transforms (approx. 20-28 min with pauses) (28 min)
-3. Transforms Worksheet Parts 1-2 (coordinate basics, location) (30 min)
-4. Independent: coordinate challenges (25 min)
-5. Exit ticket on worksheet (5 min)
-6. Catch-up: outstanding Video 02/03 tasks or quiz retake, if time remains (7 min)
+3. Independent: coordinate challenges — place cubes next to, behind, and above an origin cube (30 min)
+4. Exit ticket on paper (5 min)
+5. Early finishers: outstanding video tasks or extra coordinate practice
 
 ## Differentiation & Accommodations
 

@@ -18,7 +18,7 @@ sub: true
 
 **Date:** Thu 10/1 · **Unit:** 3 · **Chunks:** 5 (level setup/lights) + 3 (consolidation)
 
-> **Sub coverage.** Nick is out. Students watch EdPuzzle Video 07 (Level Setup) and complete the full Transforms Worksheet (Parts 1-5), consolidating location, rotation, and scale skills from Videos 04-06. Nick is back tomorrow; no new instruction today.
+> **Sub coverage.** Nick is out. Students watch EdPuzzle Video 07 (Level Setup) and practice lighting in Unreal. The Transforms Worksheet was completed Wednesday — students who still owe parts of it finish today. Nick is back Monday.
 
 ## Learning Target
 
@@ -51,16 +51,16 @@ Apply location, rotation, and scale transforms to place objects at specific posi
 
 **Agenda for sub**
 
-> 1. Students enter and start the Do Now on the Transforms Worksheet (5 min)
-> 2. EdPuzzle Video 07 — Level Setup (approx. 20-28 min with pauses)
-> 3. Students complete the Transforms Worksheet (Parts 1-5: coordinate basics, location, rotation, scale, challenge) (15 min)
-> 4. Independent practice: add lights to the scene from the video and place objects to match the challenge section (20 min)
-> 5. Exit ticket on the worksheet (5 min)
-> 6. If time remains, students catch up on any outstanding video tasks or worksheet parts (17 min)
+> 1. Students enter and start the Do Now on paper (5 min)
+> 2. EdPuzzle Video 07 — Level Setup (approx. 20-28 min with pauses). All instruction is in the video.
+> 3. Independent practice: add lights to the scene from the video — Directional, Sky, Point, Spot — and place objects to match the video's setup (25 min)
+> 4. Students who still owe parts of the Transforms Worksheet (from Wednesday) finish them now (15 min)
+> 5. Exit ticket on paper (5 min)
+> 6. Students who finish early: move on to any outstanding video tasks (the Task List sheet on Google Classroom has the list), or keep polishing their lit scene. Nick is back Monday.
 >
-> The sub does NOT need to teach any content. The EdPuzzle video covers lighting content. The worksheet consolidates transform skills from the past three days. The sub's role is to circulate, keep students on task, and collect completed worksheets at the end of the period.
+> The sub does NOT need to teach content — the video carries all instruction. Collect exit tickets (and any finished worksheets) at the end of the period. If a student is stuck for more than five minutes, tell them to rewind the video section.
 
-**Exit ticket** (on the worksheet — Part 5 challenge)
+**Exit ticket** (on paper)
 
 1. Place a cube at X=300, Y=-200, Z=50. What are its coordinates in the Details panel?
 2. Rotate a cylinder 90 degrees on the Z axis (yaw). Which direction does the top point now?
@@ -70,12 +70,12 @@ Apply location, rotation, and scale transforms to place objects at specific posi
 
 ## Agenda
 
-1. Do Now on Transforms Worksheet (5 min)
+1. Do Now on paper (5 min)
 2. EdPuzzle Video 07 — Level Setup (approx. 20-28 min) (28 min)
-3. Transforms Worksheet Parts 1-5 (consolidation of transforms) (15 min)
-4. Independent: lights + challenge section (20 min)
-5. Exit ticket on worksheet (5 min)
-6. Catch-up on outstanding work if time remains (17 min)
+3. Independent: lights + scene setup from the video (25 min)
+4. Transforms Worksheet completion, for students who still owe parts (15 min)
+5. Exit ticket on paper (5 min)
+6. Early finishers: outstanding video tasks or extra scene work
 
 ## Differentiation & Accommodations
 

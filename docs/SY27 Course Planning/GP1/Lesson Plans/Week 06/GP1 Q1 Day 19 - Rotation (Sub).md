@@ -18,7 +18,7 @@ sub: true
 
 **Date:** Tue 9/29 · **Unit:** 3 · **Chunk:** 3 (rotation)
 
-> **Sub coverage.** Nick is out. Students watch EdPuzzle Video 05 and complete the rotation section of the Transforms Worksheet (Part 3).
+> **Sub coverage.** Nick is out. Students watch EdPuzzle Video 05 (Rotation) and practice rotation in Unreal. No worksheet today — the Transforms Worksheet comes after Video 06, as the last step of the sequence.
 
 ## Learning Target
 
@@ -51,15 +51,15 @@ Use Unreal's Rotate tool to change object orientation, and explain how pitch, ya
 
 **Agenda for sub**
 
-> 1. Students enter and start the Do Now on the worksheet (5 min)
-> 2. EdPuzzle Video 05 — Rotation + worksheet Part 3 (rotation section) (25 min)
-> 3. Independent practice: rotation challenges on worksheet (20 min)
-> 4. Exit ticket on worksheet (5 min)
-> 5. If time remains, students explore rotation with different objects (17 min — B-day length was trimmed for this A day; use remaining minutes for catch-up on any outstanding work)
+> 1. Students enter and start the Do Now on paper (5 min)
+> 2. EdPuzzle Video 05 — Rotation (approx. 20-28 min with pauses). All instruction is in the video — no worksheet today.
+> 3. Independent practice: rotation challenges — rotate objects using the Rotate tool (E), try pitch/yaw/roll on different objects (30 min)
+> 4. Exit ticket on paper (5 min)
+> 5. Students who finish early: move on to any outstanding video tasks (the Task List sheet on Google Classroom has the list), or keep exploring rotation with different objects
 >
-> The sub does NOT need to teach any content. All instruction is in the EdPuzzle video and the worksheet. The sub's role is to circulate, keep students on task, and collect completed worksheets at the end of the period.
+> The sub does NOT need to teach content — the video carries all instruction. Collect exit tickets at the end of the period. If a student is stuck for more than five minutes, tell them to rewind the video section.
 
-**Exit ticket** (on the worksheet)
+**Exit ticket** (on paper)
 
 1. What are the three rotation axes in Unreal, and which color matches each one?
 2. A cube is rotated 90 degrees on the Z axis (yaw). Which direction does the top point now?
@@ -69,17 +69,17 @@ Use Unreal's Rotate tool to change object orientation, and explain how pitch, ya
 
 ## Agenda
 
-1. Do Now on worksheet (5 min)
-2. EdPuzzle Video 05 + worksheet Part 3 (rotation) (25 min)
-3. Independent: worksheet rotation challenges (20 min)
-4. Exit ticket on worksheet (5 min)
-5. Catch-up or independent rotation exploration if time remains
+1. Do Now on paper (5 min)
+2. EdPuzzle Video 05 — Rotation (approx. 20-28 min with pauses) (28 min)
+3. Independent: rotation challenges in Unreal (30 min)
+4. Exit ticket on paper (5 min)
+5. Early finishers: outstanding video tasks or extra rotation practice
 
 ## Differentiation & Accommodations
 
-- **Engagement:** EdPuzzle video pauses for embedded questions. Rotation challenges on the worksheet are hands-on.
-- **Representation:** Video provides visual demo of each rotation ring. Axis diagram on the worksheet.
-- **Action & Expression:** Exit ticket on worksheet (written). Students work at their own pace.
+- **Engagement:** EdPuzzle video pauses for embedded questions. Rotation challenges are hands-on.
+- **Representation:** Video provides visual demo of each rotation ring. Axis color reference available.
+- **Action & Expression:** Exit ticket on paper (written). Students work at their own pace.
 - **Accommodations:** Extended time. Students who finish early can try rotating objects to match screenshot challenges. Pair seating for verbal check-ins.
 - **Student Voice:** Students choose which objects to rotate in practice.
 

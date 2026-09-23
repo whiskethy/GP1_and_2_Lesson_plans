@@ -46,13 +46,13 @@ Write and trace conditional statements (if/else, else if) using comparison and l
 
 ## Agenda for sub
 
-> 1. Students enter, open the Do Now on the posted slides, work it on paper (5 min)
+> 1. Students enter, open Visual Studio and their repo, work the Do Now on paper (5 min)
 > 2. Students open the Conditionals Practice Google Form from Google Classroom and complete it. The Form is auto-graded — students see their score immediately and may retry after reviewing the C++ Cheat Sheet (30 min)
 > 3. Students continue Variables Practice in Visual Studio — rectangle-area, then temperature-converter — committing and pushing each program as it works (30 min)
 > 4. Exit ticket: paste repo link in the Form's final question or on paper (5 min)
-> 5. Remaining time: students who finish early write their own conditional game scenario (e.g., a damage calculator) and push it (2 min)
+> 5. Students who finish early: take another pass at the Form to raise the score, or get ahead on the next Variables Practice program (2 min)
 >
-> The sub does NOT need to teach content. The Form grades itself. If a student is stuck for more than five minutes, the C++ Cheat Sheet (posted on Classroom) answers most syntax questions — point them there first.
+> The sub does NOT need to teach content. The Form grades itself. If a student is stuck for more than five minutes, the C++ Cheat Sheet (posted on Classroom) answers most syntax questions — point them there first. Nothing to collect — everything is digital.
 
 ## Agenda
 
