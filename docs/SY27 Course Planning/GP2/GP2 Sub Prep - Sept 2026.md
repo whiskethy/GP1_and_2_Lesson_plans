@@ -7,9 +7,11 @@ project: classes
 updated: 2026-09-23
 ---
 
-# GP2 Sub Prep — 9/25 to 9/30 (Nick out)
+# GP2 Sub Prep — 9/25 to 9/30 (Nick out), plus one-off: Tue 10/13
 
 Nick is out Fri 9/25 through Wed 9/30, returning Fri 10/2. Three GP2 meetings need coverage: Day 18 (Fri 9/25, C, 72 min), Day 19 (Tue 9/29, A, 48 min), Day 20 (Wed 9/30, A, 48 min). Day 21 (Fri 10/2) is Nick's first day back — replan that with him.
+
+**One-off later window:** Nick is out again Tue 10/13 (Day 26), last-minute. Video 03 was posted to EdPuzzle that morning with the challenge submission on Classroom. Day file: [[GP2 - Roll-A-Ball Video 03 (Debug Statements)]].
 
 ## Sub window plan (applied 2026-09-23 — no videos)
 
@@ -18,9 +20,9 @@ The original plan had all four sub-window days running on EdPuzzle videos that d
 | Day | Date | Plan | Key materials |
 |-----|------|------|---------------|
 | 17 | Wed 9/23 (live) | Conditionals intro (slides 151-180) — Nick introduces the Cheat Sheet in class | Day 17 file, Cheat Sheet |
-| 18 | Fri 9/25 (C, 72) | Conditionals practice — auto-graded Google Form + continue Variables Practice | Form (not built), Classroom post, Cheat Sheet |
-| 19 | Tue 9/29 (A, 48) | Finish Variables Practice + start Conditionals Practice problem set | Problem set (not built), Classroom post |
-| 20 | Wed 9/30 (A, 48) | Continue/finish Conditionals Practice problem set + early-finisher guessing game | Same problem set, challenge task |
+| 18 | Fri 9/25 (C, 72) | Conditionals practice — auto-graded Google Form + continue Variables Practice | Form ✅ live, Classroom post, Cheat Sheet |
+| 19 | Tue 9/29 (A, 48) | Finish Variables Practice + start Conditionals Practice problem set | Problem set (✅ source built — [[GP2 - Conditionals Practice Problem Set]]), Google Doc, Classroom post |
+| 20 | Wed 9/30 (A, 48) | Continue/finish Conditionals Practice problem set + early-finisher guessing game | Same problem set, challenge task (in the Doc) |
 | 21 | Fri 10/2 (C, 72) | Nick back — TBD, replan with him (loops intro queued) | — |
 
 Loops (intro, practice + scope), the Unit 1 Checkpoint, and mixed practice are bumped to Nick's return — see [[GP2 Bumped Topics]]. Checkpoint likely lands Fri 10/9 (C day, 72 min).
@@ -36,9 +38,9 @@ Loops (intro, practice + scope), the Unit 1 Checkpoint, and mixed practice are b
 
 ## Materials still to build
 
-- [ ] Conditionals Practice Google Form — auto-graded, due before 9/25
-- [ ] Conditionals Practice problem set (programs) — due before 9/29
-- [ ] Early-finisher challenge (guessing game) — attach to the 9/29 Classroom post
+- [x] Conditionals Practice Google Form — built and live (Nick, 9/24)
+- [x] Conditionals Practice problem set (programs) — source built 9/24: [[GP2 - Conditionals Practice Problem Set]]. Codédex Build flow (paste one program at a time, screenshot + paste code back), NOT the repo — students were having repo/Classmoji issues and the repo stays untouched for Variables Practice. Build the Google Doc from the source (leave out the answer key), then update the Day 19/20 Materials links.
+- [x] Early-finisher challenge (guessing game) — in the problem set Doc as the optional Challenge
 - [ ] Classroom posts with student directions for each sub day — text drafted in [[Sub Plans]]
 - [ ] Daily slides Do Now for 9/25, 9/29, 9/30
 

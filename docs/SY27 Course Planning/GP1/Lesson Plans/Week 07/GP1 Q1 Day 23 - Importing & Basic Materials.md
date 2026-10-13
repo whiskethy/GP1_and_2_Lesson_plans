@@ -2,21 +2,24 @@
 course: GP1
 quarter: Q1
 day: 23
-date: Mon 10/5
+date: Tue 10/6
 day_type: A
 chunk: '6+8'
 type: new idea (EdPuzzle)
 class_minutes: 48
 unit: 3
 status: active
-riddle: What has lots of eyes, but can't see?
-joke: Did you hear about the bossy man at the bar?
+updated: 2026-10-05
 sub: false
+riddle: If you're running in a race and you pass the person in second place, what place are you in?
+joke: How do you make a Kleenex dance?
 ---
 
-# GP1 Q1 Day 23 — Importing & Basic Materials
+# GP1 - Importing & Basic Materials (Day 23)
 
-**Date:** Mon 10/5 · **Unit:** 3 · **Chunks:** 6 + 8
+**Date:** Tue 10/6 · **Unit:** 3 · **Chunks:** 6 + 8
+
+> Moved from Mon 10/5 (Day 22 ran as amnesty/catch-up instead — see [[GP1 Q1 Day 22 - Amnesty & Catch-Up]]). This file is otherwise as built.
 
 ## Learning Target
 
@@ -43,14 +46,14 @@ Import an FBX asset into Unreal, organize files in the Content Browser, create a
 
 | # | Type | Question |
 |---|---------|----------|
-| 1 | Review | Name two of the four light types in Unreal. |
-| 2 | Review | What is the difference between Static and Movable mobility? |
-| 3 | Preview | When you download a file, where does it go? How do you find it again? |
+| 1 | Review | What are the three transforms every object has? |
+| 2 | Review | What color is the X axis in Unreal? What does dragging the red arrow do? |
+| 3 | Preview | You can move, rotate, and scale an object. But how would you change what it looks like? |
 
 **Agenda**
 
 1. Do Now review (5 min)
-2. EdPuzzle Video 08 — Importing & Basic Materials (approx. 16-22 min with pauses)
+2. EdPuzzle Video 08: Importing & Basic Materials (approx. 16-22 min with pauses)
 3. Guided practice: import the ring asset, create folders, create a material, apply it (20 min)
 4. Independent: opacity, emissive, and challenge tasks (15 min)
 5. Wrap-up + exit ticket (7 min)
@@ -78,12 +81,12 @@ Import an FBX asset into Unreal, organize files in the Content Browser, create a
 | EdPuzzle: Video 08 — Importing & Basic Materials | ✅ | [[SY27 Q1 - Video 08 - Importing and Basic Materials#SY27 EdPuzzle]] |
 | Game Engine Notes deck (import/materials slides) | ✅ | [Drive](https://docs.google.com/presentation/d/18Bmk0XdICuy0gxQAMjgrTDGpEfoDQApchPI7A6XW85A/edit) |
 | Ring asset (FBX) | ✅ | [Google Drive](https://drive.google.com/drive/folders/1TAb8My8r3scdRlSpsCynYef0XfIhmq_C?usp=drive_link) |
-| Importing & Materials worksheet (source) | NOT BUILT | [[GP1 Worksheets/GP1 - Importing & Materials Worksheet]] |
-| Importing & Materials worksheet (student copy) | NOT BUILT | |
-| Printed step list: import, folder organization, material creation | NOT BUILT | |
+| Importing & Materials worksheet (source) | ✅ | [[GP1 Worksheets/GP1 - Importing & Materials Worksheet]] |
+| Importing & Materials worksheet (student copy) | 🚧 | Markdown source built; Google Doc + print not built yet |
+| Printed step list / How to Import guide | ✅ | [[GP1 Worksheets/GP1 - How to Import an Asset]], Google Doc + Classroom post not done yet |
 
 ## Notes after teaching
 
 ## Connections
 
-← [[GP1 - Importing & Materials]] | [[GP1 Q1 Calendar]] | [[GP1 Q1 - Days 26-33 TBD]] →
+← [[GP1 Q1 Day 22 - Amnesty & Catch-Up]] | [[GP1 Q1 Calendar]] | [[GP1 Q1 Day 24 - Ring Blueprint]] →

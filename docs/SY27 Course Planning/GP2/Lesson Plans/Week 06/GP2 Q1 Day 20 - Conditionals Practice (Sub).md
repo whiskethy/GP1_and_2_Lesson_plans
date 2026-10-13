@@ -39,26 +39,26 @@ Write conditional statements (if/else, else if, logical operators) independently
 
 ## Exit Ticket
 
-1. Paste a link to your repo showing this week's commits.
+1. Turn in your Conditionals Practice screenshots and pasted code on Classroom (or your repo link, if you were still working Variables Practice today).
 2. Which conditional problem was hardest, and what made it hard?
 
-**Mastery Criteria:** Repo shows the conditionals problem set in progress or complete. The hardest-problem reflection names a real difficulty (brace placement, chain order, logical operators), not "nothing."
+**Mastery Criteria:** Conditionals Practice problems turned in on Classroom (screenshot + pasted code, set in progress or complete). The hardest-problem reflection names a real difficulty (brace placement, chain order, boundary operators), not "nothing."
 
 ## Agenda for sub
 
-> 1. Students enter, open Visual Studio and their repo, work the Do Now on paper (5 min)
-> 2. Continue the Conditionals Practice problem set — it's on Google Classroom (posted Tuesday). Students work the problems they haven't finished, committing and pushing as they go (30 min)
-> 3. Any student fully done: early-finisher challenge — a number guessing game using conditionals to say "higher" or "lower" (optional, at the bottom of the Classroom post) (8 min)
+> 1. Students enter, open the Conditionals Practice problem set Doc from Google Classroom, work the Do Now on paper (5 min)
+> 2. Continue the Conditionals Practice problem set — it's the Google Doc posted Tuesday. Students work the problems they haven't finished, pasting each into Codédex Build and turning in a screenshot plus pasted code on Classroom as it works (30 min)
+> 3. Any student fully done: early-finisher challenge at the bottom of the Doc — a one-shot number guessing game using conditionals to say "too low" or "too high" (optional) (8 min)
 > 4. Exit ticket (5 min)
 > 5. Students who finish everything: help a neighbor debug, or keep polishing their programs
 >
-> The sub does NOT need to teach content. All directions are in the Classroom post. The C++ Cheat Sheet answers most syntax questions — point stuck students there first. Students behind on Variables Practice use the first part of the block to catch up — that takes priority over new problems. Nothing to collect — everything is in the repo. Nick is back Friday.
+> The sub does NOT need to teach content. All directions are in the Classroom post. The C++ Cheat Sheet answers most syntax questions — point stuck students there first. Students behind on Variables Practice use the first part of the block to catch up — that takes priority over new problems. Nothing to collect — everything is on Classroom. Nick is back Friday.
 
 ## Agenda
 
 1. Do Now (5 min)
 2. Conditionals Practice problem set — continue and finish (30 min)
-3. Early finisher: number guessing game (8 min)
+3. Early finisher: one-shot number guessing game (8 min)
 4. Exit ticket (5 min)
 
 ## Differentiation & Accommodations
@@ -73,8 +73,8 @@ Write conditional statements (if/else, else if, logical operators) independently
 
 | Item | Status | Link |
 |------|--------|------|
-| Conditionals Practice problem set (from Day 19) | 🔲 not built | build before 9/29 |
-| Early-finisher challenge (guessing game) | 🔲 not built | add to the Day 19 Classroom post |
+| Conditionals Practice problem set (from Day 19) | ✅ | [Doc](https://docs.google.com/document/d/1zYbdIVBJtRS9PjgBscb2Lovz6VRGGcddCYvWtcFKu8M/edit) (source: [[GP2 - Conditionals Practice Problem Set]]; students paste problems into Codédex Build, screenshot + paste code back, no repo) |
+| Early-finisher challenge (guessing game) | ✅ | in the problem set Doc, optional Challenge at the end |
 | C++ Cheat Sheet (live) | ✅ | [Drive](https://docs.google.com/document/d/1Ae39WRmOcdEsln8an0AeS-ROIC7aYN9Bmh-vsDGsDUE/edit) |
 | Variables Practice repo | ✅ | ChicagoTechAcademy/gp2-sy27, variables-practice (clone only) |
 | Do Now slides | 🔲 not built | daily slides deck, 9.30 |

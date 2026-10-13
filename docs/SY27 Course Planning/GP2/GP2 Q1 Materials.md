@@ -28,19 +28,22 @@ updated: 2026-09-09
 
 | Item | For Chunk(s) | Priority | Notes |
 |------|-------------|----------|-------|
-| Loop slides (for, while, counting, game examples) | Chunks 12–13 | High — W03 | [[Loop Slides Content Plan]] |
-| Conditionals practice exercises | Chunk 12 | High — W03 | |
-| Functions practice exercises | Chunk 10 | Medium | |
-| Unit 1 checkpoint rubric + feature checklist | Chunk 15 | Medium — W04 | |
-| Mixed practice exercises (all Unit 1 skills) | Chunk 14 | Medium | |
-| Unit 2 slides (UCLASS, UPROPERTY, UFUNCTION, build system, compiler errors) | Chunks 17–20 | Low — W04 | |
-| Unit 2 checkpoint rubric | Chunk 21 | Low — W05 | |
-| Unit 3 materials (Roll-A-Ball, TArray, Unreal patterns) | Chunks 22–32 | Low | |
+| Loop slides (for, while, counting, game examples) | Video 05 (W8) | Medium | Optional: the video may carry it. See [[Loop Slides Content Plan]] |
+| Compiler-error cheat sheet | Video 04 (W8) | High — W8 | Pairs with the Common Errors video |
+| Header/source diagram poster | Video 02 (taught) | Medium | |
+| Code Read graphic organizer | Q2 W12 | High — before 11/9 | First use: PlayerBall.h trace |
+| Transfer Brief: the Bomb | Q2 W14 | High — before 11/23 | Written task, no video. Details at the exemplar pass |
+| Written Build Guide: counting practice | Q2 W15 | Medium — before 11/30 | Loops' second appearance |
+| CP1/CP2/CP3 rubrics | Q1 CP1 (10/23), Q2 CP2 (11/13), CP3 (12/11) | High | CP1 first |
+| Jeopardy: scope contract template, rubric, UI shell, question sheet | Q2 W17 | Medium — December | Separate planning pass (Open Item) |
+
+Unit 2 slides, Unit 2 checkpoint rubric, and Unit 3 materials rows are removed 10/5: those units were superseded by the restructure and their content is carried by the video series. Full disposition: [[GP2 Semester Map - SY27 Q1-Q2]].
 
 ## Other Resources
 
 | Resource | Link |
 |----------|------|
+| GP2 Semester Map (Q1-Q2 video series + checkpoints) | [[GP2 Semester Map - SY27 Q1-Q2]] |
 | Loop Slides Content Plan | [[Loop Slides Content Plan]] |
 | Build Status | [[Build Status]] |
 | Scope & Sequence | [[Scope & Sequence - Game Programming 2 (GP2)]] |

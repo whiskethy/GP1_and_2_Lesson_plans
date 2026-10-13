@@ -26,11 +26,17 @@ Local source of truth for the GP2 student Task List. The live student-facing she
 | 3 | rectangle-area program | Store the answer in a variable, print it, commit and push when done | Google Classroom | Independent Coding | Yes | 9/23 |
 | 4 | temperature-converter program | Convert Fahrenheit to Celsius, commit and push when done | Google Classroom | Independent Coding | Yes | 9/24 |
 | 5 | Conditionals Practice Google Form | Auto-graded conditionals check, retry after reviewing the Cheat Sheet | Google Classroom | Checkpoint | No | 9/25 |
-| 6 | Conditionals Practice problem set | Write conditional programs in your repo, commit each as it works | Google Classroom | Independent Coding | Yes | 9/30 |
+| 6 | Conditionals Practice problem set | Paste each problem into Codédex Build (codedex.io/cpp), run it, screenshot code + output, paste your code as text. Turn in on Classroom, one problem at a time. NOT in your repo | Google Classroom | Independent Coding | No | 9/30 |
 
 ## Planned, not yet published
 
 Rows 5-6 go live with the sub-window Classroom posts (drafts in [[Sub Plans]]). Loops content (intro, practice, scope) and the Unit 1 Checkpoint queue for Nick's return — see [[GP2 Bumped Topics]]. Classmoji is clone-only (autograding removed) — task rows must not promise automated scores.
+
+| # | Task | Note | Found on | Task Type | Lab | Due |
+|---|------|------|----------|-----------|-----|-----|
+| 7 | Clone the Roll-A-Ball starter repo | GitHub Desktop, from https://github.com/ChicagoTechAcademy/UE_Roll_a_Ball | Google Classroom | Independent Activity | Yes | 10/7 |
+| 8 | Watch Video 01 - Project Setup (EdPuzzle) | Follow along: create the C++ class, set the Build Tool config (31000 + Regenerate Project), compile from VS | EdPuzzle | Lesson Video | Yes | 10/7 |
+| 9 | Commit Source folder + screenshot the class in the editor | GitHub Desktop commit/push, screenshot to Classroom | Google Classroom | Evidence From Video | No | 10/7 |
 
 ## Dropdown vocab
 

@@ -74,7 +74,7 @@ Write and trace conditional statements (if/else, else if) using comparison and l
 
 | Item | Status | Link |
 |------|--------|------|
-| Conditionals Practice Google Form (auto-graded) | 🔲 not built | build before 9/25 |
+| Conditionals Practice Google Form (auto-graded) | ✅ | live, posted to Google Classroom |
 | Classroom post with student directions | 🔲 not built | text drafted in [[Sub Plans]] |
 | C++ Cheat Sheet (live) | ✅ | [Drive](https://docs.google.com/document/d/1Ae39WRmOcdEsln8an0AeS-ROIC7aYN9Bmh-vsDGsDUE/edit) |
 | Variables Practice repo | ✅ | ChicagoTechAcademy/gp2-sy27, variables-practice (clone only) |

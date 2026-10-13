@@ -67,19 +67,22 @@ Meeting pattern: Mon/Tue/Wed A (48 min), Fri C (72 min). No Thursday class.
 |-----|------|------|-----|------|-------|------|
 | 19 | Tue 9/29 | A | 48 | 1 | Variables Practice (Sub) | [[GP2 Q1 Day 19 - Variables Practice (Sub)]] |
 | 20 | Wed 9/30 | A | 48 | 1 | Conditionals Practice (Sub) | [[GP2 Q1 Day 20 - Conditionals Practice (Sub)]] |
-| 21 | Fri 10/2 | C | 72 | 1 | TBD (Nick back) | [[GP2 Q1 - Day 21 TBD]] |
+| 21 | Fri 10/2 | C | 72 | 1 | Logical Operators & Check-In (Nick back) | [[GP2 - Logical Operators & Check-In]] |
 
 ## Week 7 (10/5–10/9)
 
 | Day | Date | Type | Min | Unit | Topic | Link |
 |-----|------|------|-----|------|-------|------|
-| 22 | Mon 10/5 | A | 48 | 2 | TBD | [[GP2 Q1 - Days 22-32 TBD]] |
+| 22 | Mon 10/5 | A | 48 | 1 | Unit 1 Wrap Kahoot | [[GP2 - Unit 1 Wrap Kahoot (Day 22)]] |
+| 23 | Tue 10/6 | A | 48 | 1 | Unit 1 Checkpoint Quiz + Amnesty | [[GP2 - Unit 1 Checkpoint Quiz & Amnesty]] |
+| 24 | Wed 10/7 | A | 48 | 3 | Roll-A-Ball Video 01: Project Setup | [[GP2 - Roll-A-Ball Video 01 (Project Setup)]] |
+| 25 | Fri 10/9 | C | 72 | 3 | Roll-A-Ball Video 02: Header-Source Split | [[GP2 - Roll-A-Ball Video 02 (Header-Source Split)]] |
 
 ## Week 8 (10/12–10/16)
 
 | Day | Date | Type | Min | Unit | Topic | Link |
 |-----|------|------|-----|------|-------|------|
-| | Mon 10/12 | A | 48 | 2+ | TBD | [[GP2 Q1 - Days 22-32 TBD]] |
+| 26+ | Mon 10/12+ | A | 48 | 3+ | Roll-A-Ball series: loops, then project concepts as needed (video-driven pacing) | [[GP2 Q1 - Days 22-32 TBD]] |
 
 ## Links
 
@@ -87,6 +90,7 @@ Meeting pattern: Mon/Tue/Wed A (48 min), Fri C (72 min). No Thursday class.
 |----------|------|
 | GP2 Daily Slides | [Google Slides](https://docs.google.com/presentation/d/14am1CG2k2GkLF_0ctMmzqfX7kSiE4OyZtw36kiyegVU/edit) |
 | Scope & Sequence | [[Scope & Sequence - Game Programming 2 (GP2)]] |
+| GP2 Semester Map (Days 26+ through Q2) | [[GP2 Semester Map - SY27 Q1-Q2]] |
 | Loop Slides Content Plan | [[Loop Slides Content Plan]] |
 | Build Status | [[Build Status]] |
 | SY27 GP2 Planning | [[SY27 GP2 Planning]] |

@@ -1,14 +1,14 @@
 ---
+status: active
+type: review (EdPuzzle)
 course: GP1
 quarter: Q1
 day: 15
 date: Mon 9/21
 day_type: A
 chunk: '1-2'
-type: review (EdPuzzle)
 class_minutes: 48
 unit: 3
-status: active
 riddle: What building has the most stories?
 joke: What did the buffalo say to his son when he dropped him off at school?
 sub: false
@@ -32,24 +32,24 @@ Reinforce understanding of the Unreal Editor interface, project creation, viewpo
 
 ## Shared Block
 
-| Field | Value |
-|---|---|
-| Learning target | Reinforce understanding of the Unreal Editor interface, project creation, viewport navigation, and level management through guided EdPuzzle viewing. |
-| New concept | None. Review and reinforcement of Days 13-14. |
-| Content standard | CSTA 3A-CS-01, 3A-CS-02 |
-| ACT standard | WME 402 |
-| Unit performance task link | Viewport and editor fluency is prerequisite for every subsequent task. Students who cannot navigate confidently will fall behind on transforms and lighting. |
-| Rides on | Exploring Unreal Engine (Day 13) and Viewport & Navigation (Day 14). |
-| Vocabulary | Review: project, template, viewport, Content Browser, Details panel, Outliner, orbit, fly, pan, zoom, focus (F key), level, save, perspective, orthographic, wireframe, lit |
-| Prior-knowledge gaps | Most of the class was absent for Day 14's tutorial (field trip) and Day 13's coverage was light. Treat the whole room as new to the editor. The videos carry the instruction; the Do Now leans only on PIE, which everyone did see. |
+| Field                      | Value                                                                                                                                                                                                                               |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Learning target            | Reinforce understanding of the Unreal Editor interface, project creation, viewport navigation, and level management through guided EdPuzzle viewing.                                                                                |
+| New concept                | None. Review and reinforcement of Days 13-14.                                                                                                                                                                                       |
+| Content standard           | CSTA 3A-CS-01, 3A-CS-02                                                                                                                                                                                                             |
+| ACT standard               | WME 402                                                                                                                                                                                                                             |
+| Unit performance task link | Viewport and editor fluency is prerequisite for every subsequent task. Students who cannot navigate confidently will fall behind on transforms and lighting.                                                                        |
+| Rides on                   | Exploring Unreal Engine (Day 13) and Viewport & Navigation (Day 14).                                                                                                                                                                |
+| Vocabulary                 | Review: project, template, viewport, Content Browser, Details panel, Outliner, orbit, fly, pan, zoom, focus (F key), level, save, perspective, orthographic, wireframe, lit                                                         |
+| Prior-knowledge gaps       | Most of the class was absent for Day 14's tutorial (field trip) and Day 13's coverage was light. Treat the whole room as new to the editor. The videos carry the instruction; the Do Now leans only on PIE, which everyone did see. |
 
 **Do Now** (retrieval, not a cold open)
 
-| # | Type | Question |
-|---|---------|----------|
-| 1 | Review | What does PIE stand for, and what do you use it for? |
-| 2 | Review | What's one way to look at your level from a different angle in the viewport? |
-| 3 | Preview | What is the difference between perspective and orthographic views? |
+| #   | Type    | Question                                                                     |
+| --- | ------- | ---------------------------------------------------------------------------- |
+| 1   | Review  | What does PIE stand for, and what do you use it for?                         |
+| 2   | Review  | What's one way to look at your level from a different angle in the viewport? |
+| 3   | Preview | What is the difference between perspective and orthographic views?           |
 
 **Agenda**
 
@@ -78,11 +78,11 @@ Reinforce understanding of the Unreal Editor interface, project creation, viewpo
 
 ## Materials
 
-| Item | Status | Link |
-|------|--------|------|
-| EdPuzzle: Video 01 — Getting Started | ✅ | [[SY27 Q1 - Video 01 - Getting Started#SY27 EdPuzzle]] |
-| EdPuzzle: Video 02 — Levels and the Viewport | ✅ | [[SY27 Q1 - Video 02 - Levels and the Viewport#SY27 EdPuzzle]] |
-| Epic Games Launcher + Unreal Engine 5 | ✅ | Lab setup |
+| Item                                         | Status | Link                                                           |
+| -------------------------------------------- | ------ | -------------------------------------------------------------- |
+| EdPuzzle: Video 01 — Getting Started         | ✅     | [[SY27 Q1 - Video 01 - Getting Started#SY27 EdPuzzle]]         |
+| EdPuzzle: Video 02 — Levels and the Viewport | ✅     | [[SY27 Q1 - Video 02 - Levels and the Viewport#SY27 EdPuzzle]] |
+| Epic Games Launcher + Unreal Engine 5        | ✅     | Lab setup                                                      |
 
 ## Notes after teaching
 

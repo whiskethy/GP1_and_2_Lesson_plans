@@ -3,10 +3,12 @@ course: GP2
 quarter: Q1
 unit: 2
 type: planning
-status: active
+status: archived
 ---
 
 # GP2 Unit 2: Unreal C++ Anatomy — Stub Game
+
+**Superseded 2026-10-05 before delivery.** Never ran as a unit. The 10/5 restructure folded its live content into the Roll-A-Ball video series: header/source split became Video 02, UPROPERTY exposure became Video 07, compiler-error reading became Videos 03-04 plus the series-wide debug habit, and the compile-and-commit checkpoint became CP1. This doc is retained for the standards mappings, enduring understandings, and prior-knowledge gaps that the new plan carries. Live plan: [[Scope & Sequence - Game Programming 2 (GP2)]] and [[GP2 Semester Map - SY27 Q1-Q2]].
 
 ## Unit Overview
 

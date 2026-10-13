@@ -98,4 +98,4 @@ Apply location, rotation, and scale transforms to place objects at specific posi
 
 ## Connections
 
-← [[GP1 Q1 Day 20 - Scale (Sub)]] | [[GP1 Q1 Calendar]] | [[GP1 - Importing & Materials]] →
+← [[GP1 Q1 Day 20 - Scale (Sub)]] | [[GP1 Q1 Calendar]] | [[GP1 Q1 Day 22 - Amnesty & Catch-Up]] →

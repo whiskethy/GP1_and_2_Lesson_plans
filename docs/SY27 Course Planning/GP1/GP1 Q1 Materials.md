@@ -31,6 +31,8 @@ updated: 2026-09-08
 | Unit 3 slide deck                                   | Chunks 13–25      | High — starts W03   |
 | Unit 1 Quiz                                         | Chunk 9 (Day 10)  | High — 9/9          |
 | Pipeline diagram (for rendering day) | Chunk 10 (Day 11) | ✅ Done |
-| Unit 3 checkpoint rubrics (level layout, BP commit) | Chunks 20, 25     | Low                 |
+| Level Layout Practical brief, student Google Doc copy | ~~Chunk 24 (Day 24)~~ | Dropped 2026-10-07 (Day 24 re-aimed to Video 09; see archive) |
+| Blueprint mini-checkpoint brief (Day 25) | Chunk 24 (Day 25) | High - 10/8; text lives in the Day 25 file, Nick posts to Classroom |
+| Unit 3 checkpoint rubric (BP commit) | Chunk 29 | Low |
 | GitHub Desktop build guide                          | Chunk 21          | Low                 |
 | Unit 4 slide deck + checkpoint rubric               | Chunks 26–33      | Low — W07+          |

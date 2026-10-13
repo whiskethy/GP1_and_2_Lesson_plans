@@ -3,10 +3,12 @@ course: GP2
 quarter: Q1
 unit: 3
 type: planning
-status: active
+status: archived
 ---
 
 # GP2 Unit 3: Pointers, References & the Object Model
+
+**Superseded 2026-10-05 before delivery.** Never ran as a unit. The 10/5 restructure dissolved it into the Roll-A-Ball series: AActor and components became Video 06, TObjectPtr and garbage collection compressed into Video 11 (UPROPERTY keeps things alive, at project depth), and the PlayerBall.h Code Read survived as the Q2 W12 written deliverable. The dedicated plain-C++ pointers day is gone; the gap it existed for is still real and gets watched in the room. This doc is retained for the standards mappings, enduring understandings, and exit tickets that the new plan draws from. Live plan: [[Scope & Sequence - Game Programming 2 (GP2)]] and [[GP2 Semester Map - SY27 Q1-Q2]].
 
 ## Unit Overview
 

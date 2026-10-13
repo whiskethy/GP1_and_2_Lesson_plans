@@ -49,15 +49,18 @@ Use Unreal's coordinate system (X forward, Y sideways, Z up) to place objects at
 | 2 | Review | What are the default transform values for a new object? |
 | 3 | Preview | On a graph, the point (3, -2) is in which quadrant? What would a third axis (Z) add? |
 
-**Agenda for sub**
+**Agenda for sub — one bucket, self-paced**
 
-> 1. Students enter and start the Do Now on paper (5 min)
-> 2. EdPuzzle Video 04 — Transforms (approx. 20-28 min with pauses). All instruction is in the video — no worksheet today.
-> 3. Independent practice: coordinate challenges — place cubes next to, behind, and above an origin cube using the Details panel (30 min)
-> 4. Exit ticket on paper (5 min)
-> 5. Students who finish early: move on to any outstanding video tasks from earlier in the week (the Task List sheet on Google Classroom has the list), or keep practicing coordinate placement
+> Students start with the Do Now on the board (5 min). Then everyone works at their own pace through the same list, in order:
 >
-> The sub does NOT need to teach content — the video carries all instruction. Collect exit tickets at the end of the period. If a student is stuck for more than five minutes, tell them to rewind the video section.
+> 1. EdPuzzle Video 04 — Transforms, plus its tasks (place cubes at specific coordinates)
+> 2. EdPuzzle Video 05 — Rotation, plus its tasks
+> 3. EdPuzzle Video 06 — Scale, plus its tasks
+> 4. Transforms Worksheet (copies are on Nick's desk by the keyboard) — the last step, after Video 06
+>
+> Most students should be starting Video 04 today — students ahead may already be further down the list, and that's fine. Whatever a student doesn't finish picks up next class. No timed blocks.
+>
+> The sub does NOT need to teach content — the videos carry all instruction. Stuck for more than five minutes? Rewind the video section. Collect any completed worksheets at the end of the period.
 
 **Exit ticket** (on paper)
 
@@ -67,13 +70,10 @@ Use Unreal's coordinate system (X forward, Y sideways, Z up) to place objects at
 
 **Exit ticket mastery criteria:** Correctly identifies Location, Rotation, and Scale as the three transform parts, states that +X is forward and +Z is up, and calculates that the second cube goes at (0, 100, 50) or equivalent reasoning showing understanding of Y as the sideways axis.
 
-## Agenda
+## Agenda — self-paced bucket
 
-1. Do Now on paper (5 min)
-2. EdPuzzle Video 04 — Transforms (approx. 20-28 min with pauses) (28 min)
-3. Independent: coordinate challenges — place cubes next to, behind, and above an origin cube (30 min)
-4. Exit ticket on paper (5 min)
-5. Early finishers: outstanding video tasks or extra coordinate practice
+1. Do Now (5 min)
+2. Work through the list at your own pace: Video 04 + tasks → Video 05 + tasks → Video 06 + tasks → Transforms Worksheet (last, after Video 06)
 
 ## Differentiation & Accommodations
 

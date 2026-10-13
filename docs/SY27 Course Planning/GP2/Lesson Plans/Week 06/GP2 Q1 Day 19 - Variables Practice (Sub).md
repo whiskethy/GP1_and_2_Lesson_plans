@@ -19,7 +19,7 @@ sub: true
 
 **Date:** Tue 9/29 · **Unit:** 1 · **Chunks:** 11 (variables practice) + 13 (conditionals practice)
 
-> **Sub coverage.** Nick is out. No new instruction. Two tasks: finish the Variables Practice programs, then start the Conditionals Practice problem set (writing programs in the repo students already have cloned). The sub does not need content knowledge.
+> **Sub coverage.** Nick is out. No new instruction. Two tasks: finish the Variables Practice programs, then start the Conditionals Practice problem set (each problem is a complete program pasted into Codédex Build, not the repo). The sub does not need content knowledge.
 
 ## Learning Target
 
@@ -39,16 +39,16 @@ Declare variables with correct types and write conditional statements, by comple
 
 ## Exit Ticket
 
-1. Paste a link to your repo showing today's commits.
+1. Turn in your Conditionals Practice screenshots and pasted code on Classroom (or your repo link, if you were still working Variables Practice today).
 2. Write one thing you got stuck on today and how you got unstuck (or what you'd ask Nick when he's back).
 
-**Mastery Criteria:** Repo shows commits from today — either finished Variables Practice programs or the first Conditionals Practice program. The reflection question gets a real answer, not "nothing."
+**Mastery Criteria:** Evidence of work from today — either finished Variables Practice programs in the repo, or Conditionals Practice problems turned in on Classroom (screenshot + pasted code). The reflection question gets a real answer, not "nothing."
 
 ## Agenda for sub
 
 > 1. Students enter, open Visual Studio and their repo, work the Do Now on paper (5 min)
 > 2. Continue Variables Practice — any student who still owes rectangle-area or temperature-converter finishes it, commits, pushes (15 min)
-> 3. Students who are done with Variables Practice start the Conditionals Practice problem set (posted on Google Classroom) — writing conditional programs in the same repo, committing each as it works (25 min)
+> 3. Students who are done with Variables Practice start the Conditionals Practice problem set (posted on Google Classroom) — it's a Google Doc of complete programs. Paste one at a time into Codédex Build (codedex.io/cpp), run it, screenshot the code and output, paste the code as text, turn both in on Classroom (25 min)
 > 4. Exit ticket (3 min)
 > 5. Students who finish early: move ahead in the problem set
 >
@@ -73,7 +73,7 @@ Declare variables with correct types and write conditional statements, by comple
 
 | Item | Status | Link |
 |------|--------|------|
-| Conditionals Practice problem set | 🔲 not built | build before 9/29 |
+| Conditionals Practice problem set | ✅ | [Doc](https://docs.google.com/document/d/1zYbdIVBJtRS9PjgBscb2Lovz6VRGGcddCYvWtcFKu8M/edit) (source: [[GP2 - Conditionals Practice Problem Set]]; students paste problems into Codédex Build, screenshot + paste code back, no repo) |
 | Classroom post with student directions | 🔲 not built | text drafted in [[Sub Plans]] |
 | C++ Cheat Sheet (live) | ✅ | [Drive](https://docs.google.com/document/d/1Ae39WRmOcdEsln8an0AeS-ROIC7aYN9Bmh-vsDGsDUE/edit) |
 | Variables Practice repo | ✅ | ChicagoTechAcademy/gp2-sy27, variables-practice (clone only) |

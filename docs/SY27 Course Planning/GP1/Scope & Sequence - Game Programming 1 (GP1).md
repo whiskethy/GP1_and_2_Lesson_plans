@@ -146,7 +146,7 @@ Rebuilt from scratch. Fundamentals first and independent of working computers, t
 	- **Written:** Doc Hunt on Epic's asset naming conventions (students derive the naming scheme + write the class prefix table used all year) → attached to Chunk 7. Written Build Guide for GitHub Desktop workflow → attached to Chunk 10.
 	- **Deliverable:** level layout practical (Chunk 9) + one working Blueprint committed to a repo (Chunk 14).
 
-- **Unit 4: Q1 Capstone - Coin Rush** (8 meetings, late W07–W09)
+- **Unit 4: Q1 Capstone - Coin Rush** (8 meetings, late W07–W09) — **PIVOTED OUT 2026-10-08.** Not enough runway to Q1 close (grades due 10/21). Days 26-32 were rebuilt as Ship Game (Videos 11-16) + Devlog Checkpoint 02 + next-project intro. Coin Rush chunk structure preserved below unchanged so it can be replanned for Q2 or a later unit; see Re-pacing Notes (2026-10-08) for the pivot rationale.
 	1. Third Person template setup (no player programming this quarter, keeps Q2's Roll-A-Ball videos 01-04 fresh) — *new idea* · *Performance Task Connection: Template setup is the on-ramp for the capstone. Students cannot build Coin Rush without a working project.*
 	2. Collectible Actor with overlap events — *new idea* · *Performance Task Connection: Overlap events are the core mechanic of Coin Rush. Without them, no collectible works.*
 	3. Score variable and increment (rides on overlap events) — *new idea*, practice · *Performance Task Connection: Score tracking is required for the win/lose conditions in Chunks 5-6.*
@@ -176,7 +176,11 @@ Unit 3 expanded from 13 to 14 meetings: one new Exploring Unreal Engine day at t
 
 **Sub coverage needed Mon 9/14.** Nick is out. GP1 Day 12 is a reading day (game engine article), no new instruction. See [[GP1 Q1 Day 12 - Reading Day (Sub)]].
 
+**Pivot 2026-10-08.** Unit 4 (Coin Rush capstone) pivoted out for SY27 Q1: after Mon 10/12 goes away to Indigenous Peoples' Day, only 7 GP1 meetings remain before the quarter closes 10/23 (grades due 10/21). 7 meetings cannot carry 8 Coin Rush chunks plus a package-and-submit checkpoint at this stage. Replacement plan for Days 26-32: finish the full 16-video Intro to Unreal series (Videos 11-16 build a Flappy-style ship game), the ship game becomes the de facto Q1 project, and the deliverable is Devlog Checkpoint 02 (OBS screen recording + show-me checklist + 3-4 reflection questions, no narration in Q1, narration starts Q2). Day 32 (Thu 10/22) is the intro stub for the next project, whose content is Nick's decision. Coin Rush's 8-chunk structure is preserved above unchanged so it can be replanned whole for Q2 or a later unit. The Chunk 14 "Blueprint committed to repo" assessment table row moves with this pivot: the repo/commit deliverable rides Q2's project instead.
+
 **Sub coverage needed, 9/24–9/30/26.** Nick is out of town and a certified substitute with no content knowledge will cover GP1's Thu 9/24 (long/B-day), Tue 9/29, Wed 9/30, and Thu 10/1 (long/B-day) meetings. These 4 days land inside Unit 3 as EdPuzzle video + worksheet days — no new instruction from the sub. **Re-paced 2026-09-23:** Day 15 ran long on Video 01, so Day 16 was re-aimed to finish Video 02 and the whole video block shifted one meeting. Days 17-21 now cover Basic Placement Tools (Video 03), Transforms (Video 04), Rotation (Video 05), Scale (Video 06), and Level Setup (Video 07 + full Transforms Worksheet consolidation). Importing & Materials (Video 08, Chunks 6+8) moved from Day 21 to Day 23, eating one TBD day. See [[GP1 Sub Prep - Sept 2026]] for the applied plan. Known flag: the hardest chunk (coordinate math, Video 04) lands on a sub day instead of a live day.
+
+**Sub coverage needed Tue 10/13/26 (one-off).** Nick is out, last-minute. Day 26 runs as EdPuzzle Video 11 (FAB Import & Ship Blueprint) follow-along; Video 11 posted to students 10/13. Day file: [[GP1 Q1 Day 26 - Ship Blueprint (Sub)]].
 
 ### Priority Content Standards
 

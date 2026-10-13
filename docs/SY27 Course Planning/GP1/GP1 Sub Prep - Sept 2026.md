@@ -40,8 +40,9 @@ Day 16 (Tue 9/22) was re-aimed to finish Video 02 (Day 15 only got a few minutes
 | 18 | Thu 9/24 (sub, B) | Video 05 Rotation | Video 04 Transforms + worksheet Parts 1-2 |
 | 19 | Tue 9/29 (sub) | Video 06 Scale | Video 05 Rotation + worksheet Part 3 |
 | 20 | Wed 9/30 (sub) | Video 07 Level Setup | Video 06 Scale + worksheet Part 4 |
-| 21 | Thu 10/1 (sub, B) | Video 08 Importing | Video 07 Level Setup + full Transforms Worksheet consolidation + lights |
-| 23 | Mon 10/5 | TBD | Video 08 Importing & Materials (eats one TBD day) |
+| 21 | Thu 10/1 (sub, B) | Video 07 Level Setup | Video 07 Level Setup + full Transforms Worksheet consolidation + lights |
+| 22 | Mon 10/5 | TBD | Video 08 Importing & Materials (eats one TBD day; ran as Amnesty & Catch-Up, renumbered from Day 23 on 10/6) |
+| 26 | Tue 10/13 | Video 11 | Sub day (last-minute). Video 11 posted to EdPuzzle 10/13. Day file: [[GP1 Q1 Day 26 - Ship Blueprint (Sub)]] |
 
 Applied 2026-09-23: Day 16 renamed to match content, Days 17-21 rewritten (old versions archived to 07 - Archive), Day 23 file created, calendar updated, wikilinks swept, Task List State due dates moved, this file's day-by-day table updated, S&S re-pacing note added. Known flag: hardest chunk (coordinate math, Video 04) lands on a sub day instead of a live day.
 

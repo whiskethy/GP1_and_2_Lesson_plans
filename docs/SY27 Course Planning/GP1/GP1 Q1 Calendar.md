@@ -3,7 +3,7 @@ course: GP1
 quarter: Q1
 type: reference
 status: active
-updated: 2026-09-23
+updated: 2026-10-06
 ---
 
 # GP1 Q1 Calendar
@@ -66,31 +66,32 @@ GP1 meets Mon/Tue/Wed (A, 48 min) and Thu (B, 72 min). No Friday class.
 | 20 | Wed 9/30 | A | 48 | 3 | Scale (sub) | [[GP1 Q1 Day 20 - Scale (Sub)]] |
 | 21 | Thu 10/1 | B | 72 | 3 | Level Setup & Transforms Consolidation (sub) | [[GP1 Q1 Day 21 - Level Setup & Lights (Sub)]] |
 
-### W07: Oct 5–9 (Days 23–25) — Unit 3: Unreal Editor & First Blueprints
+### W07: Oct 5–8 (Days 22–25) — Unit 3: Unreal Editor & First Blueprints
 
 | Day | Date | Type | Min | Unit | Lesson | Link |
 |-----|------|------|-----|------|--------|------|
-| 23 | Mon 10/5 | A | 48 | 3 | Importing & Materials | [[GP1 Q1 Day 23 - Importing & Materials]] |
-| 24 | Tue 10/6 | A | 48 | 3 | TBD | [[GP1 Q1 - Days 15-25 TBD]] |
-| 25 | Wed 10/7 | A | 48 | 3 | TBD | [[GP1 Q1 - Days 15-25 TBD]] |
+| 22 | Mon 10/5 | A | 48 | 3 | Amnesty & Catch-Up | [[GP1 Q1 Day 22 - Amnesty & Catch-Up]] |
+| 23 | Tue 10/6 | A | 48 | 3 | Importing & Materials | [[GP1 Q1 Day 23 - Importing & Basic Materials]] |
+| 24 | Wed 10/7 | A | 48 | 3 | Ring Blueprint (Video 09) | [[GP1 Q1 Day 24 - Ring Blueprint]] |
+| 25 | Thu 10/8 | B | 72 | 3 | Blueprint Visual Programming + Mini-Checkpoint (Video 10) | [[GP1 Q1 Day 25 - Blueprint Visual Programming + Mini-Checkpoint]] |
 
-### W08: Oct 12–16 (Days 26–29) — Unit 4: Q1 Capstone: Coin Rush
-
-| Day | Date | Type | Min | Unit | Lesson | Link |
-|-----|------|------|-----|------|--------|------|
-| 26 | Mon 10/12 | A | 48 | 4 | TBD | [[GP1 Q1 - Days 26-33 TBD]] |
-| 27 | Tue 10/13 | A | 48 | 4 | TBD | [[GP1 Q1 - Days 26-33 TBD]] |
-| 28 | Wed 10/14 | A | 48 | 4 | TBD | [[GP1 Q1 - Days 26-33 TBD]] |
-| 29 | Thu 10/15 | B | 72 | 4 | TBD | [[GP1 Q1 - Days 26-33 TBD]] |
-
-### W09: Oct 19–23 (Days 30–33) — Unit 4: Q1 Capstone: Coin Rush
+### W08: Oct 12–16 (Days 26–28) — Unit 4: Ship Game (Videos 11–16) + Devlog Checkpoint
 
 | Day | Date | Type | Min | Unit | Lesson | Link |
 |-----|------|------|-----|------|--------|------|
-| 30 | Mon 10/19 | A | 48 | 4 | TBD | [[GP1 Q1 - Days 26-33 TBD]] |
-| 31 | Tue 10/20 | A | 48 | 4 | TBD | [[GP1 Q1 - Days 26-33 TBD]] |
-| 32 | Wed 10/21 | A | 48 | 4 | TBD | [[GP1 Q1 - Days 26-33 TBD]] |
-| 33 | Thu 10/22 | B | 72 | 4 | TBD | [[GP1 Q1 - Days 26-33 TBD]] |
+| — | Mon 10/12 | — | — | | *Indigenous Peoples' Day — no school* | |
+| 26 | Tue 10/13 | A | 48 | 4 | Ship Blueprint (Video 11, sub) | [[GP1 Q1 Day 26 - Ship Blueprint (Sub)]] |
+| 27 | Wed 10/14 | A | 48 | 4 | Blueprint Basics & Basic Input (Video 12) | [[GP1 Q1 Day 27 - Blueprint Basics & Basic Input]] |
+| 28 | Thu 10/15 | B | 72 | 4 | Forward Movement + Basic Collision (Videos 13+14) | [[GP1 Q1 Day 28 - Forward Movement + Collision]] |
+
+### W09: Oct 19–23 (Days 29–32) — Unit 4: Ship Game (Videos 15–16) + Devlog Checkpoint
+
+| Day | Date | Type | Min | Unit | Lesson | Link |
+|-----|------|------|-----|------|--------|------|
+| 29 | Mon 10/19 | A | 48 | 4 | Basic UI (Video 15) | [[GP1 Q1 Day 29 - Basic UI]] |
+| 30 | Tue 10/20 | A | 48 | 4 | Refactoring (Video 16) | [[GP1 Q1 Day 30 - Refactoring]] |
+| 31 | Wed 10/21 | A | 48 | 4 | Devlog Checkpoint 02 + Q1 Grades Due | [[GP1 Q1 Day 31 - Devlog Checkpoint 02]] |
+| 32 | Thu 10/22 | B | 72 | 5 | Next Project Intro (stub) | [[GP1 Q1 Day 32 - Next Project Intro]] |
 
 ## Links
 

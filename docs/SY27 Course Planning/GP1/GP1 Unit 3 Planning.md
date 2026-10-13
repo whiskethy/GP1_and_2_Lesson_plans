@@ -65,9 +65,20 @@ The editor unit. Students go from "what is a game engine" to building inside one
 | LT3-3c | Use Unreal's Rotate tool to change object orientation, and explain how pitch, yaw, and roll correspond to X, Y, and Z rotation. | CSTA [3A-CS-01](../../Standards/CSTA%20Standards.md#3a-cs-01), ACT [G 406](../../Standards/CCRS-MathematicsStandards.md#g-406), [G 407](../../Standards/CCRS-MathematicsStandards.md#g-407), [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402) | 18 |
 | LT3-3d | Use Unreal's Scale tool to resize objects, and explain the difference between uniform and non-uniform scaling. | CSTA [3A-CS-01](../../Standards/CSTA%20Standards.md#3a-cs-01), ACT [G 406](../../Standards/CCRS-MathematicsStandards.md#g-406), [G 407](../../Standards/CCRS-MathematicsStandards.md#g-407), [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402) | 19 |
 | LT3-3+5 | Apply location, rotation, and scale transforms to place objects at specific positions, orientations, and sizes. Identify and place light types in Unreal. | CSTA [3A-CS-01](../../Standards/CSTA%20Standards.md#3a-cs-01), ACT [G 406](../../Standards/CCRS-MathematicsStandards.md#g-406), [G 407](../../Standards/CCRS-MathematicsStandards.md#g-407), [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402) | 20 |
-| LT3-6+8 | Import an FBX asset into Unreal, organize files in the Content Browser, create a basic material, and apply it to an object. | CSTA [3A-CS-01](../../Standards/CSTA%20Standards.md#3a-cs-01), ACT [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402) | 21 |
+| LT3-6+8 | Import an FBX asset into Unreal, organize files in the Content Browser, create a basic material, and apply it to an object. | CSTA [3A-CS-01](../../Standards/CSTA%20Standards.md#3a-cs-01), ACT [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402) | 23 |
+| LT3-R9 | (video) Blueprint first contact: create a Blueprint class, add a Static Mesh component, set the root, write first Blueprint programs (BeginPlay print, Tick spin). Video 09. | CSTA [3A-AP-13](../../Standards/CSTA%20Standards.md#3a-ap-13), ACT [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402) | 24 |
+| LT3-R10 | (video) Read and modify the BP_Ring Blueprint at the node level: execution/input/output pins, BeginPlay vs Tick, print live data (Get Actor Rotation). Video 10 + mini-checkpoint. | CSTA [3A-AP-13](../../Standards/CSTA%20Standards.md#3a-ap-13), [3A-AP-16](../../Standards/CSTA%20Standards.md#3a-ap-16), ACT [WME 402](../../Standards/CCRS-ReadingStandards.md#wme-402) | 25 |
 
-*Learning targets for Days 22–25 (Chunks 9–14) are TBD pending lesson plan creation.*
+*Day 25 onward is built; see the day files. Days 26+ are Unit 4 (Ship Game videos 11-16 + Devlog Checkpoint 02). See the Q1 Endgame Pivot below.*
+
+## Q1 Endgame Pivot
+
+Recorded 2026-10-08; carried over from the Days 26-32 TBD placeholder before that file was deleted (the day files exist as stubs: Do Nows, agendas, exit tickets, and riddle/joke picks not yet built).
+
+- Coin Rush capstone pivoted out 2026-10-08: not enough runway between now and Q1 close (grades due 10/21).
+- The 16-video Intro to Unreal series runs through Day 30; the ship game is the de facto Q1 project.
+- Deliverable: Devlog Checkpoint 02 (OBS screen recording + checklist + 3-4 reflection questions) on Day 31.
+- Day 32 (Thu 10/22) is the next project intro; project decision is Nick's.
 
 ## Assessment Plan
 
@@ -75,16 +86,18 @@ The editor unit. Students go from "what is a game engine" to building inside one
 
 | Assessment | Type | Day |
 |---|---|---|
-| Level Layout Practical | Summative (checkpoint) | ~Day 22 |
-| Blueprint Committed to Repo | Summative (checkpoint) | ~Day 25 |
+| GP1: Intro to Unreal Checkpoint 01 (Blueprint Mini-Checkpoint: BP_Ring spin, second print, rotation print) | Summative (checkpoint), small | Day 25 |
+| Blueprint Committed to Repo | Summative (checkpoint) | ~Day 29 |
+
+*Note: the Level Layout Practical (Chunk 9, Day 24) was dropped 2026-10-07 - students already did placement/transforms practice inside Videos 04-06's built-in challenges, and the built-in screenshot submissions carry that evidence. See archive note.*
 
 ### Learning Checkpoints
 
 | Checkpoint | Type | Day |
 |---|---|---|
 | Transforms Worksheet (Parts 1-5) | Formative (written + practical) | 18, 20 |
-| Doc Hunt on Epic's asset naming conventions | Formative (written) | ~Day 21 |
-| Written Build Guide for GitHub Desktop | Formative (written) | ~Day 23 |
+| Doc Hunt on Epic's asset naming conventions | Formative (written) | ~Day 23 |
+| Written Build Guide for GitHub Desktop | Formative (written) | ~Day 24 |
 
 ### Exit Tickets by Learning Target
 
@@ -100,6 +113,8 @@ The editor unit. Students go from "what is a game engine" to building inside one
 | ET19 | What happens when you change X scale to 3? What is uniform vs. non-uniform scaling? What does the Scale tool's white center cube do? | LT3-3d |
 | ET20 | Place a cube at X=300, Y=-200, Z=50. Rotate a cylinder 90 degrees on Z (yaw). Scale a sphere to X=2, Y=2, Z=2. What shape does it become? | LT3-3+5 |
 | ET21 | What do SM_ and M_ stand for in Unreal naming conventions? What is the difference between base color and emissive? What Blend Mode is needed for opacity? | LT3-6+8 |
+| ET24 | What is a Blueprint and how did BP_ signal it? Which event runs the spin? Why set the Static Mesh as root? | LT3-R9 |
+| ET25 | Execution pin vs input pin? Should the rotation print run on Tick? One thing Blueprint does well, one thing C++ does better? | LT3-R10 |
 
 ## Lesson Schedule
 
@@ -115,11 +130,11 @@ The editor unit. Students go from "what is a game engine" to building inside one
 | 19 | Tue 9/29 | A | 48 | 3 | 3 | Scale (Sub) | LT3-3d |
 | 20 | Wed 9/30 | A | 48 | 3 | 3+5 | Level Setup & Transforms Consolidation (Sub) | LT3-3+5 |
 | 21 | Thu 10/1 | B | 72 | 3 | 6+8 | Importing & Materials | LT3-6+8 |
-| 22+ | TBD | | | 3 | 4,5,7 | Snapping, Lights, Content Browser | TBD |
-| ~22 | TBD | A | 48 | 3 | 9 | **Checkpoint: Level Layout Practical** | TBD |
-| ~23 | TBD | | | 3 | 10 | GitHub Desktop Workflow | TBD |
-| ~24 | TBD | | | 3 | 11-13 | Compiling, Variables, Class vs. Instance | TBD |
-| ~25 | TBD | | | 3 | 14 | **Checkpoint: Blueprint Committed to Repo** | TBD |
+| 22 | Mon 10/5 | A | 48 | 3 | 6+8 | Amnesty & Catch-Up (was: Importing & Materials) | LT3-6+8 (not taught as planned) |
+| 23 | Tue 10/6 | A | 48 | 3 | 6+8 | Importing & Materials | LT3-6+8 |
+| 24 | Wed 10/7 | A | 48 | 3 | 10 | **Ring Blueprint (Video 09)** (was: Level Layout Checkpoint - dropped, see archive) | LT3-R9 |
+| 25 | Thu 10/8 | B | 72 | 3 | 11 | Blueprint Visual Programming + Mini-Checkpoint (Video 10) | LT3-R10 |
+| 26+ | TBD | | | 4 | — | Ship Game videos 11-16 + Devlog Checkpoint 02 (Days 26-32, W08-W09); Coin Rush pivoted out 2026-10-08, see Q1 Endgame Pivot | TBD |
 
 ## Written Pathway
 

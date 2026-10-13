@@ -3,10 +3,12 @@ course: GP2
 quarter: Q1
 unit: 4
 type: planning
-status: active
+status: archived
 ---
 
 # GP2 Unit 4: Q1 Capstone — Roll-A-Ball in C++
+
+**Superseded 2026-10-05.** The capstone-as-final-week idea is gone; the project now IS the semester, built incrementally through the video series from Day 24 onward. The PlayerBall.cpp standalone Code Read is superseded because students construct the .cpp piece by piece through Videos 06-09 instead of tracing it cold; the add-a-feature work lives in Q2 W16, and the final demo is CP3. This doc is retained for the standards mappings and the feature-checklist thinking. Live plan: [[Scope & Sequence - Game Programming 2 (GP2)]] and [[GP2 Semester Map - SY27 Q1-Q2]].
 
 ## Unit Overview
 

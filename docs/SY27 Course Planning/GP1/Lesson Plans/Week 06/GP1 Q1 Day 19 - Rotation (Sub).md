@@ -49,15 +49,18 @@ Use Unreal's Rotate tool to change object orientation, and explain how pitch, ya
 | 2 | Review | A cube is at (0, 0, 50). You want to place another cube directly behind it. What X value do you use? |
 | 3 | Preview | If you rotate something 90 degrees, how much of a full circle is that? |
 
-**Agenda for sub**
+**Agenda for sub — one bucket, self-paced**
 
-> 1. Students enter and start the Do Now on paper (5 min)
-> 2. EdPuzzle Video 05 — Rotation (approx. 20-28 min with pauses). All instruction is in the video — no worksheet today.
-> 3. Independent practice: rotation challenges — rotate objects using the Rotate tool (E), try pitch/yaw/roll on different objects (30 min)
-> 4. Exit ticket on paper (5 min)
-> 5. Students who finish early: move on to any outstanding video tasks (the Task List sheet on Google Classroom has the list), or keep exploring rotation with different objects
+> Students start with the Do Now on the board (5 min). Then everyone works at their own pace through the same list, in order:
 >
-> The sub does NOT need to teach content — the video carries all instruction. Collect exit tickets at the end of the period. If a student is stuck for more than five minutes, tell them to rewind the video section.
+> 1. EdPuzzle Video 04 — Transforms, plus its tasks (place cubes at specific coordinates)
+> 2. EdPuzzle Video 05 — Rotation, plus its tasks
+> 3. EdPuzzle Video 06 — Scale, plus its tasks
+> 4. Transforms Worksheet (copies are on Nick's desk by the keyboard) — the last step, after Video 06
+>
+> Most students should be around Video 05 today. Students ahead may already be on the worksheet; students behind pick up wherever they left off — both are fine. No timed blocks.
+>
+> The sub does NOT need to teach content — the videos carry all instruction. Stuck for more than five minutes? Rewind the video section. Collect any completed worksheets at the end of the period.
 
 **Exit ticket** (on paper)
 
@@ -67,13 +70,10 @@ Use Unreal's Rotate tool to change object orientation, and explain how pitch, ya
 
 **Exit ticket mastery criteria:** Correctly matches at least two rotation axes to their colors (red=pitch/X, green=yaw/Y, blue=roll/Z), describes the result of a 90-degree yaw rotation, and explains that negative rotation goes in the opposite direction.
 
-## Agenda
+## Agenda — self-paced bucket
 
-1. Do Now on paper (5 min)
-2. EdPuzzle Video 05 — Rotation (approx. 20-28 min with pauses) (28 min)
-3. Independent: rotation challenges in Unreal (30 min)
-4. Exit ticket on paper (5 min)
-5. Early finishers: outstanding video tasks or extra rotation practice
+1. Do Now (5 min)
+2. Work through the list at your own pace: Video 04 + tasks → Video 05 + tasks → Video 06 + tasks → Transforms Worksheet (last, after Video 06)
 
 ## Differentiation & Accommodations
 
