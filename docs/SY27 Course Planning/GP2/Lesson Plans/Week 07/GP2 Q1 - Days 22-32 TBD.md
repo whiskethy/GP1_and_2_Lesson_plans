@@ -32,6 +32,16 @@ The original plan (Units 2-4 as separate marches: stub Actor unit, pointers unit
 
 ## Video-driven pacing (Nick, 10/5)
 
+Riddle/joke note (10/13, corrected: pairs match by DAY NUMBER, not date): GP2 Day N gets the same pair as GP1 Day N, whatever the calendar dates. Already assigned through GP1 Day 32, listed here so the stub pass doesn't re-pick:
+- Day 26: none (both courses sub day)
+- Day 27: riddle "What has lots of eyes, but can't see?" · joke "How do you organize a space party?"
+- Day 28: riddle "What has many needles, but doesn't sew?" · joke "What is an astronaut's favorite key on a keyboard?"
+- Day 29: riddle "What kind of coat is best put on wet?" · joke "Did you hear about the cat that ate a lemon?"
+- Day 30: riddle "What has one head, one foot and four legs?" · joke "How do mice floss their teeth?"
+- Day 31: riddle "What can run but never walks, has a mouth but never talks, has a head but never weeps, has a bed but never sleeps?" · joke "What did the janitor say when he jumped out of the closet"
+- Day 32: riddle "What building has the most stories?" · joke "What do you call a fly with a sore throat"
+GP2 Days 33+ (beyond GP1's assignments) need fresh unused pairs from Riddles.md / Dumb Jokes.md.
+
 Pacing is dictated by videos, not by the days themselves. Usually one video per day, with buffer in case the room works faster or slower. A day focused on Video N needs Video N+1 already recorded so faster students can roll ahead. Full series plan (Videos 01-05, starter project requirements, EdPuzzle workflow): [[SY27 Q1 - GP2 Roll-A-Ball C++ Videos]]. Series-wide: every video shows common errors getting read out of the VS console / Unreal Output Log and fixed — debugging as a habit, not a topic (Nick, 10/5).
 
 - **Video 01 — Project Setup** (Day 24, Wed 10/7)

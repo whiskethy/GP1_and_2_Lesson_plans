@@ -3,7 +3,7 @@ course: GP1
 quarter: Q1
 type: reference
 status: active
-updated: 2026-10-08
+updated: 2026-10-13
 ---
 
 # GP1 Task List State
@@ -36,6 +36,18 @@ Local source of truth for the GP1 student Task List. The live student-facing she
 | 14 | Watch Video 10 - Blueprint Visual Programming | Answer the questions inside the video | EdPuzzle | Lesson Video | No | 10/8 |
 | 15 | GP1: Intro to Unreal Checkpoint 01 | Submit a screenshot for each video you have finished (07 08 09 10) | Google Classroom | Checkpoint | Yes | 10/8 |
 | 16 | Watch Video 11 - FAB Import & Ship Blueprint | Answer the questions inside the video; follow along: import a ship from FAB, build BP_Spaceship (Pawn, mesh root, camera), set Game Mode override | EdPuzzle | Lesson Video | Yes | 10/13 |
+| 17 | Watch Video 12 - Blueprint Basics & Basic Input | Follow along: Simulate Physics, spacebar Add Impulse, lock X/Y rotation | EdPuzzle | Lesson Video | Yes | 10/14 |
+| 18 | Watch Video 13 - Forward Movement | Follow along: Add Force on Tick (Vel Change), X = forward, obstacles | EdPuzzle | Lesson Video | Yes | 10/15 |
+| 19 | Watch Video 14 - Basic Collision | Follow along: Event Actor Begin Overlap, collision presets, Cast, Destroy Actor - make the ring disappear | EdPuzzle | Lesson Video | Yes | 10/15 |
+| 20 | Watch Video 15 - Basic UI | Follow along: Player Controller Score, Widget Blueprint, wire score ticking to overlaps | EdPuzzle | Lesson Video | Yes | 10/19 |
+| 21 | Watch Video 16 - Refactoring | Follow along: Collapse to Function, move overlap logic to the ring, sphere/box colliders, BSP ground | EdPuzzle | Lesson Video | Yes | 10/20 |
+| 22 | GP1: Ship Game Devlog Checkpoint 02 | OBS screen recording showing the checklist + reflection questions | Google Classroom | Checkpoint | Yes | 10/21 |
+
+## Planned, not yet published
+
+| # | Task | Note | Found on | Task Type | Lab | Due |
+|---|------|------|----------|-----------|-----|-----|
+| 23 | Roll-A-Ball project kickoff | Day 32 (Thu 10/22, B): watch the exemplar, plan the project; SY26 series posted by Nick when processed | Google Classroom | Independent Activity | Yes | 10/22 |
 
 ## Dropdown vocab
 

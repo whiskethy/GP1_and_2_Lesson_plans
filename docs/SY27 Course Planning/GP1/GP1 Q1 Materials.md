@@ -33,6 +33,8 @@ updated: 2026-09-08
 | Pipeline diagram (for rendering day) | Chunk 10 (Day 11) | ✅ Done |
 | Level Layout Practical brief, student Google Doc copy | ~~Chunk 24 (Day 24)~~ | Dropped 2026-10-07 (Day 24 re-aimed to Video 09; see archive) |
 | Blueprint mini-checkpoint brief (Day 25) | Chunk 24 (Day 25) | High - 10/8; text lives in the Day 25 file, Nick posts to Classroom |
+| Devlog Checkpoint 02 brief (Day 31) | Chunk 18 (Day 31) | High - 10/21; Nick adapts his old devlog brief; checklist source built into the Day 31 file |
 | Unit 3 checkpoint rubric (BP commit) | Chunk 29 | Low |
-| GitHub Desktop build guide                          | Chunk 21          | Low                 |
-| Unit 4 slide deck + checkpoint rubric               | Chunks 26–33      | Low — W07+          |
+| GitHub Desktop build guide | Chunk 21 | Low |
+| Unit 4 slide deck + checkpoint rubric | Chunks 26-33 | Low - W07+ |
+| SY26 Roll-A-Ball series processing (16 videos) | Chunk 19 (Day 32) + Q2 | High before 10/22; transcript + EdPuzzle processing pass needed |
