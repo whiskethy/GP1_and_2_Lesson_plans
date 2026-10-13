@@ -16,7 +16,7 @@ Local source of truth for the GP1 student Task List. The live student-facing she
 - Update this file as part of lesson planning and lesson updates. The day file's Materials table and this file stay in sync.
 - When daily slides are updated, verify the live sheet against this file, and make sure the live sheet includes at least the content for that day.
 
-## Published to the live sheet (last synced 10/8)
+## Published to the live sheet (last synced 10/13)
 
 | # | Task | Note | Found on | Task Type | Lab | Done by |
 |---|------|------|----------|-----------|-----|---------|
