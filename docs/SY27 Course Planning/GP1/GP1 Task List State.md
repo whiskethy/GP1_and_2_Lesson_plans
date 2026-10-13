@@ -10,6 +10,8 @@ updated: 2026-10-13
 
 Local source of truth for the GP1 student Task List. The live student-facing sheet is [Task List - GP1](https://docs.google.com/spreadsheets/d/1j47jieaU-_4DD5jxINgxpLh8GKNHjOLj-tRlTRl-YQg/edit) (sheet ID: `1j47jieaU-_4DD5jxINgxpLh8GKNHjOLj-tRlTRl-YQg`, Task List tab, header row 4, data starts row 5).
 
+**Column A is a formula, not data**: A5 holds `=transpose(SEQUENCE(1,100))`, which fills the order sequence down the whole tab. Any sheet write must cover columns B-G only (write `Task List!B{row}:G{row}`), never column A - a write including A clobbers the formula. The early `#REF!`/blank-looking Order cells were this formula's spill, not missing data.
+
 ## How this file works
 
 - The live sheet is student-facing and only goes out about a week. This file can go farther.
