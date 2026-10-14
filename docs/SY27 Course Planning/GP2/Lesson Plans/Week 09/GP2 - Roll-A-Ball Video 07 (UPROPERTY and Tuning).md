@@ -19,7 +19,7 @@ joke: What did the janitor say when he jumped out of the closet
 
 Day 31 (A day, 48 min), STUB. Main content is Video 07: UPROPERTY and Tuning: expose RollSpeed and JumpForce to the editor, EditAnywhere vs VisibleAnywhere lightly, tune in the Details panel without recompiling. UFUNCTION gets previewed only (load-bearing in V16). One new idea: UPROPERTY makes a C++ variable engine-visible; the tuning habit rides on components from Monday.
 
-Calendar note: Quarter 1 grades are DUE today (10/21). CP1 is Friday's evidence, but Nick grades the quarter before it. The checkpoint design below assumes Friday's submission is the Q1 grade anchor; if Nick grades before Friday, the CP1 tier structure compensates (nothing in flight is penalized Friday).
+Calendar note: Quarter 1 grades are due for teachers today (10/21), but Nick collects the school's grades and can extend his own submission window to Fri 10/23. CP1 lands inside the grading window, and the constraint that buys the extension is baked into CP1's design: the checkpoint must grade in minutes (presence-based screenshots in one Classroom assignment, no code reading required to score).
 
 Prep dependency: V07 must be published by Tuesday night. Video 08 (Enhanced Input) needs recording next; it is not on the hook until W10.
 

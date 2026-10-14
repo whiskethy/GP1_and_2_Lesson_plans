@@ -61,7 +61,7 @@ Pacing is dictated by videos, not by the days themselves. Usually one video per 
 - **Day 28, Fri 10/16 (C day):** Video 05 Loops → [[GP2 - Roll-A-Ball Video 05 (Loops)]]. Absorbs the S&S's standalone loops-practice chunk (Mon 10/12 holiday cost W8 a meeting).
 - **Day 29, Mon 10/19:** Video 06 Constructor and Components → [[GP2 - Roll-A-Ball Video 06 (Constructor and Components)]]
 - **Day 30, Tue 10/20:** Components practice → [[GP2 - Roll-A-Ball Components Practice]]
-- **Day 31, Wed 10/21:** Video 07 UPROPERTY and Tuning → [[GP2 - Roll-A-Ball Video 07 (UPROPERTY and Tuning)]]. Q1 grades due today; CP1 is Friday but the tier design covers grade-before-checkpoint.
+- **Day 31, Wed 10/21:** Video 07 UPROPERTY and Tuning → [[GP2 - Roll-A-Ball Video 07 (UPROPERTY and Tuning)]]. Q1 grades due for teachers today; Nick collects for the school and extends his own window to Fri 10/23, so CP1 grades inside the quarter (see the CP1 day file's grade-in-minutes condition).
 - **Day 32, Fri 10/23 (C day, End of Q1):** Checkpoint 1 → [[GP2 Q1 Checkpoint 1 (CP1)]]
 - Day 33 does not exist in Q1: the 10/5 plan's day numbers ran one ahead once the 10/12 holiday landed. Q2 opens Mon 10/26 (Day 33, GP2 numbering continues).
 - Riddle/joke used through Day 32, all matching GP1's same-numbered days (listed above). GP2 Days 33+ need fresh unused pairs from Riddles.md / Dumb Jokes.md.

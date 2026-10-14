@@ -19,7 +19,12 @@ joke: What do you call a fly with a sore throat
 
 Day 32 (C day, 72 min), STUB. Q1 final checkpoint, in-project per the locked checkpoint design: date-based, not pacing-based. Students submit Friday whatever tier of evidence they have actually finished; nothing still in flight is penalized. Working builds, committed code, demos. No standalone quiz.
 
-**Date note:** this is Day 32, not Day 33 as the S&S originally wrote (holiday-blind math from 10/5; the day files are the correction layer). End of Q1. Q1 grades were due Wed 10/21, two days before: the tier design below is what keeps Friday's checkpoint from grading against an empty room (see the Q1-grades note on Day 31).
+**Date note:** this is Day 32, not Day 33 as the S&S originally wrote (holiday-blind math from 10/5; the day files are the correction layer). End of Q1. Q1 grades are due for teachers Wed 10/21, but Nick collects the school's grades and extends his own window to Fri 10/23, so CP1 grades inside the quarter's real deadline. The condition that buys the extension: **CP1 must grade in minutes.** Every tier below is presence-based, which keeps him to that promise by design, not discipline:
+
+- Each tier is one screenshot present or absent; zero code reading to score.
+- One Classroom assignment, six evidence items, count-and-type; no rubric paragraphs, no open-ended judgment.
+- The only judgment call anywhere is the non-magenta color, which is a glance.
+- Grade-by exception: if a student's screenshot is ambiguous, the commit history settles it, and that is still minutes, not a session.
 
 ## Checkpoint evidence (tiered, per the locked design)
 
