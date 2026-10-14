@@ -13,12 +13,12 @@ No day files here. This is the plan layer: video topics in order, checkpoints, a
 
 ## Calendar fence
 
-Verified 10/5. Q2 instruction ends Fri 1/15/27. The last week of Q2 (1/18 to 1/22) is reserved for Exhibition: no classes, nothing due, every project finished before it. GP2 is all seniors and the course ends 5/26, but Q2's grade cutoff is the fence for this map.
+Verified 10/13 against [[SY27 Days of School]]. Q1 instruction ends Fri 1/15/27. Q1 itself ends Fri 10/23 with CP1 on Day 32, not Day 33: the Mon 10/12 holiday removed one W8 meeting, V05's C day absorbs the standalone loops-practice meeting, and the 10/5 day-number math was holiday-blind. The last week of Q2 (1/18 to 1/22) is reserved for Exhibition: no classes, nothing due, every project finished before it. GP2 is all seniors and the course ends 5/26, but Q2's grade cutoff is the fence for this map.
 
 | Week | Dates | Meetings | Content |
 |---|---|---|---|
-| W8 | 10/12 to 10/16 | 4 | V03 Debug Statements, V04 Common Errors, V05 Loops, loops practice |
-| W9 | 10/19 to 10/23 | 4 | V06 Constructor and Components, practice, V07 UPROPERTY and Tuning, Checkpoint 1 (Q1 final) |
+| W8 | 10/12 to 10/16 | 3 (Mon holiday) | V03 (sub day), V04 Common Errors, V05 Loops + loops exercise start |
+| W9 | 10/19 to 10/23 | 4 | V06 Constructor and Components, components practice, V07 UPROPERTY and Tuning, Checkpoint 1 Day 32 (Q1 final) |
 | W10 | 10/26 to 10/30 | 4 | V08 Enhanced Input, practice, V09 Roll, practice |
 | W11 | 11/2 to 11/6 | 2 | V10 Look and Jump, practice |
 | W12 | 11/9 to 11/13 | 4 | V11 Object Model and GC, PlayerBall.h Code Read, work day, Checkpoint 2 |
@@ -105,8 +105,8 @@ Roll-A-Ball feeds Jeopardy directly: functions, conditionals, loops (question it
 
 | Sitting | Record | Published by | Why |
 |---|---|---|---|
-| 1 (now, todos exist) | V01 to V05 | V01 by 10/7, V03 to V05 by 10/12 | Days 24-25 and W8 |
-| 2 | V06 to V10 | V06 and V07 by 10/19, V08 and V09 by 10/26, V10 by 11/2 | W9 needs V07 for fast students, W10 needs V09 |
+| 1 (now, todos exist) | V01 to V05 | V01 by 10/7, V03 by 10/13 (met), V04 by 10/14, V05 by 10/16 | Days 24-25 and W8 (corrected 10/13: the holiday moved V04/V05 to Wed/Fri; V05's publish date is tight - edit Thu night, per the recording-plan note below) |
+| 2 | V06 to V10 | V06 by Sun 10/19 morning, V07 by Tue 10/21 night, V08 and V09 by 10/26, V10 by 11/2 | W9 needs V06/V07 same week; the exemplar pass (~10/23) rides just behind CP1 |
 | 3 | V11 to V13 | V11 by 11/9, V12 and V13 by 11/16 | W12 and W13. The Bomb is a Transfer Brief, no recording needed |
 | 4 | V15 to V17 | V15 by 11/30, V16 by 12/2, V17 by 12/7 (W16 Monday now needs it, was 12/16) | W15, W16. V17 rides the exemplar pass |
 | Jeopardy series | Jeopardy Logic + UI wiring | per the Jeopardy planning pass | W17+ scoped there |

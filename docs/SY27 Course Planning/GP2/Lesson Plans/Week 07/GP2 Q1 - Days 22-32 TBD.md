@@ -57,7 +57,15 @@ Pacing is dictated by videos, not by the days themselves. Usually one video per 
 ## Days 26+ (week of 10/12 onward)
 
 - **Day 26, Tue 10/13 (sub day):** Video 03 Debug Statements, posted to EdPuzzle 10/13 with the challenge submission on Classroom. Day file: [[GP2 - Roll-A-Ball Video 03 (Debug Statements)]]. Nick out, last minute.
-- Day 27+ not yet stubbed. Loops (Video 03) lands early in the week; the rest of the series follows the integrate-as-needed philosophy: header/body review as it comes up, TArray when the pickups need it, classes when the project structure calls for it. Jeopardy final project wraps the semester (provide UI shell, students program logic/questions/animations).
+- **Day 27, Wed 10/14:** Video 04 Common Errors → [[GP2 - Roll-A-Ball Video 04 (Common Errors)]]
+- **Day 28, Fri 10/16 (C day):** Video 05 Loops → [[GP2 - Roll-A-Ball Video 05 (Loops)]]. Absorbs the S&S's standalone loops-practice chunk (Mon 10/12 holiday cost W8 a meeting).
+- **Day 29, Mon 10/19:** Video 06 Constructor and Components → [[GP2 - Roll-A-Ball Video 06 (Constructor and Components)]]
+- **Day 30, Tue 10/20:** Components practice → [[GP2 - Roll-A-Ball Components Practice]]
+- **Day 31, Wed 10/21:** Video 07 UPROPERTY and Tuning → [[GP2 - Roll-A-Ball Video 07 (UPROPERTY and Tuning)]]. Q1 grades due today; CP1 is Friday but the tier design covers grade-before-checkpoint.
+- **Day 32, Fri 10/23 (C day, End of Q1):** Checkpoint 1 → [[GP2 Q1 Checkpoint 1 (CP1)]]
+- Day 33 does not exist in Q1: the 10/5 plan's day numbers ran one ahead once the 10/12 holiday landed. Q2 opens Mon 10/26 (Day 33, GP2 numbering continues).
+- Riddle/joke used through Day 32, all matching GP1's same-numbered days (listed above). GP2 Days 33+ need fresh unused pairs from Riddles.md / Dumb Jokes.md.
+- Jeopardy final project wraps the semester after V17 (provide UI shell, students program logic/questions/animations). Series plan: [[GP2 Semester Map - SY27 Q1-Q2]].
 
 ## Nick's Notes — Revisit When Re-Pacing Week 7+
 

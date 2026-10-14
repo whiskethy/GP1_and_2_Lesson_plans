@@ -28,13 +28,17 @@ updated: 2026-09-09
 
 | Item | For Chunk(s) | Priority | Notes |
 |------|-------------|----------|-------|
-| Loop slides (for, while, counting, game examples) | Video 05 (W8) | Medium | Optional: the video may carry it. See [[Loop Slides Content Plan]] |
-| Compiler-error cheat sheet | Video 04 (W8) | High — W8 | Pairs with the Common Errors video |
+| Loop slides segment (manim, storyboard L1-L6 in the script note) | Video 05 (W8, teaches Fri 10/16) | High: build before Thu 10/15 night | See [[Loop Slides Content Plan]] + the storyboard in [[SY27 Q1 - Video 05 - Loops]] |
+| Video 05 recording + edit + EdPuzzle set | Video 05 (W8, teaches Fri 10/16) | High: publish Thu 10/15 night | Scripted and storyboarded; not recorded 10/13. Nick edits V04 today |
+| Video 06 recording + edit + EdPuzzle set | Video 06 (W9 Day 29) | High: publish Sun 10/19 morning | Not recorded; sitting 2 |
+| Video 07 recording + edit + EdPuzzle set | Video 07 (W9 Day 31) | High: publish Tue 10/21 night | Not recorded; sitting 2 |
+| Compiler-error cheat sheet | Video 04 (W8) | Medium | Pairs with the Common Errors video; seeded blocks also live in the description |
+| CP1 tier rubric | Q1 CP1 (10/23) | High | Tier table drafted in [[GP2 Q1 Checkpoint 1 (CP1)]]; needs Nick's cut into the Classroom assignment |
 | Header/source diagram poster | Video 02 (taught) | Medium | |
 | Code Read graphic organizer | Q2 W12 | High — before 11/9 | First use: PlayerBall.h trace |
 | Transfer Brief: the Bomb | Q2 W14 | High — before 11/23 | Written task, no video. Details at the exemplar pass |
 | Written Build Guide: counting practice | Q2 W15 | Medium — before 11/30 | Loops' second appearance |
-| CP1/CP2/CP3 rubrics | Q1 CP1 (10/23), Q2 CP2 (11/13), CP3 (12/11) | High | CP1 first |
+| CP2/CP3 rubrics | Q2 CP2 (11/13), CP3 (12/11) | High | After CP1 |
 | Jeopardy: scope contract template, rubric, UI shell, question sheet | Q2 W17 | Medium — December | Separate planning pass (Open Item) |
 
 Unit 2 slides, Unit 2 checkpoint rubric, and Unit 3 materials rows are removed 10/5: those units were superseded by the restructure and their content is carried by the video series. Full disposition: [[GP2 Semester Map - SY27 Q1-Q2]].
