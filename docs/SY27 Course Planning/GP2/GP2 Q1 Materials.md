@@ -23,13 +23,13 @@ updated: 2026-09-09
 | VS Setup Instructions | Chunk 8 | ✅ | [Drive](https://docs.google.com/document/d/1kMzXqVrknGaWsVaD-Th64S3MrjeHjtH-U1kvFPwSi_8/edit) |
 | Codédex C++ (free, no accounts) | Chunks 3, 6 | ✅ | [codedex.io/cpp](https://www.codedex.io/cpp) |
 | Unit 1 Practice Programs (Slides 1-131) | Chunks 5-9 | ✅ | [Drive](https://docs.google.com/document/d/1Ni_OKgzrKJoFTAu3D-lTN19brjXyQmmvvSSYoamnnZc/edit) |
+| Video 05 slide segment (PPTX, 14 slides, verified vs storyboard 10/13) | Video 05 (W8) | ✅ | `Video Lessons/SY27/GP2 Q1/SY27 Q1 - GP2 Video 05 - Slide Segment.pptx` |
 
 ## Not Built (Gaps)
 
 | Item | For Chunk(s) | Priority | Notes |
 |------|-------------|----------|-------|
-| Loop slides segment (manim, storyboard L1-L6 in the script note) | Video 05 (W8, teaches Fri 10/16) | High: build before Thu 10/15 night | See [[Loop Slides Content Plan]] + the storyboard in [[SY27 Q1 - Video 05 - Loops]] |
-| Video 05 recording + edit + EdPuzzle set | Video 05 (W8, teaches Fri 10/16) | High: publish Thu 10/15 night | Scripted and storyboarded; not recorded 10/13. Nick edits V04 today |
+| Video 05 recording + edit + EdPuzzle set | Video 05 (W8, teaches Fri 10/16) | High: publish Thu 10/15 night | Script + storyboard + slides all done; only recording/edit/EdPuzzle remain |
 | Video 06 recording + edit + EdPuzzle set | Video 06 (W9 Day 29) | High: publish Sun 10/19 morning | Not recorded; sitting 2 |
 | Video 07 recording + edit + EdPuzzle set | Video 07 (W9 Day 31) | High: publish Tue 10/21 night | Not recorded; sitting 2 |
 | Compiler-error cheat sheet | Video 04 (W8) | Medium | Pairs with the Common Errors video; seeded blocks also live in the description |
