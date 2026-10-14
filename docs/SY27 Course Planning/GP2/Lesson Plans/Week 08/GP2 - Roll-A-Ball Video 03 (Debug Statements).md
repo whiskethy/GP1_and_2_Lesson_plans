@@ -55,4 +55,4 @@ The challenge submission on Classroom is today's evidence: screenshot showing bo
 
 ## Connections
 
-← [[GP2 - Roll-A-Ball Video 02 (Header-Source Split)]] | [[GP2 Q1 Calendar]] | [[GP2 Semester Map - SY27 Q1-Q2]] →
+← [[GP2 - Roll-A-Ball Video 02 (Header-Source Split)]] | [[GP2 Q1 Calendar]] | [[GP2 - Roll-A-Ball Video 03 Completion]] →

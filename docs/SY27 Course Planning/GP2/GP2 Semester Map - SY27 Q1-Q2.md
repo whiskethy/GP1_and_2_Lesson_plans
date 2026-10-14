@@ -17,8 +17,8 @@ Verified 10/13 against [[SY27 Days of School]]. Q1 instruction ends Fri 1/15/27.
 
 | Week | Dates | Meetings | Content |
 |---|---|---|---|
-| W8 | 10/12 to 10/16 | 3 (Mon holiday) | V03 (sub day), V04 Common Errors, V05 Loops + loops exercise start |
-| W9 | 10/19 to 10/23 | 4 | V06 Constructor and Components, components practice, V07 UPROPERTY and Tuning, Checkpoint 1 Day 32 (Q1 final) |
+| W8 | 10/12 to 10/16 | 3 (Mon holiday) | V03 (sub day), V03 completion (Wed 10/14 shift: only 1 finished on the sub day), V04 Common Errors + V05 preview (Fri) |
+| W9 | 10/19 to 10/23 | 4 | V05 Loops (Mon, shifted 10/14), V06 Constructor and Components (Tue, shifted 10/14; the old Components Practice meeting was absorbed), V07 UPROPERTY and Tuning, Checkpoint 1 Day 32 (Q1 final) |
 | W10 | 10/26 to 10/30 | 4 | V08 Enhanced Input, practice, V09 Roll, practice |
 | W11 | 11/2 to 11/6 | 2 | V10 Look and Jump, practice |
 | W12 | 11/9 to 11/13 | 4 | V11 Object Model and GC, PlayerBall.h Code Read, work day, Checkpoint 2 |
@@ -105,7 +105,7 @@ Roll-A-Ball feeds Jeopardy directly: functions, conditionals, loops (question it
 
 | Sitting | Record | Published by | Why |
 |---|---|---|---|
-| 1 (now, todos exist) | V01 to V05 | V01 by 10/7, V03 by 10/13 (met), V04 by 10/14, V05 by 10/16 | Days 24-25 and W8 (corrected 10/13: the holiday moved V04/V05 to Wed/Fri; V05's publish date is tight - edit Thu night, per the recording-plan note below) |
+| 1 (now, todos exist) | V01 to V05 | V01 by 10/7, V03 by 10/13 (met), V04 by Fri 10/16 (was Wed 10/14; the 10/14 shift moved the V04 day to Friday), V05 by Sun 10/19 night | Days 24-25 and W8-W9 (corrected 10/14: the sub-day completion day moved V04 to Fri; V05's full lesson is Mon, so its deadline relaxed from Thu 10/15 to Sun night, where it joins V06's) |
 | 2 | V06 to V10 | V06 by Sun 10/19 morning, V07 by Tue 10/21 night, V08 and V09 by 10/26, V10 by 11/2 | W9 needs V06/V07 same week; the exemplar pass (~10/23) rides just behind CP1 |
 | 3 | V11 to V13 | V11 by 11/9, V12 and V13 by 11/16 | W12 and W13. The Bomb is a Transfer Brief, no recording needed |
 | 4 | V15 to V17 | V15 by 11/30, V16 by 12/2, V17 by 12/7 (W16 Monday now needs it, was 12/16) | W15, W16. V17 rides the exemplar pass |

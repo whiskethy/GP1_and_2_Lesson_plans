@@ -34,12 +34,12 @@ Day 27 (A day, 48 min) - Video 12 (Blueprint Basics & Basic Input, 12:44). Compo
 **Do Now** (retrieval, not a cold open)
 
 | # | Type | Question |
-|---|---------|----------|
-| 1 | Review | Yesterday you built BP_Spaceship. In the Outliner, what sits UNDER BP_Spaceship, and what does that indented position mean it owns? |
-| 2 | Review | What did the Game Mode override change about which ship spawns when you press play? |
-| 3 | Preview | You play a game made of "copies" of a ship. If you change one copy in the level, do all copies change? What about changing the Blueprint itself? Preview your answer - the video settles it. |
+|---|------|----------|
+| 1 | Review | Location, rotation, and scale are the three parts of the Transform. What does each one control? |
+| 2 | Review | A cube sits at 0, 0, 50. Write the location for a second cube of the same size sitting directly behind it. |
+| 3 | Preview | You rotate a ship 90 degrees around Z. Which is still true? (a) The world's up and down never change. (b) The ship's forward direction stays fixed. |
 
-*(Review Q2 reaches to Day 26's Game Mode beat; preview mirrors ET Q1, weaker form.)*
+*(Do Now re-aimed 10/14 mid-pass: the first pass retrieved the sub day (Q2) and Video 08's naming prefixes (already done in the Room); Nick's call was to pull from Videos 4-6 instead. Q1-Q2 retrieve V04 Transforms (cube-grid math from the coordinate challenges), Q3 previews V05's world-vs-local frame (the car/Shark-Dude rotation beat) which the day's video extends into class-vs-instance.)*
 
 **Worked example**
 

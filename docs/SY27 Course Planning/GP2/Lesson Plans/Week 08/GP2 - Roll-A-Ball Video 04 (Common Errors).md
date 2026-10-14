@@ -1,27 +1,28 @@
 ---
 course: GP2
 quarter: Q1
-day: 27
-date: Wed 10/14
-day_type: A
+day: 28
+date: Fri 10/16
+day_type: C
 chunk: '25'
-type: consolidation (EdPuzzle)
-class_minutes: 48
+type: video (EdPuzzle) + V05 preview
+class_minutes: 72
 unit: 3
 status: active
-updated: 2026-10-13
+updated: 2026-10-14
 sub: false
 riddle: What has lots of eyes, but can't see?
 joke: How do you organize a space party?
 ---
 
-# GP2 - Roll-A-Ball Video 04 (Common Errors)
+# GP2 - Roll-A-Ball Video 04 (Common Errors) + V05 preview
 
-Day 27 (A day, 48 min). Main content is Video 04: Common Errors, run as an EdPuzzle lesson. The video is the lesson; the day file rides on its final edit. Runtime and question placement get confirmed once the transcript is processed (V04 recorded 10/8, edit in progress 10/13).
+> [!warning] Shift applied Wed 10/14 morning (Nick)
+> Only 1 student finished Video 03 on yesterday's sub day. Day 27 (Wed 10/14) becomes a Video 03 completion day ([[GP2 - Roll-A-Ball Video 03 Completion]]). Day 27's old content (Video 04 + seeded file) moved here to Fri 10/16, and Day 27/28 keep their numbers - only topics shifted. Day 28 now carries Video 04 (main lesson + seeded file) plus the first stretch of Video 05 (slides concept part only, no for/while typing yet). Next Monday (Day 29) students finish Video 05 with the for/while practice and challenge. The Tue 10/20 Components Practice day is absorbed - that was the give-back.
 
-Plan shift from the S&S: the 10/5 version of W8 assumed four meetings; Mon 10/12 is Indigenous Peoples' Day, so W8 holds three (Days 26-28). Video 04 lands here instead of the S&S's "Tue or later"; nothing else moves.
+Day 28 (C day, 72 min). Main content is Video 04: Common Errors, run as an EdPuzzle lesson, plus the first stretch of Video 05 (Loops) as a slides-only preview. The video is the lesson; the day file rides on its final edit. Runtime and question placement confirmed once the transcript is processed (V04 recorded 10/8, edit in progress 10/13 - needs to land before Friday).
 
-> **Prep dependency (backward-derived).** This day runs on Video 04 published to EdPuzzle before Wednesday morning. The buffer rule (a day on Video N needs Video N+1 available) is NOT satisfied for fast finishers: Video 05 is scripted but not recorded, so early finishers get Task List work, not a next video. Do not promise Video 05 to the room.
+> **Prep dependency (backward-derived).** This day runs on Video 04 published to EdPuzzle before Friday morning. The buffer rule (a day on Video N needs Video N+1 available) is NOT satisfied for fast finishers: Video 05 is scripted but not recorded, so early finishers get Task List work, not a next video. Do not promise Video 05's for/while practice to the room - only the concept slides run here.
 
 ## Learning Target
 
@@ -46,7 +47,7 @@ Read a Visual Studio Error List entry (error text and line number), locate the o
 
 | # | Type | Question |
 |---|------|----------|
-| 1 | Review | Yesterday's video ended with the standing rule: close Unreal, full compile, commit and push. Why does the full compile matter after using Live Coding? |
+| 1 | Review | Wednesday you finished Video 03 and the challenge. The standing rule: close Unreal, full compile, commit and push. Why does the full compile matter after using Live Coding? |
 | 2 | Review | What is the one rule for the generated "Unreal stuff" (UCLASS, GENERATED_BODY), and what do the errors look like if you break it? |
 | 3 | Preview | You build and the compiler says `expected ';'` at line 14. You look at line 14 and it seems fine. Where do you look next, and why? |
 
@@ -58,11 +59,11 @@ The video IS the worked example. Each family gets seeded live, read out loud, lo
 
 **Guided practice + 80% checkpoint**
 
-Students take notes through the error reads, then follow along the seeded-file fix at the end in their own TempActor. The ~80% checkpoint is at the end of the follow-along: 14 of 18 students have an empty Error List. Triage priority: still on Video 03's challenge, pasted the seed into the wrong file, second seed error untouched, cascading noise read as multiple problems.
+Students take notes through the error reads, then follow along the seeded-file fix at the end in their own TempActor. The ~80% checkpoint is at the end of the follow-along: 14 of 18 students have an empty Error List. Triage priority: pasted the seed into the wrong file, second seed error untouched, cascading noise read as multiple problems.
 
 **Independent work**
 
-Finish the seeded file if the follow-along outpaced them. Submit: screenshot of the clean Error List with the fixed file visible, on Classroom. Commit and push (standing habit; close Unreal, full compile first). Early finishers: outstanding Task List work. Video 05 is NOT posted yet - do not promise it to the room.
+Finish the seeded file if the follow-along outpaced them. Submit: screenshot of the clean Error List with the fixed file visible, on Classroom. Commit and push (standing habit; close Unreal, full compile first). Early finishers: outstanding Task List work. Video 05's for/while practice is NOT today - that is Monday; today's V05 piece is slides only.
 
 **Exit ticket** (surplus: 4 offered, use 2-3)
 
@@ -80,10 +81,12 @@ Finish the seeded file if the follow-along outpaced them. Submit: screenshot of 
 1. Do Now review (5 min)
 2. Video 04 on EdPuzzle: the error ritual, four families, toolchain errors, notes through the reads (~20 min)
 3. Follow-along: fix the seeded file in their own TempActor, first error only, one at a time (~15 min)
-4. Independent: finish and screenshot the clean Error List, submit on Classroom, commit and push (~5 min)
-5. Exit ticket (3 min)
+4. Independent: finish and screenshot the clean Error List, submit on Classroom, commit and push (~8 min)
+5. V05 preview: slide lecture only (why games repeat, copy-paste is not a plan, "N times" vs "until") (~8 min)
+6. Exit ticket (3 min)
+7. Buffer: seeded-file stragglers keep working the ritual with a neighbor's clean file as reference; early finishers go to Task List work
 
-*Unnumbered, parallel: catch-up on outstanding submissions; early finishers move to outstanding Task List work.*
+*Unnumbered, parallel: catch-up on outstanding submissions (Wednesday's V03 challenge screenshot is still open for anyone missing it).*
 
 ## Differentiation & Accommodations
 
@@ -98,11 +101,13 @@ Finish the seeded file if the follow-along outpaced them. Submit: screenshot of 
 | Item | Status | Link |
 |------|--------|------|
 | Video 04 recording script + reconciliation | ✅ | [[SY27 Q1 - Video 04 - Common Errors]] (reconciliation fills after the edit lands 10/13) |
-| Video 04 published to EdPuzzle | 🚧 | edit in progress 10/13; EdPuzzle set builds from the transcript once it lands |
+| Video 04 published to EdPuzzle | 🚧 | edit started, NOT finished as of 10/14; EdPuzzle set builds from the transcript once it lands - edit + set due Thu 10/15 night |
 | Seeded error file (also in video description) | ✅ | exact blocks in [[SY27 Q1 - Video 04 - Common Errors]] |
 | Starter project repo | ✅ | https://github.com/ChicagoTechAcademy/UE_Roll_a_Ball |
 | Daily slides | 🚧 | Do Now (2 review + 1 preview), agenda, riddle (potato), joke (planet), exit ticket on the GP2 Daily Slides deck |
-| Video 05 | not posted | scripted, not recorded - NOT available as buffer |
+| V05 slide segment (PPTX, L1 slides) | ✅ | built 10/13, [[Handoff - V05 Slides PPTX Build]]; the concept slides only run here, no for/while syntax yet |
+| Video 05 | not posted | scripted, slides built, video NOT recorded - only the slide-lecture concept runs Friday; for/while practice is Monday |
+| Video 06 | 🚧 | Monday's day focus, publish by Sun 10/19 night |
 
 ## Notes after teaching
 

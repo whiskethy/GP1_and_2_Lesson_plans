@@ -29,8 +29,9 @@ updated: 2026-09-09
 
 | Item | For Chunk(s) | Priority | Notes |
 |------|-------------|----------|-------|
-| Video 05 recording + edit + EdPuzzle set | Video 05 (W8, teaches Fri 10/16) | High: publish Thu 10/15 night | Script + storyboard + slides all done; only recording/edit/EdPuzzle remain |
-| Video 06 recording + edit + EdPuzzle set | Video 06 (W9 Day 29) | High: publish Sun 10/19 morning | Not recorded; sitting 2 |
+| Video 04 EdPuzzle set (build from the landed transcript) | Video 04 (W8, teaches Fri 10/16 after the 10/14 shift) | High: edit still in progress 10/14 (started, not finished); edit + EdPuzzle set must both land Thu 10/15 night | Edit started but unfinished; EdPuzzle set builds from the transcript after the edit lands |
+| Video 05 recording + edit + EdPuzzle set | Video 05 (W9 Day 29 after 10/14 shift, teaches Mon 10/19) | High: publish Sun 10/19 night (deadline relaxed from Thu 10/15 by the shift) | Script + storyboard + slides all done; only recording/edit/EdPuzzle remain |
+| Video 06 recording + edit + EdPuzzle set | Video 06 (W9 Day 30 after 10/14 shift, teaches Tue 10/20) | High: publish Sun 10/19 night (unchanged week, new day) | Not recorded; sitting 2 |
 | Video 07 recording + edit + EdPuzzle set | Video 07 (W9 Day 31) | High: publish Tue 10/21 night | Not recorded; sitting 2 |
 | Compiler-error cheat sheet | Video 04 (W8) | Medium | Pairs with the Common Errors video; seeded blocks also live in the description |
 | CP1 tier rubric | Q1 CP1 (10/23) | High | Tier table drafted in [[GP2 Q1 Checkpoint 1 (CP1)]]; needs Nick's cut into the Classroom assignment |

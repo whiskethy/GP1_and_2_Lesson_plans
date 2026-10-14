@@ -33,19 +33,23 @@ Local source of truth for the GP2 student Task List. The live student-facing she
 
 ## Planned, not yet published
 
-Rows 10-13 are the W8 queue; rows 14-18 are W9. Push rows 10-13 to the live sheet before Wednesday morning: they are this week's tasks. Loops practice rides the V05 C day (see [[GP2 Bumped Topics]], all rows resolved). Classmoji is clone-only (autograding removed): task rows must not promise automated scores.
+Rows 10-13 are the W8 queue; rows 14-18 are W9. Push rows 10-13 to the live sheet before Wednesday morning: they are this week's tasks. Classmoji is clone-only (autograding removed): task rows must not promise automated scores.
+
+**Reshaped 10/14 (Nick's shift):** only 1 student finished Video 03 on the sub day, so Wed 10/14 became a V03 completion day, V04 teaches Fri 10/16, V05 Mon 10/19, V06 Tue 10/20. Dues below follow the new dates; the old practice-day row was dropped (its break-and-fix work rides V06's independent block).
 
 | # | Task | Note | Found on | Task Type | Lab | Due |
 |---|------|------|----------|-----------|-----|-----|
-| 10 | Watch Video 04 - Common Errors (EdPuzzle) | Read each error before fixing; the prediction ritual carries over | EdPuzzle | Lesson Video | Yes | 10/14 |
-| 11 | Fix the seeded error file | Empty the Error List, screenshot with the fixed file visible, submit on Classroom, commit and push | Google Classroom | Independent Coding | Yes | 10/14 |
-| 12 | Watch Video 05 - Loops (EdPuzzle) | for vs while; predict before running, every time | EdPuzzle | Lesson Video | Yes | 10/16 |
-| 13 | Loops challenge: countdown or pickup prints | While-loop countdown (10 to 1, GO) or for-loop pickup prints (x5); predict BEFORE running, screenshot output after, submit on Classroom, commit and push | Google Classroom | Independent Coding | Yes | 10/16 |
-| 14 | Watch Video 06 - Constructor and Components (EdPuzzle) | Build the ball pawn: collision root, mesh, spring arm, camera | EdPuzzle | Lesson Video | Yes | 10/19 |
-| 15 | Ball pawn screenshot | Assembled ball visible with camera follow at default values, submit on Classroom, commit and push | Google Classroom | Evidence From Video | Yes | 10/19 |
+| 10 | Watch Video 04 - Common Errors (EdPuzzle) | Read each error before fixing; the prediction ritual carries over | EdPuzzle | Lesson Video | Yes | 10/16 |
+| 11 | Fix the seeded error file | Empty the Error List, screenshot with the fixed file visible, submit on Classroom, commit and push | Google Classroom | Independent Coding | Yes | 10/16 |
+| 12 | Watch Video 05 - Loops (EdPuzzle) | for vs while; predict before running, every time | EdPuzzle | Lesson Video | Yes | 10/19 |
+| 13 | Loops challenge: countdown or pickup prints | While-loop countdown (10 to 1, GO) or for-loop pickup prints (x5); predict BEFORE running, screenshot output after, submit on Classroom, commit and push | Google Classroom | Independent Coding | Yes | 10/19 |
+| 14 | Watch Video 06 - Constructor and Components (EdPuzzle) | Build the ball pawn: collision root, mesh, spring arm, camera | EdPuzzle | Lesson Video | Yes | 10/20 |
+| 15 | Ball pawn screenshot | Assembled ball visible with camera follow at default values, submit on Classroom, commit and push | Google Classroom | Evidence From Video | Yes | 10/20 |
 | 16 | Watch Video 07 - UPROPERTY and Tuning (EdPuzzle) | Expose RollSpeed and JumpForce; tune in the Details panel | EdPuzzle | Lesson Video | Yes | 10/21 |
 | 17 | Details panel screenshot | Two tunables visible with values changed from default, submit on Classroom | Google Classroom | Evidence From Video | No | 10/21 |
 | 18 | Q1 Checkpoint 1 (CP1) | Tiered evidence submission on Classroom: compile, debug prints, loop, ball pawn, tunables, error ritual | Google Classroom | Checkpoint | Yes | 10/23 |
+
+Also today (Wed 10/14): any student who has not submitted the V03 challenge (Task 8-9 territory, Video 03 EdPuzzle + Score challenge screenshot) is finishing it in class; the finished student moves to Task List work.
 
 ## Dropdown vocab
 

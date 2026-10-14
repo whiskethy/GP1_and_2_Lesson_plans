@@ -85,15 +85,15 @@ Meeting pattern: Mon/Tue/Wed A (48 min), Fri C (72 min). No Thursday class.
 | Day | Date | Type | Min | Unit | Topic | Link |
 |-----|------|------|-----|------|-------|------|
 | 26 | Tue 10/13 | A | 48 | 3 | Roll-A-Ball Video 03: Debug Statements (sub day) | [[GP2 - Roll-A-Ball Video 03 (Debug Statements)]] |
-| 27 | Wed 10/14 | A | 48 | 3 | Roll-A-Ball Video 04: Common Errors | [[GP2 - Roll-A-Ball Video 04 (Common Errors)]] |
-| 28 | Fri 10/16 | C | 72 | 3 | Roll-A-Ball Video 05: Loops | [[GP2 - Roll-A-Ball Video 05 (Loops)]] |
+| 27 | Wed 10/14 | A | 48 | 3 | Roll-A-Ball Video 03 completion (only 1 finished on the sub day) | [[GP2 - Roll-A-Ball Video 03 Completion]] |
+| 28 | Fri 10/16 | C | 72 | 3 | Roll-A-Ball Video 04: Common Errors + V05 preview (shift applied 10/14) | [[GP2 - Roll-A-Ball Video 04 (Common Errors)]] |
 
 ## Week 9 (10/19–10/23)
 
 | Day | Date | Type | Min | Unit | Topic | Link |
 |-----|------|------|-----|------|-------|------|
-| 29 | Mon 10/19 | A | 48 | 3 | Roll-A-Ball Video 06: Constructor and Components | [[GP2 - Roll-A-Ball Video 06 (Constructor and Components)]] |
-| 30 | Tue 10/20 | A | 48 | 3 | Components Practice | [[GP2 - Roll-A-Ball Components Practice]] |
+| 29 | Mon 10/19 | A | 48 | 3 | Roll-A-Ball Video 05: Loops (shift applied 10/14; practice folded in) | [[GP2 - Roll-A-Ball Video 05 (Loops)]] |
+| 30 | Tue 10/20 | A | 48 | 3 | Roll-A-Ball Video 06: Constructor and Components (shift applied 10/14; old practice day absorbed) | [[GP2 - Roll-A-Ball Video 06 (Constructor and Components)]] |
 | 31 | Wed 10/21 | A | 48 | 3 | Roll-A-Ball Video 07: UPROPERTY and Tuning | [[GP2 - Roll-A-Ball Video 07 (UPROPERTY and Tuning)]] |
 | 32 | Fri 10/23 | C | 72 | 3 | Q1 Final Checkpoint (CP1) | [[GP2 Q1 Checkpoint 1 (CP1)]] |
 

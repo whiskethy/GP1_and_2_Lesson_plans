@@ -57,10 +57,10 @@ Pacing is dictated by videos, not by the days themselves. Usually one video per 
 ## Days 26+ (week of 10/12 onward)
 
 - **Day 26, Tue 10/13 (sub day):** Video 03 Debug Statements, posted to EdPuzzle 10/13 with the challenge submission on Classroom. Day file: [[GP2 - Roll-A-Ball Video 03 (Debug Statements)]]. Nick out, last minute.
-- **Day 27, Wed 10/14:** Video 04 Common Errors → [[GP2 - Roll-A-Ball Video 04 (Common Errors)]]
-- **Day 28, Fri 10/16 (C day):** Video 05 Loops → [[GP2 - Roll-A-Ball Video 05 (Loops)]]. Absorbs the S&S's standalone loops-practice chunk (Mon 10/12 holiday cost W8 a meeting).
-- **Day 29, Mon 10/19:** Video 06 Constructor and Components → [[GP2 - Roll-A-Ball Video 06 (Constructor and Components)]]
-- **Day 30, Tue 10/20:** Components practice → [[GP2 - Roll-A-Ball Components Practice]]
+- **Day 27, Wed 10/14:** Video 03 completion (shift applied 10/14 - only 1 student finished on the sub day) → [[GP2 - Roll-A-Ball Video 03 Completion]]
+- **Day 28, Fri 10/16 (C day):** Video 04 Common Errors + V05 slide-lecture preview → [[GP2 - Roll-A-Ball Video 04 (Common Errors)]]. Shifted from Day 27.
+- **Day 29, Mon 10/19:** Video 05 Loops → [[GP2 - Roll-A-Ball Video 05 (Loops)]]. Shifted from Day 28; absorbs the S&S's standalone loops-practice chunk.
+- **Day 30, Tue 10/20:** Video 06 Constructor and Components → [[GP2 - Roll-A-Ball Video 06 (Constructor and Components)]]. Shifted from Day 29; the old Components Practice day was absorbed (its break-and-fix work rides this day's independent block).
 - **Day 31, Wed 10/21:** Video 07 UPROPERTY and Tuning → [[GP2 - Roll-A-Ball Video 07 (UPROPERTY and Tuning)]]. Q1 grades due for teachers today; Nick collects for the school and extends his own window to Fri 10/23, so CP1 grades inside the quarter (see the CP1 day file's grade-in-minutes condition).
 - **Day 32, Fri 10/23 (C day, End of Q1):** Checkpoint 1 → [[GP2 Q1 Checkpoint 1 (CP1)]]
 - Day 33 does not exist in Q1: the 10/5 plan's day numbers ran one ahead once the 10/12 holiday landed. Q2 opens Mon 10/26 (Day 33, GP2 numbering continues).

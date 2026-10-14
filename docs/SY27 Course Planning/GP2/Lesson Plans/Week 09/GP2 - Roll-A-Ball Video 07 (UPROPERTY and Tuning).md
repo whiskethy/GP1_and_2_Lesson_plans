@@ -39,4 +39,4 @@ Expose class variables to the editor with UPROPERTY(EditAnywhere), distinguish E
 
 ## Connections
 
-← [[GP2 - Roll-A-Ball Components Practice]] | [[GP2 Q1 Calendar]] | [[GP2 Q1 Checkpoint 1 (CP1)]] →
+← [[GP2 - Roll-A-Ball Video 06 (Constructor and Components)]] | [[GP2 Q1 Calendar]] | [[GP2 Q1 Checkpoint 1 (CP1)]] →
