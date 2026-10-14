@@ -102,7 +102,7 @@ Finish both loops, then start the challenge: a while-loop countdown (10 to 1, th
 |------|--------|------|
 | Video 05 recording script + slide storyboard + exact code blocks | ✅ | [[SY27 Q1 - Video 05 - Loops]] (slide segment built from [[Loop Slides Content Plan]] after Nick approves) |
 | Video 05 recorded + published + EdPuzzle set | 🚧 | NOT recorded as of 10/13; prep deadline Thu 10/15 night for Friday's class |
-| Loop slides segment (manim build, V02 pattern) | 🚧 | storyboard done; build starts after the script settles |
+| Video 05 slide segment (PPTX, 7 slides) | 🚧 | storyboard done; handoff written for Claude build: [[Handoff - V05 Slides PPTX Build]] (PPTX delivery per the 10/8 standing decision; the script note's continuous-mp4 line is superseded) |
 | Starter project repo | ✅ | https://github.com/ChicagoTechAcademy/UE_Roll_a_Ball |
 | Daily slides | 🚧 | Do Now (2 review + 1 preview), agenda, riddle (Christmas tree), joke (space bar), exit ticket on the GP2 Daily Slides deck |
 | Video 06 | 🚧 | Monday's day focus; publish by Sun 10/19 night (sitting 2) |
