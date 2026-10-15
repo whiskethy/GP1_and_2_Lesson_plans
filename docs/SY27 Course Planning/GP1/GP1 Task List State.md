@@ -49,7 +49,18 @@ Local source of truth for the GP1 student Task List. The live student-facing she
 
 | # | Task | Note | Found on | Task Type | Lab | Due |
 |---|------|------|----------|-----------|-----|-----|
-| 23 | Roll-A-Ball project kickoff | Day 32 (Thu 10/22, B): watch the exemplar, plan the project; SY26 series posted by Nick when processed | Google Classroom | Independent Activity | Yes | 10/22 |
+| 23 | GitHub account signup | Early-start Do Now on the Day 32 buffer day (Thu 10/22); school email, no personal info | GitHub | Independent Activity | Yes | 10/22 |
+| 24 | Roll-A-Ball project launch + exemplar | Day 33 (Mon 10/26): exemplar + GitHub slides + start the GitHub test assignment | Google Classroom | Independent Activity | Yes | 10/26 |
+| 25 | GitHub test assignment: accept, clone, secret phrase, commit, push | Day 33 start, Day 34 finish; repo link in Classroom when built | GitHub | Independent Coding | Yes | 10/27 |
+| 26 | Roll-A-Ball starter project: accept, clone, open in Unreal | Day 34; fast students start Video 01 | Google Classroom | Independent Coding | Yes | 10/27 |
+| 27 | Watch Video 01 - Player Blueprint | Day 35; follow-along on the starter; screenshot of the ball in level + material to Classroom (proof) | EdPuzzle | Lesson Video | Yes | 10/28 |
+| 28 | Video 01 proof: ball in level screenshot | Submit with the video; presence-based | Google Classroom | Evidence From Video | Yes | 10/28 |
+| 29 | Watch Video 02 - Enhanced Input | Day 36 B; followed by Input folder screenshot (proof) | EdPuzzle | Lesson Video | Yes | 10/29 |
+| 30 | Video 02 proof: Input folder screenshot | IA_Roll/IA_Jump/IA_Camera + IMC visible | Google Classroom | Evidence From Video | Yes | 10/29 |
+| 31 | Watch Video 03 - Player Movement | Day 37; + in-class OBS primer block (first recording, CP1's tool primer) | EdPuzzle | Lesson Video | Yes | 11/4 |
+| 32 | Video 03 proof: 5-10s recording of the ball rolling | First OBS use; watch-to-grade | Google Classroom | Evidence From Video | Yes | 11/4 |
+
+Q2 Task List rows beyond #32 (V04-V16 proofs, CP1-CP5) get added to this state file at the map's build pass for each week, not all up front - the live sheet only ever carries about a week.
 
 ## Dropdown vocab
 

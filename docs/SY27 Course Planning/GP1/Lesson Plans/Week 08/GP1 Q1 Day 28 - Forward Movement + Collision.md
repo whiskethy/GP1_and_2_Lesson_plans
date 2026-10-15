@@ -85,7 +85,7 @@ Add 2-3 obstacle cubes in front of the ring run, tune force, and get a clean fly
 |------|--------|------|
 | EdPuzzle: Video 13 - Forward Movement | ✅ | [[SY27 Q1 - Video 13 - Forward Movement#SY27 EdPuzzle]] |
 | EdPuzzle: Video 14 - Basic Collision | ✅ | [[SY27 Q1 - Video 14 - Basic Collision#SY27 EdPuzzle]] - has a known weird edit around 06:29; flag to students before watching |
-| Daily slides 10.15 | 🚧 | needs build from this file |
+| Daily slides 10.15 | ✅ | built from this file |
 
 ## Notes after teaching
 

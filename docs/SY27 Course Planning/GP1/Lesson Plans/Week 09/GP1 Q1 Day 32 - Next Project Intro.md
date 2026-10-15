@@ -4,90 +4,67 @@ quarter: Q1
 day: 32
 date: Thu 10/22
 day_type: B
-chunk: "19"
-type: intro day
+chunk: "Q2 intro"
+type: buffer + prep day
 class_minutes: 72
-unit: 5
+unit: 4
 status: active
-updated: 2026-10-13
+updated: 2026-10-15
 riddle: What building has the most stories?
 joke: What do you call a fly with a sore throat
 ---
 
-# GP1 - Next Project Intro (Day 32)
+# GP1 - Q1 Buffer + Roll-A-Ball Launch Prep (Day 32)
 
-Day 32 (B day, 72 min) - Intro to the next project: Roll-A-Ball, shown through Nick's recorded Roll-A-Ball series from last year. This is the Q2 kickoff day. 72 min gives the exemplar playthrough, the overview, and the first setup block.
+Day 32 (B day, 72 min) - **Changed 10/15.** Was "Next Project Intro" (exemplar + Roll-A-Ball walkthrough). That content moves to Day 33 (Mon 10/26). The day is now the Q1 buffer: finish the Devlog Checkpoint, retake anything, or catch up - plus the early GitHub account signup for anyone ready to start next project.
 
-## Shared Block
-
-| Field | Value |
-|---|---|
-| Learning target | Describe what the Roll-A-Ball project is, what the player does, and what systems it will need, having seen the finished exemplar. |
-| New concept | New project scope: Roll-A-Ball as a player-controlled rolling pawn with camera, jump, pickups, obstacles, and landscape levels - a bigger project than the ship game, built over multiple weeks. |
-| Content standard | CSTA 3A-AP-13 (algorithm prototypes; scoping a project from an exemplar) |
-| ACT standard | WME 402, CLR 401 (watching an exemplar = locating what systems exist) |
-| Unit performance task link | This is the Q2 kickoff day - the exemplar is the target students build toward. |
-| Rides on | Unit 4's ship game: every mechanic in Roll-A-Ball (movement, collision, pickups, UI) is the ship game's mechanic at a bigger scale. Say that out loud - the transfer is the point. |
-| Vocabulary | pawn (revisited at scale), physics material, angular damping, Enhanced Input, pickup/collectible (revisited), landscape tool |
-| Prior-knowledge gaps | Enhanced Input is new territory (ship used direct keyboard events). Roll-A-Ball uses the Enhanced Input system. Students know the concept of "keys wired to actions" from Day 27; the input system abstraction is the cliff. |
-
-## Structure (the exemplar drives the day)
-
-1. Play a finished exemplar run, ideally Nick's own build or SY26's student exemplar version (BSP landscape, ball, camera, jump, pickups with score, obstacles, audio). Show it whole first - let it read as a real game, not a tutorial.
-2. Re-watch key moments with the transcript knowledge available (Enhanced Input, physics dampening):
-   - The ball rolling with acceleration and drag (physics - compare with the ship's velocity-change force)
-   - Camera follow with Pawn Control Rotation (compare with the ship's spring-arm camera they built on Day 26)
-   - Jump with canJump reset (compare with the spacebar impulse from Day 27 - the gate conditional is the new piece)
-   - Pickups with overlap + score (their Day 28-29 work at higher polish)
-3. Open the project itself if there's a starter or the finished build available. Walk where things live: Input folder with IA_Roll/IA_Jump/IA_Camera, Blueprints folder, Blueprints in the level, Landscape mode.
-4. Name what's coming: this project spans multiple weeks, uses Enhanced Input, and has checkpoints like this quarter's devlog.
+**Why the change:** the Roll-A-Ball launch needs its own full day, and Day 31 (Devlog Checkpoint) is Q1 grades-due day. The buffer gives a second pass at the checkpoint before the quarter's materials close. With the series running one video per day from Day 34/35, there are no spare catch-up days to hand out after this one.
 
 ## Do Now
 
 | # | Type | Question |
 |---|---------|----------|
-| 1 | Review | In the ship game, what did the Game Mode do with BP_Spaceship? (Two words: which class becomes the player?) |
-| 2 | Review | What's the difference between Add Impulse (spacebar) and Add Force (held fly)? |
-| 3 | Preview | The next game is Roll-A-Ball: you control a ball that rolls, jumps, and collects things. What's ONE system you'd bet it has in common with the ship game? |
+| 1 | Review | Your Devlog Checkpoint recording turned in Wednesday. What still needs fixing in the ship game - one thing? |
+| 2 | Review | What did the score chain look like: what held the score, and what displayed it? |
+| 3 | Preview | Monday starts Roll-A-Ball. What's one mechanic the ship game used that you'd bet the ball game uses too? |
 
-*(Preview mirrors the day's central claim: Roll-A-Ball IS the ship's systems recombined at larger scale.)*
-
-## Exit ticket
-
-1. Name three systems the Roll-A-Ball project needs that you have ALREADY built something like this quarter.
-2. What is new in Roll-A-Ball that the ship game didn't have? Name at least one - use today's re-watches for hints.
-3. What are you most interested in for this project: the movement/physics, the pickups/score, the landscape design, or something else? One sentence why.
-
-**Exit ticket mastery criteria:** Q1: any three of - rolling movement (like forward force), jump (like spacebar), camera (like spring-arm), pickups/overlap (like ring disappear), score display (like widget). Q2: at least one genuinely new piece - Enhanced Input system, physics material/damping, landscape tool, pawn physics friction. Q3: a real preference with a real reason.
+*(Preview can use the same question Day 33 uses for its launch framing - it's retrieval, not new material.)*
 
 ## Agenda (B day, 72 min)
 
 1. Do Now review (5 min)
-2. Exemplar run, full (5-10 min)
-3. Re-watch + compare segments (ship mechanic → Roll-A-Ball equivalent) (~20 min, pauses with discussion)
-4. Project walk-through: folders, Input actions, where things live (~10 min)
-5. What's coming: weeks-over-weeks structure of the project, checkpoints, what's new (Enhanced Input), what transfers (15 min)
-6. Independent look: students open Unreal and look at their own ship project next to what they saw (~10 min)
-7. Exit ticket (5 min)
+2. GitHub account signup block (15 min): anyone who does not yet have a school-work GitHub account makes one now with school email. Verification email check while it's pending. This is the Do-Now-early-start Nick asked for - every student who signs up today is one step ahead of Monday's launch. Students who already have one help peers or read ahead on the exemplar.
+   - NOTE (do not skip): students signing up should use school email, no personal info on the account, and NOT use their full name or birthday anywhere on the profile. The Roll-A-Ball test assignment asks for a secret phrase, not real names - same spirit starts here: the GitHub account is a work identity, not a personal one.
+3. Buffer block A (25 min): students still on Devlog Checkpoint 02 record or fix, circulating help
+4. Buffer block B (20 min): done students watch the Roll-A-Ball exemplar (projector or posted link) - the same video Day 33 opens with, so Monday's re-watch reads as intentional repetition for half the room and brand new for the other
+5. What's next (5 min): Monday is the GitHub test assignment + project launch; Tuesday/Wednesday get the project template and Video 01
+6. Exit ticket (2-5 min)
+
+## Exit ticket
+
+1. What is one thing in your ship game you fixed or finished today (or: what ran out of time to fix)?
+2. Did you get a GitHub account made and verified? Yes/no, and if yes, write your username here so you don't lose it.
+3. What's ONE mechanic from the ship game you expect to use in the ball game?
+
+**Exit ticket mastery criteria:** Q1: a specific fix or a named limitation, not "nothing". Q2: yes with a username written down counts; any other verifiable marker (verification email screenshot, profile screenshot) counts too - the point is proof, not a username string. Q3: any named mechanic with a one-line reason; overlap, collision, camera, impulse, score display all count.
 
 ## Differentiation & Accommodations
 
-- **Engagement:** a finished real game, watched as a game first. The "you'll build this" pitch lands because the ship game made every mechanic legible.
-- **Representation:** the exemplar plays whole, then segments with comparison; the folder walkthrough gives the structural map; the transcript-derived notes give the concepts in text.
-- **Action & Expression:** exit ticket includes a preference question - their interest shapes their pace in Q2.
-- **Accommodations:** extended time; the compare-and-contrast framing gives weaker-recall students a retrieval anchor (they built 5 of the 6 systems already this quarter). Students who don't volunteer interest in Q3 get asked directly during item 6 circulation.
-- **Student Voice:** Q3 names what they'll chase; Q2 lets a student show they spotted the new material themselves.
+- **Engagement:** students who finished Wednesday see the next project's exemplar early - the buffer gives them a real thing to do, not filler.
+- **Representation:** the signup block runs while the buffer also runs, so students who sign up slow get the same 25 minutes of fix time as everyone else.
+- **Action & Expression:** students pick their own order once the signup block ends.
+- **Accommodations:** this is the extended-time day for Devlog Checkpoint 02 by design; the checkpoint's date-based rule (submit what exists today) still applies, so the buffer is where the second pass lives. Students whose email inboxes flag GitHub verification as spam need help finding it - put the subject line on the slides ("Please verify your email address").
 
 ## Materials
 
 | Item | Status | Link |
 |------|--------|------|
-| Roll-A-Ball exemplar (finished build) | 🔎 | Nick's own build or the SY26 student exemplar; confirm which version runs the night before |
-| SY26 Roll-A-Ball videos (16, 3h 31m, need processing into SY27 Q2 use) | 🚧 | [Playlist](https://youtube.com/playlist?list=PLgLkLzgyXDdnptmiUUqOrg30I25iQG7l0) |
+| GitHub sign-up link on the board (github.com/join) | 🚧 | github.com/join; school-email path only |
+| Roll-A-Ball exemplar video | 🔎 | Nick's own build or the SY26 student exemplar; confirm which version runs the night before |
 | Daily slides 10.22 | 🚧 | needs build from this file |
 
 ## Notes after teaching
 
 ## Connections
 
-← [[GP1 Q1 Day 31 - Devlog Checkpoint 02]] | [[GP1 Q1 Calendar]] | →
+← [[GP1 Q1 Day 31 - Devlog Checkpoint 02]] | [[GP1 Q1 Calendar]] | [[GP1 - Q2 Launch + GitHub Setup]] →

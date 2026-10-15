@@ -35,6 +35,8 @@ nav:
     - Scope & Sequence: SY27 Course Planning/GP1/Scope & Sequence - Game Programming 1 (GP1).md
     - Q1 Calendar: SY27 Course Planning/GP1/GP1 Q1 Calendar.md
     - Q1 Materials: SY27 Course Planning/GP1/GP1 Q1 Materials.md
+    - Q2 Materials: SY27 Course Planning/GP1/GP1 Q2 Materials.md
+    - Q2 Semester Map: SY27 Course Planning/GP1/GP1 Semester Map - SY27 Q2.md
     - Unit 1 Planning: SY27 Course Planning/GP1/GP1 Unit 1 Planning.md
     - Unit 2 Planning: SY27 Course Planning/GP1/GP1 Unit 2 Planning.md
     - Unit 3 Planning: SY27 Course Planning/GP1/GP1 Unit 3 Planning.md
@@ -80,7 +82,10 @@ nav:
         - "Day 30 - Refactoring (Video 16)": SY27 Course Planning/GP1/Lesson Plans/Week 08/GP1 Q1 Day 30 - Refactoring.md
       - Week 09:
         - "Day 31 - Devlog Checkpoint 02": SY27 Course Planning/GP1/Lesson Plans/Week 09/GP1 Q1 Day 31 - Devlog Checkpoint 02.md
-        - "Day 32 - Next Project Intro": SY27 Course Planning/GP1/Lesson Plans/Week 09/GP1 Q1 Day 32 - Next Project Intro.md
+        - "Day 32 - Q1 Buffer + Roll-A-Ball Launch Prep": SY27 Course Planning/GP1/Lesson Plans/Week 09/GP1 Q1 Day 32 - Next Project Intro.md
+      - Week 10:
+        - "Day 33 - Q2 Launch + GitHub Setup": SY27 Course Planning/GP1/Lesson Plans/Week 10/GP1 - Q2 Launch + GitHub Setup.md
+        - "Day 34 - GitHub Assignment Finish + V01 Start": SY27 Course Planning/GP1/Lesson Plans/Week 10/GP1 - GitHub Assignment Finish + V01 Start.md
     - Worksheets:
       - SY27 Course Planning/GP1/Worksheets/index.md
       - "Render Loop Worksheet": SY27 Course Planning/GP1/Worksheets/GP1 Q1 Day 11 - Render Loop Worksheet.md

@@ -243,67 +243,64 @@ Student prior-knowledge gaps, not content gaps.
 
 ## Q2 (35 meetings, 1,920 min) 10/26/26 to 1/22/27
 
-Roll-A-Ball in Unreal Blueprint. All 16 videos exist. Four convert to written instruction: Video 02 Enhanced Input System Mapping → Doc Hunt; Video 04 Camera Movement → Written Build Guide; Video 12 Ground Traps → Transfer Brief; Video 15 Importing and Replacing Models → Doc Hunt. All four stay published as answer keys, released after submission.
+Roll-A-Ball in Unreal Blueprint. **Re-paced 2026-10-15: one video per day, no standalone practice days.** The re-pace trades the S&S's video+practice alternation for straight video days with B days (72 min) carrying the catch-up cushion, and keeps the four pre-break checkpoint builds as the slack-absorbers. Decisions in [[GP1 Semester Map - SY27 Q2]]; the map's week table is the date plan, the units below are the content plan. All 16 videos exist (SY26 recordings, transcripts + EdPuzzle sets already processed into the SY27 video notes). The four written-instruction conversions (Docs Hunt 02/15, Build Guide 04, Transfer Brief 12) are **unscheduled by design** per Nick 10/15 - the map runs video pacing only, and the written versions get offered as alternatives later. Quarter shape for the fence: 25 meetings before winter break carry Days 33-57 (setup days, V01-V16, CP1-CP4, buffer, capstone kickoff, demo day); the capstone build runs W17-W18 (1/5-1/14) and closes at CP5 Day 64; Days 65-67 reserved for post-project content TBD.
 
 ### Units
 
-- **Unit 1: Player, Input & Movement** (10 meetings, W10–W12)
-	1. Video 01 Player Blueprint: Pawn setup, collision presets — *new idea*
-	2. Practice: Player BP guided + independent
-	3. Doc Hunt 02 Enhanced Input: Input Actions & Mapping Contexts — *new idea*
-	4. Practice: input mapping
-	5. Video 03 Player Movement — *new idea*
-	6. Practice: movement guided + independent
-	7. Written Build Guide 04 Camera: spring arm/camera — *new idea*
-	8. Practice/consolidation: camera
-	9. Video 05 Physics & Jump: physics materials, angular damping — *new idea*
-	10. **Checkpoint** build
-	- **Written:** Doc Hunt (Enhanced Input) → Chunk 3. Written Build Guide (Camera) → Chunk 7.
-	- **Deliverable:** checkpoint build at Chunk 10 (video 05).
+- **Unit 1: Roll-A-Ball - Player to Capstone** (32 meetings, W10-W18, Days 33-64, one unit for the whole quarter) - phases are pacing markers, not unit boundaries; the checkpoints (CP1-CP5) are where the phases land.
 
-- **Unit 2: Obstacles, Pickups & Game State** (11 meetings, W13–W15)
-	1. Video 06 Obstacle Blueprints: base obstacle class, inheritance in practice — *new idea*
-	2. Practice: inheritance/obstacle
-	3. Video 07 Pick Up Items pt. 1 — *new idea*
-	4. Video 08 Pick Up Items pt. 2 — practice/consolidation (incremental, not fully new)
-	5. Video 09 Pick Up Items pt. 3 + **checkpoint** build
-	6. Video 10 Player Health: conditionals, persistent state — *new idea*
-	7. Practice: health/conditionals
-	8. Video 11 Game Over Screen: first UI widget — *new idea*
-	9. Practice: UI widget
-	10. Transfer Brief 12 Ground Traps — *new idea*, applies the conditionals/state pattern to a new context
-	11. **Checkpoint** build
-	- **Written:** Transfer Brief (Ground Traps) → Chunk 10.
-	- **Deliverable:** checkpoint builds at Chunks 5 and 11.
+**Phase A - Setup** (Days 33-34, 2 meetings)
 
-- **Unit 3: World, Models & Effects** (7 meetings, W16–W17)
-	1. Videos 13 Landscape Mode pt. 1: sculpting — *new idea*
-	2. Practice: sculpting
-	3. Video 14 Landscape Mode pt. 2 (texturing/painting) — *new idea*
-	4. Doc Hunt 15 Importing and Replacing Models: Fab import, asset licensing — *new idea* + SYN 301 licensing comparison (two real asset licenses, side by side)
-	5. Practice/consolidation: import/licensing
-	6. Video 16 Niagara Particles & Audio Cues — *new idea*
-	7. **Checkpoint** build
-	- **Written:** Doc Hunt (Importing and Replacing Models) → Chunk 4.
-	- **Deliverable:** checkpoint build at Chunk 7 (video 16).
+1. Q2 launch + GitHub lesson + test assignment start (Day 33) - *not a video chunk; setup day* · *Performance Task Connection: the GitHub accept → clone → commit → push cycle is the submission spine for every checkpoint in the project, starting with the test assignment.*
+2. Test assignment finish + Roll-A-Ball starter project into student hands (Day 34) - *setup/consolidation* · *Performance Task Connection: opens the actual project repo every student pushes to all quarter.*
 
-- **Unit 4: Q2 Capstone - Original Roll-A-Ball Game** (7 meetings, W18–W19)
-	1. Kickoff: checklist review, build begins
-	2. Build day 2
-	3. Build day 3
-	4. Playtest round 1 + tuning log
-	5. Revision/build day
-	6. Playtest round 2 + written design justification
-	7. **Checkpoint** — package and submit
-	- **Deliverable:** unchanged.
+**Phase B - Player, Input & Movement** (Days 35-40, 6 meetings)
+
+3. Video 01 Player Blueprint: Pawn setup, collision presets, Game Mode, physics on (Day 35) - *new idea*
+4. Video 02 Enhanced Input System Mapping (Day 36, B) - *new idea*, video kept (written Doc Hunt conversion unscheduled by design)
+5. Video 03 Player Movement (Day 37) - *new idea*
+6. Video 04 Camera Movement: spring arm/camera (Day 38, B) - *new idea*, video kept (Build Guide conversion unscheduled by design)
+7. Video 05 Physics & Jump: physics materials, angular damping (Day 39) - *new idea*
+8. **Checkpoint 1 build** (Day 40) - ball moves, jumps, camera follows, project committed · *Performance Task Connection: first graded evidence that the GitHub cycle works on a real project.*
+
+**Phase C - Obstacles, Pickups & Game State** (Days 41-49, 9 meetings)
+
+9. Video 06 Obstacle Blueprints: base obstacle class, inheritance in practice (Day 41) - *new idea*
+10. Video 07 Pick Up Items pt. 1 (Day 42, B) - *new idea*
+11. Video 08 Pick Up Items pt. 2 (Day 43) - *practice/consolidation (incremental, not fully new)*
+12. Video 09 Pick Up Items pt. 3 (Day 44) - *new idea*
+13. **Checkpoint 2 build** (Day 45) - obstacles + pickups collectible, committed
+14. Video 10 Player Health: conditionals, persistent state (Day 46, B) - *new idea*
+15. Video 11 Game Over Screen: first UI widget (Day 47) - *new idea*
+16. **Checkpoint 3 build** (Day 48) - health + game-over loop committed (V10-V11 range; lands with the Q2 progress-report grade, so the posted grade carries a committed checkpoint build)
+17. Video 12 Ground Traps (Day 49, B) - *new idea, applies the conditionals/state pattern to a new context (written Transfer Brief conversion unscheduled by design)*
+
+**Phase D - World, Models & Effects** (Days 50-55, 6 meetings)
+
+18. Video 13 Landscape Mode pt. 1: sculpting (Day 50) - *new idea*
+19. Video 14 Landscape Mode pt. 2: texturing/painting (Day 51) - *new idea*
+20. Video 15 Importing and Replacing Models (Day 52) - *new idea, video kept (Doc Hunt + licensing comparison conversion unscheduled by design)*
+21. Video 16 Niagara Particles & Audio Cues (Day 53, B) - *new idea*
+22. **Checkpoint 4 build** (Day 54) - landscape world with effects, committed (gate: evidence scope narrows to V13-V14 if V15/V16 bump)
+23. Buffer (Day 55) - catch-up or polish; absorbs any single lost meeting from W10-W15
+
+**Phase E - Capstone: Original Roll-A-Ball Game** (Days 56-64, 9 meetings)
+
+24. Capstone kickoff: build begins (Day 56) - *application day* · *Performance Task Connection: students design their own level (landscape taught V13/V14) with their own customizations (V15/V16 content).*
+25. Demo day (Day 57, B) - last before winter break, students demo their world-in-progress · *Performance Task Connection: mid-build demo keeps the level design moving across the break fence.*
+26. Build days (post-break W17, Days 58-60) - customization and level design, the videos' skills applied
+27. Final week W18: build/finish (Days 61-63) + **Checkpoint 5 final demo** (Day 64, B) - *the quarter's deliverable: their own original Roll-A-Ball game.*
+
+- **Written:** none scheduled. The four conversions (V02 Doc Hunt, V04 Build Guide, V12 Transfer Brief, V15 Doc Hunt) are planned as later-pass alternatives per Nick 10/15; each replaces its video's day, and the video stays published as the answer key.
+- **Deliverables:** CP1-CP4 checkpoint builds (each committed), CP5 final demo 1/14 (their own customized game). Same-day proof submissions ride six video days (V01, V02, V03, V06, V12, V14 - screenshots or a short recording, per the map's proof table); V03's proof is the first OBS recording and doubles as the CP1 tool primer. Commit-and-push after every video is the standing proof for the rest.
 
 ### Days
 
-35 meetings: Unit 1 10, Unit 2 11, Unit 3 7, Unit 4 7. W11 has only 2 meetings, absorbed inside Unit 1 as before.
+32 unit meetings in Phase A-E plus a 3-meeting reserved block (Days 65-67, outside the unit, post-project content TBD) = 35. W11 has only 2 meetings (RCPU + Election Day); W14, W17, W19 have 3 (Staff PD Mondays). No checkpoint or deadline inside a 2-meeting week.
 
 ### Re-pacing Notes
 
-Fits within existing budget once re-chunked — the original meeting counts already matched one-idea-per-meeting pacing when broken out by video.
+**Re-paced 2026-10-15 (Nick + Sena).** The S&S's original one-video-per-2-meetings alternation (video day, then practice day) is out. Reason: Nick's call that the class runs one video per day with no practice assignments, using the B days' extra minutes and the checkpoint builds as the catch-up mechanics instead. Unit meeting counts collapsed accordingly (Unit 1 10→8, Unit 2 11→9, Unit 3 7→6, Unit 4 stays 7 content meetings + gains the reserve block's fence). Two setup days (Days 33-34, GitHub + starter project) are new chunks not in the original S&S - tool-setup days are real content per the standing rule, and GitHub Desktop was never actually taught in Q1 (its chunk died in the 10/8 pivot), so Day 33 is first contact, not a refresher. Checkpoints renumbered CP1-CP5 to cover the whole arc rather than the original S&S's "checkpoint build" labels; CP4 carries a gate that scopes its evidence to V13-V14 if V15/V16 bump. V15/V16 bump-to-W17 is the standing release valve, decided at CP3's gate. **CP3 moved to Day 48 (Wed 12/2) and V12 to Day 49** (swapped 10/15, Nick): CP3 now lands with the Q2 progress-report grade (also 12/2), so the posted grade carries a committed checkpoint build; V12 rides Day 49's B day. CP3's evidence scope is V10-V11, not V10-V13; its brief runs presence-based (screenshots, count-and-type) so it grades inside the progress-report window. The written-conversion schedule is deferred, not dropped: the four task types return as alternatives when planned later. Day 32 (Thu 10/22) is now a Q1 buffer + early GitHub signup day, and the exemplar/launch content moved to Day 33 - see that day file.
 
 ### Priority Content Standards
 
@@ -315,8 +312,8 @@ Anchors: **3A-AP-20** (evaluate licenses that limit or restrict use of computati
 
 ### Aligned ACT Standards
 
-- **Math:** G 406, G 407, A 406, N 405 (Unit 1 movement and vectors) · AF 401, AF 403, A 301, A 401, S 403 (Unit 2 health, score, timing) · G 403, G 405, N 403 (Unit 3 landscape sizing) · S 301, S 302, S 304 (Unit 4 playtest data)
-- **Reading:** WME 402 all quarter · CLR 401, CLR 402, IDT 403 (Unit 1 Enhanced Input Doc Hunt) · TST 403, REL 403 (Unit 1 Camera Build Guide) · CLR 402, REL 403 (Unit 2 Ground Traps Transfer Brief) · SYN 301, PPV 401, TST 404 (Unit 3 license comparison and Fab docs) · ARG 401, ARG 402 (Unit 4 design justification)
+- **Math:** G 406, G 407, A 406, N 405 (Phase B movement and vectors) · AF 401, AF 403, A 301, A 401, S 403 (Phase C health, score, timing) · G 403, G 405, N 403 (Phase D landscape sizing) · S 301, S 302, S 304 (Phase E playtest data)
+- **Reading:** WME 402 all unit · CLR 401, CLR 402, IDT 403 (Enhanced Input docs work in Phase B) · TST 403, REL 403 (Camera guidance in Phase B) · CLR 402, REL 403 (Ground Traps pattern application in Phase C) · SYN 301, PPV 401, TST 404 (asset licensing and Fab docs in Phase D) · ARG 401, ARG 402 (design justification in Phase E)
 
 ### Instructional Gaps Identified
 
@@ -324,7 +321,7 @@ Anchors: **3A-AP-20** (evaluate licenses that limit or restrict use of computati
 - **Rate and proportional reasoning.** Tuning speed, force, and damping requires it, and it is the largest ACT math gap at the 16-19 band.
 - **Order of operations with signed values.** Negative force and torque produce results students cannot predict.
 - **"State" as a concept.** Health, score, and game over require a mental model of persistent state. Students have no prior frame for it.
-- **Reading a reference doc to build something, with no steps given.** The Enhanced Input Doc Hunt in Unit 1 is the first time this is load-bearing rather than practice, and it will be hard. Expect to co-read it the first time.
+- **Reading a reference doc to build something, with no steps given.** The Enhanced Input material in Phase B is the first time reading official docs is load-bearing rather than practice, and it will be hard. Expect to co-read it the first time.
 - **Following a multi-step procedure without skipping steps.** Video tutorials punish skimming, written guides punish it harder, and students skim.
 - **Legal reading.** License text is the least accessible prose students will meet all year.
 - **Stamina across a 16-part build.** Mid-quarter attrition is the predictable failure mode.
@@ -335,7 +332,7 @@ Anchors: **3A-AP-20** (evaluate licenses that limit or restrict use of computati
 
 - Rate and proportion warm-ups built from actual tuning values in the project, framed in ACT language (AF 401).
 - Vector direction mini-lesson with a physical demonstration before video 03.
-- **Co-read the Enhanced Input docs as a class the first time**, modeling the documentation reading protocol out loud, before students run a Doc Hunt alone.
+- **Co-read the Enhanced Input docs as a class the first time** (video first, docs alongside), modeling the documentation reading protocol out loud, before any doc-based work happens alone.
 - Tuning log worksheet: change one value, predict, test, record. Builds S 304 and AF 403 while doing real work.
 - License comparison organizer with plain-language glosses for the legal terms, targeting WME 402 and SYN 301.
 - Checkpoint project files at videos 05, 09, 12, and 16 so a student who falls behind has a known-good restart instead of dropping the project.
@@ -343,14 +340,17 @@ Anchors: **3A-AP-20** (evaluate licenses that limit or restrict use of computati
 
 **Materials to build**
 
-- [ ] Doc Hunt: Enhanced Input System Mapping (replaces video 02)
-- [ ] Written Build Guide: Camera Movement (replaces video 04)
-- [ ] Transfer Brief: Ground Traps (replaces video 12)
-- [ ] Doc Hunt: Fab import and asset licensing (replaces video 15)
-- [ ] License comparison organizer, with two real licenses selected
-- [ ] Capstone rubric, required-feature checklist, and design justification prompt
+- [ ] PINNED: GitHub test assignment repo + accept link (needed Day 33, Mon 10/26)
+- [ ] PINNED: Roll-A-Ball starter project repo + accept link (needed Day 34, Tue 10/27)
+- [ ] PINNED: GP1 Classmoji/Classroom 50 classroom setup (needed Day 33)
+- [ ] Doc Hunt: Enhanced Input System Mapping (replaces video 02) - unscheduled; offer later per Nick 10/15
+- [ ] Written Build Guide: Camera Movement (replaces video 04) - unscheduled; offer later
+- [ ] Transfer Brief: Ground Traps (replaces video 12) - unscheduled; offer later
+- [ ] Doc Hunt: Fab import and asset licensing (replaces video 15) - unscheduled; offer later
+- [ ] License comparison organizer, with two real licenses selected - rides the V15 day if adopted
+- [ ] Capstone rubric, required-feature checklist, and design justification prompt (before Day 56)
 - [ ] Tuning log template
-- [ ] Four checkpoint project files
+- [ ] Five checkpoint project files (at V05, V09, V12, V16, and one final pre-CP5 state) so a student who falls behind has a known-good restart
 - [ ] Vector direction demo materials
 
 ---
@@ -601,13 +601,14 @@ Everything above, gathered in production order so it can be worked as a single l
 
 **Before 10/26 (Q2 opening)**
 
-- [ ] Doc Hunt: Enhanced Input System Mapping
-- [ ] Written Build Guide: Camera Movement
+- [ ] Doc Hunt: Enhanced Input System Mapping - deferred 10/15 (video pacing only for Q2's map; offer later)
+- [ ] Written Build Guide: Camera Movement - deferred 10/15
+- [ ] PINNED: GitHub test assignment + Roll-A-Ball starter repos, GP1 classroom setup (see Q2 Materials to build)
 
 **During Q2**
 
-- [ ] Transfer Brief: Ground Traps
-- [ ] Doc Hunt: Fab import and asset licensing
+- [ ] Transfer Brief: Ground Traps - deferred 10/15 (offer later)
+- [ ] Doc Hunt: Fab import and asset licensing - deferred 10/15 (offer later)
 - [ ] License comparison organizer
 
 **Before 1/25 (Q3 opening)**

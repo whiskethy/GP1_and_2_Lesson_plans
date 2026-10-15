@@ -91,7 +91,7 @@ GP1 meets Mon/Tue/Wed (A, 48 min) and Thu (B, 72 min). No Friday class.
 | 29 | Mon 10/19 | A | 48 | 4 | Basic UI (Video 15) | [[GP1 Q1 Day 29 - Basic UI]] |
 | 30 | Tue 10/20 | A | 48 | 4 | Refactoring (Video 16) | [[GP1 Q1 Day 30 - Refactoring]] |
 | 31 | Wed 10/21 | A | 48 | 4 | Devlog Checkpoint 02 + Q1 Grades Due | [[GP1 Q1 Day 31 - Devlog Checkpoint 02]] |
-| 32 | Thu 10/22 | B | 72 | 5 | Next Project Intro (Roll-A-Ball kickoff) | [[GP1 Q1 Day 32 - Next Project Intro]] |
+| 32 | Thu 10/22 | B | 72 | 4 | Q1 Buffer + Roll-A-Ball Launch Prep (GitHub signup Do Now) | [[GP1 Q1 Day 32 - Next Project Intro]] |
 
 ## Links
 
