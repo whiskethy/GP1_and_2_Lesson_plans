@@ -91,4 +91,4 @@ Answer these in the Classroom assignment with your recording.
 
 ## Connections
 
-[[GP1 Day 32 - Devlog Checkpoint 02]] · [[GP1 - Blueprint Mini-Checkpoint Brief]] · [[GP1 Worksheets/index]]
+[[GP1 Day 32 - Devlog Checkpoint 02]] · [[GP1 - Blueprint Mini-Checkpoint Brief]]

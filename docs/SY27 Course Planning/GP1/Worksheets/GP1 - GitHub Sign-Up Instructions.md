@@ -70,4 +70,4 @@ On Google Classroom, open the assignment **GitHub username** and turn in your Gi
 
 ## Connections
 
-[[GP1 Day 32 - Devlog Checkpoint 02]] · [[GP1 - Classmoji Setup]] · [[GP1 Day 33 - Q2 Launch + GitHub Setup]] · [[GP1 Worksheets/index]]
+[[GP1 Day 32 - Devlog Checkpoint 02]] · [[GP1 - Classmoji Setup]] · [[GP1 Day 33 - Q2 Launch + GitHub Setup]]

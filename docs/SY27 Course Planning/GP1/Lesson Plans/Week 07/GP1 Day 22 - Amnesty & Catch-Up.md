@@ -69,7 +69,7 @@ Day 22 was planned as Importing & Materials (Video 08) but did not run as planne
 | Item | Status | Link |
 |------|--------|------|
 | EdPuzzle video series (Videos 01-16) | ✅ | [Playlist](https://youtube.com/playlist?list=PLgLkLzgyXDdkqSkLOwwVAV7Vldrrd6Rcs) / EdPuzzle class |
-| Transforms Practice packet | ✅ | [[GP1 Worksheets/GP1 - Transforms Worksheet]] — collecting for grading, 6/18 in |
+| Transforms Practice packet | ✅ | GP1 - Transforms Worksheet]] — collecting for grading, 6/18 in |
 | GP1 Daily Slides (today) | 🚧 | needs update: amnesty agenda + today's Do Now |
 
 ## What Changed

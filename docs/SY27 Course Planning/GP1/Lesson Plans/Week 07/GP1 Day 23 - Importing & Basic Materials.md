@@ -81,9 +81,9 @@ Import an FBX asset into Unreal, organize files in the Content Browser, create a
 | EdPuzzle: Video 08 — Importing & Basic Materials | ✅ | [[SY27 Q1 - Video 08 - Importing and Basic Materials#SY27 EdPuzzle]] |
 | Game Engine Notes deck (import/materials slides) | ✅ | [Drive](https://docs.google.com/presentation/d/18Bmk0XdICuy0gxQAMjgrTDGpEfoDQApchPI7A6XW85A/edit) |
 | Ring asset (FBX) | ✅ | [Google Drive](https://drive.google.com/drive/folders/1TAb8My8r3scdRlSpsCynYef0XfIhmq_C?usp=drive_link) |
-| Importing & Materials worksheet (source) | ✅ | [[GP1 Worksheets/GP1 - Importing & Materials Worksheet]] |
+| Importing & Materials worksheet (source) | ✅ | [[GP1 - Importing & Materials Worksheet]] |
 | Importing & Materials worksheet (student copy) | 🚧 | Markdown source built; Google Doc + print not built yet |
-| Printed step list / How to Import guide | ✅ | [[GP1 Worksheets/GP1 - How to Import an Asset]], Google Doc + Classroom post not done yet |
+| Printed step list / How to Import guide | ✅ | [[GP1 - How to Import an Asset]], Google Doc + Classroom post not done yet |
 
 ## Notes after teaching
 

@@ -47,4 +47,4 @@ After you accept, follow the GitHub steps on the assignment or in class to clone
 
 ## Connections
 
-[[GP2 GitHub & Classmoji Setup]] · [[GP1 - GitHub Sign-Up Instructions]] · [[GP1 Worksheets/index]]
+[[GP2 GitHub & Classmoji Setup]] · [[GP1 - GitHub Sign-Up Instructions]]

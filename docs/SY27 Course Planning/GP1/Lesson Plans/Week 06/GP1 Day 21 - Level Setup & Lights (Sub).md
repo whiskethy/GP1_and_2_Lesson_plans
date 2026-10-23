@@ -90,7 +90,7 @@ Apply location, rotation, and scale transforms to place objects at specific posi
 | Item | Status | Link |
 |------|--------|------|
 | EdPuzzle: Video 07 — Level Setup | ✅ | [[SY27 Q1 - Video 07 - Level Setup#SY27 EdPuzzle]] |
-| Transforms worksheet (source) | ✅ | [[GP1 Worksheets/GP1 - Transforms Worksheet]] |
+| Transforms worksheet (source) | ✅ | GP1 - Transforms Worksheet]] |
 | Transforms worksheet (student copy) | NOT BUILT | |
 | Sub instructions (printed) | NOT BUILT | |
 

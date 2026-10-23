@@ -90,7 +90,7 @@ Use Unreal's Scale tool to resize objects, and explain the difference between un
 | Item | Status | Link |
 |------|--------|------|
 | EdPuzzle: Video 06 — Scale | ✅ | [[SY27 Q1 - Video 06 - Scale#SY27 EdPuzzle]] |
-| Transforms worksheet (source) | ✅ | [[GP1 Worksheets/GP1 - Transforms Worksheet]] |
+| Transforms worksheet (source) | ✅ | GP1 - Transforms Worksheet]] |
 | Transforms worksheet (student copy) | NOT BUILT | |
 | Epic Games Launcher + Unreal Engine 5 | ✅ | Lab setup |
 | Sub instructions (printed) | NOT BUILT | |

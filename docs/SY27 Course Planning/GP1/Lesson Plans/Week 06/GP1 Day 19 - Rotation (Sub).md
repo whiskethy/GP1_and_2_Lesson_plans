@@ -88,7 +88,7 @@ Use Unreal's Rotate tool to change object orientation, and explain how pitch, ya
 | Item | Status | Link |
 |------|--------|------|
 | EdPuzzle: Video 05 — Rotation | ✅ | [[SY27 Q1 - Video 05 - Rotation#SY27 EdPuzzle]] |
-| Transforms worksheet (source) | ✅ | [[GP1 Worksheets/GP1 - Transforms Worksheet]] |
+| Transforms worksheet (source) | ✅ | GP1 - Transforms Worksheet]] |
 | Transforms worksheet (student copy) | NOT BUILT | |
 | Sub instructions (printed) | NOT BUILT | |
 

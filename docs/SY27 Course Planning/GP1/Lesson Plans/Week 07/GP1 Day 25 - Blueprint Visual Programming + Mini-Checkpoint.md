@@ -96,7 +96,7 @@ Plus one sentence if they finished Video 10 today: why they picked their spin va
 | Item | Status | Link |
 |------|--------|------|
 | EdPuzzle: Video 10 - Blueprint Visual Programming | ✅ | [[SY27 Q1 - Video 10 - Blueprint Visual Programming#SY27 EdPuzzle]] |
-| Blueprint mini-checkpoint brief (Classroom post) | ✅ | [[GP1 Worksheets/GP1 - Blueprint Mini-Checkpoint Brief]] - posted to Classroom as "GP1: Intro to Unreal Checkpoint 01" (screenshots only, reflection questions dropped 10/8) |
+| Blueprint mini-checkpoint brief (Classroom post) | ✅ | [[GP1 - Blueprint Mini-Checkpoint Brief]] - posted to Classroom as "GP1: Intro to Unreal Checkpoint 01" (screenshots only, reflection questions dropped 10/8) |
 | GP1 Daily Slides (today) | ✅ | Do Now, answers, agenda, riddle, joke applied for 10.8 |
 
 ## What Changed
