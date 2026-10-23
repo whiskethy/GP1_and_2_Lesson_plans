@@ -16,7 +16,7 @@ joke: How do mice floss their teeth?
 
 # GP1 - Catch-Up (Video 16 Optional) (Day 30)
 
-Day 30 (A day, 48 min) - re-planned 10/19. Only a few students reached Video 15 on Day 29 (Monday); most are still on Videos 12-13 - so the rest of the week is catch-up and the Devlog Checkpoint moves to Day 32 (Thu 10/22), covering through Video 15 only. Video 16 (Refactoring) is now OPTIONAL: students who reach it self-pace into it. The refactoring live lesson is cut, not lost - the content is preserved at the bottom of this file and in [[SY27 Q1 - Video 16 - Refactoring]]; V16 stays published as an answer key.
+Day 30 (A day, 48 min) - catch-up. The week is catch-up ahead of Thursday's Devlog Checkpoint (covers through Video 15 only), and Video 16 (Refactoring) is OPTIONAL: students who reach it self-pace into it, and V16 stays published as an answer key.
 
 ## Shared Block
 
@@ -45,7 +45,7 @@ Circulate on EdPuzzle dashboard positions, triage order: V12-V13 first (Blueprin
 
 **Independent work**
 
-Self-paced videos. Students who reach Video 16 follow it self-paced - the video carries the whole worked example (worked example = V16 itself). Early finishers: run the ship game against the Devlog checklist (in [[GP1 Day 32 - Devlog Checkpoint 02]]) and start fixing the weak lines; customizations (label text, font, colors) count as checkpoint lines too.
+Self-paced videos. Students who reach Video 16 follow it self-paced - the video carries the whole worked example (worked example = V16 itself). Early finishers: run the ship game against the Devlog checklist (Day 32's file) and start fixing the weak lines; customizations (label text, font, colors) count as checkpoint lines too.
 
 **Exit ticket**
 
@@ -64,21 +64,9 @@ Self-paced videos. Students who reach Video 16 follow it self-paced - the video 
 
 ## Materials
 
-| Item | Status | Link |
-|------|--------|------|
-| EdPuzzle: Video 16 - Refactoring (optional, self-paced) | ✅ | [[SY27 Q1 - Video 16 - Refactoring#SY27 EdPuzzle]] |
-| Daily slides 10.20 | ✅ | 10/20 verified by read-back. Agenda set to Nick's student-facing format (Do Now Review / Catch-Up lines). |
-
-## Notes after teaching
-
-## Preserved: the cut V16 live lesson (10/19 remap)
-
-Kept here so the content is revisit-able (Q2 candidate or anything self-paced students need):
-
-- **Learning target:** explain refactoring as reorganizing code WITHOUT changing behavior; apply it to the ship game: collapse the ship's add-points nodes into an Add Points function, move the overlap check into BP_Ring (Cast to BP Spaceship -> Add Points -> Destroy Actor), tune the ring's sphere collider / ship's box collider, replace the scaled plane with BSP ground (Box brush 5000x5000x5, UV scale to kill texture stretch).
-- **Evidence it worked:** press play and the score STILL ticks - behavior unchanged, organization better.
-- **Why it was cut:** most of the class was on Videos 12-13; a live refactoring day would only serve the few who passed Video 15 - and V16 remains optional self-paced for those students instead.
-- **Standards carried (not re-taught this pass):** CSTA 3A-AP-17 (iterative design/refactoring), WME 402. If Q2 opens with refactoring, this is the lesson.
+| Item | Link |
+|------|------|
+| Video 16 on EdPuzzle (optional, self-paced) | linked on Classroom |
 
 ## Connections
 

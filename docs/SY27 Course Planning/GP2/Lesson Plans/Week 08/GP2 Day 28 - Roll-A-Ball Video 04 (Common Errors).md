@@ -17,12 +17,7 @@ joke: How do you organize a space party?
 
 # GP2 Day 28 - Roll-A-Ball Video 04 (Common Errors) + V05 preview
 
-> [!warning] Shift applied Wed 10/14 morning (Nick)
-> Only 1 student finished Video 03 on yesterday's sub day. Day 27 (Wed 10/14) becomes a Video 03 completion day ([[GP2 Day 27 - Roll-A-Ball Video 03 Completion]]). Day 27's old content (Video 04 + seeded file) moved here to Fri 10/16, and Day 27/28 keep their numbers - only topics shifted. Day 28 now carries Video 04 (main lesson + seeded file) plus the first stretch of Video 05 (slides concept part only, no for/while typing yet). Next Monday (Day 29) students finish Video 05 with the for/while practice and challenge. The Tue 10/20 Components Practice day is absorbed - that was the give-back.
-
-Day 28 (C day, 72 min). Main content is Video 04: Common Errors, run as an EdPuzzle lesson, plus the first stretch of Video 05 (Loops) as a slides-only preview. The video is the lesson; the day file rides on its final edit. Runtime and question placement confirmed once the transcript is processed (V04 recorded 10/8, edit in progress 10/13 - needs to land before Friday).
-
-> **Prep dependency (backward-derived).** This day runs on Video 04 published to EdPuzzle before Friday morning. The buffer rule (a day on Video N needs Video N+1 available) is NOT satisfied for fast finishers: Video 05 is scripted but not recorded, so early finishers get Task List work, not a next video. Do not promise Video 05's for/while practice to the room - only the concept slides run here.
+Day 28 (C day, 72 min). Main content is Video 04: Common Errors, run as an EdPuzzle lesson, plus the first stretch of Video 05 (Loops) as a slides-only preview. Early finishers get Task List work - Video 05's for/while practice is Monday.
 
 ## Learning Target
 
@@ -51,8 +46,6 @@ Read a Visual Studio Error List entry (error text and line number), locate the o
 | 2 | Review | What is the one rule for the generated "Unreal stuff" (UCLASS, GENERATED_BODY), and what do the errors look like if you break it? |
 | 3 | Preview | You build and the compiler says `expected ';'` at line 14. You look at line 14 and it seems fine. Where do you look next, and why? |
 
-*(Preview mirrors ET Q1. A student can guess from instinct; the video gives the off-by-one-line fact that makes the answer exact.)*
-
 **Worked example**
 
 The video IS the worked example. Each family gets seeded live, read out loud, located by line number, and fixed on camera: missing semicolon (the off-by-one-line pointer, said twice), missing brace with the cascade and first-error-only discipline, case sensitivity via the DecreaseHealth/health mismatch, and the toolchain errors (V01's config skip, V03's stale binary). The seeded-file ending works the full ritual, one error at a time, no batch fixes.
@@ -64,8 +57,7 @@ Students take notes through the error reads, then follow along the seeded-file f
 **Independent work**
 
 Finish the seeded file if the follow-along outpaced them. Submit: screenshot of the clean Error List with the fixed file visible, on Classroom. Commit and push (standing habit; close Unreal, full compile first). Early finishers: outstanding Task List work. Video 05's for/while practice is NOT today - that is Monday; today's V05 piece is slides only.
-
-**Exit ticket** (surplus: 4 offered, use 2-3)
+**Exit ticket**
 
 1. The Error List says `expected ';'` at line 14. Line 14 looks correct. Explain in one or two sentences where you look next and why.
 2. Your code uses `Health` but the compiler says `undeclared identifier`. The variable exists. Give the most likely cause and the first thing you check.
@@ -98,18 +90,10 @@ Finish the seeded file if the follow-along outpaced them. Submit: screenshot of 
 
 ## Materials
 
-| Item | Status | Link |
-|------|--------|------|
-| Video 04 recording script + reconciliation | ✅ | [[SY27 Q1 - Video 04 - Common Errors]] (reconciliation fills after the edit lands 10/13) |
-| Video 04 published to EdPuzzle | ✅ | https://youtu.be/flvRV0FsK60 / [EdPuzzle](https://edpuzzle.com/media/6ad23a5b906a50079d62e444) (published 10/16, audio-fix re-export; same edit/timestamps) |
-| Seeded error file (also in video description) | ✅ | exact blocks in [[SY27 Q1 - Video 04 - Common Errors]] |
-| Starter project repo | ✅ | https://github.com/ChicagoTechAcademy/UE_Roll_a_Ball |
-| Daily slides | ✅ | Do Now (2 review + 1 preview), agenda, riddle (potato), joke (planet), exit ticket on the GP2 Daily Slides deck (updated 10/16, verified by read-back) |
-| V05 slide segment (PPTX, L1 slides) | ✅ | built 10/13, [[Handoff - V05 Slides PPTX Build]]; the concept slides only run here, no for/while syntax yet |
-| Video 05 | not posted | scripted, slides built, video NOT recorded - only the slide-lecture concept runs Friday; for/while practice is Monday |
-| Video 06 | 🚧 | Monday's day focus, publish by Sun 10/19 night |
-
-## Notes after teaching
+| Item | Link |
+|------|------|
+| Video 04 on EdPuzzle | https://youtu.be/flvRV0FsK60 / https://edpuzzle.com/media/6ad23a5b906a50079d62e444 (seeded error file also in the video description) |
+| Starter project repo | https://github.com/ChicagoTechAcademy/UE_Roll_a_Ball |
 
 ## Connections
 
