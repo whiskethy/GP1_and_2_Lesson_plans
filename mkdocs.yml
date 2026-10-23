@@ -29,6 +29,26 @@ extra_css:
 extra_javascript:
   - javascripts/section-theme.js
 
+# Internal planning pages: kept in the repo working copy, never published
+exclude_docs: |
+  SY27 Course Planning/GP1/Bumped Topics.md
+  SY27 Course Planning/GP1/GP1 Sub Prep - Sept 2026.md
+  SY27 Course Planning/GP1/GP1 Task List State.md
+  SY27 Course Planning/GP1/GP1 Unit 1 Planning.md
+  SY27 Course Planning/GP1/GP1 Unit 2 Planning.md
+  SY27 Course Planning/GP1/GP1 Unit 3 Planning.md
+  SY27 Course Planning/GP2/Bumped Topics.md
+  SY27 Course Planning/GP2/GP2 Sub Prep - Sept 2026.md
+  SY27 Course Planning/GP2/GP2 Task List State.md
+  SY27 Course Planning/GP2/GP2 Unit 1 Planning.md
+  SY27 Course Planning/GP2/GP2 Unit 2 Planning.md
+  SY27 Course Planning/GP2/GP2 Unit 3 Planning.md
+  SY27 Course Planning/GP2/GP2 Unit 4 Planning.md
+  SY27 Course Planning/GP2/Loop Slides Content Plan.md
+  SY27 Course Planning/PBL Curriculum Design Reference.md
+  SY27 Course Planning/SY27 GP2 Planning.md
+  SY27 Course Planning/index.md
+
 nav:
   - Home: index.md
   - GP1:
@@ -36,9 +56,6 @@ nav:
     - Quarter 1:
       - Q1 Calendar: SY27 Course Planning/GP1/GP1 Q1 Calendar.md
       - Q1 Materials: SY27 Course Planning/GP1/GP1 Q1 Materials.md
-      - Unit 1 Planning: SY27 Course Planning/GP1/GP1 Unit 1 Planning.md
-      - Unit 2 Planning: SY27 Course Planning/GP1/GP1 Unit 2 Planning.md
-      - Unit 3 Planning: SY27 Course Planning/GP1/GP1 Unit 3 Planning.md
       - Lesson Plans:
         - SY27 Course Planning/GP1/Lesson Plans/index.md
         - Week 01:
@@ -98,7 +115,6 @@ nav:
     - Quarter 1:
       - Q1 Calendar: SY27 Course Planning/GP2/GP2 Q1 Calendar.md
       - Q1 Materials: SY27 Course Planning/GP2/GP2 Q1 Materials.md
-      - Unit 1 Planning: SY27 Course Planning/GP2/GP2 Unit 1 Planning.md
       - Lesson Plans:
         - SY27 Course Planning/GP2/Lesson Plans/index.md
         - Week 01:
@@ -153,7 +169,6 @@ nav:
       - "GitHub Onboarding": SY27 Course Planning/GP2/GP2 GitHub Onboarding.md
       - "GitHub & Classmoji Setup": SY27 Course Planning/GP2/GP2 GitHub & Classmoji Setup.md
       - "Guided Notes - Intro to C++": SY27 Course Planning/GP2/Guided Notes - Intro to C++ (Slides 1-34).md
-      - "Loop Slides Content Plan": SY27 Course Planning/GP2/Loop Slides Content Plan.md
       - "Unit 1 Practice Programs": SY27 Course Planning/GP2/Unit 1 Practice Programs (Slides 1-131).md
   - Standards:
     - Standards/index.md
