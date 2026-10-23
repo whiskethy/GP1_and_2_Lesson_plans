@@ -160,4 +160,4 @@ Recorded 2026-10-08; carried over from the Days 26-32 TBD placeholder before tha
 
 ## Connections
 
-← [Unit 2 Planning](GP1 Unit 2 Planning.md) | [GP1 Q1 Calendar](GP1 Q1 Calendar.md) | [Scope & Sequence](Scope & Sequence - Game Programming 1 (GP1).md) →
+← [Unit 2 Planning](GP1 Unit 2 Planning.md) | [GP1 Q1 Calendar](GP1 Q1 Calendar.md) | [Scope & Sequence](../Scope & Sequence - Game Programming 1 (GP1).md) →

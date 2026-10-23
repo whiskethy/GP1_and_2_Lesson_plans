@@ -132,4 +132,4 @@ The "how does the machine actually work" unit. Parts of a computer, file systems
 
 ## Connections
 
-← [GP1 Q1 Calendar](GP1 Q1 Calendar.md) | [Scope & Sequence](Scope & Sequence - Game Programming 1 (GP1).md) | [GP1 Q1 Materials](GP1 Q1 Materials.md) →
+← [GP1 Q1 Calendar](GP1 Q1 Calendar.md) | [Scope & Sequence](../Scope & Sequence - Game Programming 1 (GP1).md) | [GP1 Q1 Materials](GP1 Q1 Materials.md) →

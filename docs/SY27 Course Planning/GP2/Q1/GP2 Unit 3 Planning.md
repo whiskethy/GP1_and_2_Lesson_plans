@@ -44,10 +44,10 @@ The "hardest concept" unit. Students learn plain-C++ pointers and references, th
 
 | Framework | Standards |
 |---|---|
-| CSTA 3A | [3A-CS-01](../../Standards/CSTA%20Standards.md#3a-cs-01), [3A-CS-02](../../Standards/CSTA%20Standards.md#3a-cs-02), [3A-AP-16](../../Standards/CSTA%20Standards.md#3a-ap-16), [3A-AP-20](../../Standards/CSTA%20Standards.md#3a-ap-20), [3B-AP-20](../../Standards/CSTA%20Standards.md#3b-ap-20) |
-| ISBE 9-10 | [9-10.CS.01](../../Standards/ISBE%20Computer%20Science%20Standards.md#9-10cs01), [9-10.CS.02](../../Standards/ISBE%20Computer%20Science%20Standards.md#9-10cs02), [9-10.AP.16](../../Standards/ISBE%20Computer%20Science%20Standards.md#9-10ap16), [9-10.AP.20](../../Standards/ISBE%20Computer%20Science%20Standards.md#9-10ap20) |
+| CSTA 3A | [3A-CS-01](CSTA%20Standards.md#3a-cs-01), [3A-CS-02](CSTA%20Standards.md#3a-cs-02), [3A-AP-16](CSTA%20Standards.md#3a-ap-16), [3A-AP-20](CSTA%20Standards.md#3a-ap-20), [3B-AP-20](CSTA%20Standards.md#3b-ap-20) |
+| ISBE 9-10 | [9-10.CS.01](ISBE%20Computer%20Science%20Standards.md#9-10cs01), [9-10.CS.02](ISBE%20Computer%20Science%20Standards.md#9-10cs02), [9-10.AP.16](ISBE%20Computer%20Science%20Standards.md#9-10ap16), [9-10.AP.20](ISBE%20Computer%20Science%20Standards.md#9-10ap20) |
 | ACT Math | A 301, A 401 |
-| ACT Reading | [CLR 401](../../Standards/CCRS-ReadingStandards.md#clr-401), [CLR 402](../../Standards/CCRS-ReadingStandards.md#clr-402), [TST 403](../../Standards/CCRS-ReadingStandards.md#tst-403), [TST 404](../../Standards/CCRS-ReadingStandards.md#tst-404), [IDT 403](../../Standards/CCRS-ReadingStandards.md#idt-403), [REL 403](../../Standards/CCRS-ReadingStandards.md#rel-403) |
+| ACT Reading | [CLR 401](CCRS-ReadingStandards.md#clr-401), [CLR 402](CCRS-ReadingStandards.md#clr-402), [TST 403](CCRS-ReadingStandards.md#tst-403), [TST 404](CCRS-ReadingStandards.md#tst-404), [IDT 403](CCRS-ReadingStandards.md#idt-403), [REL 403](CCRS-ReadingStandards.md#rel-403) |
 
 ### Enduring Understandings
 
@@ -59,13 +59,13 @@ The "hardest concept" unit. Students learn plain-C++ pointers and references, th
 
 | LT | Learning Target | Standards | Chunk |
 |---|---|---|---|
-| LT3-1 | Explain the difference between a pointer and a reference in plain C++, and trace pointer usage in a short example. | CSTA [3A-CS-01](../../Standards/CSTA%20Standards.md#3a-cs-01), ACT [CLR 401](../../Standards/CCRS-ReadingStandards.md#clr-401), [A 301](../../Standards/CCRS-MathematicsStandards.md#a-301) | 1 |
-| LT3-2 | Explain why Unreal wraps raw pointers in TObjectPtr and use TObjectPtr in a class declaration. | CSTA [3A-AP-16](../../Standards/CSTA%20Standards.md#3a-ap-16), ACT [CLR 402](../../Standards/CCRS-ReadingStandards.md#clr-402), [A 401](../../Standards/CCRS-MathematicsStandards.md#a-401) | 2 |
-| LT3-3 | Describe the UObject base class, the reflection system, and how UCLASS/UPROPERTY/UFUNCTION register objects with the engine. | CSTA [3A-CS-02](../../Standards/CSTA%20Standards.md#3a-cs-02), ACT [TST 404](../../Standards/CCRS-ReadingStandards.md#tst-404), [IDT 403](../../Standards/CCRS-ReadingStandards.md#idt-403) | 3 |
-| LT3-4 | Explain the AActor/component relationship and how composition replaces deep inheritance hierarchies in Unreal. | CSTA [3A-AP-20](../../Standards/CSTA%20Standards.md#3a-ap-20), ACT [TST 403](../../Standards/CCRS-ReadingStandards.md#tst-403) | 4 |
-| LT3-5 | Trace object lifetime through garbage collection and explain why UPROPERTY keeps objects alive. | CSTA [3B-AP-20](../../Standards/CSTA%20Standards.md#3b-ap-20), ACT [REL 403](../../Standards/CCRS-ReadingStandards.md#rel-403), [IDT 403](../../Standards/CCRS-ReadingStandards.md#idt-403) | 5 |
-| LT3-6 | Integrate pointers, TObjectPtr, and GC understanding in guided and independent practice; meet 80% checkpoint. | CSTA [3A-AP-16](../../Standards/CSTA%20Standards.md#3a-ap-16), [3A-AP-20](../../Standards/CSTA%20Standards.md#3a-ap-20), ACT [CLR 401](../../Standards/CCRS-ReadingStandards.md#clr-401), [REL 403](../../Standards/CCRS-ReadingStandards.md#rel-403) | 6 |
-| LT3-7 | Trace PlayerBall.h in a structured Code Read: identify purpose, inputs/outputs, control flow, calls, callers, and what the code does not tell you. | CSTA [3A-AP-16](../../Standards/CSTA%20Standards.md#3a-ap-16), ACT [CLR 401](../../Standards/CCRS-ReadingStandards.md#clr-401), [CLR 402](../../Standards/CCRS-ReadingStandards.md#clr-402), [TST 403](../../Standards/CCRS-ReadingStandards.md#tst-403), [TST 404](../../Standards/CCRS-ReadingStandards.md#tst-404) | 7 |
+| LT3-1 | Explain the difference between a pointer and a reference in plain C++, and trace pointer usage in a short example. | CSTA [3A-CS-01](CSTA%20Standards.md#3a-cs-01), ACT [CLR 401](CCRS-ReadingStandards.md#clr-401), [A 301](CCRS-MathematicsStandards.md#a-301) | 1 |
+| LT3-2 | Explain why Unreal wraps raw pointers in TObjectPtr and use TObjectPtr in a class declaration. | CSTA [3A-AP-16](CSTA%20Standards.md#3a-ap-16), ACT [CLR 402](CCRS-ReadingStandards.md#clr-402), [A 401](CCRS-MathematicsStandards.md#a-401) | 2 |
+| LT3-3 | Describe the UObject base class, the reflection system, and how UCLASS/UPROPERTY/UFUNCTION register objects with the engine. | CSTA [3A-CS-02](CSTA%20Standards.md#3a-cs-02), ACT [TST 404](CCRS-ReadingStandards.md#tst-404), [IDT 403](CCRS-ReadingStandards.md#idt-403) | 3 |
+| LT3-4 | Explain the AActor/component relationship and how composition replaces deep inheritance hierarchies in Unreal. | CSTA [3A-AP-20](CSTA%20Standards.md#3a-ap-20), ACT [TST 403](CCRS-ReadingStandards.md#tst-403) | 4 |
+| LT3-5 | Trace object lifetime through garbage collection and explain why UPROPERTY keeps objects alive. | CSTA [3B-AP-20](CSTA%20Standards.md#3b-ap-20), ACT [REL 403](CCRS-ReadingStandards.md#rel-403), [IDT 403](CCRS-ReadingStandards.md#idt-403) | 5 |
+| LT3-6 | Integrate pointers, TObjectPtr, and GC understanding in guided and independent practice; meet 80% checkpoint. | CSTA [3A-AP-16](CSTA%20Standards.md#3a-ap-16), [3A-AP-20](CSTA%20Standards.md#3a-ap-20), ACT [CLR 401](CCRS-ReadingStandards.md#clr-401), [REL 403](CCRS-ReadingStandards.md#rel-403) | 6 |
+| LT3-7 | Trace PlayerBall.h in a structured Code Read: identify purpose, inputs/outputs, control flow, calls, callers, and what the code does not tell you. | CSTA [3A-AP-16](CSTA%20Standards.md#3a-ap-16), ACT [CLR 401](CCRS-ReadingStandards.md#clr-401), [CLR 402](CCRS-ReadingStandards.md#clr-402), [TST 403](CCRS-ReadingStandards.md#tst-403), [TST 404](CCRS-ReadingStandards.md#tst-404) | 7 |
 
 ## Assessment Plan
 
@@ -128,4 +128,4 @@ The "hardest concept" unit. Students learn plain-C++ pointers and references, th
 
 ## Connections
 
-← [GP2 Unit 2 Planning](GP2 Unit 2 Planning.md) | [GP2 Q1 Calendar](GP2 Q1 Calendar.md) | [Scope & Sequence](Scope & Sequence - Game Programming 2 (GP2).md) →
+← [GP2 Unit 2 Planning](GP2 Unit 2 Planning.md) | [GP2 Q1 Calendar](GP2 Q1 Calendar.md) | [Scope & Sequence](../Scope & Sequence - Game Programming 2 (GP2).md) →

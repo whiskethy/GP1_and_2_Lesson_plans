@@ -97,7 +97,7 @@ Verify the class in the editor, commit and push the new Source folder via GitHub
 | Video 01 recording script | ✅ | [[SY27 Q1 - Video 01 - Project Setup]] |
 | Video 01 (recorded, editing 10/6; publish before class Wed 10/7) | ✅ | published 10/7 per Nick; script: [[SY27 Q1 - Video 01 - Project Setup]] |
 | Video 02 (VS/Unreal parts recorded 10/7; slide segment + assembly pending) | 🚧 | Nick does the slide segment as voiceover; script: [[SY27 Q1 - Video 02 - Header Source Split]] |
-| Written clone instructions (Classroom post) | ✅ | [[GP2 Worksheets/GP2 - Roll-A-Ball Clone Instructions]] |
+| Written clone instructions (Classroom post) | ✅ | [[GP2 - Roll-A-Ball Clone Instructions]] |
 | Daily slides 10.7 | ✅ | Do Now + agenda live on the GP2 Daily Slides deck (verified read-back 10/7) |
 
 ## What Changed

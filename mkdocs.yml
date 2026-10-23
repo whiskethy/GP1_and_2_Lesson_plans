@@ -29,154 +29,34 @@ extra_css:
 extra_javascript:
   - javascripts/section-theme.js
 
-# Internal planning pages: kept in the repo working copy, never published
+# Nav is intentionally NOT explicit: each course (and Standards) is a directory
+# reference, so the nav mirrors the docs folder structure and new folders/pages
+# under a course appear automatically. Internal planning pages are excluded below.
+# When reorganizing the docs tree, only this exclude list needs updating.
 exclude_docs: |
   SY27 Course Planning/GP1/Bumped Topics.md
   SY27 Course Planning/GP1/GP1 Sub Prep - Sept 2026.md
   SY27 Course Planning/GP1/GP1 Task List State.md
-  SY27 Course Planning/GP1/GP1 Unit 1 Planning.md
-  SY27 Course Planning/GP1/GP1 Unit 2 Planning.md
-  SY27 Course Planning/GP1/GP1 Unit 3 Planning.md
+  SY27 Course Planning/GP1/Playlist details - YouTube Studio.md
+  SY27 Course Planning/GP1/Q3 & Q4 GP1 YouTube Playlist.md
+  SY27 Course Planning/GP1/Q1/GP1 Unit 1 Planning.md
+  SY27 Course Planning/GP1/Q1/GP1 Unit 2 Planning.md
+  SY27 Course Planning/GP1/Q1/GP1 Unit 3 Planning.md
   SY27 Course Planning/GP2/Bumped Topics.md
-  SY27 Course Planning/GP2/GP2 Sub Prep - Sept 2026.md
   SY27 Course Planning/GP2/GP2 Task List State.md
-  SY27 Course Planning/GP2/GP2 Unit 1 Planning.md
-  SY27 Course Planning/GP2/GP2 Unit 2 Planning.md
-  SY27 Course Planning/GP2/GP2 Unit 3 Planning.md
-  SY27 Course Planning/GP2/GP2 Unit 4 Planning.md
-  SY27 Course Planning/GP2/Loop Slides Content Plan.md
+  SY27 Course Planning/GP2/Q1/GP2 Unit 1 Planning.md
+  SY27 Course Planning/GP2/Q1/GP2 Unit 2 Planning.md
+  SY27 Course Planning/GP2/Q1/GP2 Unit 3 Planning.md
+  SY27 Course Planning/GP2/Q2/GP2 Unit 4 Planning.md
   SY27 Course Planning/PBL Curriculum Design Reference.md
   SY27 Course Planning/SY27 GP2 Planning.md
   SY27 Course Planning/index.md
 
 nav:
   - Home: index.md
-  - GP1:
-    - Scope & Sequence: SY27 Course Planning/GP1/Scope & Sequence - Game Programming 1 (GP1).md
-    - Quarter 1:
-      - Q1 Calendar: SY27 Course Planning/GP1/GP1 Q1 Calendar.md
-      - Q1 Materials: SY27 Course Planning/GP1/GP1 Q1 Materials.md
-      - Lesson Plans:
-        - SY27 Course Planning/GP1/Lesson Plans/index.md
-        - Week 01:
-          - "Day 01 - Syllabus & Norms": SY27 Course Planning/GP1/Lesson Plans/Week 01/GP1 Day 01 - Syllabus & Norms.md
-          - "Day 02 - What a Computer Is": SY27 Course Planning/GP1/Lesson Plans/Week 01/GP1 Day 02 - What a Computer Is.md
-          - "Day 03 - Parts of a Computer": SY27 Course Planning/GP1/Lesson Plans/Week 01/GP1 Day 03 - Parts of a Computer.md
-          - "Day 04 - File Systems": SY27 Course Planning/GP1/Lesson Plans/Week 01/GP1 Day 04 - File Systems.md
-        - Week 02:
-          - "Day 05 - Binary Numbers": SY27 Course Planning/GP1/Lesson Plans/Week 02/GP1 Day 05 - Binary Numbers.md
-          - "Day 06 - Hexadecimal & Color Codes": SY27 Course Planning/GP1/Lesson Plans/Week 02/GP1 Day 06 - Hexadecimal & Color Codes.md
-          - "Day 07 - Hex & RGB Practice": SY27 Course Planning/GP1/Lesson Plans/Week 02/GP1 Day 07 - Hex & RGB Practice.md
-          - "Day 08 - Pixel Coloring Checkpoint": SY27 Course Planning/GP1/Lesson Plans/Week 02/GP1 Day 08 - Pixel Coloring Checkpoint.md
-        - Week 03:
-          - "Day 09 - Review & Game Engines": SY27 Course Planning/GP1/Lesson Plans/Week 03/GP1 Day 09 - Review & Game Engines.md
-          - "Day 10 - Unit 1 Quiz & Reading": SY27 Course Planning/GP1/Lesson Plans/Week 03/GP1 Day 10 - Unit 1 Quiz & Reading.md
-          - "Day 11 - Rendering Pipeline": SY27 Course Planning/GP1/Lesson Plans/Week 03/GP1 Day 11 - Rendering Pipeline & Reading.md
-        - Week 04:
-          - "Day 12 - Reading Day (Sub)": SY27 Course Planning/GP1/Lesson Plans/Week 04/GP1 Day 12 - Reading Day (Sub).md
-          - "Day 13 - Exploring Unreal Engine": SY27 Course Planning/GP1/Lesson Plans/Week 04/GP1 Day 13 - Exploring Unreal Engine.md
-          - "Day 14 - Viewport & Navigation": SY27 Course Planning/GP1/Lesson Plans/Week 04/GP1 Day 14 - Viewport & Navigation.md
-        - Week 05:
-          - "Day 15 - EdPuzzle Videos 01 & 02": SY27 Course Planning/GP1/Lesson Plans/Week 05/GP1 Day 15 - EdPuzzle Videos 01 & 02.md
-          - "Day 16 - Basic Placement Tools": SY27 Course Planning/GP1/Lesson Plans/Week 05/GP1 Day 16 - Basic Placement Tools.md
-          - "Day 17 - Basic Placement Tools": SY27 Course Planning/GP1/Lesson Plans/Week 05/GP1 Day 17 - Basic Placement Tools.md
-          - "Day 18 - Transforms (Sub)": SY27 Course Planning/GP1/Lesson Plans/Week 05/GP1 Day 18 - Transforms (Sub).md
-        - Week 06:
-          - "Day 19 - Rotation (Sub)": SY27 Course Planning/GP1/Lesson Plans/Week 06/GP1 Day 19 - Rotation (Sub).md
-          - "Day 20 - Scale (Sub)": SY27 Course Planning/GP1/Lesson Plans/Week 06/GP1 Day 20 - Scale (Sub).md
-          - "Day 21 - Level Setup & Lights (Sub)": SY27 Course Planning/GP1/Lesson Plans/Week 06/GP1 Day 21 - Level Setup & Lights (Sub).md
-        - Week 07:
-          - "Day 22 - Amnesty & Catch-Up": SY27 Course Planning/GP1/Lesson Plans/Week 07/GP1 Day 22 - Amnesty & Catch-Up.md
-          - "Day 23 - Importing & Materials": SY27 Course Planning/GP1/Lesson Plans/Week 07/GP1 Day 23 - Importing & Basic Materials.md
-          - "Day 24 - Ring Blueprint (Video 09)": SY27 Course Planning/GP1/Lesson Plans/Week 07/GP1 Day 24 - Ring Blueprint.md
-          - "Day 25 - Blueprint Visual Programming + Mini-Checkpoint (Video 10)": SY27 Course Planning/GP1/Lesson Plans/Week 07/GP1 Day 25 - Blueprint Visual Programming + Mini-Checkpoint.md
-        - Week 08:
-          - "Day 26 - Ship Blueprint (Video 11)": SY27 Course Planning/GP1/Lesson Plans/Week 08/GP1 Day 26 - Ship Blueprint (Sub).md
-          - "Day 27 - Blueprint Basics & Basic Input (Video 12)": SY27 Course Planning/GP1/Lesson Plans/Week 08/GP1 Day 27 - Blueprint Basics & Basic Input.md
-          - "Day 28 - Forward Movement + Collision (Videos 13+14)": SY27 Course Planning/GP1/Lesson Plans/Week 08/GP1 Day 28 - Forward Movement + Collision.md
-          - "Day 29 - Basic UI (Video 15)": SY27 Course Planning/GP1/Lesson Plans/Week 08/GP1 Day 29 - Basic UI.md
-          - "Day 30 - Catch-Up (Video 16 Optional)": SY27 Course Planning/GP1/Lesson Plans/Week 08/GP1 Day 30 - Catch-Up (Video 16 Optional).md
-        - Week 09:
-          - "Day 31 - Catch-Up": SY27 Course Planning/GP1/Lesson Plans/Week 09/GP1 Day 31 - Catch-Up.md
-          - "Day 32 - Devlog Checkpoint 02": SY27 Course Planning/GP1/Lesson Plans/Week 09/GP1 Day 32 - Devlog Checkpoint 02.md
-      - Worksheets:
-        - SY27 Course Planning/GP1/Worksheets/index.md
-        - "Render Loop Worksheet": SY27 Course Planning/GP1/Worksheets/GP1 Q1 Day 11 - Render Loop Worksheet.md
-        - "Transforms Worksheet": SY27 Course Planning/GP1/Worksheets/GP1 - Transforms Worksheet.md
-    - Quarter 2:
-      - Q2 Semester Map: SY27 Course Planning/GP1/GP1 Semester Map - SY27 Q2.md
-      - Q2 Materials: SY27 Course Planning/GP1/GP1 Q2 Materials.md
-      - Lesson Plans:
-        - Week 10:
-          - "Day 33 - Q2 Launch + GitHub Setup": SY27 Course Planning/GP1/Lesson Plans/Week 10/GP1 Day 33 - Q2 Launch + GitHub Setup.md
-          - "Day 34 - GitHub Finish + Roll-A-Ball Download": SY27 Course Planning/GP1/Lesson Plans/Week 10/GP1 Day 34 - GitHub Finish + Roll-A-Ball Download.md
-  - GP2:
-    - Scope & Sequence: SY27 Course Planning/GP2/Scope & Sequence - Game Programming 2 (GP2).md
-    - Quarter 1:
-      - Q1 Calendar: SY27 Course Planning/GP2/GP2 Q1 Calendar.md
-      - Q1 Materials: SY27 Course Planning/GP2/GP2 Q1 Materials.md
-      - Lesson Plans:
-        - SY27 Course Planning/GP2/Lesson Plans/index.md
-        - Week 01:
-          - "Day 01 - Syllabus & Norms": SY27 Course Planning/GP2/Lesson Plans/Week 01/GP2 Day 01 - Syllabus & Norms.md
-          - "Day 02 - Intro to C++": SY27 Course Planning/GP2/Lesson Plans/Week 01/GP2 Day 02 - Intro to CPP.md
-          - "Day 03 - Codedex Ch 1-2": SY27 Course Planning/GP2/Lesson Plans/Week 01/GP2 Day 03 - Codedex Ch 1-2.md
-          - "Day 04 - Dual Credit Setup": SY27 Course Planning/GP2/Lesson Plans/Week 01/GP2 Day 04 - Dual Credit Setup.md
-        - Week 02:
-          - "Day 05 - Anatomy of a C++ Program": SY27 Course Planning/GP2/Lesson Plans/Week 02/GP2 Day 05 - Anatomy of a C++ Program.md
-          - "Day 06 - Data Types & Operators": SY27 Course Planning/GP2/Lesson Plans/Week 02/GP2 Day 06 - Data Types & Operators.md
-          - "Day 07 - C++ Practice Problems": SY27 Course Planning/GP2/Lesson Plans/Week 02/GP2 Day 07 - Intro to C++ Practice Problems.md
-          - "Day 08 - Syntax-Fix Practice Programs": SY27 Course Planning/GP2/Lesson Plans/Week 02/GP2 Day 08 - Syntax-Fix Practice Programs.md
-        - Week 03:
-          - "Day 09 - Variables Surface-Level": SY27 Course Planning/GP2/Lesson Plans/Week 03/GP2 Day 09 - Variables Surface-Level.md
-          - "Day 10 - VS Setup": SY27 Course Planning/GP2/Lesson Plans/Week 03/GP2 Day 10 - VS Setup.md
-          - "Day 11 - CANCELLED Field Trip": SY27 Course Planning/GP2/Lesson Plans/Week 03/GP2 Day 11 - CANCELLED Field Trip.md
-        - Week 04:
-          - "Functions + Variables Practice": SY27 Course Planning/GP2/Lesson Plans/Week 04/GP2 Day 14 - Functions + Variables Practice.md
-          - "VS & GitHub Workflow (Sub)": SY27 Course Planning/GP2/Lesson Plans/Week 04/GP2 Day 12 - VS & GitHub Workflow (Sub).md
-          - "VS & GitHub Workflow": SY27 Course Planning/GP2/Lesson Plans/Week 04/GP2 Day 13 - VS & GitHub Workflow.md
-        - Week 05:
-          - "Day 15 - Functions + Variables Practice": SY27 Course Planning/GP2/Lesson Plans/Week 05/GP2 Day 15 - Functions + Variables Practice.md
-          - "Day 16 - Variables Practice (Cont)": SY27 Course Planning/GP2/Lesson Plans/Week 05/GP2 Day 16 - Variables Practice (Cont).md
-          - "Day 17 - Conditionals": SY27 Course Planning/GP2/Lesson Plans/Week 05/GP2 Day 17 - Conditionals.md
-          - "Day 18 - Conditionals Practice (Sub)": SY27 Course Planning/GP2/Lesson Plans/Week 05/GP2 Day 18 - Conditionals Practice (Sub).md
-        - Week 06:
-          - "Day 19 - Variables Practice (Sub)": SY27 Course Planning/GP2/Lesson Plans/Week 06/GP2 Day 19 - Variables Practice (Sub).md
-          - "Day 20 - Conditionals Practice (Sub)": SY27 Course Planning/GP2/Lesson Plans/Week 06/GP2 Day 20 - Conditionals Practice (Sub).md
-          - "Day 21 - Logical Operators & Check-In": SY27 Course Planning/GP2/Lesson Plans/Week 06/GP2 Day 21 - Logical Operators & Check-In.md
-        - Week 07:
-          - "Days 22-32 TBD (restructure notes)": SY27 Course Planning/GP2/Lesson Plans/Week 07/GP2 Q1 - Days 22-32 TBD.md
-          - "Day 22 - Unit 1 Wrap Kahoot": SY27 Course Planning/GP2/Lesson Plans/Week 07/GP2 Day 22 - Unit 1 Wrap Kahoot.md
-          - "Day 23 - Unit 1 Checkpoint Quiz & Amnesty": SY27 Course Planning/GP2/Lesson Plans/Week 07/GP2 Day 23 - Unit 1 Checkpoint Quiz & Amnesty.md
-          - "Day 24 - Roll-A-Ball Video 01 (Project Setup)": SY27 Course Planning/GP2/Lesson Plans/Week 07/GP2 Day 24 - Roll-A-Ball Video 01 (Project Setup).md
-          - "Day 25 - Roll-A-Ball Video 02 (Header-Source Split)": SY27 Course Planning/GP2/Lesson Plans/Week 07/GP2 Day 25 - Roll-A-Ball Video 02 (Header-Source Split).md
-        - Week 08:
-          - "Day 26 - Roll-A-Ball Video 03 (Debug Statements)": SY27 Course Planning/GP2/Lesson Plans/Week 08/GP2 Day 26 - Roll-A-Ball Video 03 (Debug Statements).md
-          - "Day 27 - Roll-A-Ball Video 03 Completion": SY27 Course Planning/GP2/Lesson Plans/Week 08/GP2 Day 27 - Roll-A-Ball Video 03 Completion.md
-          - "Day 28 - Roll-A-Ball Video 04 (Common Errors)": SY27 Course Planning/GP2/Lesson Plans/Week 08/GP2 Day 28 - Roll-A-Ball Video 04 (Common Errors).md
-        - Week 09:
-          - "Day 29 - Roll-A-Ball Video 05 (Loops)": SY27 Course Planning/GP2/Lesson Plans/Week 09/GP2 Day 29 - Roll-A-Ball Video 05 (Loops).md
-          - "Day 30 - Catch-Up": SY27 Course Planning/GP2/Lesson Plans/Week 09/GP2 Day 30 - Catch-Up.md
-          - "Day 31 - Roll-A-Ball Video 06 (Constructor and Components)": SY27 Course Planning/GP2/Lesson Plans/Week 09/GP2 Day 31 - Roll-A-Ball Video 06 (Constructor and Components).md
-          - "Day 31 (Pt 2) - Roll-A-Ball Video 07 (UPROPERTY and Tuning)": SY27 Course Planning/GP2/Lesson Plans/Week 09/GP2 Day 31 - Roll-A-Ball Video 07 (UPROPERTY and Tuning).md
-          - "Day 32 - Unit 1 Checkpoint (CP1)": SY27 Course Planning/GP2/Lesson Plans/Week 09/GP2 Q1 Checkpoint 1 (CP1).md
-      - Worksheets:
-        - SY27 Course Planning/GP2/Worksheets/index.md
-        - "Variables & Code Reading Check (Sub)": SY27 Course Planning/GP2/Worksheets/GP2 - Variables & Code Reading Check (Sub).md
-    - Quarter 2:
-      - Semester Map (Q1-Q2): SY27 Course Planning/GP2/GP2 Semester Map - SY27 Q1-Q2.md
-    - Extras:
-      - "GitHub Onboarding": SY27 Course Planning/GP2/GP2 GitHub Onboarding.md
-      - "GitHub & Classmoji Setup": SY27 Course Planning/GP2/GP2 GitHub & Classmoji Setup.md
-      - "Guided Notes - Intro to C++": SY27 Course Planning/GP2/Guided Notes - Intro to C++ (Slides 1-34).md
-      - "Unit 1 Practice Programs": SY27 Course Planning/GP2/Unit 1 Practice Programs (Slides 1-131).md
-  - Standards:
-    - Standards/index.md
-    - "CSTA Standards": Standards/CSTA Standards.md
-    - "ISTE Standards": Standards/ISTE Standards.md
-    - "ISBE CS Standards": Standards/ISBE Computer Science Standards.md
-    - "CCRS Mathematics": Standards/CCRS-MathematicsStandards.md
-    - "CCRS Reading": Standards/CCRS-ReadingStandards.md
+  - GP1: SY27 Course Planning/GP1
+  - GP2: SY27 Course Planning/GP2
+  - Standards: Standards
 
 plugins:
   - search

@@ -112,4 +112,4 @@ The following chunk was originally planned for this unit but did not receive a d
 
 ## Connections
 
-← [Unit 1 Planning](GP1 Unit 1 Planning.md) | [GP1 Q1 Calendar](GP1 Q1 Calendar.md) | [Scope & Sequence](Scope & Sequence - Game Programming 1 (GP1).md)
+← [Unit 1 Planning](GP1 Unit 1 Planning.md) | [GP1 Q1 Calendar](GP1 Q1 Calendar.md) | [Scope & Sequence](../Scope & Sequence - Game Programming 1 (GP1).md)

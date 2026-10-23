@@ -62,7 +62,7 @@ Demonstrate mastery of C++ variable declaration, assignment, data types, and syn
 
 | Item | Status | Link |
 |------|--------|------|
-| Variables & Code Reading Check (Google Form) | ✅ | [Form](https://docs.google.com/forms/d/1_y0qIYed27QoHsxppjrWhvqWop25Ev1e6T836y5twtY/edit) · Source: [[GP2 Worksheets/GP2 - Variables & Code Reading Check (Sub)]] |
+| Variables & Code Reading Check (Google Form) | ✅ | [Form](https://docs.google.com/forms/d/1_y0qIYed27QoHsxppjrWhvqWop25Ev1e6T836y5twtY/edit) · Source: [[GP2 - Variables & Code Reading Check (Sub)]] |
 | Answer key (sub only) | ✅ | In worksheet source, below the form questions |
 | Student notes from Days 5-9 | ✅ | Students have their own |
 
