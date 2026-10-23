@@ -39,8 +39,6 @@ Day 28 (B day, 72 min) - Videos 13 (Forward Movement, 7:12) and 14 (Basic Collis
 | 2 | Review | In Unreal, which direction is forward - X, Y, or Z? |
 | 3 | Preview | In Mario Kart, how does the game know you crossed the finish line? Guess what Unreal feature makes that possible. |
 
-*(Preview mirrors ET Q1 weaker form: "how does a game detect contact" before overlap events are named.)*
-
 **Worked example**
 
 Both videos are the worked example. Video 13: Add Force on Tick, Vel Change checkbox, forward X, force tuned 10→100, rotation locked on Z, obstacles placed for a fly-through. Video 14: Event Actor Begin Overlap on BP_Spaceship, Print String proof, Cast to BP Ring, Destroy Actor. The Mario Kart/Fortnite/Minecraft collision questions in V14's EdPuzzle are the genre bridge.
@@ -81,13 +79,11 @@ Add 2-3 obstacle cubes in front of the ring run, tune force, and get a clean fly
 
 ## Materials
 
-| Item | Status | Link |
-|------|--------|------|
-| EdPuzzle: Video 13 - Forward Movement | ✅ | [[SY27 Q1 - Video 13 - Forward Movement#SY27 EdPuzzle]] |
-| EdPuzzle: Video 14 - Basic Collision | ✅ | [[SY27 Q1 - Video 14 - Basic Collision#SY27 EdPuzzle]] - has a known weird edit around 06:29; flag to students before watching |
-| Daily slides 10.15 | ✅ | built from this file |
-
-## Notes after teaching
+| Item | Link |
+|------|------|
+| Video 13 - Forward Movement on EdPuzzle | assigned on Classroom (known edit oddity around 06:29 - flagged before watching) |
+| Video 14 - Basic Collision on EdPuzzle | assigned on Classroom |
+| Starter project repo | https://github.com/ChicagoTechAcademy/UE_Roll_a_Ball |
 
 ## Connections
 
