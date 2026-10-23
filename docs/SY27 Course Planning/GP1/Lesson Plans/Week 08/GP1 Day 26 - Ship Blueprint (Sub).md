@@ -15,11 +15,11 @@ sub: true
 
 # GP1 - Ship Blueprint (Day 26, Sub)
 
-Day 26 (A day, 48 min), Nick out (last-minute sub day). Main content is Video 11 (FAB Import & Ship Blueprint, ~14 min), posted to EdPuzzle 10/13. Students follow along in Unreal: import a ship from FAB and build the BP that will carry the ship game.
+Day 26 (A day, 48 min), sub day. Main content is Video 11 (FAB Import & Ship Blueprint, ~14 min), posted to EdPuzzle. Students follow along in Unreal: import a ship from FAB and build the BP that will carry the ship game.
 
-> **Sub coverage.** Nick is out. Students watch EdPuzzle Video 11 and follow along in Unreal. No worksheet today. No new teaching beyond the video. Stuck for more than five minutes? Rewind the video section.
+> **Sub coverage.** Students watch EdPuzzle Video 11 and follow along in Unreal. No worksheet today. No new teaching beyond the video. Stuck for more than five minutes? Rewind the video section.
 
-**No Do Now today:** the sub day was decided the morning of, so no Do Now slides were run. The EdPuzzle is the instruction and its embedded question (which ship did you choose?) is the check.
+The EdPuzzle is the instruction and its embedded question (which ship did you choose?) is the check.
 
 ## Learning Target
 
@@ -45,12 +45,9 @@ Today's evidence is the build itself, checked when Nick returns: BP_Spaceship ex
 
 ## Materials
 
-| Item | Status | Link |
-|------|--------|------|
-| EdPuzzle: Video 11 - FAB Import & Ship Blueprint | ✅ | posted to students 10/13; script + EdPuzzle in [[SY27 Q1 - Video 11 - FAB Import & Ship Blueprint#SY27 EdPuzzle]] (video: https://youtu.be/NLan28xxeRY) |
-| Daily slides | not run today | sub day, no Do Now |
-
-## Notes after teaching
+| Item | Link |
+|------|------|
+| Video 11 - FAB Import & Ship Blueprint on EdPuzzle | https://youtu.be/NLan28xxeRY (assigned on Classroom) |
 
 ## Connections
 
