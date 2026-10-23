@@ -39,8 +39,6 @@ Day 27 (A day, 48 min) - Video 12 (Blueprint Basics & Basic Input, 12:44). Compo
 | 2 | Review | A cube sits at 0, 0, 50. Write the location for a second cube of the same size sitting directly behind it. |
 | 3 | Preview | You rotate a ship 90 degrees around Z. Which is still true? (a) The world's up and down never change. (b) The ship's forward direction stays fixed. |
 
-*(Do Now re-aimed 10/14 mid-pass: the first pass retrieved the sub day (Q2) and Video 08's naming prefixes (already done in the Room); Nick's call was to pull from Videos 4-6 instead. Q1-Q2 retrieve V04 Transforms (cube-grid math from the coordinate challenges), Q3 previews V05's world-vs-local frame (the car/Shark-Dude rotation beat) which the day's video extends into class-vs-instance.)*
-
 **Worked example**
 
 The video IS the worked example: Nick walks component hierarchy with the Bob-and-shoes ownership analogy, demonstrates class vs instance by changing instance vs Blueprint materials, adds Simulate Physics, wires Space Bar → Add Impulse (Z=100 then 1000), and locks X/Y rotation so the ship bounces clean.
@@ -79,12 +77,10 @@ Experiment with their own impulse strength and camera angle for the feel they wa
 
 ## Materials
 
-| Item | Status | Link |
-|------|--------|------|
-| EdPuzzle: Video 12 - Blueprint Basics & Basic Input | ✅ | [[SY27 Q1 - Video 12 - Blueprint Basics & Basic Input#SY27 EdPuzzle]] |
-| Daily slides 10.14 | 🚧 | needs build from this file |
-
-## Notes after teaching
+| Item | Link |
+|------|------|
+| Video 12 - Blueprint Basics & Basic Input on EdPuzzle | assigned on Classroom |
+| Starter project repo | https://github.com/ChicagoTechAcademy/UE_Roll_a_Ball |
 
 ## Connections
 
