@@ -21,6 +21,7 @@ theme:
     - navigation.indexes
     - navigation.tabs
     - navigation.top
+    - navigation.footer
     - search.suggest
     - search.highlight
 
@@ -29,34 +30,11 @@ extra_css:
 extra_javascript:
   - javascripts/section-theme.js
 
-# Nav is intentionally NOT explicit: each course (and Standards) is a directory
-# reference, so the nav mirrors the docs folder structure and new folders/pages
-# under a course appear automatically. Internal planning pages are excluded below.
-# When reorganizing the docs tree, only this exclude list needs updating.
-exclude_docs: |
-  SY27 Course Planning/GP1/Bumped Topics.md
-  SY27 Course Planning/GP1/GP1 Sub Prep - Sept 2026.md
-  SY27 Course Planning/GP1/GP1 Task List State.md
-  SY27 Course Planning/GP1/Playlist details - YouTube Studio.md
-  SY27 Course Planning/GP1/Q3 & Q4 GP1 YouTube Playlist.md
-  SY27 Course Planning/GP1/Q1/GP1 Unit 1 Planning.md
-  SY27 Course Planning/GP1/Q1/GP1 Unit 2 Planning.md
-  SY27 Course Planning/GP1/Q1/GP1 Unit 3 Planning.md
-  SY27 Course Planning/GP2/Bumped Topics.md
-  SY27 Course Planning/GP2/GP2 Task List State.md
-  SY27 Course Planning/GP2/Q1/GP2 Unit 1 Planning.md
-  SY27 Course Planning/GP2/Q1/GP2 Unit 2 Planning.md
-  SY27 Course Planning/GP2/Q1/GP2 Unit 3 Planning.md
-  SY27 Course Planning/GP2/Q2/GP2 Unit 4 Planning.md
-  SY27 Course Planning/PBL Curriculum Design Reference.md
-  SY27 Course Planning/SY27 GP2 Planning.md
-  SY27 Course Planning/index.md
+docs_dir: .build/docs
+site_dir: .build/site
 
-nav:
-  - Home: index.md
-  - GP1: SY27 Course Planning/GP1
-  - GP2: SY27 Course Planning/GP2
-  - Standards: Standards
+# No nav: list on purpose. MkDocs builds the sidebar and tabs from the folders,
+# so a new or moved file shows up in the right place by itself.
 
 plugins:
   - search
