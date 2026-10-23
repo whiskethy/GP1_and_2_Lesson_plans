@@ -16,7 +16,7 @@ joke: What did the janitor say when he jumped out of the closet
 
 # GP1 - Catch-Up + Checkpoint Prep (Day 31)
 
-Day 31 (A day, 48 min) - re-planned 10/19. The week is catch-up and the Devlog Checkpoint moved from today to Day 32 (Thu 10/22), covering through Video 15 only (Video 16 optional). Today is the LAST working day before the recording: finish through Video 15 or as far as possible, verify the checklist items, fix what is broken. The school's Q1 grades-due date for teachers is Wed 10/21 on the old map; with the checkpoint on Thursday, Nick grades after Thursday's submissions instead (his window).
+Day 31 (A day, 48 min) - catch-up: the LAST working day before tomorrow's recording. Finish through Video 15 or as far as possible, verify the checklist items, fix what is broken.
 
 ## Shared Block
 
@@ -31,18 +31,10 @@ Day 31 (A day, 48 min) - re-planned 10/19. The week is catch-up and the Devlog C
 | Vocabulary | (carried; plus OBS) |
 | Prior-knowledge gaps | OBS itself: students have not used it this year; Nick's standing instructions get posted tonight so tomorrow is recording, not how-to. |
 
-**Do Now** (as actually run; original scrapped 10/21 before class)
+**Do Now**
 
 Log into Fab.com and get the Limited Time Free Assets
 Get started on your project - last full work day
-
-*(Scrapped 10/21: the three original questions referenced specific videos and days and lacked the context students needed on the board. Standing correction: Do Now questions are about the CONTENT of the videos, pulled from the videos' actual material, not from a day or a position in the playlist. Originals kept for the record, not used:)*
-
-| # | Type | Question |
-|---|---------|----------|
-| 1 | Review | How far did you get yesterday? Name the video you finished and the one thing it built. |
-| 2 | Review | What is the one Devlog checklist item you still cannot show working? Name where it breaks. |
-| 3 | Preview | Tomorrow you record with OBS. What does your recording need to SHOW to earn each point? |
 
 **Guided practice + 80% checkpoint**
 
@@ -60,7 +52,7 @@ Self-paced videos, then checklist verification against the list below. Early fin
 - Ring disappears when the ship overlaps it (Video 14)
 - Score ticks up when you score (Video 15)
 - Your Event Graph(s) visible (Videos 12-15; Add Points functions if you did Video 16, optional)
-- Your customizations (standing line: what you chose)
+- Your customizations (what you chose)
 
 ## Agenda
 
@@ -79,12 +71,9 @@ Self-paced videos, then checklist verification against the list below. Early fin
 
 ## Materials
 
-| Item | Status | Link |
-|------|--------|------|
-| OBS screen recording instructions | 🔎 | Nick posts to Classroom tonight for tomorrow |
-| Daily slides 10.21 | ✅ | Updated 10.21 (Do Now, answers, riddle, joke, agenda) - verified by read-back |
-
-## Notes after teaching
+| Item | Link |
+|------|------|
+| Starter project repo | https://github.com/ChicagoTechAcademy/UE_Roll_a_Ball |
 
 ## Connections
 
