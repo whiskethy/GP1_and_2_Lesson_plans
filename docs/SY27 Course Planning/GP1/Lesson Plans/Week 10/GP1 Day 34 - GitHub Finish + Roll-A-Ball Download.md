@@ -61,6 +61,8 @@ Day 34 (A day, 48 min) - GitHub wraps up and the real project lands: the class f
 2. If you cloned Roll-A-Ball: where does the folder live on your computer - name where you put it. If not: where did your test repo clone to?
 3. The Roll-A-Ball repo took minutes to download and the test repo took seconds. Why is a game project's folder so much bigger?
 
+**Exit ticket mastery criteria:** Q1: any named step counts; the spread is the Wednesday Do Now's real baseline. Q2: a real folder path counts, even partial ("Documents/Game Programming Work/Roll-A-Ball"); "in GitHub Desktop" doesn't count - that's the app, not the location. Q3: any size-based reasoning counts (assets, textures, maps, sounds are big files) - it preps the Content Browser's scale before Video 01.
+
 ## Differentiation & Accommodations
 
 - **Engagement:** the real project lands on their machine today, even for the slow lane's neighbors to see; the finishers' downloads are the room's visible momentum.

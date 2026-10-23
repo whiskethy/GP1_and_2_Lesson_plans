@@ -64,6 +64,8 @@ Video 01 is Day 35 (Wed 10/28, this file's successor); chunk numbering for the v
 2. What did you have working by end of class: account, clone, secret phrase typed, commit, or push? Name the last step you finished.
 3. What's one thing you expect GitHub Desktop to be useful for once the project starts (guessing from the slides is fine)?
 
+**Exit ticket mastery criteria:** Q1: push is the one that leaves the machine; commit is local. If both land reversed, they misnamed it and need re-teach tomorrow, not a wrong answer. Q2: any named step counts; the last-step question builds the Tuesday Do Now's honest baseline. Q3: any plausible workflow use - version history, undo, backup, sharing - counts; "I don't know" gets a second look at the slides tomorrow.
+
 ## Differentiation & Accommodations
 
 - **Engagement:** the exemplar carries the pitch; the GitHub assignment is small enough to finish in one sitting, so the first win is today, not "you'll see why."

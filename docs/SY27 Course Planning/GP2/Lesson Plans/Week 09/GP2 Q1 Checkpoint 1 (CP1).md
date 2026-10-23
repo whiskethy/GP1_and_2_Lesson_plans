@@ -19,6 +19,13 @@ joke: What do you call a fly with a sore throat
 
 Day 32 (C day, 72 min), STUB - final content pass pending. Q1 final checkpoint, in-project: date-based, not pacing-based. Students submit Friday whatever tier of evidence they have actually finished; nothing still in flight is penalized. Working builds, committed code, demos. No standalone quiz.
 
+**Date note:** End of Q1, grading inside the quarter's real deadline - so CP1 is designed to grade in minutes: every tier below is presence-based, by design.
+
+- Each tier is one screenshot present or absent; zero code reading to score.
+- One Classroom assignment, six evidence items, count-and-type; no rubric paragraphs, no open-ended judgment.
+- The only judgment call anywhere is the non-magenta color, which is a glance.
+- If a student's screenshot is ambiguous, the commit history settles it in minutes.
+
 ## Checkpoint evidence (tiered)
 
 Tier the rubric by the video that teaches the skill; core tiers are attemptable with only Videos 01-04. Every tier is a small checkable evidence spec keyed to that block's build. Full credit for each submitted tier; missing tiers are visible, not penalized.
@@ -37,9 +44,13 @@ Submission: screenshots (and captures) to the Google Classroom assignment "GP2: 
 
 **Turn-in timing:** Thursday 10/22 has no GP2 class - students turn in whatever they have for Video 06 on Classroom by Thursday EOD, and the checkpoint itself runs Friday 10/23 in class collecting the remaining tiers.
 
+## Mid-build circulation checkpoint
+
+At ~0:35 circulate with the core-tier checklist (compile, debug print, loop). Anyone under the bar gets two minutes of side-by-side help. This doubles as the diagnostic pass; next quarter's pacing reads the tier spread, not just the EdPuzzle dashboard.
+
 ## Do Now
 
-Retrieval warm-up naming what each core tier proves (question text pending the flesh-out pass).
+Retrieval warm-up naming what each core tier proves.
 
 ## Reflection questions
 

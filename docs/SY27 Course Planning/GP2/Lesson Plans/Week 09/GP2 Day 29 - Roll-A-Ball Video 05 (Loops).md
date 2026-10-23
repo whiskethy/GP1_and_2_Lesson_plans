@@ -66,6 +66,10 @@ Finish both loops, then the challenge, as displayed on screen in the video: a lo
 4. Friday's seeded file decremented health once per frame without a loop. In one sentence: what did today's video add that Tick already did for free, and why would a programmer still write loops on purpose?
 5. Predict-then-run: your while loop prints Health: 2, 1, 0 and stops. Your partner predicted four prints. In one sentence, explain to them why the third print never happened.
 
+**Exit ticket mastery criteria (for the ones used):** Q1: for loop; the blank is `<=` only if counting INCLUSIVE to 7 starting at 1 (runs 1-7), or `<` if starting at 0 (runs 0-6); the reasoning matters more than the operator choice: start, check against the target, increment. Q2: infinite loop, the screen floods/never stops; the question is "what moves the condition toward false?" (the change, not the check). Q3: three times, i equals 0, 1, 2 (never 3). Q4: Tick was already repetition riding the engine; loops are the ON-PURPOSE version a programmer controls, and not everything happens per-frame. Q5: by the third pass Health is 0, the check `Health > 0` fails BEFORE the next print, so no fourth line prints (prints happen after the change).
+
+**~80% checkpoint:** Screen check at the off-by-one beat. 9 of 11 can say why `i < 5` is five runs and show the corrected run.
+
 ## Agenda
 
 1. Do Now review (5 min)

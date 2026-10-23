@@ -63,6 +63,8 @@ Screenshot the assembled ball for CP1's ball-pawn tier and submit to the CP1 Cla
 4. If you reached Video 07 today: where do you change RollSpeed's value without recompiling, and what line makes that possible? If you did not: name the four components your pawn class assembles.
 5. You change a number in the constructor, recompile, and the ball is bigger. In GP1 you would have dragged a scale. In one sentence: what did the engine do with your changed C++ line, and when?
 
+**Exit ticket mastery criteria (for the ones used):** Q1: runs when the object is created (each ball gets built, not once at Play), and has collision, mesh, spring arm, camera assembled. Q2: any grounded answer (one class makes many balls with different values, changing the class updates every ball, version control can see the change, designers tune without recompiling after V07); rough is fine. Q3: static mesh puts the body on screen, and collision sphere, spring arm, or camera are the other needs.
+
 ## Agenda
 
 1. Do Now review (5 min)

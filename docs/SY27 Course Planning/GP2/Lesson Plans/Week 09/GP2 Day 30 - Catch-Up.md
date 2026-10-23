@@ -61,6 +61,8 @@ The V05 challenge (as posted on Classroom with the video): a loop that counts do
 2. If your while loop never stopping is on tomorrow's screen, what one kind of line is missing?
 3. One sentence for the constructor preview: what does building the ball in code buy us that building it in the editor does not?
 
+**Exit ticket mastery criteria:** Q1: position named honestly, video number - presence standard, not polish. Q2: the line that CHANGES the condition's value (Health -= 1), not the check line. Q3: any grounded answer (rebuild the pawn by changing a class, version control can see it, one class many balls) - "I don't know" doesn't count, and this is a preview, so rough is fine.
+
 ## Materials
 
 | Item | Link |

@@ -59,7 +59,7 @@ Two tunables live in the Details panel with at least one value CHANGED and verif
 
 **Exit ticket**
 
-None separately - the meeting's exit ticket lives on the V06 file and carries one two-path question (Q4) so students who reached V07 answer the tuning line: where do you change RollSpeed without recompiling, and what line makes that possible.
+None separately - the meeting's exit ticket lives on the V06 file and carries one two-path question (Q4) so students who reached V07 answer the tuning line: where do you change RollSpeed without recompiling, and what line makes that possible. Mastery: the Details panel and UPROPERTY(EditAnywhere) (the macro, not the include), and no error appears when the macro is missing - that silence is the trap.
 
 ## Materials
 

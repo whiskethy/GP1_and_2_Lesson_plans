@@ -66,12 +66,16 @@ Day 32 (B day, 72 min) - Q1 Devlog Checkpoint. OBS screen recording of the ship 
 5. Submit recording + reflection questions on Classroom (7-10 min, runs into the bell if needed)
 6. Exit ticket (5 min)
 
+**~80% checkpoint (mid-build, replaces the standard one):** by 25 minutes in, every student has either a recording in progress or, if stuck, is paired with a working neighbor. Nobody is recording an empty checklist - if the pre-flight said "broken," they're in the fix buffer first.
+
 ## Exit ticket
 
 1. Which checklist item were you proudest to show, and why? (This is the "what did you customize" line asked as reflection.)
 2. In the recording, what is your game's STORY - what's the player trying to do, and how does the score tell them they did it?
 3. What would you add or fix next if the quarter didn't end (one specific item)?
 4. (If you made a GitHub account today:) did the verification email go through, and what username did you pick?
+
+**Exit ticket mastery criteria:** Q1: names a specific item (a mechanic, a build detail, a visual choice) with a real reason. Q2: goal stated as fly-through-the-rings, score ticking as the progress signal, either phrased by the student or echoed from the checklist - real wording counts more than formal language. Q3: an actual item (a mechanic, a game-feel change, a UI idea) - "nothing" or "I don't know" doesn't count, and "add more rings" only counts if they say what would be different. Q4: yes with the username or another verifiable marker (verification email screenshot, profile screenshot) counts - proof, not the string.
 
 ## Differentiation & Accommodations
 
