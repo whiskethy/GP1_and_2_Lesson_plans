@@ -15,11 +15,11 @@ sub: true
 
 # GP2 Day 26 - Roll-A-Ball Video 03 (Debug Statements)
 
-Day 26 (A day, 48 min), Nick out (last-minute sub day). Main content is Video 03: Debug Statements (~17:31 runtime), posted to EdPuzzle 10/13. The challenge assignment was posted to Google Classroom the same morning.
+Day 26 (A day, 48 min), sub day. Main content is Video 03: Debug Statements (~17:31 runtime), posted to EdPuzzle. The challenge assignment is on Google Classroom.
 
-> **Sub coverage.** Nick is out. Students watch EdPuzzle Video 03 and complete the challenge submission. EdPuzzle carries all instruction; the sub does not need content knowledge. Stuck for more than five minutes? Rewind the video section. Still stuck: close the editor and rebuild from Visual Studio (the full-compile rule the video itself teaches).
+> **Sub coverage.** Students watch EdPuzzle Video 03 and complete the challenge submission. EdPuzzle carries all instruction; the sub does not need content knowledge. Stuck for more than five minutes? Rewind the video section. Still stuck: close the editor and rebuild from Visual Studio (the full-compile rule the video itself teaches).
 
-**No Do Now today:** the sub day was decided the morning of, so no Do Now slides were run. The EdPuzzle is the instruction and its embedded questions are the checks.
+The EdPuzzle is the instruction and its embedded questions are the checks.
 
 ## Learning Target
 
@@ -44,14 +44,11 @@ The challenge submission on Classroom is today's evidence: screenshot showing bo
 
 ## Materials
 
-| Item | Status | Link |
-|------|--------|------|
-| EdPuzzle: Video 03 - Debug Statements | ✅ | posted to students 10/13; final 20-item set (11 OE, 7 MC, 2 NOTE) in [[SY27 Q1 - Video 03 - Debug Statements#SY27 EdPuzzle]] |
-| Classroom assignment: Video 03 challenge submission | ✅ | posted by Nick 10/13 |
-| Starter project repo | ✅ | https://github.com/ChicagoTechAcademy/UE_Roll_a_Ball |
-| Daily slides | not run today | sub day, no Do Now |
-
-## Notes after teaching
+| Item | Link |
+|------|------|
+| Video 03 on EdPuzzle | assigned on Classroom |
+| Classroom assignment: Video 03 challenge submission | on Classroom |
+| Starter project repo | https://github.com/ChicagoTechAcademy/UE_Roll_a_Ball |
 
 ## Connections
 
