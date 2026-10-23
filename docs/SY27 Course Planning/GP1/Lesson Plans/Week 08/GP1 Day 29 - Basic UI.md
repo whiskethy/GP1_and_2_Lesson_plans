@@ -37,9 +37,7 @@ Day 29 (A day, 48 min) - Video 15 (Basic UI, 16:19, the longest ride remaining).
 |---|---------|----------|
 | 1 | Review | When your ship overlaps a ring, which event fires first - and what node did we use to check WHAT was hit? |
 | 2 | Review | What does Destroy Actor do in the ring's story, and would the game feel finished if the ring just vanished with no points? |
-| 3 | Preview | When you collect a coin in Fortnite, where does the number 1 for your score actually LIVE - on screen, or somewhere else? | 
-
-*(Preview mirrors ET Q1 weaker form: "where does the score live" before the data-path answer is taught.)*
+| 3 | Preview | When you collect a coin in Fortnite, where does the number 1 for your score actually LIVE - on screen, or somewhere else? |
 
 **Worked example**
 
@@ -64,10 +62,9 @@ Move the overlap logic's wiring so the score increments - then make it THEIRS: c
 ## Agenda
 
 1. Do Now review (5 min)
-2. Self-paced catch-up for the period: most students pushed Videos 12-13; a few reached Video 15 (Basic UI)
-3. Exit ticket: only for students at Video 15; the class was not there as a group
-
-*Notes after teaching: only a few students reached Video 15 - most are still on 12-13, so the score data path is in place for the few who got there, not the class. Video 16 is now optional. Rest of the week is catch-up (Tue 10/20, Wed 10/21); the Thursday 10/22 checkpoint covers through Video 15 only. The checkpoint needs a grading rubric in spreadsheet form (Nick provides the template) for easy Google Classroom upload - todo added, due 10/22.*
+2. Video 15 on EdPuzzle: Player Controller score variable, HUD widget, the update chain, wired from the overlap (rest of period, self-paced with triage)
+3. Guided follow-along for anyone mid-video: the overlap → Update Score → HUD chain (parallel, circulating)
+4. Exit ticket (5 min)
 
 ## Differentiation & Accommodations
 
@@ -79,12 +76,10 @@ Move the overlap logic's wiring so the score increments - then make it THEIRS: c
 
 ## Materials
 
-| Item | Status | Link |
-|------|--------|------|
-| EdPuzzle: Video 15 - Basic UI | ✅ | [[SY27 Q1 - Video 15 - Basic UI#SY27 EdPuzzle]] |
-| Daily slides 10.19 | ✅ | GP1 Daily Slides deck, updated 10/19, verified by read-back (Do Now, answers, agenda; riddle/joke already marked used) |
-
-## Notes after teaching
+| Item | Link |
+|------|------|
+| Video 15 - Basic UI on EdPuzzle | assigned on Classroom |
+| Starter project repo | https://github.com/ChicagoTechAcademy/UE_Roll_a_Ball |
 
 ## Connections
 
