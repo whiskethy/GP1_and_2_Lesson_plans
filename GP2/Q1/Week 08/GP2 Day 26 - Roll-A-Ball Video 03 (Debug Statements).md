@@ -47,3 +47,8 @@ The challenge submission on Classroom is today's evidence: screenshot showing bo
 | Video 03 on EdPuzzle | https://youtu.be/0WIIEbWlAtY / https://edpuzzle.com/media/6ace48813ad3e421dd5b8383 |
 | Classroom assignment: Video 03 challenge submission | Google Classroom |
 | Starter project repo | https://github.com/ChicagoTechAcademy/UE_Roll_a_Ball |
+### EdPuzzle embeds
+
+**Video 03**
+
+<iframe width="470" height="404" src="https://edpuzzle.com/embed/media/6ace48813ad3e421dd5b8383" frameborder="0" allowfullscreen></iframe>

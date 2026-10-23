@@ -73,3 +73,8 @@ One new pattern, in five steps:
 | Video 06 on EdPuzzle | https://youtu.be/gIZlb88oG_4 / https://edpuzzle.com/media/6ad8e46c5160cdff8d72b378 |
 | Starter project repo | https://github.com/ChicagoTechAcademy/UE_Roll_a_Ball |
 | Evidence submission | Google Classroom post (Video 06 screenshot + Content Drawer screenshot) |
+### EdPuzzle embeds
+
+**Video 06**
+
+<iframe width="470" height="404" src="https://edpuzzle.com/embed/media/6ad8e46c5160cdff8d72b378" frameborder="0" allowfullscreen></iframe>

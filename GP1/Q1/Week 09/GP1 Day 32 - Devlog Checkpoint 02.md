@@ -90,3 +90,8 @@ Day 32 (B day, 72 min) - Q1 Devlog Checkpoint. OBS screen recording of the ship 
 | OBS screen recording instructions | https://edpuzzle.com/media/68af7ef6583ac51a7cc699e5 |
 | GitHub sign-up instructions | https://docs.google.com/document/d/128ULu5-Sf2ca8uLmMYN-I_p4iyK-graOKRYSqsq6LkQ |
 | GitHub & version control slides | https://docs.google.com/presentation/d/1ifgGbWu9S_Ka6bKcw_49qfNOQaW6GeVJL6qWZw00ZzY/edit (Day 32 + 33) |
+### EdPuzzle embeds
+
+**OBS screen recording instructions**
+
+<iframe width="470" height="404" src="https://edpuzzle.com/embed/media/68af7ef6583ac51a7cc699e5" frameborder="0" allowfullscreen></iframe>

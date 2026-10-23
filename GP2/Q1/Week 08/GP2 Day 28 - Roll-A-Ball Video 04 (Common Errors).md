@@ -91,3 +91,8 @@ Finish the seeded file if the follow-along outpaced them. Submit: screenshot of 
 |------|------|
 | Video 04 on EdPuzzle | https://youtu.be/flvRV0FsK60 / https://edpuzzle.com/media/6ad23a5b906a50079d62e444 (seeded error file also in the video description) |
 | Starter project repo | https://github.com/ChicagoTechAcademy/UE_Roll_a_Ball |
+### EdPuzzle embeds
+
+**Video 04**
+
+<iframe width="470" height="404" src="https://edpuzzle.com/embed/media/6ad23a5b906a50079d62e444" frameborder="0" allowfullscreen></iframe>

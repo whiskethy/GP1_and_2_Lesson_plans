@@ -58,3 +58,8 @@ Open Visual Studio for the first time and set it up: a theme, extensions, and a 
 |------|------|
 | VS Setup Instructions | [Drive](https://docs.google.com/document/d/1kMzXqVrknGaWsVaD-Th64S3MrjeHjtH-U1kvFPwSi_8/edit) |
 | EdPuzzle: VS Setup Walkthrough | [EdPuzzle](https://edpuzzle.com/media/66df07642911f28b0f4536e9) |
+### EdPuzzle embeds
+
+**VS Setup Walkthrough**
+
+<iframe width="470" height="404" src="https://edpuzzle.com/embed/media/66df07642911f28b0f4536e9" frameborder="0" allowfullscreen></iframe>

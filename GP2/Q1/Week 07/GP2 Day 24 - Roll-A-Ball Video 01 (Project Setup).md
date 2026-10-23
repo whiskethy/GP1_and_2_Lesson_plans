@@ -91,3 +91,12 @@ Verify the class in the editor, commit and push the new Source folder via GitHub
 | Video 01 on EdPuzzle | https://youtu.be/bh6Xik_Ib2o / https://edpuzzle.com/media/6ac66fd1d3e1f776bdf0f1cc |
 | Video 02 on EdPuzzle (early finishers) | https://youtu.be/jWPaEK7wPvU / https://edpuzzle.com/media/6ac8f7fa09dcc07636842dba |
 | Written clone instructions (Classroom post) | [[GP2 - Roll-A-Ball Clone Instructions]] |
+### EdPuzzle embeds
+
+**Video 01**
+
+<iframe width="470" height="404" src="https://edpuzzle.com/embed/media/6ac66fd1d3e1f776bdf0f1cc" frameborder="0" allowfullscreen></iframe>
+
+**Video 02 (early finishers)**
+
+<iframe width="470" height="404" src="https://edpuzzle.com/embed/media/6ac8f7fa09dcc07636842dba" frameborder="0" allowfullscreen></iframe>

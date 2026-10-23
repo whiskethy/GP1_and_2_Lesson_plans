@@ -68,3 +68,12 @@ The V05 challenge (as posted on Classroom with the video): a loop that counts do
 | Video 04 on EdPuzzle | https://youtu.be/flvRV0FsK60 / https://edpuzzle.com/media/6ad23a5b906a50079d62e444 |
 | Video 05 on EdPuzzle | https://youtu.be/5u-mal8ndlI / https://edpuzzle.com/media/6ad6403a321a1fd4bef3d45e |
 | Starter project repo | https://github.com/ChicagoTechAcademy/UE_Roll_a_Ball |
+### EdPuzzle embeds
+
+**Video 04**
+
+<iframe width="470" height="404" src="https://edpuzzle.com/embed/media/6ad23a5b906a50079d62e444" frameborder="0" allowfullscreen></iframe>
+
+**Video 05**
+
+<iframe width="470" height="404" src="https://edpuzzle.com/embed/media/6ad6403a321a1fd4bef3d45e" frameborder="0" allowfullscreen></iframe>

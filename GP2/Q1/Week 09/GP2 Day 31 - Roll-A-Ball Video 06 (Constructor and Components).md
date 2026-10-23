@@ -81,3 +81,8 @@ Screenshot the assembled ball and submit it on Classroom by Thursday EOD. Then r
 | Video 06 paste block (handout) | https://docs.google.com/document/d/1anZx_hRGCtSyGGFD9kgk686Ytg6wi1bRdzCvyzSkGl8 (identical block also in the YouTube description) |
 | Video 07 roll-ahead (same block) | [[GP2 Day 31 - Roll-A-Ball Video 07 (UPROPERTY and Tuning)]] |
 | Starter project repo | https://github.com/ChicagoTechAcademy/UE_Roll_a_Ball |
+### EdPuzzle embeds
+
+**Video 06**
+
+<iframe width="470" height="404" src="https://edpuzzle.com/embed/media/6ad8e46c5160cdff8d72b378" frameborder="0" allowfullscreen></iframe>

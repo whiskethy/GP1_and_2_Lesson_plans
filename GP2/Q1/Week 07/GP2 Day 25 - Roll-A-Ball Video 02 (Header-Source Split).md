@@ -91,3 +91,12 @@ Paste the debug statement (in the video on EdPuzzle, in the YouTube description)
 | Video 02 on EdPuzzle (paste block in the YouTube description) | https://youtu.be/jWPaEK7wPvU / https://edpuzzle.com/media/6ac8f7fa09dcc07636842dba |
 | Video 03 on EdPuzzle (early finishers) | https://youtu.be/0WIIEbWlAtY / https://edpuzzle.com/media/6ace48813ad3e421dd5b8383 |
 | FAB.com limited-time free assets | https://www.fab.com |
+### EdPuzzle embeds
+
+**Video 02**
+
+<iframe width="470" height="404" src="https://edpuzzle.com/embed/media/6ac8f7fa09dcc07636842dba" frameborder="0" allowfullscreen></iframe>
+
+**Video 03 (early finishers)**
+
+<iframe width="470" height="404" src="https://edpuzzle.com/embed/media/6ace48813ad3e421dd5b8383" frameborder="0" allowfullscreen></iframe>
