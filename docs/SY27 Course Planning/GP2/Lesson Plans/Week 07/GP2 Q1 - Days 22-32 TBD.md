@@ -25,10 +25,10 @@ The original plan (Units 2-4 as separate marches: stub Actor unit, pointers unit
 
 | Day | Date | Type | Topic |
 |-----|------|------|-------|
-| 22 | Mon 10/5 | A | Unit 1 Wrap Kahoot → [[GP2 - Unit 1 Wrap Kahoot (Day 22)]] |
-| 23 | Tue 10/6 | A | Unit 1 Checkpoint Quiz + Amnesty → [[GP2 - Unit 1 Checkpoint Quiz & Amnesty]] |
-| 24 | Wed 10/7 | A | Roll-A-Ball Video 01: Project Setup → [[GP2 - Roll-A-Ball Video 01 (Project Setup)]] |
-| 25 | Fri 10/9 | C | Roll-A-Ball Video 02: Header-Source Split → [[GP2 - Roll-A-Ball Video 02 (Header-Source Split)]] |
+| 22 | Mon 10/5 | A | Unit 1 Wrap Kahoot → [[GP2 Day 22 - Unit 1 Wrap Kahoot]] |
+| 23 | Tue 10/6 | A | Unit 1 Checkpoint Quiz + Amnesty → [[GP2 Day 23 - Unit 1 Checkpoint Quiz & Amnesty]] |
+| 24 | Wed 10/7 | A | Roll-A-Ball Video 01: Project Setup → [[GP2 Day 24 - Roll-A-Ball Video 01 (Project Setup)]] |
+| 25 | Fri 10/9 | C | Roll-A-Ball Video 02: Header-Source Split → [[GP2 Day 25 - Roll-A-Ball Video 02 (Header-Source Split)]] |
 
 ## Video-driven pacing (Nick, 10/5)
 
@@ -56,12 +56,12 @@ Pacing is dictated by videos, not by the days themselves. Usually one video per 
 
 ## Days 26+ (week of 10/12 onward)
 
-- **Day 26, Tue 10/13 (sub day):** Video 03 Debug Statements, posted to EdPuzzle 10/13 with the challenge submission on Classroom. Day file: [[GP2 - Roll-A-Ball Video 03 (Debug Statements)]]. Nick out, last minute.
-- **Day 27, Wed 10/14:** Video 03 completion (shift applied 10/14 - only 1 student finished on the sub day) → [[GP2 - Roll-A-Ball Video 03 Completion]]
-- **Day 28, Fri 10/16 (C day):** Video 04 Common Errors + V05 slide-lecture preview → [[GP2 - Roll-A-Ball Video 04 (Common Errors)]]. Shifted from Day 27.
-- **Day 29, Mon 10/19:** Video 05 Loops → [[GP2 - Roll-A-Ball Video 05 (Loops)]]. Shifted from Day 28; absorbs the S&S's standalone loops-practice chunk.
-- **Day 30, Tue 10/20:** Video 06 Constructor and Components → [[GP2 - Roll-A-Ball Video 06 (Constructor and Components)]]. Shifted from Day 29; the old Components Practice day was absorbed (its break-and-fix work rides this day's independent block).
-- **Day 31, Wed 10/21:** Video 07 UPROPERTY and Tuning → [[GP2 - Roll-A-Ball Video 07 (UPROPERTY and Tuning)]]. Q1 grades due for teachers today; Nick collects for the school and extends his own window to Fri 10/23, so CP1 grades inside the quarter (see the CP1 day file's grade-in-minutes condition).
+- **Day 26, Tue 10/13 (sub day):** Video 03 Debug Statements, posted to EdPuzzle 10/13 with the challenge submission on Classroom. Day file: [[GP2 Day 26 - Roll-A-Ball Video 03 (Debug Statements)]]. Nick out, last minute.
+- **Day 27, Wed 10/14:** Video 03 completion (shift applied 10/14 - only 1 student finished on the sub day) → [[GP2 Day 27 - Roll-A-Ball Video 03 Completion]]
+- **Day 28, Fri 10/16 (C day):** Video 04 Common Errors + V05 slide-lecture preview → [[GP2 Day 28 - Roll-A-Ball Video 04 (Common Errors)]]. Shifted from Day 27.
+- **Day 29, Mon 10/19:** Video 05 Loops → [[GP2 Day 29 - Roll-A-Ball Video 05 (Loops)]]. Shifted from Day 28; absorbs the S&S's standalone loops-practice chunk.
+- **Day 30, Tue 10/20:** Catch-up, all-video (remap 10/19: only 6 of 11 finished Video 04, so Mon 10/19's V06 slot went self-paced too) → [[GP2 Day 30 - Catch-Up]]. V04 stragglers, then V05 Loops self-paced.
+- **Day 31, Wed 10/21:** Video 06 Constructor and Components, live focus → [[GP2 Day 31 - Roll-A-Ball Video 06 (Constructor and Components)]], then students roll into Video 07 self-paced in the same block (restored 10/19 evening) → [[GP2 Day 31 - Roll-A-Ball Video 07 (UPROPERTY and Tuning)]]. V07 recorded 10/20, no BallScale segment. Q1 grades due for teachers today; Nick collects for the school and extends his own window to Fri 10/23, so CP1 grades inside the quarter (see the CP1 day file's grade-in-minutes condition). V06's challenge moved to V07's Details screenshot; break-and-fix retired from the unit on the take's call.
 - **Day 32, Fri 10/23 (C day, End of Q1):** Checkpoint 1 → [[GP2 Q1 Checkpoint 1 (CP1)]]
 - Day 33 does not exist in Q1: the 10/5 plan's day numbers ran one ahead once the 10/12 holiday landed. Q2 opens Mon 10/26 (Day 33, GP2 numbering continues).
 - Riddle/joke used through Day 32, all matching GP1's same-numbered days (listed above). GP2 Days 33+ need fresh unused pairs from Riddles.md / Dumb Jokes.md.
@@ -80,4 +80,4 @@ Logged 10/2, not yet scheduled. Work through these when re-pacing GP2 for the we
 
 ## Connections
 
-← [[GP2 Q1 Day 20 - Conditionals Practice (Sub)]] | [[GP2 Q1 Calendar]] | (End of Q1) →
+← [[GP2 Day 20 - Conditionals Practice (Sub)]] | [[GP2 Q1 Calendar]] | (End of Q1) →

@@ -3,6 +3,7 @@ status: active
 project: classes
 type: plan
 created: 2026-10-15
+updated: 2026-10-22
 ---
 
 # GP1 Semester Map - SY27 Q2
@@ -19,7 +20,7 @@ Verified 10/15 against [[SY27 Days of School]] (verified: 25 pre-break + 10 post
 
 | Week | Dates | Meetings | Day 33.. | Content |
 |---|---|---|---|---|
-| W10 | 10/26 to 10/29 | 4 | 33-36 | 33 launch + GitHub assignment start, 34 finish GitHub + starter project, 35 V01, 36 V02 (B day) |
+| W10 | 10/26 to 10/29 | 4 | 33-36 | 33 launch + GitHub assignment start, 34 finish GitHub (all Mon + part of Tue per Nick 10/22); GitHub finishers accept + clone Roll-A-Ball - no V01 start, V01 lands Day 35, 36 V02 (B day) |
 | W11 | 11/4 to 11/5 | 2 | 37-38 | 37 V03, 38 V04 (B day). Only 2 meetings (RCPU 11/2 + Election Day 11/3): no checkpoint in this week, zero slack |
 | W12 | 11/9 to 11/12 | 4 | 39-42 | 39 V05, 40 CP1, 41 V06, 42 V07 (B day) |
 | W13 | 11/16 to 11/19 | 4 | 43-46 | 43 V08, 44 V09, 45 CP2, 46 V10 (B day) |
@@ -93,10 +94,12 @@ Checkpoint rhythm: one every 5 meetings pre-break (CP1 at meeting 8 of the run, 
 
 ## Open Items
 
-- [ ] PINNED (per Nick, 10/15): Classmoji/Classroom 50 setup for GP1 - no GP1 classroom exists yet (only `gp2-sy27` is live). Needs Nick's setup pass before Day 33.
-- [ ] PINNED: Roll-A-Ball starter project repo + accept link. Not built. Needs Nick's create pass before Day 34 (Tue 10/27).
-- [ ] PINNED: GitHub test assignment repo + accept link. Not built. Needs Nick's create pass before Day 33 (Mon 10/26).
-- [ ] PINNED: GitHub slides - Nick's existing deck exists; Drive link TBD.
+- [ ] Classmoji setup for GP1 - DONE 10/22 (log): classroom `ChicagoTechAcademy/gp1-sy27` is live, Nick OWNER (verified via MCP). Classroom 50 stays unused (per Classmoji standing direction, and it's filter-blocked anyway). No students have Classmoji accounts yet - Nick added the full roster in the web UI on 10/22, but entries show "no account" (MCP `get_roster` returns 0 for no-account roster rows, verified 10/22; UI-vs-API gap, do not treat 0 as missing roster). Students sign up at app.classmoji.io with school email and join via the link posted on Google Classroom (GP2 onboarding pattern).
+- [ ] Roll-A-Ball accept link - BUILT 10/22 as a hidden draft: Classmoji repo "Roll-A-Ball" (template Unreal_Roll_a_Ball_Starter) + module "Roll-A-Ball" + assignment "Roll-A-Ball" (clone-only, REPO mode, weight 100, no deadline), mirroring GP2's Roll-A-Ball repo shape. Verified: repo, assignment, and module all is_published false; nothing provisioned. Go-live timing moved up (pacing call): publish all three layers before Tue 10/27 so GitHub finishers can accept + clone during Day 34. Awaiting Nick's go word.
+- [x] GitHub test assignment repo + accept link - LIVE 10/22 with all three layers published (read-back verified: repo is_published true from Nick's pass, module true, assignment true - new assignment id 5a13f7fe after recreate, 0 submissions existed so the delete cascade was a no-op). MCP has no assignment publish toggle, so the flip was delete + recreate with is_published true, plus module_publish. Visible to students once they have accounts + the join link; students who accept get `github-test-<username>` repos. The README's step 3 says "the secret phrase written on the board"; edit the template if the phrase should live in the file instead.
+- [x] GitHub slides - Nick's existing deck, link recorded 10/22: [GitHub & Version Control deck](https://docs.google.com/presentation/d/1ifgGbWu9S_Ka6bKcw_49qfNOQaW6GeVJL6qWZw00ZzY/edit). Slides run Day 32 (today), Day 33 (Mon), possibly Day 34 (Tue) - see the pacing open item below.
+- [x] Pacing decision (Nick, 10/22): GitHub + version control takes ALL of Day 33 (Mon 10/26) and part of Day 34 (Tue 10/27). Students who finish the GitHub test assignment start downloading Roll-A-Ball on Day 34 (accept + clone). Video 01 is Day 35 (Wed 10/28) for everyone - same as the locked video order, so the map's math holds: 2 setup days + 16 video days. Roll-A-Ball accept link go-live moved up: publish the hidden draft before Day 34.
+- [ ] Roll-A-Ball EdPuzzle playlist posted to Classroom Day 34 (Tue 10/27): https://edpuzzle.com/playlist/692f66df455e17e25e872f54 (all 16 videos, questions inside). Draft post body: [[GP1 - Roll-A-Ball Playlist Post (Classroom, Day 34)]].
 - [ ] Decide post-project content for Days 65-67 (3 meetings reserved) - Nick's call, plan when W18 runs.
 - [ ] Written conversions stay unscheduled by design (Nick, 10/15); revisit once the video run's real pace is known, probably at the CP2 gate.
 - [ ] Riddle/joke pairs for Days 33-67: not picked; per-day at daily-prep time.
@@ -106,4 +109,4 @@ Checkpoint rhythm: one every 5 meetings pre-break (CP1 at meeting 8 of the run, 
 
 ## Connections
 
-[[SY27 Q2 - GP1 Roll-A-Ball Blueprint Videos]] | [[Scope & Sequence - Game Programming 1 (GP1)]] | [[GP1 Q1 Calendar]] | [[GP1 - Q2 Launch + GitHub Setup]] | [[GP1 - GitHub Assignment Finish + V01 Start]]
+[[SY27 Q2 - GP1 Roll-A-Ball Blueprint Videos]] | [[Scope & Sequence - Game Programming 1 (GP1)]] | [[GP1 Q1 Calendar]] | [[GP1 Day 33 - Q2 Launch + GitHub Setup]] | [[GP1 Day 34 - GitHub Finish + Roll-A-Ball Download]]

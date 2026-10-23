@@ -45,4 +45,4 @@ Stuck on a step for more than 5 minutes? Raise your hand. Don't sit quiet throug
 - Assignment deadline: none. Created 10/6 with no deadline; students click the assignment and their repo is already provisioned.
 - Student repos: `roll-a-ball-<github-username>` in the ChicagoTechAcademy org (e.g. `roll-a-ball-Dani2T`), same pattern as `variables-practice-<username>`. All 11 provisioned 10/6 and verified against the roster; nobody missing.
 - Created via Classmoji MCP 10/6: repo Roll-A-Ball (published), module Roll-A-Ball (published), one assignment "Clone the starter project" (published, no deadline, no autograde tests). Students reach it at app.classmoji.io → GP2 SY27 → Modules → Roll-A-Ball (or the Repositories page).
-- The vault day file: [[GP2 - Roll-A-Ball Video 01 (Project Setup)]].
+- The vault day file: [[GP2 Day 24 - Roll-A-Ball Video 01 (Project Setup)]].

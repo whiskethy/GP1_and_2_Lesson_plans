@@ -11,7 +11,7 @@ updated: 2026-09-23
 
 Nick is out Fri 9/25 through Wed 9/30, returning Fri 10/2. Three GP2 meetings need coverage: Day 18 (Fri 9/25, C, 72 min), Day 19 (Tue 9/29, A, 48 min), Day 20 (Wed 9/30, A, 48 min). Day 21 (Fri 10/2) is Nick's first day back — replan that with him.
 
-**One-off later window:** Nick is out again Tue 10/13 (Day 26), last-minute. Video 03 was posted to EdPuzzle that morning with the challenge submission on Classroom. Day file: [[GP2 - Roll-A-Ball Video 03 (Debug Statements)]].
+**One-off later window:** Nick is out again Tue 10/13 (Day 26), last-minute. Video 03 was posted to EdPuzzle that morning with the challenge submission on Classroom. Day file: [[GP2 Day 26 - Roll-A-Ball Video 03 (Debug Statements)]].
 
 ## Sub window plan (applied 2026-09-23 — no videos)
 

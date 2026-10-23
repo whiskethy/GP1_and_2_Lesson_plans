@@ -519,4 +519,4 @@ else
 
 ## Connections
 
-← [[GP2 - Logical Operators & Check-In]] | [[GP2 Q1 Calendar]] | [[GP2 Q1 - Days 22-32 TBD]] →
+← [[GP2 Day 21 - Logical Operators & Check-In]] | [[GP2 Q1 Calendar]] | [[GP2 Q1 - Days 22-32 TBD]] →

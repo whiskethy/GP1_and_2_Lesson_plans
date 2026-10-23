@@ -42,7 +42,7 @@ Day 16 (Tue 9/22) was re-aimed to finish Video 02 (Day 15 only got a few minutes
 | 20 | Wed 9/30 (sub) | Video 07 Level Setup | Video 06 Scale + worksheet Part 4 |
 | 21 | Thu 10/1 (sub, B) | Video 07 Level Setup | Video 07 Level Setup + full Transforms Worksheet consolidation + lights |
 | 22 | Mon 10/5 | TBD | Video 08 Importing & Materials (eats one TBD day; ran as Amnesty & Catch-Up, renumbered from Day 23 on 10/6) |
-| 26 | Tue 10/13 | Video 11 | Sub day (last-minute). Video 11 posted to EdPuzzle 10/13. Day file: [[GP1 Q1 Day 26 - Ship Blueprint (Sub)]] |
+| 26 | Tue 10/13 | Video 11 | Sub day (last-minute). Video 11 posted to EdPuzzle 10/13. Day file: [[GP1 Day 26 - Ship Blueprint (Sub)]] |
 
 Applied 2026-09-23: Day 16 renamed to match content, Days 17-21 rewritten (old versions archived to 07 - Archive), Day 23 file created, calendar updated, wikilinks swept, Task List State due dates moved, this file's day-by-day table updated, S&S re-pacing note added. Known flag: hardest chunk (coordinate math, Video 04) lands on a sub day instead of a live day.
 
@@ -50,10 +50,10 @@ Applied 2026-09-23: Day 16 renamed to match content, Days 17-21 rewritten (old v
 
 | Day | Date | Type | Video | Day file |
 |-----|------|------|-------|----------|
-| 18 | Thu 9/24 | B, 72 | 04 — Transforms | [[GP1 Q1 Day 18 - Transforms (Sub)]] |
-| 19 | Tue 9/29 | A, 48 | 05 — Rotation | [[GP1 Q1 Day 19 - Rotation (Sub)]] |
-| 20 | Wed 9/30 | A, 48 | 06 — Scale | [[GP1 Q1 Day 20 - Scale (Sub)]] |
-| 21 | Thu 10/1 | B, 72 | 07 — Level Setup | [[GP1 Q1 Day 21 - Level Setup & Lights (Sub)]] |
+| 18 | Thu 9/24 | B, 72 | 04 — Transforms | [[GP1 Day 18 - Transforms (Sub)]] |
+| 19 | Tue 9/29 | A, 48 | 05 — Rotation | [[GP1 Day 19 - Rotation (Sub)]] |
+| 20 | Wed 9/30 | A, 48 | 06 — Scale | [[GP1 Day 20 - Scale (Sub)]] |
+| 21 | Thu 10/1 | B, 72 | 07 — Level Setup | [[GP1 Day 21 - Level Setup & Lights (Sub)]] |
 
 ## GP2 sub days
 

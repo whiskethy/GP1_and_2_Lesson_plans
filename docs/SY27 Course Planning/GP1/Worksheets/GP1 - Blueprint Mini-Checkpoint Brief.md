@@ -50,5 +50,5 @@ Evidence screenshots, one per video you have finished, attached to this assignme
 
 ## Vault links
 
-- Day file: [[GP1 Q1 Day 25 - Blueprint Visual Programming + Mini-Checkpoint]]
+- Day file: [[GP1 Day 25 - Blueprint Visual Programming + Mini-Checkpoint]]
 - Video 10 EdPuzzle set: [[SY27 Q1 - Video 10 - Blueprint Visual Programming#SY27 EdPuzzle]]

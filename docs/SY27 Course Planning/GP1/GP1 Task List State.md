@@ -16,7 +16,7 @@ Local source of truth for the GP1 student Task List. The live student-facing she
 
 - The live sheet is student-facing and only goes out about a week. This file can go farther.
 - Update this file as part of lesson planning and lesson updates. The day file's Materials table and this file stay in sync.
-- When daily slides are updated, verify the live sheet against this file, and make sure the live sheet includes at least the content for that day.
+- **The live sheet is synced by Nick by hand (standing rule 10/19). Never write to Google Sheets from an agent session.** Update this file only, then tell Nick which rows the live sheet still needs so he can push them.
 
 ## Published to the live sheet (last synced 10/13)
 
@@ -42,8 +42,10 @@ Local source of truth for the GP1 student Task List. The live student-facing she
 | 18 | Watch Video 13 - Forward Movement | Follow along: Add Force on Tick (Vel Change), X = forward, obstacles | EdPuzzle | Lesson Video | Yes | 10/15 |
 | 19 | Watch Video 14 - Basic Collision | Follow along: Event Actor Begin Overlap, collision presets, Cast, Destroy Actor - make the ring disappear | EdPuzzle | Lesson Video | Yes | 10/15 |
 | 20 | Watch Video 15 - Basic UI | Follow along: Player Controller Score, Widget Blueprint, wire score ticking to overlaps | EdPuzzle | Lesson Video | Yes | 10/19 |
-| 21 | Watch Video 16 - Refactoring | Follow along: Collapse to Function, move overlap logic to the ring, sphere/box colliders, BSP ground | EdPuzzle | Lesson Video | Yes | 10/20 |
-| 22 | GP1: Ship Game Devlog Checkpoint 02 | OBS screen recording showing the checklist + reflection questions | Google Classroom | Checkpoint | Yes | 10/21 |
+| 21 | Watch Video 16 - Refactoring | OPTIONAL (10/19 remap): follow along: Collapse to Function, move overlap logic to the ring, sphere/box colliders, BSP ground | EdPuzzle | Lesson Video | Yes | 10/22 |
+| 22 | GP1: Ship Game Devlog Checkpoint 02 | OBS screen recording showing the checklist + reflection questions. Moved to Thu 10/22 (remap 10/19); covers through Video 15 (16 optional) | Google Classroom | Checkpoint | Yes | 10/22 |
+
+*Re-dated 10/19 (remap): only a few students reached Video 15 on Day 29 (most on 12-13), so Tue 10/20 and Wed 10/21 are catch-up days and the Devlog Checkpoint slid from Wed 10/21 to Thu 10/22. Rows 21-22 above carry the new dates; row 23 (GitHub signup, Thu 10/22) is unchanged - the signup block rides inside the checkpoint's B day.*
 
 ## Planned, not yet published
 
@@ -52,7 +54,7 @@ Local source of truth for the GP1 student Task List. The live student-facing she
 | 23 | GitHub account signup | Early-start Do Now on the Day 32 buffer day (Thu 10/22); school email, no personal info | GitHub | Independent Activity | Yes | 10/22 |
 | 24 | Roll-A-Ball project launch + exemplar | Day 33 (Mon 10/26): exemplar + GitHub slides + start the GitHub test assignment | Google Classroom | Independent Activity | Yes | 10/26 |
 | 25 | GitHub test assignment: accept, clone, secret phrase, commit, push | Day 33 start, Day 34 finish; repo link in Classroom when built | GitHub | Independent Coding | Yes | 10/27 |
-| 26 | Roll-A-Ball starter project: accept, clone, open in Unreal | Day 34; fast students start Video 01 | Google Classroom | Independent Coding | Yes | 10/27 |
+| 26 | Roll-A-Ball starter project: accept, clone (download only) | Day 34, for GitHub-test finishers (pacing call 10/22); open-in-Unreal happens with Video 01 on Day 35 | Google Classroom | Independent Coding | Yes | 10/27 |
 | 27 | Watch Video 01 - Player Blueprint | Day 35; follow-along on the starter; screenshot of the ball in level + material to Classroom (proof) | EdPuzzle | Lesson Video | Yes | 10/28 |
 | 28 | Video 01 proof: ball in level screenshot | Submit with the video; presence-based | Google Classroom | Evidence From Video | Yes | 10/28 |
 | 29 | Watch Video 02 - Enhanced Input | Day 36 B; followed by Input folder screenshot (proof) | EdPuzzle | Lesson Video | Yes | 10/29 |

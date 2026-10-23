@@ -4,7 +4,7 @@ quarter: Q1
 day: 32
 date: Fri 10/23
 day_type: C
-chunk: '28'
+chunk: '29'
 type: checkpoint
 class_minutes: 72
 unit: 3
@@ -42,6 +42,8 @@ Tier the rubric by the video that teaches the skill; core tiers are attemptable 
 
 Submission: screenshots (and captures) to the Google Classroom assignment "GP2: Q1 Checkpoint 1" (numbered per the checkpoint naming convention), plus commit-and-push for anything that touched code. No paper, no saves handed over.
 
+**Turn-in timing (10/19 remap):** Thursday 10/22 has no GP2 class - students turn in whatever they have for Video 06 on Classroom by Thursday EOD, and the checkpoint itself runs Friday 10/23 in class collecting the remaining tiers. Because V06's live day is only Wednesday 10/21, most submissions will show the ball-pawn tier with core tiers (compile, debug prints, loop, error ritual) carrying the grade.
+
 ## Mid-build circulation checkpoint
 
 Replaces the standard 80% gate: at ~0:35 Nick circulates with the core-tier checklist (compile, debug print, loop). Anyone under the bar gets two minutes of side-by-side help. This doubles as the diagnostic pass; next quarter's pacing reads the tier spread, not just the EdPuzzle dashboard.
@@ -70,4 +72,4 @@ Draft summary (removed once fleshed out): the day file builds fully from the tie
 
 ## Connections
 
-← [[GP2 - Roll-A-Ball Video 07 (UPROPERTY and Tuning)]] | [[GP2 Q1 Calendar]] | (End of Q1) →
+← [[GP2 Day 31 - Roll-A-Ball Video 07 (UPROPERTY and Tuning)]] | [[GP2 Q1 Calendar]] | (End of Q1) →

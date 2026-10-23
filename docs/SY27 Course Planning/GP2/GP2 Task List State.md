@@ -4,7 +4,7 @@ quarter: Q1
 type: reference
 status: active
 project: classes
-updated: 2026-10-13
+updated: 2026-10-20
 ---
 
 # GP2 Task List State
@@ -15,7 +15,7 @@ Local source of truth for the GP2 student Task List. The live student-facing she
 
 - The live sheet is student-facing and only goes out about a week. This file can go farther.
 - Update this file as part of lesson planning and lesson updates. The day file's Materials table and this file stay in sync.
-- When daily slides are updated, verify the live sheet against this file, and make sure the live sheet includes at least the content for that day.
+- **The live sheet is synced by Nick by hand (standing rule 10/19). Never write to Google Sheets from an agent session.** Update this file only, then tell Nick which rows the live sheet still needs so he can push them.
 
 ## Published to the live sheet (as of 9/21; verify rows 7-9 on next sync)
 
@@ -33,23 +33,21 @@ Local source of truth for the GP2 student Task List. The live student-facing she
 
 ## Planned, not yet published
 
-Rows 10-13 are the W8 queue; rows 14-18 are W9. Push rows 10-13 to the live sheet before Wednesday morning: they are this week's tasks. Classmoji is clone-only (autograding removed): task rows must not promise automated scores.
+**Planned, not yet published (10/20):** rows 10-15 and 18 below (the W8-W9 queue as re-dated 10/19), plus the V07 restoration rows 19-20. The live sheet is Nick's hand sync: tell him which rows it still needs; Classmoji is clone-only (autograding removed): task rows must not promise automated scores.
 
-**Reshaped 10/14 (Nick's shift):** only 1 student finished Video 03 on the sub day, so Wed 10/14 became a V03 completion day, V04 teaches Fri 10/16, V05 Mon 10/19, V06 Tue 10/20. Dues below follow the new dates; the old practice-day row was dropped (its break-and-fix work rides V06's independent block).
+**Reshaped 10/14, re-dated 10/19, updated 10/20.** Monday 10/19 ran as all-video catch-up with no live lesson (6 of 11 finished Video 04, so the full V05 loops lesson did not land). Tue 10/20 is also all-video catch-up: V04 stragglers, then V05 self-paced with the challenge. Video 06 teaches Wed 10/21, its evidence turns in Thu 10/22 (no GP2 class that day), and CP1 runs Fri 10/23. **Video 07 restored on 10/19 evening (was cut rows 16-17 in the remap): V07 rides Wed 10/21, same block as V06, students roll into it self-paced; its Details screenshot is the pair's graded artifact (rows 19-20 below).** V06 has no challenge: the ball-pawn screenshot (row 15) is CP1 tier evidence, and the graded submission is row 20. V07 recorded 10/20, no BallScale segment.
 
 | # | Task | Note | Found on | Task Type | Lab | Due |
 |---|------|------|----------|-----------|-----|-----|
 | 10 | Watch Video 04 - Common Errors (EdPuzzle) | Read each error before fixing; the prediction ritual carries over | EdPuzzle | Lesson Video | Yes | 10/16 |
-| 11 | Fix the seeded error file | Empty the Error List, screenshot with the fixed file visible, submit on Classroom, commit and push | Google Classroom | Independent Coding | Yes | 10/16 |
-| 12 | Watch Video 05 - Loops (EdPuzzle) | for vs while; predict before running, every time | EdPuzzle | Lesson Video | Yes | 10/19 |
-| 13 | Loops challenge: countdown or pickup prints | While-loop countdown (10 to 1, GO) or for-loop pickup prints (x5); predict BEFORE running, screenshot output after, submit on Classroom, commit and push | Google Classroom | Independent Coding | Yes | 10/19 |
-| 14 | Watch Video 06 - Constructor and Components (EdPuzzle) | Build the ball pawn: collision root, mesh, spring arm, camera | EdPuzzle | Lesson Video | Yes | 10/20 |
-| 15 | Ball pawn screenshot | Assembled ball visible with camera follow at default values, submit on Classroom, commit and push | Google Classroom | Evidence From Video | Yes | 10/20 |
-| 16 | Watch Video 07 - UPROPERTY and Tuning (EdPuzzle) | Expose RollSpeed and JumpForce; tune in the Details panel | EdPuzzle | Lesson Video | Yes | 10/21 |
-| 17 | Details panel screenshot | Two tunables visible with values changed from default, submit on Classroom | Google Classroom | Evidence From Video | No | 10/21 |
-| 18 | Q1 Checkpoint 1 (CP1) | Tiered evidence submission on Classroom: compile, debug prints, loop, ball pawn, tunables, error ritual | Google Classroom | Checkpoint | Yes | 10/23 |
-
-Also today (Wed 10/14): any student who has not submitted the V03 challenge (Task 8-9 territory, Video 03 EdPuzzle + Score challenge screenshot) is finishing it in class; the finished student moves to Task List work.
+| 11 | Fix the seeded error file | Empty the Error List, screenshot with the fixed file visible, submit on Classroom, commit and push | Google Classroom | Independent Coding | Yes | outstanding (was 10/16); finish in Tuesday's catch-up |
+| 12 | Watch Video 05 - Loops (EdPuzzle) | for vs while; predict before running, every time. Self-paced Tue 10/20 (remap 10/19) | EdPuzzle | Lesson Video | Yes | 10/20 |
+| 13 | Loops challenge: countdown or pickup prints | While-loop countdown (10 to 1, GO) or for-loop pickup prints (x5); predict BEFORE running, screenshot output after, submit on Classroom, commit and push | Google Classroom | Independent Coding | Yes | 10/20 |
+| 14 | Watch Video 06 - Constructor and Components (EdPuzzle) | Build the ball pawn: collision root, mesh, spring arm, camera. Wednesday's live focus | EdPuzzle | Lesson Video | Yes | 10/21 |
+| 15 | Ball pawn screenshot | Assembled ball visible with camera follow at default values, submit on Classroom, commit and push | Google Classroom | Evidence From Video | Yes | 10/22 |
+| 18 | Q1 Checkpoint 1 (CP1) | Tiered evidence submission on Classroom: compile, debug prints, loop, ball pawn, tunables (V07 tier, self-paced only), error ritual. V06 evidence due Thu 10/22 EOD; checkpoint Fri 10/23 | Google Classroom | Checkpoint | Yes | 10/23 |
+| 19 | Watch Video 07 - UPROPERTY and Tuning (EdPuzzle) | Roll into it self-paced after Video 06 on Wed 10/21; tune RollSpeed and JumpForce in the Details panel, no recompile | EdPuzzle | Lesson Video | Yes | 10/21 |
+| 20 | Details panel tunables screenshot (Video 07) | Both tunables visible in the Details panel with a changed value, verified by the BeginPlay debug print; THE graded artifact for this pair. Submit on Classroom, commit and push | Google Classroom | Evidence From Video | Yes | 10/21 |
 
 ## Dropdown vocab
 

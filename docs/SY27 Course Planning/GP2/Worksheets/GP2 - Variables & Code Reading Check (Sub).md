@@ -326,4 +326,4 @@ int main() {
 
 ## Connections
 
-← [[GP2 Q1 Day 11 - CANCELLED Field Trip]] | [[GP2 Q1 Calendar]] | [[GP2 - VS & GitHub Workflow]] →
+← [[GP2 Day 11 - CANCELLED Field Trip]] | [[GP2 Q1 Calendar]] | [[GP2 Day 13 - VS & GitHub Workflow]] →
