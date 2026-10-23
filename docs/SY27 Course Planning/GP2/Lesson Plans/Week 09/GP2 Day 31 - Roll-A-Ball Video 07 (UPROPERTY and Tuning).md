@@ -17,13 +17,7 @@ joke: What did the janitor say when he jumped out of the closet
 
 # GP2 Day 31 - Roll-A-Ball Video 07 (UPROPERTY and Tuning)
 
-Day 31 (A day, 48 min) - V07 rides the SAME BLOCK as Video 06, not its own meeting. Cut from the Q1 calendar in the 10/19 remap, then RESTORED the same night: scheduling resolved 10/19 evening - Wed 10/21 = Video 06 as the live focus ([[GP2 Day 31 - Roll-A-Ball Video 06 (Constructor and Components)]]), then students roll into Video 07 self-paced. V07 RECORDED 10/20, awaiting export/publish before Wednesday's class. CP1 is Friday 10/23; CP1's tuning tiers stay attemptable for anyone self-pacing ahead.
-
-**Recorded shape (V07 RECORDED 10/20).** Five segments as scripted, with ONE change: Segment 4 (BallScale exposure) was dropped on Nick's call before the shot landed - a value the constructor already handles does not read as changing in the engine that way. Consequences: V06's hard-coded `SetWorldScale3D(FVector(2.f));` line STAYS, no BallScale member exists anywhere, and the two-ball per-instance demo is out. The tunables are RollSpeed and JumpForce exactly as scripted; the Details screenshot challenge and CP1's two-tunables line are unaffected. The EdPuzzle builds against the recorded 5-segment shape, NO BallScale questions. UFUNCTION gets previewed only (load-bearing in V16 when the UI calls student code). One new idea: UPROPERTY makes a C++ variable engine-visible.
-
-Calendar note: Quarter 1 grades are due for teachers today (10/21), but Nick collects the school's grades and can extend his own submission window to Fri 10/23. CP1 lands inside the grading window, and the constraint that buys the extension is baked into CP1's design: the checkpoint must grade in minutes (presence-based screenshots in one Classroom assignment, no code reading required to score).
-
-Prep dependency: V07 export + publish + YouTube description + EdPuzzle all land before Wednesday's class (the EdPuzzle against the recorded shape, no BallScale). Video 08 (Enhanced Input) needs recording next; it is not on the hook until W10.
+Day 31 (A day, 48 min) - V07 rides the SAME BLOCK as Video 06, not its own meeting: students self-paced into it after Video 06. CP1 is Friday 10/23; CP1's tuning tiers stay attemptable for anyone self-pacing ahead.
 
 ## Learning Target
 
@@ -65,18 +59,13 @@ Two tunables live in the Details panel with at least one value CHANGED and verif
 
 **Exit ticket**
 
-None separately - the meeting's exit ticket lives on the V06 file and carries one two-path question (Q4) so students who reached V07 answer the tuning line: where do you change RollSpeed without recompiling, and what line makes that possible. Mastery: the Details panel and UPROPERTY(EditAnywhere) (the macro, not the include), and no error appears when the macro is missing - that silence is the trap.
+None separately - the meeting's exit ticket lives on the V06 file and carries one two-path question (Q4) so students who reached V07 answer the tuning line: where do you change RollSpeed without recompiling, and what line makes that possible.
 
 ## Materials
 
-| Item | Status | Link |
-|------|--------|------|
-| Video 07 on EdPuzzle | 🚧 | RECORDED 10/20; awaiting export + publish + description + EdPuzzle before Wednesday |
-| V07 script note (recorded shape, code blocks) | ✅ | [[SY27 Q1 - Video 07 - UPROPERTY and Tuning]] |
-| Starter project repo | ✅ | https://github.com/ChicagoTechAcademy/UE_Roll_a_Ball |
-| Daily slides 10.21 | 🚧 | update from the V06 file + this file (agenda: Nick's student-facing format) |
-
-## Notes after teaching
+| Item | Link |
+|------|------|
+| Starter project repo | https://github.com/ChicagoTechAcademy/UE_Roll_a_Ball |
 
 ## Connections
 

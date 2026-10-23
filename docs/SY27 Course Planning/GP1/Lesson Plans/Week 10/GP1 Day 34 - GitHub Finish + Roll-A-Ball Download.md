@@ -14,7 +14,7 @@ updated: 2026-10-22
 
 # GP1 Day 34 - GitHub Finish + Roll-A-Ball Download (Day 34)
 
-Day 34 (A day, 48 min) - re-paced 10/22 (Nick): GitHub takes ALL of Day 33 and part of today. The class finishes the test assignment; students who are through accept the Roll-A-Ball starter assignment and download it. No Video 01 today - V01 is Day 35 (Wed), a follow-along on the project they download today. This keeps the locked map math intact: 2 setup days + 16 video days.
+Day 34 (A day, 48 min) - GitHub wraps up and the real project lands: the class finishes the test assignment; students who are through accept the Roll-A-Ball starter assignment and download it. Video 01 is tomorrow (Wed 10/28), a follow-along on the project they download today.
 
 ## Do Now
 
@@ -23,8 +23,6 @@ Day 34 (A day, 48 min) - re-paced 10/22 (Nick): GitHub takes ALL of Day 33 and p
 | 1 | Review | Yesterday and Monday you cloned repos with GitHub Desktop. What does "clone" actually do to your computer? |
 | 2 | Review | Your commit messages so far described ONE change each. Why write a specific message instead of "update"? |
 | 3 | Preview | Roll-A-Ball is the actual game project you'll work in for weeks. What's a file type you'd expect inside a game project folder that you didn't see in the one-file test repo? |
-
-*(Preview reaches to Q1's asset-import work: they've seen .uproject in passing on Day 26.)*
 
 ## Shared Block
 
@@ -63,8 +61,6 @@ Day 34 (A day, 48 min) - re-paced 10/22 (Nick): GitHub takes ALL of Day 33 and p
 2. If you cloned Roll-A-Ball: where does the folder live on your computer - name where you put it. If not: where did your test repo clone to?
 3. The Roll-A-Ball repo took minutes to download and the test repo took seconds. Why is a game project's folder so much bigger?
 
-**Exit ticket mastery criteria:** Q1: any named step counts; the spread is the Wednesday Do Now's real baseline. Q2: a real folder path counts, even partial ("Documents/Game Programming Work/Roll-A-Ball"); "in GitHub Desktop" doesn't count - that's the app, not the location. Q3: any size-based reasoning counts (assets, textures, maps, sounds are big files) - it preps the Content Browser's scale before Video 01.
-
 ## Differentiation & Accommodations
 
 - **Engagement:** the real project lands on their machine today, even for the slow lane's neighbors to see; the finishers' downloads are the room's visible momentum.
@@ -74,15 +70,11 @@ Day 34 (A day, 48 min) - re-paced 10/22 (Nick): GitHub takes ALL of Day 33 and p
 
 ## Materials
 
-| Item | Status | Link |
-|------|--------|------|
-| Roll-A-Ball starter project (repo done + accept link: https://github.com/ChicagoTechAcademy/Unreal_Roll_a_Ball_Starter, updated to UE 5.8, level + Starter Content; .uproject = RollABall_Start) | 🚧 | Classmoji assignment BUILT 10/22 as a hidden draft (repo "Roll-A-Ball" from the starter template; clone-only, no deadline; all layers unpublished - students see nothing). Go-live before class: publish the module, assignment, and repo |
-| GitHub test assignment (yesterday's, finish/catch-up only) | ✅ | Same as Day 33's, same pin - LIVE with all layers published |
-| Daily slides 10.27 | 🚧 | needs build from this file |
-| Roll-A-Ball playlist Classroom post | 🚧 | DRAFT ready: [[GP1 - Roll-A-Ball Playlist Post (Classroom, Day 34)]] - post the EdPuzzle playlist (all 16 videos) on Classroom |
-
-## Notes after teaching
+| Item | Link |
+|------|------|
+| Roll-A-Ball starter project (repo + Classmoji accept link, go-live before class) | https://github.com/ChicagoTechAcademy/Unreal_Roll_a_Ball_Starter |
+| GitHub test assignment (yesterday's, finish/catch-up only) | same assignment as Day 33 |
 
 ## Connections
 
-← [[GP1 Day 33 - Q2 Launch + GitHub Setup]] | [[GP1 Q1 Calendar]] | → *(Video 01 is Day 35, Wed 10/28; next day's file gets created when W11's stub pass runs)*
+← [[GP1 Day 33 - Q2 Launch + GitHub Setup]] | [[GP1 Q1 Calendar]] | → *(Video 01 is Day 35, Wed 10/28)*

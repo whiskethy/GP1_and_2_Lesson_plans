@@ -17,17 +17,13 @@ joke: Did you hear about the cat that ate a lemon?
 
 # GP2 Day 29 - Roll-A-Ball Video 05 (Loops)
 
-Day 29 (A day, 48 min), re-planned 10/14: shifted here from Day 28 (Fri 10/16) after the sub-day Video 03 completion day pushed Day 27's content onto Friday. Day numbers did not move - only topics. Friday's block ended with the V05 concept preview (slide lecture only: why games repeat, copy-paste is not a plan, "N times" vs "until"); today carries the full Video 05 on EdPuzzle with the for/while practice. The S&S's standalone "loops practice + scope" chunk (item 6) is absorbed into today's independent challenge and Tuesday's build - the Tue 10/20 Components Practice day was the meeting that got absorbed by the Wednesday shift, and its break-and-fix move rides Day 30 with the constructor work.
-
-> **Prep dependency (backward-derived).** This day runs on Video 05 recorded, edited, published, and posted to EdPuzzle by Sunday night 10/19 (deadline relaxed from the old Thursday: the shift bought two days). Video 06 should be published by Sunday night too for Monday's fast finishers (sitting 2 of the recording plan; V06 is not recorded as of 10/14). The slide segment (PPTX, 14 slides) is built and verified vs storyboard 10/13; Nick's visual pass is the only gate left.
+Day 29 (A day, 48 min): Video 05 - Loops on EdPuzzle with for/while practice. Friday's block carried the V05 concept preview (slide lecture only: why games repeat, copy-paste is not a plan, "N times" vs "until"); today is the video's live code plus the practice.
 
 ## Learning Target
 
 Distinguish counted repetition (for) from condition-driven repetition (while), write a for loop printing a counted sequence with debug statements, write a while loop that stops on a condition, and predict a loop's iteration count before running it.
 
 **Standards:** CSTA 3A-AP-15 (justify the selection of specific control structures: which loop for which sentence) · ISBE 9-10.AP.15 (same verb, ISBE wording) · ACT S 404 (describe events as combinations: and/or/not conditions) · ACT WME 402
-
-*(Standards correction logged 10/13: V05's day previously had no ISBE line; the S&S cites 3A-AP-15 as the anchor and 9-10.AP.15 is its ISBE mirror. An earlier draft mis-cited 9-10.AP.20, license evaluation, which is not a loops standard and is not used.)*
 
 ## Shared Block
 
@@ -50,11 +46,9 @@ Distinguish counted repetition (for) from condition-driven repetition (while), w
 | 2 | Review | Friday's seeded file called DecreaseHealth() once per frame. Roughly how many times per second does Tick call it, and what did we see on screen? |
 | 3 | Preview | Friday's slides asked: the game needs to print "Pickup collected" once for each of 10 pickups - write ten prints, or tell the computer "do this 10 times"? Today names those two shapes. What are they called? |
 
-*(Q1 and Q2 reach back to Friday's V04 day. Preview mirrors ET Q1: both ask which repetition shape fits which job.)*
-
 **Worked example**
 
-The video IS the worked example: slide lecture already seen as Friday's preview (compressed today, not re-watched in full), then live code: the for loop in BeginPlay printing 0-4 in yellow, the off-by-one show (`<` vs `<=`, six lines instead of five), the while loop health-drain with the genuinely surprising count (prints happen AFTER the change), and the infinite loop recovery shot. The video code and slide storyboard live in [[SY27 Q1 - Video 05 - Loops]].
+The video IS the worked example: the slide lecture already seen as Friday's preview (compressed today, not re-watched in full), then live code: the for loop in BeginPlay printing 0-4 in yellow, the off-by-one show (`<` vs `<=`, six lines instead of five), the while loop health-drain with the genuinely surprising count (prints happen AFTER the change), and the infinite loop recovery shot.
 
 **Guided practice + 80% checkpoint**
 
@@ -62,11 +56,9 @@ Students write both loops in their own TempActor as the video does, predicting e
 
 **Independent work**
 
-Finish both loops, then the challenge, as displayed on screen in the video: a loop that counts down from 10 then prints "Go", OR a loop that prints "Picked up X collectibles" up to 5 (X being the number, 1 through 5). Predict BEFORE running, screenshot the output, submit on Classroom, commit and push (close Unreal, full compile first). Fast finishers carry the exercise further: make the countdown print only even numbers, or count down from 20 by 2. Video 06 is Tuesday's day focus; published Sunday night - do not start Tuesday's build early in the project.
+Finish both loops, then the challenge, as displayed on screen in the video: a loop that counts down from 10 then prints "Go", OR a loop that prints "Picked up X collectibles" up to 5 (X being the number, 1 through 5). Predict BEFORE running, screenshot the output, submit on Classroom, commit and push (close Unreal, full compile first). Fast finishers carry the exercise further: make the countdown print only even numbers, or count down from 20 by 2.
 
-*Timing note: 48 minutes is tight for video plus both loops plus the challenge. The challenge may spill its commit into Tuesday morning's buffer - the committed loops evidence is what CP1 needs, not the same-minute screenshot.*
-
-**Exit ticket** (surplus: 5 offered, use 2-3)
+**Exit ticket**
 
 1. You need a loop that runs exactly seven times. Which loop do you pick, and how would you finish its line: `for (int i = 1; i ___ 7; i++)`?
 2. A while loop's `Health -= 1;` line gets commented out. What happens when you run, and what one question do you ask to find the bug?
@@ -74,17 +66,12 @@ Finish both loops, then the challenge, as displayed on screen in the video: a lo
 4. Friday's seeded file decremented health once per frame without a loop. In one sentence: what did today's video add that Tick already did for free, and why would a programmer still write loops on purpose?
 5. Predict-then-run: your while loop prints Health: 2, 1, 0 and stops. Your partner predicted four prints. In one sentence, explain to them why the third print never happened.
 
-**Exit ticket mastery criteria (for the ones used):** Q1: for loop; the blank is `<=` only if counting INCLUSIVE to 7 starting at 1 (runs 1-7), or `<` if starting at 0 (runs 0-6); the reasoning matters more than the operator choice: start, check against the target, increment. Q2: infinite loop, the screen floods/never stops; the question is "what moves the condition toward false?" (the change, not the check). Q3: three times, i equals 0, 1, 2 (never 3). Q4: Tick was already repetition riding the engine; loops are the ON-PURPOSE version a programmer controls, and not everything happens per-frame. Q5: by the third pass Health is 0, the check `Health > 0` fails BEFORE the next print, so no fourth line prints (prints happen after the change).
-
-**~80% checkpoint:** Screen check at the off-by-one beat. 9 of 11 can say why `i < 5` is five runs and show the corrected run.
-
 ## Agenda
 
 1. Do Now review (5 min)
-2. Self-paced catch-up for the period: students pushed Video 04 - 6 of 11 finished it by the bell
-3. V05 (loops) lesson did not run as planned; most of the class was not ready
-
-*Notes after teaching: 6 of 11 finished Video 04, so the full V05 loops lesson did not land today. New week shape (Nick): Tue 10/20 catch-up, Wed 10/21 gets Video 06, Thu 10/22 students turn in what they have for Video 06 plus the checkpoint. V05 rides Tuesday's catch-up self-paced on EdPuzzle (video and challenge already posted to Classroom) rather than a live lesson - confirm exact placement when mapping Tuesday.*
+2. Video 05 on EdPuzzle: both loops written in TempActor, predicted out loud before each run (rest of period)
+3. Loops challenge: predict, screenshot the output, submit, commit and push (parallel)
+4. Exit ticket (3 min)
 
 *Unnumbered, parallel: catch-up on outstanding submissions (Friday's error-file screenshot is still open for anyone missing it). Commit and push at the bell - standing habit.*
 
@@ -98,20 +85,11 @@ Finish both loops, then the challenge, as displayed on screen in the video: a lo
 
 ## Materials
 
-| Item | Status | Link |
-|------|--------|------|
-| Video 05 recording script + slide storyboard + exact code blocks | ✅ | [[SY27 Q1 - Video 05 - Loops]] |
-| Video 05 slide segment (PPTX, 14 slides, built by Claude, verified vs storyboard 10/13) | ✅ | `Video Lessons/SY27/GP2 Q1/SY27 Q1 - GP2 Video 05 - Slide Segment.pptx` Nick's visual pass before the recording; concept half already ran as Friday's preview |
-| Video 05 recorded + published + EdPuzzle set | ✅ | published 10/19: https://youtu.be/5u-mal8ndlI / EdPuzzle: https://edpuzzle.com/media/6ad6403a321a1fd4bef3d45e ; posted to Classroom 10/19 with the challenge and the Do Now |
-| Starter project repo | ✅ | https://github.com/ChicagoTechAcademy/UE_Roll_a_Ball |
-| Daily slides | ✅ | GP2 Daily Slides deck, updated 10/19, verified by read-back: Do Now (2 review + 1 preview), answers, agenda (6 blocks), riddle (coat), joke (sour puss), exit ticket 3 of 5 on slide 7 |
-| Video 06 | ✅ | published 10/21 (Wednesday's day focus, Day 31): https://youtu.be/gIZlb88oG_4 / https://edpuzzle.com/media/6ad8e46c5160cdff8d72b378 |
-
-## Notes after teaching
-
-## Shift note
-
-Applied 10/14 (Nick): sub day left only 1 student done with Video 03, so Wed 10/14 became the completion day and Day 27's V04 content moved to Friday. V05 slides previewed Friday, full lesson here Monday. The Tue 10/20 Components Practice day was absorbed into the shift (its break-and-fix move rides Day 30's constructor work).
+| Item | Link |
+|------|------|
+| Video 05 on EdPuzzle | https://youtu.be/5u-mal8ndlI / https://edpuzzle.com/media/6ad6403a321a1fd4bef3d45e |
+| Video 06 on EdPuzzle (roll-ahead) | https://youtu.be/gIZlb88oG_4 / https://edpuzzle.com/media/6ad8e46c5160cdff8d72b378 |
+| Starter project repo | https://github.com/ChicagoTechAcademy/UE_Roll_a_Ball |
 
 ## Connections
 

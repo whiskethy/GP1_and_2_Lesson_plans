@@ -17,7 +17,7 @@ joke: How do mice floss their teeth?
 
 # GP2 Day 30 - Catch-Up
 
-Day 30 (A day, 48 min), re-planned 10/19: Monday's GP2 class was all-video self-paced with no live lesson, and only 6 of 11 finished Video 04 - so Tuesday is also all-video catch-up. The block is self-paced on EdPuzzle: finish Video 04 (and its seeded-file screenshot if still outstanding), then Video 05 - Loops (published 10/19), including the loops challenge. Video 06 - Constructor and Components is Wednesday's live focus ([[GP2 Day 31 - Roll-A-Ball Video 06 (Constructor and Components)]], day 31). Video 07 lost its Q1 class slot in this remap (see that file's shift note); its tuning tiers stay attemptable at CP1 for anyone self-pacing ahead.
+Day 30 (A day, 48 min), all-video catch-up: finish Video 04 (and its seeded-file screenshot if still outstanding), then Video 05 - Loops (published 10/19), including the loops challenge. Video 06 - Constructor and Components is Wednesday's live focus (day 31); Video 07's tuning tiers stay attemptable at CP1 for anyone self-pacing ahead.
 
 ## Shared Block
 
@@ -61,17 +61,12 @@ The V05 challenge (as posted on Classroom with the video): a loop that counts do
 2. If your while loop never stopping is on tomorrow's screen, what one kind of line is missing?
 3. One sentence for the constructor preview: what does building the ball in code buy us that building it in the editor does not?
 
-**Exit ticket mastery criteria:** Q1: position named honestly, video number - presence standard, not polish. Q2: the line that CHANGES the condition's value (Health -= 1), not the check line. Q3: any grounded answer (rebuild the pawn by changing a class, version control can see it, one class many balls) - "I don't know" doesn't count, and this is a preview, so rough is fine.
-
 ## Materials
 
-| Item | Status | Link |
-|------|--------|------|
-| Video 05 on EdPuzzle | ✅ | published 10/19: https://youtu.be/5u-mal8ndlI / https://edpuzzle.com/media/6ad6403a321a1fd4bef3d45e |
-| Starter project repo | ✅ | https://github.com/ChicagoTechAcademy/UE_Roll_a_Ball |
-| Daily slides 10.20 | ✅ | 10/20 verified by read-back. GP2 slide 7 exit ticket refreshed to this file's three questions (stale loop questions were on it). Agenda set to Nick's student-facing format. |
-
-## Notes after teaching
+| Item | Link |
+|------|------|
+| Video 05 on EdPuzzle | published 10/19: https://youtu.be/5u-mal8ndlI / https://edpuzzle.com/media/6ad6403a321a1fd4bef3d45e |
+| Starter project repo | https://github.com/ChicagoTechAcademy/UE_Roll_a_Ball |
 
 ## Connections
 

@@ -16,7 +16,7 @@ updated: 2026-10-22
 
 Day 33 (A day, 48 min) - Q2 opening day. Exemplar run, the GitHub slides brief, then students begin the GitHub test assignment. Students who signed up Thursday 10/22 (Day 32) skip the account-creation step.
 
-**Scope note:** this is the launch/setup pass, not the unit's first content chunk. Video 01 lands Day 35 at the earliest. Chunk numbering for the video unit starts at this file's successor.
+Video 01 is Day 35 (Wed 10/28, this file's successor); chunk numbering for the video unit starts there.
 
 ## Do Now
 
@@ -25,8 +25,6 @@ Day 33 (A day, 48 min) - Q2 opening day. Exemplar run, the GitHub slides brief, 
 | 1 | Review | In the ship game, what did the Game Mode do with BP_Spaceship? (Two words: which class becomes the player?) |
 | 2 | Review | What's the difference between Add Impulse (spacebar) and Add Force (held fly)? |
 | 3 | Preview | Roll-A-Ball: you control a rolling ball. What's ONE system you'd bet it has in common with the ship game? |
-
-*(Preview carries the same framing Day 32's buffer preview carried - Roll-A-Ball IS the ship's systems recombined at bigger scale.)*
 
 ## Shared Block
 
@@ -66,8 +64,6 @@ Day 33 (A day, 48 min) - Q2 opening day. Exemplar run, the GitHub slides brief, 
 2. What did you have working by end of class: account, clone, secret phrase typed, commit, or push? Name the last step you finished.
 3. What's one thing you expect GitHub Desktop to be useful for once the project starts (guessing from the slides is fine)?
 
-**Exit ticket mastery criteria:** Q1: push is the one that leaves the machine; commit is local. If both land reversed, they misnamed it and need re-teach tomorrow, not a wrong answer. Q2: any named step counts; the last-step question builds the Tuesday Do Now's honest baseline. Q3: any plausible workflow use - version history, undo, backup, sharing - counts; "I don't know" gets a second look at the slides tomorrow.
-
 ## Differentiation & Accommodations
 
 - **Engagement:** the exemplar carries the pitch; the GitHub assignment is small enough to finish in one sitting, so the first win is today, not "you'll see why."
@@ -77,14 +73,11 @@ Day 33 (A day, 48 min) - Q2 opening day. Exemplar run, the GitHub slides brief, 
 
 ## Materials
 
-| Item | Status | Link |
-|------|--------|------|
-| GitHub slides (Nick's existing deck) | 🔎 | Link recorded 10/22: https://docs.google.com/presentation/d/1ifgGbWu9S_Ka6bKcw_49qfNOQaW6GeVJL6qWZw00ZzY/edit |
-| GitHub test assignment (repo + accept link) | ✅ | LIVE 10/22, all three Classmoji layers published (repo, module, assignment; assignment title "GitHub Test: Clone, Edit, Commit, Push"). Template: `github-test-template` (one README). Before class: post the student join link on Classroom |
-| Roll-A-Ball exemplar video | 🔎 | Same clip as Day 32's buffer; confirm |
-| Daily slides 10.26 | 🚧 | needs build from this file |
-
-## Notes after teaching
+| Item | Link |
+|------|------|
+| GitHub slides (Nick's existing deck) | https://docs.google.com/presentation/d/1ifgGbWu9S_Ka6bKcw_49qfNOQaW6GeVJL6qWZw00ZzY/edit |
+| GitHub test assignment (repo + accept link) | "GitHub Test: Clone, Edit, Commit, Push" - join link posted on Classroom |
+| Roll-A-Ball exemplar video | same clip as Day 32's buffer |
 
 ## Connections
 
