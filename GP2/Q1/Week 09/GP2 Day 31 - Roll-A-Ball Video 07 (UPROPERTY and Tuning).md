@@ -33,7 +33,7 @@ Expose class variables to the editor with UPROPERTY(EditAnywhere), distinguish E
 | New concept | UPROPERTY makes a C++ member engine-visible; EditAnywhere vs VisibleAnywhere at project depth. The silent failure rides along: no macro, no property in the Details panel, and NO error telling you why. |
 | Content standard | CSTA 3B-AP-22 (modify an existing program: the pawn gets two tunables) |
 | ACT standard | AF 401 · WME 402 |
-| Unit performance task link | The project's two-tunables evidence is exactly this: Details panel screenshot with RollSpeed and JumpForce visible, at least one value changed from default. |
+| Unit performance task link | The project's two-tunables evidence is exactly the challenge screenshot: player ball with its material plus RollSpeed and JumpForce visible in the Details panel. The print proof (V03's tool) is the warm-up, the screenshot is the submission. |
 | Rides on | V06's constructor work from this block (the members being exposed are the ball's own); the debug print from V03 becomes the tuning verifier (BeginPlay shows YOUR number). |
 | Vocabulary | UPROPERTY, EditAnywhere, VisibleAnywhere, Details panel, tunable, recompile, silent failure, reflection |
 | Prior-knowledge gaps | Text-based typing: two short header edits, but an edit in the WRONG class of line (above the components vs inside them) is the likely slip; the video names placement. Students who never reach V07 today are not penalized; they can finish it Thursday or Friday. |
@@ -49,9 +49,10 @@ The video IS the worked example: the cutaway carries the UPROPERTY concepts (the
 **How students run it today (self-paced, from the video)**
 
 1. Watch V07 to the expose-and-tune segment. Type the two UPROPERTY lines above the component members (matching the video's naming, Category = "Input").
-2. Compile once, back in the editor: both knobs in the Details panel.
-3. Tune-and-verify challenge: set RollSpeed to a value of your choice, press Play, the BeginPlay debug print shows YOUR number. Change it again, NO recompile, play again.
-4. Screenshot the Details panel with both tunables and changed values. That screenshot is the graded artifact for Videos 06 and 07, and the submission. Commit and push (close Unreal, full compile first).
+2. Compile once, back in the editor: both knobs in the Details panel, grouped under Input.
+3. Tune-and-verify: set RollSpeed to a value of your choice, press Play, and the BeginPlay debug print shows YOUR number.
+4. Challenge: make the ball yours - set the scale to 1 with the collider bigger than the visible sphere, and give it a material (make M_PlayerBall in a new Content/Materials folder, or find one).
+5. Screenshot the player ball with its material AND both tunables visible. That screenshot is the graded artifact for Videos 06 and 07, is CP1's line, and is the submission. Commit and push (close Unreal, full compile first).
 
 **Exit ticket**
 

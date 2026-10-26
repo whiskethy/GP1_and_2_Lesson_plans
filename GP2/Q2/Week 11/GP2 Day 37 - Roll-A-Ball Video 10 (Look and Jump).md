@@ -66,7 +66,7 @@ The challenge, per the video: short screen capture showing all three - a few sec
 ## Agenda
 
 1. Do Now review (5 min)
-2. Video 10 on EdPuzzle: Look, Jump, both bug directions, the Tick reset (runtime TBD - publish by Mon 11/2; plan ~20-25 min)
+2. Video 10 on EdPuzzle: Look, Jump, both bug directions, the Tick reset, the gamepad close (watch-only for students without a controller; runtime TBD - publish by Mon 11/2; plan ~25-30 min)
 3. Follow-along: Look compiled first, then Jump + the reset (~10 min)
 4. Independent: drive-look-jump capture, catch-up lane (rest of block)
 5. Exit ticket (3 min)

@@ -220,7 +220,7 @@ Roll-A-Ball in C++ completed, then the Jeopardy final project.
 ### Units
 
 - **Unit 4: Roll-A-Ball in C++ II — Movement, Pickups, and Win** (W10–W16, ~22 meetings)
-	1. Video 08 — Enhanced Input (W10 Mon 10/26): input mapping context, input actions, BindAction in SetupPlayerInputComponent, add the EnhancedInput module to Build.cs — *new idea, A-day* · *PT Connection: CP2 requires Roll, Look, and Jump working; nothing moves without this wiring. Also the first return to Build.cs since Video 02, now load-bearing instead of touched.*
+	1. Video 08 — Enhanced Input (W10 Tue 10/27): input mapping context, input actions, BindAction in SetupPlayerInputComponent, add the EnhancedInput module to Build.cs — *new idea, A-day* · *PT Connection: CP2 requires Roll, Look, and Jump working; nothing moves without this wiring. Also the first return to Build.cs since Video 02, now load-bearing instead of touched.*
 	2. Input practice (W10 Tue 10/27) — *practice, A-day* · *PT Connection: the mapping context either loads in BeginPlay or nothing responds; this is the debugging day for exactly that failure.*
 	3. Video 09 — Roll (W10 Wed 10/28): the Roll function, reading the input value, angular impulse, forward/right vectors — *new idea, A-day* · *PT Connection: CP2's core deliverable; the first function students write that makes something physically happen.*
 	4. Roll practice and tuning (W10 Fri 10/30) — *practice, C-day* · *PT Connection: tuning RollSpeed against feel is the AF 401 rate reasoning; the committed state at the end of W10 is the halfway evidence for CP2.*
