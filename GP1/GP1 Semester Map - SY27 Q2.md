@@ -20,7 +20,7 @@ Q2 runs Mon 10/26 (Day 33) to Fri 1/22/27 (Day 67). GP1 meets 25 times before wi
 
 | Week | Dates | Meetings | Day 33.. | Content |
 |---|---|---|---|---|
-| W10 | 10/26 to 10/29 | 4 | 33-36 | 33 [[GP1 Day 33 - Q2 Launch + GitHub Setup]], 34 [[GP1 Day 34 - GitHub Finish + Roll-A-Ball Download]], 35 [[GP1 Day 35 - Video 01 Player Blueprint]], 36 [[GP1 Day 36 - Video 02 Enhanced Input]] (B day) |
+| W10 | 10/26 to 10/29 | 4 | 33-36 | 33 [[GP1 Day 33 - Q2 Launch + GitHub Setup]], 34 [[GP1 Day 34 - GitHub Test Assignment (Full Walkthrough)]], 35 [[GP1 Day 35 - GitHub Test Finish and Video 01 Player Blueprint]], 36 [[GP1 Day 36 - Video 02 Enhanced Input]] (B day) |
 | W11 | 11/4 to 11/5 | 2 | 37-38 | 37 [[GP1 Day 37 - Video 03 Player Movement + OBS Primer]], 38 [[GP1 Day 38 - Video 04 Camera Movement]] (B day). Only 2 meetings (RCPU 11/2 + Election Day 11/3): no checkpoint in this week, zero slack |
 | W12 | 11/9 to 11/12 | 4 | 39-42 | 39 V05, 40 CP1, 41 V06, 42 V07 (B day) |
 | W13 | 11/16 to 11/19 | 4 | 43-46 | 43 V08, 44 V09, 45 CP2, 46 V10 (B day) |

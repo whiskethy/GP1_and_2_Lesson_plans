@@ -16,7 +16,7 @@ joke: I told my computer I needed a break.
 
 # GP1 Day 33 - Q2 Launch + GitHub Setup (Day 33)
 
-Day 33 (A day, 48 min) - Q2 opening day. Exemplar run, the GitHub slides brief, then students begin the GitHub test assignment. Students who signed up Thursday 10/22 (Day 32) skip the account-creation step.
+Day 33 (A day, 48 min) - Q2 opening day. Exemplar run and the GitHub slides brief, extended: the slides carry the time and run a live demo of the full cycle on the projector. Students who signed up Thursday 10/22 (Day 32) skip the account-creation step tomorrow.
 
 ## Do Now
 
@@ -44,22 +44,21 @@ Day 33 (A day, 48 min) - Q2 opening day. Exemplar run, the GitHub slides brief, 
 1. Exemplar, full run-through (5-8 min) - a finished Roll-A-Ball game, in front of the whole room. Let it read as a game, not a tutorial. Then say it plainly: this is the target, and it is built in steps, one video per day.
 2. GitHub slides, cut to the flow that matters (10 min): what a repo is, what clone does, what commit means (a save with a label, not just save), what push does (it leaves your computer). Keep to one worked example. This is the new-idea block of the day.
 3. Test assignment walkthrough (5 min): what the assignment is (a repo with one file), what done looks like tonight (a pushed commit with the secret phrase), what NOT to put in (your name, anyone else's info).
-4. Guided start on the assignment (15-18 min, circulating): the teacher does each step on the projector, students do it right after. Steps: open the assignment link, accept it (Classroom's assignment-accept flow), open GitHub Desktop, clone the repo, open in VS Code, type the secret phrase, save, commit with a written message, push.
-5. Exit ticket (5 min). Students who don't finish pick up where they left off in Day 34's catch-up block; nobody goes home broken.
+4. Live demo of the full cycle on the projector (~10 min): the teacher runs the loop students will run tomorrow - accept an assignment, open GitHub Desktop, clone, open in VS Code, type the secret phrase, save, commit with a written message, push, and check the commit on github.com. Students watch today; the walkthrough worksheet carries the same steps tomorrow.
+5. Exit ticket (5 min). Tomorrow runs the whole assignment guided; nobody has homework from today.
 
 ## Agenda (A day, 48 min)
 
 1. Do Now review (5 min)
 2. Exemplar (5-8 min)
-3. GitHub slides brief (10 min)
-4. Test assignment walkthrough (5 min)
-5. Guided start on the test assignment (15-18 min)
-6. Exit ticket (5 min)
+3. GitHub slides brief, extended (20 min)
+4. Full-cycle demo on the projector (10 min)
+5. Exit ticket (5 min)
 
 ## Exit ticket
 
 1. What's the difference between commit and push? One sentence - which one sends it to the internet?
-2. What did you have working by end of class: account, clone, secret phrase typed, commit, or push? Name the last step you finished.
+2. Put the full cycle in order: accept, clone, commit, push.
 3. What's one thing you expect GitHub Desktop to be useful for once the project starts (guessing from the slides is fine)?
 
 ## Differentiation & Accommodations

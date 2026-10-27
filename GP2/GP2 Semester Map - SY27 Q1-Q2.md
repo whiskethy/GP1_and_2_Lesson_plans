@@ -18,10 +18,10 @@ Q2 instruction ends Fri 1/15/27. Q1 ends Fri 10/23 with Day 32 (Video 06 catch-u
 |---|---|---|---|
 | W8 | 10/12 to 10/16 | 3 (Mon holiday) | V03 Debug Statements (sub), V03 completion, V04 Common Errors + V05 preview (Fri) |
 | W9 | 10/19 to 10/23 | 4 | Catch-up on all videos to date, catch-up with V05 Loops self-paced, V06 Constructor and Components + V07 UPROPERTY and Tuning, Checkpoint 1 Day 32 (Q1 final) |
-| W10 | 10/26 to 10/30 | 4 | [[GP2 Day 33 - Roll-A-Ball Video 07 (UPROPERTY and Tuning)]], practice [[GP2 Day 34 - Input Practice (Silent-Input Debug Day)]], [[GP2 Day 35 - Roll-A-Ball Video 09 (Roll)]], practice [[GP2 Day 36 - Roll Practice and Tuning]] |
-| W11 | 11/2 to 11/6 | 2 | only Wed 11/4 + Fri 11/6 meet (RCPU 11/2 + Election Day 11/3): [[GP2 Day 37 - Roll-A-Ball Video 10 (Look and Jump)]], practice [[GP2 Day 38 - Look and Jump Practice]] |
-| W12 | 11/9 to 11/13 | 4 | V11 Object Model and GC, PlayerBall.h Code Read, work day, Checkpoint 2 |
-| W13 | 11/16 to 11/20 | 4 | V12 APickup Base Class, practice, V13 Coin and Overlap, practice |
+| W10 | 10/26 to 10/30 | 4 | [[GP2 Day 33 - Roll-A-Ball Video 07 (UPROPERTY and Tuning)]], V07 day two [[GP2 Day 34 - Roll-A-Ball Video 07 Finish and Tuning]], [[GP2 Day 35 - Roll-A-Ball Video 08 (Enhanced Input)]], [[GP2 Day 36 - Roll-A-Ball Video 09 (Roll and Capture)]] |
+| W11 | 11/2 to 11/6 | 2 | only Wed 11/4 + Fri 11/6 meet (RCPU 11/2 + Election Day 11/3): tuning workshop [[GP2 Day 37 - Roll Practice and Tuning]], [[GP2 Day 38 - Roll-A-Ball Video 10 (Look and Jump)]] |
+| W12 | 11/9 to 11/13 | 4 | gate-test practice [[GP2 Day 39 - Gate Test Cases (Look and Jump Practice)]] (Mon), V11 Object Model and GC (Tue), PlayerBall.h Code Read (Wed), work day (Fri); Checkpoint 2 (W13 opening) |
+| W13 | 11/16 to 11/20 | 4 | Checkpoint 2 (Mon 11/16), V12 APickup Base Class (Tue), practice (Wed), V13 Coin and Overlap (Fri) |
 | W14 | 11/23 to 11/24 | 2 | Bomb Transfer Brief (written), work day |
 | W15 | 11/30 to 12/4 | 4 | V15 TArray and Counting, counting practice (written), V16 Score UI Wiring, practice |
 | W16 | 12/7 to 12/11 | 4 | V17 Win Condition (series finale), add-a-feature work days, Checkpoint 3 |
