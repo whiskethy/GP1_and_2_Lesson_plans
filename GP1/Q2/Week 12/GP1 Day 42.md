@@ -22,7 +22,7 @@ agenda:
 
 # GP1 Day 42 - Videos 07 and 08: the item and the score chain (Day 42)
 
-Day 42 (B day, 72 min) - Video 07 (Pick Up Items pt. 1, 17:16) then Video 08 (Pick Up Items pt. 2, 10:25), Nick's re-cut 11/2. Video 07 builds the collectible item and teaches the day's new idea: collapse working nodes into a reusable function with inputs (Spin, then SinMotion, tuned by Sine Speed and Z Amplitude). Video 08 is consolidation by design - the score UI chain (PlayerController → HUD → widget) rushes because the ship game did all of it once - and its 40-minute block absorbs the fiddly cast chain, the video's break-the-links ending, and the B day's catch-up cushion.
+Day 42 (B day, 72 min) - Video 07 (Pick Up Items pt. 1, 17:16) then Video 08 (Pick Up Items pt. 2, 10:25). Video 07 builds the collectible item and teaches the day's new idea: collapse working nodes into a reusable function with inputs (Spin, then SinMotion, tuned by Sine Speed and Z Amplitude). Video 08 is consolidation by design - the score UI chain (PlayerController → HUD → widget) rushes because the ship game did all of it once - and its 40-minute block absorbs the fiddly cast chain, the video's break-the-links ending, and the B day's catch-up cushion.
 
 ## Do Now
 

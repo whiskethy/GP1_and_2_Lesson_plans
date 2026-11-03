@@ -24,7 +24,7 @@ agenda:
 
 Day 40 (A day, 48 min) - Checkpoint 1 in a 20-minute block, then Video 06 starts in the back 18. CP1 (the S&S's Chunk 8) is NOT a build day: the build is done, built across Videos 01-05. It is a recorded-proof gate - students record a short narrated video of the finished ball, commit, push, submit, and roll straight into Video 06 with whatever time is left. Video 06's first half (the movable box) runs here; its child-Blueprint half is Thursday's new idea.
 
-> **CP1 shape (set 11/2, Nick):** the brief is a checklist + recording spec + submit location, sized to a 20-minute block. Evidence is presence-based: the recording shows the checklist or it does not. CP1 never teaches a tool - OBS was primed on Day 38.
+> **CP1 shape:** the brief is a checklist + recording spec + submit location, sized to a 20-minute block. Evidence is presence-based: the recording shows the checklist or it does not. CP1 never teaches a tool - OBS was primed on Day 38.
 
 ## Do Now
 
