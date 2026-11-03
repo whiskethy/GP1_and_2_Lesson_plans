@@ -205,7 +205,7 @@ Course content with no dedicated meeting. Touched means the content appears insi
 **Scaffolds and ACT-aligned support**
 
 - Binary and hex conversion warm-up, 5 minutes at the start of meetings for the first two weeks, framed in ACT place-value language (N 302). Re-teach, not review.
-- **Code Read graphic organizer**, reused all year: purpose, inputs/outputs, control flow, calls, callers, what it does not tell you. Needed before Q2 W12.
+- **Code Read graphic organizer**, reused all year: purpose, inputs/outputs, control flow, calls, callers, what it does not tell you. Needed before Q2's Code Read day (Fri 11/13, re-dated 11/2).
 - Compiler-error cheat sheet: the five most common Unreal C++ errors, meaning, fix. Pairs with Video 04.
 - Header/source diagram poster showing how `.h`, `.cpp`, and `.generated.h` fit together. Pairs with Video 02.
 - Vocabulary wall built from the course glossary of Unreal terms and concepts, targeting WME 402. Students add entries from their own Code Reads.
@@ -223,17 +223,17 @@ Roll-A-Ball in C++ completed, then the Jeopardy final project.
 	1. Video 08 — Enhanced Input (W10 Tue 10/27): input mapping context, input actions, BindAction in SetupPlayerInputComponent, add the EnhancedInput module to Build.cs — *new idea, A-day* · *PT Connection: CP2 requires Roll, Look, and Jump working; nothing moves without this wiring. Also the first return to Build.cs since Video 02, now load-bearing instead of touched.*
 	2. Input practice (W10 Tue 10/27) — *practice, A-day* · *PT Connection: the mapping context either loads in BeginPlay or nothing responds; this is the debugging day for exactly that failure.*
 	3. Video 09 — Roll (W10 Wed 10/28): the Roll function, reading the input value, angular impulse, forward/right vectors — *new idea, A-day* · *PT Connection: CP2's core deliverable; the first function students write that makes something physically happen.*
-	4. Roll practice and tuning (W10 Fri 10/30) — *practice, C-day* · *PT Connection: tuning RollSpeed against feel is the AF 401 rate reasoning; the committed state at the end of W10 is the halfway evidence for CP2.*
-	5. Video 10 — Look and Jump (W11): controller pitch/yaw, the Jump function with its canJump conditional gate — *new idea* · *PT Connection: Jump is the first new-idea function that requires a conditional to work (one jump until you land), Unit 1's conditionals applied, and CP2 grades it.*
-	6. Look and Jump practice (W11) — *practice* · *PT Connection: canJump-reset bugs are the classic logic bug; finding it with debug prints is the CP2 evidence chain in miniature.*
-	7. Video 11 — Object Model and Garbage Collection (W12 Mon 11/9): why TObjectPtr, why UPROPERTY keeps things alive, what the GC will and will not collect, at project depth — *new idea, A-day* · *PT Connection: CP2 includes the PlayerBall.h Code Read; the trace questions (why is this pointer alive) are unanswerable without this video.*
-	8. Code Read: PlayerBall.h (W12 Tue 11/10): structured trace of the file they have been building — **written deliverable**, *A-day* · *PT Connection: the Q2 written deliverable on the Code Read spine, and the graphic organizer's first whole-file use.*
-	9. Work day (W12 Wed 11/11) — *practice, A-day* · *PT Connection: buffer before the checkpoint; movement polish and trace revisions.*
-	10. Checkpoint 2 (W12 Fri 11/13): Roll, Look, Jump working and committed; PlayerBall.h trace submitted — **checkpoint**, *C-day* · *PT Connection: mastery evidence for Enhanced Input, movement physics, and reading code they did not write.*
-	11. Video 12 — The APickup Base Class (W13 Mon 11/16): class inheritance in the light — one base class owning movement, collision, visuals, and audio; what children override; class vs instance revisited — *new idea, A-day* · *PT Connection: CP3's pickup system is literally this hierarchy; there is no version of the checkpoint without it.*
-	12. APickup practice (W13 Tue 11/17) — *practice, A-day* · *PT Connection: the base class must compile before any child exists; this is where students learn the difference between a class and its instances.*
-	13. Video 13 — Coin and Overlap Events (W13 Wed 11/18): the ACoin child, OnComponentBeginOverlap, the debug print proving the collision fired — *new idea, A-day* · *PT Connection: pickups that cannot be collected cannot produce CP3's win condition; overlap is the mechanism.*
-	14. Coin practice (W13 Fri 11/20) — *practice, C-day* · *PT Connection: collision preset mistakes are the overlap day's classic bug, fixed with the Video 03 habit.*
+	4. Roll practice and tuning (off the schedule; the predict-test-record habit rides Day 40's finisher extension in miniature) — *practice* · *PT Connection: tuning RollSpeed against feel is the AF 401 rate reasoning; the committed state at the end of W10 is the halfway evidence for CP2.*
+	5. Video 10 — Look and Jump (W12 Mon 11/9, remap 11/2): controller pitch/yaw, the Jump function with its canJump conditional gate — *new idea* · *PT Connection: Jump is the first new-idea function that requires a conditional to work (one jump until you land), Unit 1's conditionals applied, and CP2 grades it.*
+	6. Look and Jump practice (W12 Tue 11/10, remap 11/2: the finish block + the Controller Challenge capture) — *practice* · *PT Connection: canJump-reset bugs are the classic logic bug; finding it with debug prints is the CP2 evidence chain in miniature.*
+	7. Video 11 — Object Model and Garbage Collection (W12 Wed 11/11, remap 11/2): why TObjectPtr, why UPROPERTY keeps things alive, what the GC will and will not collect, at project depth — *new idea, A-day* · *PT Connection: CP2 includes the PlayerBall.h Code Read; the trace questions (why is this pointer alive) are unanswerable without this video.*
+	8. Code Read: PlayerBall.h (W12 Fri 11/13, C-day written block, remap 11/2): structured trace of the file they have been building — **written deliverable** · *PT Connection: the Q2 written deliverable on the Code Read spine, and the graphic organizer's first whole-file use.*
+	9. Work day (W12 Wed 11/11, ABSORBED 11/2: the finish and catch-up minutes ride chunk 7's video block and chunk 8's C-day lane; no standalone work day) — *practice, A-day* · *PT Connection: buffer before the checkpoint; movement polish and trace revisions.*
+	10. Checkpoint 2 (W13 Mon 11/16, slip 11/2: the Code Read took the C day): Roll, Look, Jump working and committed; PlayerBall.h trace submitted — **checkpoint**, *A-day* · *PT Connection: mastery evidence for Enhanced Input, movement physics, and reading code they did not write.*
+	11. Video 12 — The APickup Base Class (W13 Tue 11/17, remap 11/2): class inheritance in the light — one base class owning movement, collision, visuals, and audio; what children override; class vs instance revisited — *new idea, A-day* · *PT Connection: CP3's pickup system is literally this hierarchy; there is no version of the checkpoint without it.*
+	12. APickup practice (W13 Wed 11/18, remap 11/2) — *practice, A-day* · *PT Connection: the base class must compile before any child exists; this is where students learn the difference between a class and its instances.*
+	13. Video 13 — Coin and Overlap Events (W13 Fri 11/20, remap 11/2): the ACoin child, OnComponentBeginOverlap, the debug print proving the collision fired — *new idea, C-day* · *PT Connection: pickups that cannot be collected cannot produce CP3's win condition; overlap is the mechanism.*
+	14. Coin practice (no seat after the 11/2 remap - W13's Friday went to V13; re-cut at the W13 build pass) — *practice, C-day* · *PT Connection: collision preset mistakes are the overlap day's classic bug, fixed with the Video 03 habit.*
 	15. Transfer Brief: the Bomb (W14 Mon 11/23): the ABomb child — same base, different response. Students get a goal paragraph plus where they built the pattern before; they produce the build and a written diff. The second appearance of the pickup pattern, so it is a reading, not a video — **written deliverable**, *A-day* · *PT Connection: proves students can transfer the inheritance pattern without a walkthrough — the exact skill Jeopardy's response animations demand a month later.*
 	16. Bomb work day (W14 Tue 11/24) — *practice, A-day* · *PT Connection: buffer for the short week; anything unfinished here eats W15's practice day, which is why no checkpoint sits in W14.*
 	17. Video 15 — TArray and Counting (W15 Mon 11/30): the pickup array, adding on collect, counting what remains — *new idea, A-day* · *PT Connection: CP3 requires collectible-countable pickups; the array is also Jeopardy's question-data structure rehearsed early. Second appearance of loops, so the practice is written.*
@@ -299,7 +299,7 @@ Anchors: **3B-AP-14** (construct solutions using student-created components and 
 
 **Scaffolds and ACT-aligned support**
 
-- Code Read graphic organizer (must exist before W12; also on the Q1 list).
+- Code Read graphic organizer (must exist before Fri 11/13, re-dated 11/2; also on the Q1 list).
 - Compiler-error cheat sheet, kept current as new error types appear in the input and overlap work.
 - Inheritance mini-lesson ahead of Video 12: the shared-versus-different framing (coins and bombs), concrete before abstract.
 - Scope contract template with worked over-scope and under-scope examples, issued at the Jeopardy kickoff.

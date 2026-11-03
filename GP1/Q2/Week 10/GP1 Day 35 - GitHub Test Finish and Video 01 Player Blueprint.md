@@ -16,15 +16,15 @@ joke: What did one elevator say to the other elevator?
 
 # GP1 Day 35 - GitHub Test Finish and Video 01 Player Blueprint
 
-Day 35 (A day, 48 min) - three-part run: finish the GitHub Test assignment, accept and clone the Roll-A-Ball starter, then Video 01 (Player Blueprint, 11:05). Unreal opens on the starter project for the first time: students build BP_PlayerBall (collider root, mesh, temporary material, camera boom), point the Game Mode at it, and turn physics on so the ball actually falls. First proof submission of the project.
+Day 35 (A day, 48 min) - three-part run: finish the GitHub Test assignment, accept and clone the Roll-A-Ball starter, then Video 01 (Player Blueprint, 11:05). Unreal opens on the starter project for the first time: students build BP_PlayerBall (collider root, mesh, temporary material, camera boom), point the Game Mode at it, and turn physics on so the ball actually falls. The push to each student's own Roll-A-Ball repo is the proof - no screenshot assignment.
 
 ## Do Now
 
 | # | Type | Question |
 |---|------|----------|
-| 1 | Review | Setting a Game Mode override in the ship game decided something. In plain words, what did it decide? |
-| 2 | Review | A downloaded GitHub project folder holds the whole Unreal project. What kind of file opens it in Unreal? |
-| 3 | Preview | Roll-A-Ball is a physics game - the ball has weight. What do you think has to be switched ON for the ball to fall to the ground when you press Play? |
+| 1 | Review | In one sentence: what does a repo give you that a plain folder on your desktop does not? |
+| 2 | Review | What does it mean to commit a repo? |
+| 3 | Preview | Which step uploads commits to GitHub.com? Repo, Commit, Pull, Push |
 
 ## Shared Block
 
@@ -44,15 +44,15 @@ Day 35 (A day, 48 min) - three-part run: finish the GitHub Test assignment, acce
 1. Do Now review (5 min)
 2. Lane 1, the finish (guided, ~10 min): students who have not pushed the GitHub Test assignment finish it now using the walkthrough Doc (accept, clone, secret phrase, commit, push; the Classmoji sign-up handles itself once they sign in and accept). Their personal repos are already provisioned for every enrolled student; anyone whose repo is not showing yet waits a minute and refreshes the assignment page. Anyone already pushed starts Part 2 the same minute: accept Roll-A-Ball in Classmoji, open GitHub Desktop, clone the starter repo, and NOTE the folder - it is MUCH bigger than the test repo (a whole Unreal project, ~600 MB), the clone takes minutes, and leaving GitHub Desktop alone while it runs is normal.
 3. Video 01 + follow-along (~17 min, EdPuzzle at 1.75x, watch-first): the video plays for the whole room; hands follow along ONLY once the download lands - the 2:00 mark on clone-folder location is the handoff. Steps in order: Blueprints folder -> BP_PlayerBall (Pawn) -> sphere collision set as scene root -> Static Mesh (Shape_Sphere), offset to center, collider radius up -> rename it SphereCollider -> collision preset Pawn, mesh set to No Collision -> Materials folder -> temporary M_PlayerBall, any base color -> drag material onto the ball -> drag BP_PlayerBall into the starter level -> spring arm Camera Boom with the camera nested in it -> compile and save -> World Settings -> new BP_GameMode -> Default Pawn Class = BP_PlayerBall -> Simulate Physics ON -> delete the stray ball.
-4. Independent + proof (10 min): students whose project is on disk screenshot the ball sitting in the level with its material color -> submit to "GP1 Roll-A-Ball: Video 01 Proof" on Classroom. Students still downloading commit the test repo and continue the clone; their proof rides Day 36's B day.
-5. Commit checkpoint + exit ticket (5 min): SAVE whatever state you have, then commit and push on GitHub Desktop (test repo for stragglers, starter repo for the caught-up). The video's last EdPuzzle note says the same thing - this is the habit, every video, every day. Commit message names the step: "Video 01: player ball in level" or "github test: secret phrase".
+4. Independent (10 min): students whose project is on disk make the ball theirs - material color, a Play run to watch it fall. Students still downloading commit the test repo and continue the clone; their build rides Day 36's B day.
+5. Commit checkpoint + exit ticket (5 min): SAVE whatever state you have, then commit and push on GitHub Desktop (test repo for stragglers, starter repo for the caught-up). The video's last EdPuzzle note says the same thing - this is the habit, every video, every day. The caught-up students' Roll-A-Ball push is the day's evidence of learning, verified on the repo itself. Commit message names the step: "Video 01: player ball in level" or "github test: secret phrase".
 
 ## Agenda (A day, 48 min)
 
 1. Do Now review (5 min)
 2. GitHub Test finish (guided) / Roll-A-Ball accept + download start (~10 min)
 3. Video 01 + follow-along as downloads land (~17 min, circulating)
-4. Independent + proof screenshot (~10 min)
+4. Independent + polish (~10 min)
 5. Commit checkpoint + exit ticket (5 min)
 
 *Unnumbered, parallel: anyone's Roll-A-Ball download still running at the bell keeps running wherever they are - GitHub Desktop resumes on its own. Standing close: close what is open, push what is committed.*
@@ -67,8 +67,8 @@ Day 35 (A day, 48 min) - three-part run: finish the GitHub Test assignment, acce
 
 - **Engagement:** the block opens on finishing something real that broke (the slow queue was nobody's fault), and the ball appears in THEIR level today for every student whose download landed. First artifact of the quarter they built themselves.
 - **Representation:** the video (spoken + on-screen), the walkthrough Doc still open from yesterday, and circulating narration run in parallel. Collider-vs-mesh gets a spoken anchor: "the collider handles hits, the mesh is just the look."
-- **Action & Expression:** the temporary material color is their choice; the proof screenshot shows their own level, not a copy of the video's.
-- **Accommodations:** stragglers pair with a pushed neighbor for the test finish; downloads that are still running at the bell resume on their own; anyone missing a commit screenshot of their push uses github.com's history page as the proof. Proof submission rides to Day 36 without penalty.
+- **Action & Expression:** the temporary material color is their choice; the pushed repo is their own build, not a copy of the video's level.
+- **Accommodations:** stragglers pair with a pushed neighbor for the test finish; downloads that are still running at the bell resume on their own; anyone whose Roll-A-Ball push is still missing at the bell finishes on Day 36 without penalty - the push, verified on github.com, is the proof.
 - **Student Voice:** material color, and sun/sky customization for early finishers.
 
 ## Materials
@@ -79,4 +79,3 @@ Day 35 (A day, 48 min) - three-part run: finish the GitHub Test assignment, acce
 | Walkthrough Doc (still the spine for the test finish) | https://docs.google.com/document/d/1OVJT5JddEGWv2hgnyYrTpLR-G6uMk5cnFWKreAZ9Sew/edit |
 | Roll-A-Ball assignment | Classmoji: "Roll-A-Ball" (accept, then clone) |
 | Starter project repo | https://github.com/ChicagoTechAcademy/Unreal_Roll_a_Ball_Starter |
-| Proof: Video 01 screenshot | Classroom: "GP1 Roll-A-Ball: Video 01 Proof" |

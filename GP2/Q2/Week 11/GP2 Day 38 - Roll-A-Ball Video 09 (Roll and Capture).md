@@ -1,23 +1,28 @@
 ---
 course: GP2
 quarter: Q2
-day: 36
-date: Fri 10/30
+day: 38
+date: Fri 11/6
 day_type: C
-chunk: '3'
+chunk: "3"
 type: new idea (EdPuzzle)
 class_minutes: 72
 unit: 4
 status: active
 sub: false
-updated: 2026-10-27
-riddle: If two's company, and three's a crowd, what are four and five?
-joke: How did the piano get locked out of its car?
+updated: 2026-10-30
+riddle: What is black when it's clean and white when it's dirty?
+joke: What do you call an unpredictable camera?
+agenda:
+  - {"title":"Do Now review","min":5,"pinned":true}
+  - {"title":"Video 09 on EdPuzzle: value read, spin axes, Roll body, wrong-way bug","min":47,"kind":"video"}
+  - {"title":"Independent: one predict-before-run round, own RollSpeed, drive capture + submission, catch-up lane for Video 08","min":15}
+  - {"title":"Exit ticket","min":5,"pinned":true}
 ---
 
-# GP2 Day 36 - Roll-A-Ball Video 09 (Roll and Capture)
+# GP2 Day 38 - Roll-A-Ball Video 09 (Roll and Capture)
 
-Day 36 (C day, 72 min). Live focus: Video 09 - Roll, the payoff video: the first thing physically moves. The Roll function reads the input value, the spin-axis story explains the one line that looks backwards and isn't, angular impulse makes the ball honest, and RollSpeed finally does real work. The C day's extra minutes all go to the back half: typing the Roll body, the prediction-before-run ritual on the value print, and the drive capture at a RollSpeed the student picked. Students arrive from Video 08 with three bound functions firing prints.
+Day 38 (C day, 72 min). Live focus: Video 09 - Roll, the payoff video: the first thing physically moves. The Roll function reads the input value, the spin-axis story explains the one line that looks backwards and isn't, angular impulse makes the ball honest, and RollSpeed finally does real work. The C day's extra minutes all go to the back half: typing the Roll body, the prediction-before-run ritual on the value print, and the drive capture at a RollSpeed the student picked. Students arrive from Video 08 with three bound functions firing prints.
 
 ## Learning Target
 
@@ -65,15 +70,12 @@ The challenge, per the video: set RollSpeed to a value YOU pick (default 20.0f; 
 3. You double RollSpeed and the ball's movement roughly doubles. What is multiplying what, in one sentence?
 4. Your input values print correctly, but the ball rolls sideways when you press W. Which lines are the suspect family, and what is the fix?
 
-## Agenda
+## Agenda (C day, 72 min)
 
 1. Do Now review (5 min)
-2. Video 09 on EdPuzzle: value read, spin axes, Roll body, wrong-way bug (~22-27 min)
-3. Follow-along: include, paste-adjust, compile, first drive (~10 min)
-4. Independent: one predict-before-run round, own RollSpeed, drive capture + submission, catch-up lane for Video 08 (~25 min)
-5. Exit ticket (5 min)
-
-*Unnumbered, parallel: Video 08's Look and Jump prints still fire in this video's end state - expected, they keep working until Video 10. Standing close: close Unreal, full compile, commit and push.*
+2. Video 09 on EdPuzzle: value read, spin axes, Roll body, wrong-way bug (47 min)
+3. Independent: one predict-before-run round, own RollSpeed, drive capture + submission, catch-up lane for Video 08 (15 min)
+4. Exit ticket (5 min)
 
 ## Materials
 
@@ -82,3 +84,4 @@ The challenge, per the video: set RollSpeed to a value YOU pick (default 20.0f; 
 | Video 09 on EdPuzzle | Added here when the video publishes |
 | Starter project repo | https://github.com/ChicagoTechAcademy/UE_Roll_a_Ball |
 | Paste blocks | Ride the video description when published |
+

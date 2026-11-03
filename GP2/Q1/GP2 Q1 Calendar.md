@@ -94,7 +94,7 @@ Meeting pattern: Mon/Tue/Wed A (48 min), Fri C (72 min). No Thursday class.
 |-----|------|------|-----|------|-------|------|
 | 29 | Mon 10/19 | A | 48 | 3 | Roll-A-Ball catch-up (all videos to date) | [[GP2 Day 29 - Roll-A-Ball Video 05 (Loops)]] |
 | 30 | Tue 10/20 | A | 48 | 3 | Catch-up: Video 04, then Video 05 (Loops) self-paced | [[GP2 Day 30 - Catch-Up]] |
-| 31 | Wed 10/21 | A | 48 | 3 | Roll-A-Ball Videos 06 and 07: Constructor and Components, then UPROPERTY and Tuning | [[GP2 Day 31 - Roll-A-Ball Video 06 (Constructor and Components)]] / [[GP2 Day 31 - Roll-A-Ball Video 07 (UPROPERTY and Tuning)]] |
+| 31 | Wed 10/21 | A | 48 | 3 | Roll-A-Ball Videos 06 and 07: Constructor and Components, then UPROPERTY and Tuning | [[GP2 Day 31 - Roll-A-Ball Video 06 (Constructor and Components)]] / V07 took its own day after the slip: Day 33 Mon 10/26 ([[GP2 Day 33 - Roll-A-Ball Video 07 (UPROPERTY and Tuning)]], Q2 Week 10) |
 | — | Thu 10/22 | — | — | | *No class - Video 06 evidence turned in on Classroom by EOD* | |
 | 32 | Fri 10/23 | C | 72 | 3 | Video 06 Catch-Up + First Fab Imports | [[GP2 Day 32 - Video 06 Catch-Up + First Fab Imports]] |
 

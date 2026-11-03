@@ -20,8 +20,8 @@ Q2 runs Mon 10/26 (Day 33) to Fri 1/22/27 (Day 67). GP1 meets 25 times before wi
 
 | Week | Dates | Meetings | Day 33.. | Content |
 |---|---|---|---|---|
-| W10 | 10/26 to 10/29 | 4 | 33-36 | 33 [[GP1 Day 33 - Q2 Launch + GitHub Setup]], 34 [[GP1 Day 34 - GitHub Test Assignment (Full Walkthrough)]], 35 [[GP1 Day 35 - GitHub Test Finish and Video 01 Player Blueprint]], 36 [[GP1 Day 36 - Video 02 Enhanced Input]] (B day) |
-| W11 | 11/4 to 11/5 | 2 | 37-38 | 37 [[GP1 Day 37 - Video 03 Player Movement + OBS Primer]], 38 [[GP1 Day 38 - Video 04 Camera Movement]] (B day). Only 2 meetings (RCPU 11/2 + Election Day 11/3): no checkpoint in this week, zero slack |
+| W10 | 10/26 to 10/29 | 4 | 33-36 | 33 [[GP1 Day 33 - Q2 Launch + GitHub Setup]], 34 [[GP1 Day 34 - GitHub Test Assignment (Full Walkthrough)]], 35 [[GP1 Day 35 - GitHub Test Finish and Video 01 Player Blueprint]] (test finish + clone ran; the video did not - all repos clean by the bell), 36 [[GP1 Day 36 - Videos 01 and 02 (Player Blueprint + Enhanced Input)]] (B day; both videos, re-shaped 10/28) |
+| W11 | 11/4 to 11/5 | 2 | 37-38 | 37 [[GP1 Day 37 - Video 03 Player Movement]], 38 [[GP1 Day 38 - Video 04 Camera Movement + OBS Primer]] (B day; OBS primer moved from Day 37, 11/2). Only 2 meetings (RCPU 11/2 + Election Day 11/3): no checkpoint in this week, zero slack |
 | W12 | 11/9 to 11/12 | 4 | 39-42 | 39 V05, 40 CP1, 41 V06, 42 V07 (B day) |
 | W13 | 11/16 to 11/19 | 4 | 43-46 | 43 V08, 44 V09, 45 CP2, 46 V10 (B day) |
 | W14 | 12/1 to 12/3 | 3 | 47-49 | 47 V11, 48 **CP3** (progress grades due today), 49 V12 (B day). Mon 11/30 is Staff PD. CP3 lands before the progress-report grade posts, so the 12/2 grade includes a committed checkpoint build; V12 rides the B day after |
@@ -66,7 +66,7 @@ Commit-and-push runs after every video, and that is proof for every video. Six v
 | V15 | 52 | commit/push only | Bump candidate - if it moves to January, the commit trail shows the refresher landed |
 | V16 | 53 | commit/push only | CP4 the next day |
 
-**The V03 OBS lesson.** V03's recording proof is the first OBS recording students make, so Day 37 (V03 day) carries a how-to-OBS block: capture source setup, region select, start/stop, and where the file lands. This is the primer for CP1's OBS screen recording two days later - students arrive at CP1 having already recorded once, so the checkpoint never teaches the tool. Fits the A day: V03 is the series' second-shortest video at 11:28 (~20-25 min with EdPuzzle pauses), the OBS block takes 8-10 min including their first mini-recording, and Do Now + exit ticket take 10 on either end. The OBS instruction video is posted to Classroom before Day 37.
+**The V03 OBS lesson.** V03's recording proof is the first OBS recording students make, so Day 38 (B day) carries a how-to-OBS block: capture source setup, region select, start/stop, and where the file lands. This is the primer for CP1's OBS screen recording one meeting later (Tue 11/10) - students arrive at CP1 having already recorded once, so the checkpoint never teaches the tool. The A day runs video + practice + commit, and the B day's 72 minutes absorb the 15-min OBS + commit block; the recording content stays yesterday's rolling ball (the Video 03 proof). The OBS instruction video is posted to Classroom before Day 38.
 
 **Grading shape.** Screenshot submissions are presence-based: the thing being there earns its points, one glance per submission. The V03 recording is the only one that takes attention (watch 5-10 seconds, check the ball actually rolls). All six submit to Google Classroom, named like the Q1 pattern ("GP1 Roll-A-Ball: Video NN Proof").
 
