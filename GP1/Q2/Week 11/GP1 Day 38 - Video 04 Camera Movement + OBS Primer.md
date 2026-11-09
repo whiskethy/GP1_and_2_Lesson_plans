@@ -9,9 +9,9 @@ type: new idea (EdPuzzle)
 class_minutes: 72
 unit: 1
 status: active
-updated: 2026-11-02
-riddle: What is black when it's clean and white when it's dirty?
-joke: What do you call an unpredictable camera?
+updated: 2026-11-05
+riddle: What flies without wings and cries without eyes?
+joke: Did you hear the one about the claustrophobic astronaut?
 sub: false
 agenda:
   - {"title":"Do Now review","min":5,"pinned":true}
@@ -31,6 +31,7 @@ Day 38 (B day, 72 min) - Video 04 (Camera Movement, 7:58) plus the room's first 
 | 1 | Review | Which input action drove the rolling, and what was its value type? |
 | 2 | Review | A and D needed Swizzle (plus Negate for D). What did Swizzle swap? |
 | 3 | Preview | When the ball rolls, the camera rolls with it - dizzy. The fix says the camera boom should "use pawn control rotation." From the name: which rotation should the camera follow, the ball's tumbling or the player's looking direction? |
+| 4 | Task | Go on fab.com and claim this week's limited-time free assets - add them to your library before they rotate out. One minute now; you keep them forever and can pull them into any project later. |
 
 ## Shared Block
 
@@ -49,7 +50,7 @@ Day 38 (B day, 72 min) - Video 04 (Camera Movement, 7:58) plus the room's first 
 
 1. Do Now review (5 min)
 2. Video 04 block (44 min, circulating): follow-along (~16 min at ~2x of 7:58, EdPuzzle): Use Pawn Control Rotation + inherit pitch, yaw, roll on the Camera Boom → compile, play, watch the camera stop rolling with the ball → in IMC_PlayerBall, add a mapping for IA_Look ← Mouse XY 2D Axis, Negate on Y only → set IA_Look's value type to Axis2D → comment-box the movement chain and set it aside in the graph → bind IA_Look under the event → split the pin → X to Add Controller Yaw Input, Y to Add Controller Pitch Input → comment it "Camera Input" → compile, save, test mouse look. Then guided check (~8 min): mouse look works on both axes for the whole room BEFORE the tuning release. The inverted-pitch moment is a preference, not a bug: show the Y unnegate toggle once, let each student pick, move on. Then tuning workshop (~20 min, independent - the B day's depth): one value at a time, on the tuning record: Target Arm Length (video lands near 450), camera offset up on the boom, enable Camera Lag and Camera Rotation Lag, set lag speed (~3) and rotation lag (~5). Each entry: knob - new value - what I expected - what I felt. The rule is one knob at a time, so if it feels wrong you know which value to undo. Roll Speed from Video 03 may be re-tuned in the same block. Test, settle, fill the record, keep the settings.
-3. OBS primer + first recording (15 min, guided): OBS is on the lab PCs already. Four moves, teacher does each on the projector, students repeat: (1) add a Display Capture source, (2) region-select just the Unreal window, (3) Start Recording / Stop Recording, (4) open the file from the Videos folder. Then each student records one 5-10 second clip of their ball rolling in at least two directions - yesterday's motion, today's camera - and submits it to "GP1 Roll-A-Ball: Video 03 Proof." The OBS how-to video is posted on Classroom - use it if a step stalls. Narration is NOT required: it is the practice run, not the checkpoint; narration starts at CP1.
+3. OBS primer + first recording (15 min, guided): OBS is on the lab PCs already. Four moves, teacher does each on the projector, students repeat: (1) add a Display Capture source, (2) region-select just the Unreal window, (3) Start Recording / Stop Recording, (4) open the file from the Videos folder. Then each student records one 5-10 second clip of their ball rolling in at least two directions - yesterday's motion, today's camera - and keeps it; there is no Classroom submission, the commit trail is the proof. The OBS how-to video is posted on Classroom - use it if a step stalls. Narration is NOT required: it is the practice run, not the checkpoint; narration starts at CP1.
 4. Commit checkpoint and exit ticket (8 min): save, commit and push with a message naming the camera work - the commit trail IS the movement proof, nothing to screenshot - then the exit ticket.
 
 ## Agenda (B day, 72 min)
@@ -77,6 +78,7 @@ Day 38 (B day, 72 min) - Video 04 (Camera Movement, 7:58) plus the room's first 
 
 | Item | Link |
 |------|------|
+| Daily slides 11.5 | ✅ built 11/5, verified by read-back |
 | Video 04 - Camera Movement on EdPuzzle | https://youtu.be/8ZneHrQtNWM (in the Roll-A-Ball playlist) |
 | Proof: commit and push | GitHub Desktop - commit trail inspects at Checkpoint 1 (Tue 11/10) |
 

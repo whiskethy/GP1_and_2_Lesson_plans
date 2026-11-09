@@ -10,7 +10,7 @@ class_minutes: 48
 unit: 4
 status: active
 sub: false
-updated: 2026-10-30
+updated: 2026-11-04
 riddle: I follow you all the time and copy your every move, but you can't touch me or catch me. What am I?
 joke: What do sprinters eat before a race?
 agenda:
@@ -23,11 +23,11 @@ agenda:
 
 # GP2 Day 37 - Roll-A-Ball Video 08 (Finish and Catch-Up)
 
-Day 37 (A day, 48 min). Practice day, no new idea: finish day behind Video 08, self-paced from each stop-point. The room's pace check from Week 10 stands - videos are taking students several days each, so every video day carries a finish day behind it. Today's work is Video 08's end state (assets assigned, bindings pasted, three prints firing) plus the input-debug practice the video's possession failure set up: seed a failure, read which print went missing, restore. The committed state at the end of today is the three-prints screenshot submitted, or a named stop-point for Friday's Roll block. Anyone ahead runs the seeded-failure extension.
+Day 37 (A day, 48 min). Work day, no new idea: self-paced work on Video 08 from each stop-point. Re-aimed live 11/4 (Nick): not enough of the room has started V08, so most students start it today and the finish spills into Friday's block. The committed state at the end of today is the three-prints screenshot submitted, or a named stop-point carried into Friday. Anyone already at the end state runs the seeded-failure extension.
 
 ## Learning Target
 
-From a named stop-point, reach Video 08's end state on your own project and prove it: a screenshot of all three fire prints together, submitted - then seed the mapping-context failure and restore it, reading which print went missing and what its absence proves.
+From a named stop-point, work Video 08 on your own project. If you reach the end state, prove it: a screenshot of all three fire prints together, submitted - then seed the mapping-context failure and restore it, reading which print went missing and what its absence proves. If you don't reach it, name your stop-point and where the wiring stands; that stop-point is Friday's starting line.
 
 **Standards:** CSTA 3A-AP-21 (evaluate and refine computational artifacts) · ISBE 9-10.AP.21 (same verb, ISBE wording) · ACT WME 402 (carried)
 
@@ -35,7 +35,7 @@ From a named stop-point, reach Video 08's end state on your own project and prov
 
 | Field | Value |
 |---|---|
-| Learning target | Finish Video 08 from your own stop-point, submit the three-prints screenshot, then comment out the AddMappingContext line and restore it - naming which print vanished and why that is the clue. |
+| Learning target | Work Video 08 from your own stop-point; if you reach the end state, submit the three-prints screenshot, then comment out the AddMappingContext line and restore it - naming which print vanished and why that is the clue. Anyone short of the end state names their stop-point for Friday. |
 | New concept | None. Applying Video 08's wiring and V04's error ritual together - the debugging day, not a new idea. |
 | Content standard | CSTA 3A-AP-21 (evaluate and refine computational artifacts) |
 | ACT standard | WME 402 (carried) |
@@ -48,9 +48,9 @@ From a named stop-point, reach Video 08's end state on your own project and prov
 
 | # | Type | Question |
 |---|------|----------|
-| 1 | Review | Name the three pieces of Enhanced Input, each with its one-line job (the context, the actions, the bindings). |
-| 2 | Review | In the video, keys did nothing and no error appeared. What was the engine possessing, and what one setting fixed it? |
-| 3 | Preview | Your "Mapping context added" print is missing and the keys are dead. Before touching anything: which one line do you check first, and what would prove it ran? |
+| 1 | Review | What turns a plain C++ float like RollSpeed into a Details-panel knob, and where does that line sit? |
+| 2 | Review | You tune RollSpeed to 20, press Play, and the BeginPlay print still says 12. Name two things to check before you rewrite anything. |
+| 3 | Preview | Your ball has knobs but the keyboard does nothing yet. In one sentence, what is the missing piece between the keyboard and those knobs? |
 
 ## Worked example
 
@@ -62,19 +62,19 @@ Self-paced from the stop-point, circulating. Triage priority: no working compile
 
 ## Independent work
 
-Finish V08 to the end state, screenshot the three prints, submit on Classroom, close Unreal, full compile, commit and push. Then the seed-and-restore extension is open: comment out the AddMappingContext line, prove which print is the clue, restore. Students ahead of all of it keep the lane: re-run the ownership check (which prints fire, which do not, what each one proves) and write the one-sentence debug story of their own end state - the same story Friday's Roll block starts from.
+Work Video 08 from your stop-point. Reaching the end state earns the artifact today: screenshot the three prints, submit on Classroom, close Unreal, full compile, commit and push - then the seed-and-restore extension is open (comment out the AddMappingContext line, prove which print is the clue, restore). Anyone short of V07's Details screenshot finishes that first, then joins the video. Students who don't reach the end state carry a named stop-point instead - which pieces exist, which paste landed, where the compile stands - and that stop-point opens Friday's block.
 
 ## Exit ticket
 
-1. Read the Roll BindAction line back to me in plain English: which action, which event, who owns the function, which function. One sentence.
-2. Keys are dead and the compile is clean. Which TWO prints would you check on screen, and which layer of the wiring does each one prove?
-3. Your own project right now: which prints fire and which is missing, and what is the one thing you will do first in Friday's block?
+1. EditAnywhere vs VisibleAnywhere: in one sentence, what differs - and name the one you want on a value you tune live.
+2. The challenge screenshot needs three things visible. Name all three.
+3. Your own project: which knob did you tune, to what value, and did the BeginPlay print agree?
 
 ## Agenda (A day, 48 min)
 
 1. Do Now review (5 min)
 2. Worked example: one seeded failure whole-class (5 min)
-3. Self-paced finish of V08 from stop-points, circulating (20 min)
+3. Self-paced work on V08 from stop-points, circulating (20 min)
 4. Seed-and-restore extension or catch-up lane; screenshot submissions (12 min)
 5. Commit checkpoint + exit ticket (6 min) - close Unreal, full compile, commit and push with a message naming Video 08
 
@@ -85,4 +85,8 @@ Finish V08 to the end state, screenshot the three prints, submit on Classroom, c
 | Video 08 on EdPuzzle (rewatch for the catch-up lane) | https://edpuzzle.com/media/6ae399f01eddab4feacccbd7 |
 | Starter project repo | https://github.com/ChicagoTechAcademy/UE_Roll_a_Ball |
 | Paste blocks | https://docs.google.com/document/d/1Mz3ts3Cv0g-8qM_-PFh7sUHCh47PyFvvh1zOs99B4Qw/edit?usp=sharing |
+
+### EdPuzzle embeds
+
+<iframe width="470" height="404" src="https://edpuzzle.com/embed/media/6ae399f01eddab4feacccbd7" frameborder="0" allowfullscreen></iframe>
 

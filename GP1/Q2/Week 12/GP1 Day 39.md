@@ -11,7 +11,7 @@ unit: 1
 status: active
 updated: 2026-11-02
 riddle: What comes once in a minute, twice in a moment, but never in a thousand years?
-joke: Cremation.
+joke: How does a penguin build a house?
 sub: false
 agenda:
   - {"title":"Do Now review","min":5,"pinned":true}

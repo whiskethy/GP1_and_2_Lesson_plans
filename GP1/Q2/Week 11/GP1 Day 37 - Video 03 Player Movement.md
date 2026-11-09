@@ -64,7 +64,7 @@ Day 37 (A day, 48 min) - Video 03 (Player Movement, 11:28). The ball rolls: Add 
 
 ## Differentiation & Accommodations
 
-- **Engagement:** first time the game is a game - motion, in their own level, on their own screen. Tomorrow's OBS recording turns exactly that into their proof artifact.
+- **Engagement:** first time the game is a game - motion, in their own level, on their own screen. Tomorrow's OBS recording rehearses the tool Checkpoint 1 records with; the commit trail is the proof.
 - **Representation:** the direction setup gets a spoken anchor ("forward is wherever the camera is looking - the controller decides what forward means"); the day sheet lists every node in order so a missed narration step is recoverable.
 - **Action & Expression:** Roll Speed is instance-editable - once moving, students tune it and feel the result immediately; their finished ball is the subject of Day 38's recording.
 - **Accommodations:** students still inside Video 02 finish it now - their checked-in work this meeting is the Input folder proof they already submitted, and Checkpoint 1 on Day 40 is the catch-up fence. Anyone who does not reach the four-direction bar works to it at Thursday's start instead, inside Thursday's 44-minute block before tuning.
@@ -76,5 +76,4 @@ Day 37 (A day, 48 min) - Video 03 (Player Movement, 11:28). The ball rolls: Add 
 |------|------|
 | Video 03 - Player Movement on EdPuzzle | https://youtu.be/j63wjt4euys (in the Roll-A-Ball playlist) |
 | OBS how-to video | Posted on Classroom (the teacher's existing OBS video/doc) |
-| Proof: Video 03 recording | Classroom: "GP1 Roll-A-Ball: Video 03 Proof" |
 
