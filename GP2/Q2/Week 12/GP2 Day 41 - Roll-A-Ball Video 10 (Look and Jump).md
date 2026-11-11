@@ -10,7 +10,7 @@ class_minutes: 48
 unit: 4
 status: active
 sub: false
-updated: 2026-11-09
+updated: 2026-11-10
 riddle: What kind of room has no doors or windows?
 joke: Did you hear about the king that went to the dentist?
 agenda:
@@ -21,11 +21,11 @@ agenda:
 
 # GP2 Day 41 - Roll-A-Ball Video 10 (Look and Jump)
 
-Day 41 (A day, 48 min). Live focus: Video 10 - Look and Jump, movement's last two pieces. Day one of the two-block V10 push: the video (about 37 minutes on tape; at the series' pause-and-type pace students take most of the block) carries the whole lesson, and Friday's finish block carries the Controller Challenge and its capture. Look is the Roll pattern moved to rotation; Jump is Unit 1's if-statement doing real game work through the canJump gate; the Tick reset is V05's loop getting its first actual job. The video shows both gate bug directions on camera: no flip is the rocket, no reset is one jump and then nothing. The gamepad segment is not in this take - it ran as the Week 11 challenge. Anyone still short of V09's end state or Tuesday's drive capture runs the parallel catch-up lane. Plan-level file: built from the V10 script note before the take; the publish deadline is before this class, and the reconciliation pass after the take sweeps the Materials links and the Task List rows.
+Day 41 (A day, 48 min). Live focus: Video 10 - Look and Jump, movement's last two pieces. Day one of the two-block V10 push: the video (13:29 on the final cut; at the series' pause-and-type pace students take most of the block) carries the whole lesson, and Friday's finish block carries the Controller Challenge and its movement recording. Look is the Roll pattern moved to rotation; Jump is Unit 1's if-statement doing real game work through the canJump gate; the Tick reset is V05's loop getting its first actual job. The video shows both gate bug directions on camera: no flip is the rocket, no reset is one jump and then nothing. The gamepad segment is not in this take - it ran as the Week 11 challenge. Anyone still short of V09's end state or Tuesday's drive capture runs the parallel catch-up lane. Plan-level file: built from the V10 script note before the take; the publish deadline is before this class, and the reconciliation pass after the take sweeps the Materials links and the Task List rows.
 
 ## Learning Target
 
-Replace the two stub functions behind Video 10: Look reads the mouse's 2D value into controller yaw and pitch, and Jump fires an upward impulse only when the canJump gate allows it - with the Tick reset reopening the gate so the jump repeats. All three typed and compiling by the bell; the Controller Challenge capture rides Friday.
+Replace the two stub functions behind Video 10: Look reads the mouse's 2D value into controller yaw and pitch, and Jump fires an upward impulse only when the canJump gate allows it - with the Tick reset reopening the gate so the jump repeats. All three typed and compiling by the bell; the Controller Challenge recording rides Friday.
 
 **Standards:** CSTA 3B-AP-22 (modify an existing program to add functionality) · ISBE 11-12.AP.26 (same verb, ISBE wording) · ACT REL 403
 
@@ -46,9 +46,9 @@ Replace the two stub functions behind Video 10: Look reads the mouse's 2D value 
 
 | # | Type | Question |
 |---|------|----------|
-| 1 | Review | Roll's final body carries no debug print left in it. What is Roll's proof that it works now? |
-| 2 | Review | The Look fired and Jump fired stub prints from the wiring week are still in the file going into today. What were those two prints there to prove? |
-| 3 | Preview | In Unit 1 terms: an if-check is the only thing standing between the Space key and a jump impulse. What does holding Space do to that impulse while the check is missing? One phrase. |
+| 1 | Review | Roll has no debug print left in it. How do you know Roll still works? |
+| 2 | Review | What does Roll do with the direction you press to move the ball? |
+| 3 | Review | Your ball barely crawls even though Roll works. What number do you check first, and where do you change it? |
 
 ## Worked example
 
@@ -60,13 +60,13 @@ Students type along inside the video block, self-paced. Circulation triage prior
 
 ## Independent work
 
-The typing IS the block's work: pause, type, compile, keep moving. Students still short of V09's Roll end state or Tuesday's drive capture run the parallel catch-up lane (the V09 EdPuzzle link rides Day 39's Materials), then roll into V10 typing behind their lane. At the bell: close Unreal, full compile, commit and push with a message naming Video 10. Friday's finish block owns the Controller Challenge and the drive-look-jump capture, so nothing capture-shaped is due today.
+The typing IS the block's work: pause, type, compile, keep moving. Students still short of V09's Roll end state or Tuesday's drive capture run the parallel catch-up lane (the V09 EdPuzzle link rides Day 39's Materials), then roll into V10 typing behind their lane. At the bell: close Unreal, full compile, commit and push with a message naming Video 10. Friday's finish block owns the Controller Challenge and the movement recording (look, jump, and roll, per the video's own challenge wording), so nothing challenge-shaped is due today.
 
 ## Exit ticket
 
-1. The rocket and the one-jump bug are the same gate breaking in two directions. Name which missing job produces which: the flip after the jump, or the reset in Tick.
-2. Look writes to the control rotation and Roll reads from it. In one sentence: why does the ball now roll in the direction the camera faces?
-3. At the bell your build compiles with Roll, Look, Jump, and the reset all in. Name the one proof still owed on Friday that all three work together.
+1. Two bugs, two causes. Your jump code has no flip line: what do you see? Your reset in Tick is missing: what do you see?
+2. You turn the camera right and the ball rolls right. Why does the ball follow the camera?
+3. Today's commit proves your code compiles. What do you still have to show on Friday so Look, Jump, and Roll are proven working together?
 
 ## Agenda (A day, 48 min)
 
@@ -78,6 +78,8 @@ The typing IS the block's work: pause, type, compile, keep moving. Students stil
 
 | Item | Link |
 |------|------|
-| Video 10 on EdPuzzle | NOT YET PUBLISHED - publish deadline before this class; the link drops here when it goes live |
+| Video 10 on YouTube | https://youtu.be/Nf7zJUgvddc |
+| Video 10 on EdPuzzle | link lands when Nick builds the set |
 | Starter project repo | https://github.com/ChicagoTechAcademy/UE_Roll_a_Ball |
-| Paste blocks | Ride the Video 10 description when published |
+| Paste blocks | Ride the Video 10 YouTube description |
+| Daily slides 11.11 | ✅ built 11/11 (Do Now, answers, agenda, riddle/joke Day 41 pair, slide 7 exit ticket refreshed); verified by full read-back |

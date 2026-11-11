@@ -3,12 +3,12 @@ status: active
 project: classes
 type: plan
 created: 2026-10-15
-updated: 2026-10-23
+updated: 2026-11-11
 ---
 
 # GP1 Semester Map - SY27 Q2
 
-Plan for GP1 Q2. Roll-A-Ball in Unreal Blueprint carries the quarter: one video per day, no practice days, and checkpoints on their own days. V15 and V16 can move past winter break if the pace slips, and the three meetings after the project closes (Days 65-67) are reserved for post-project content.
+Plan for GP1 Q2. Roll-A-Ball in Unreal Blueprint carries the quarter. W10-W12 ran one video per day with no practice days; from W13 the course runs chunk planning (Nick 11/11): a set of videos gets several meetings with a due date as the chunk checkpoint. V15 and V16 can move past winter break if the pace slips, and the three meetings after the project closes (Days 65-67) are reserved for post-project content.
 
 ## Calendar fence
 
@@ -22,8 +22,8 @@ Q2 runs Mon 10/26 (Day 33) to Fri 1/22/27 (Day 67). GP1 meets 25 times before wi
 |---|---|---|---|---|
 | W10 | 10/26 to 10/29 | 4 | 33-36 | 33 [[GP1 Day 33 - Q2 Launch + GitHub Setup]], 34 [[GP1 Day 34 - GitHub Test Assignment (Full Walkthrough)]], 35 [[GP1 Day 35 - GitHub Test Finish and Video 01 Player Blueprint]] (test finish + clone ran; the video did not - all repos clean by the bell), 36 [[GP1 Day 36 - Videos 01 and 02 (Player Blueprint + Enhanced Input)]] (B day; both videos, re-shaped 10/28) |
 | W11 | 11/4 to 11/5 | 2 | 37-38 | 37 [[GP1 Day 37 - Video 03 Player Movement]], 38 [[GP1 Day 38 - Video 04 Camera Movement + OBS Primer]] (B day; OBS primer moved from Day 37, 11/2). Only 2 meetings (RCPU 11/2 + Election Day 11/3): no checkpoint in this week, zero slack |
-| W12 | 11/9 to 11/12 | 4 | 39-42 | 39 V05, 40 CP1, 41 V06, 42 V07 (B day) |
-| W13 | 11/16 to 11/19 | 4 | 43-46 | 43 V08, 44 V09, 45 CP2, 46 V10 (B day) |
+| W12 | 11/9 to 11/12 | 4 | 39-42 | 39 V05, 40 V06 start (CP1 moved off), 41 V06, 42 V07 + CP1 (Videos 1-6) + V08 start (B day) |
+| W13 | 11/16 to 11/19 | 4 | 43-46 | 43-45 **Videos 7-9 chunk** (chunk planning, Nick 11/11, week approved in the planner; due date end of Day 45, Wed 11/18), 46 **Videos 10-12 chunk starts** (B day) |
 | W14 | 12/1 to 12/3 | 3 | 47-49 | 47 V11, 48 **CP3** (progress grades due today), 49 V12 (B day). Mon 11/30 is Staff PD. CP3 lands before the progress-report grade posts, so the 12/2 grade includes a committed checkpoint build; V12 rides the B day after |
 | W15 | 12/7 to 12/10 | 4 | 50-53 | 50 V13, 51 V14, 52 V15, 53 V16 (B day) |
 | W16 | 12/14 to 12/17 | 4 | 54-57 | 54 CP4, 55 buffer, 56 capstone kickoff day 1, 57 demo day (B day, last before break) |
@@ -35,11 +35,13 @@ W17 and W19 have no Monday meeting (Staff PD 1/4, MLK 1/18); W14 has no Monday (
 
 ## The one-video-per-day rule
 
-No practice days. B days (Thursday, 72 min) carry one video plus built-in catch-up room because of the extra minutes. Checkpoints are their own days and are the catch-up points: in a self-paced flipped class there are no other slack moments, so any week that loses a meeting pushes into the next checkpoint's week.
+W10-W12 ran under one-video-per-day (no practice days). **Superseded from W13 by chunk planning (Nick 11/11):** the rule's original text is kept only in the W10-W12 rows above. Under chunk planning, a set of videos gets several meetings with a due date at the end; the due date replaces the daily ~80% bar and the days' Do Nows and exit tickets read as chunk-progress checks (where in the set, what is blocking), while Do Now review and the exit ticket stay pinned daily.
 
-Checkpoint rhythm: CP1 after V05, CP2 after V09, CP3 after V11 (before V12, so the progress-report grade includes it), CP4 after V16, CP5 the final Day 64 (Thu 1/14). Checkpoints 1-4 are the in-project builds (working ball, pickups, hazard/health, and full landscape build respectively keyed to the videos each covers); CP5 is the final demo.
+B days (72 min) still carry the catch-up cushion because of the extra minutes. In a self-paced flipped class the slack moments are the chunk due dates and the checkpoints: any week that loses a meeting pushes into the next one.
 
-## Video order (one per day)
+Checkpoint rhythm: CP1 after V06, CP2 lands later under chunk pacing and handles everything through Video 12 (V06-V12 range) whenever that work lands; CP3 (Day 48, before the progress-report grade posts; whether its scope folds into CP2 is open, Nick 11/11); CP4 after V16, CP5 the final Day 64 (Thu 1/14). Checkpoints 1-4 are the in-project builds (working ball, pickups, hazard/health, and full landscape build respectively keyed to the videos each covers); CP5 is the final demo.
+
+## Video order (the series' fixed order; pacing is chunk planning from W13)
 
 V01 Player Blueprint → V02 Enhanced Input → V03 Player Movement → V04 Camera Movement → V05 Physics & Jump → **CP1** → V06 Obstacle Blueprints → V07 Pick Up 1 → V08 Pick Up 2 → V09 Pick Up 3 → **CP2** → V10 Player Health → V11 Game Over Screen → **CP3** (progress-report fence) → V12 Ground Traps → V13 Landscape 1 → V14 Landscape 2 → V15 Import/Replace Models → V16 Niagara → **CP4** → capstone kickoff + buffer → demo day (last before break) → build days → **CP5** final (Day 64).
 
@@ -52,12 +54,12 @@ Commit-and-push runs after every video, and that is proof for every video. Six v
 | V01 | 35 | Screenshot: the ball in the level with its material | The first "it exists" artifact; cheap to grade, morale submit |
 | V02 | 36 | Screenshot: the Input folder (IA_Roll, IA_Jump, IA_Camera, IMC) | Panel evidence proving Enhanced Input is set up; invisible in a running game |
 | V03 | 37 | Short recording (5-10 s) of the ball rolling | Screenshots can't prove motion; first moment the game is a game |
-| V04 | 38 | commit/push only | CP1 is two days later and collects camera evidence |
-| V05 | 39 | commit/push only | CP1 the next day |
-| V06 | 41 | Screenshot: obstacles placed in the level (movable + immovable children) | Only proof between CP1 and CP2 that child Blueprints worked |
+| V04 | 38 | commit/push only | CP1 (Thu 11/12) collects camera evidence |
+| V05 | 39 | commit/push only | CP1 (Thu 11/12) collects jump evidence |
+| V06 | 41 | Screenshot: obstacles placed in the level (movable + immovable children) | CP1 (Thu 11/12) collects the obstacle evidence as well; the screenshot proof stays for anyone who misses the checkpoint block |
 | V07 | 42 | commit/push only | V09 + CP2 collect pickup evidence |
-| V08 | 43 | commit/push only | V09 + CP2 collect pickup evidence; V08's break-the-links trap surfaces in V09 |
-| V09 | 44 | commit/push only | CP2 the next day |
+| V08 | 43-45 (chunk) | commit/push only | V09 + CP2 collect pickup evidence; V08's break-the-links trap surfaces in V09 |
+| V09 | 43-45 (chunk) | commit/push only | the Videos 7-9 chunk due date (end of Day 45) collects pickup evidence; CP2 (date open under chunk pacing) collects it again with health and game over in |
 | V10 | 46 | commit/push only | CP3 four days later |
 | V11 | 47 | commit/push only | CP3 the next day |
 | V12 | 49 | Screenshot: student's trap(s) in the level | "Show your customizations" material (the video uses lava; students choose their own) |
@@ -66,7 +68,7 @@ Commit-and-push runs after every video, and that is proof for every video. Six v
 | V15 | 52 | commit/push only | Bump candidate - if it moves to January, the commit trail shows the refresher landed |
 | V16 | 53 | commit/push only | CP4 the next day |
 
-**The V03 OBS lesson.** V03's recording proof is the first OBS recording students make, so Day 38 (B day) carries a how-to-OBS block: capture source setup, region select, start/stop, and where the file lands. This is the primer for CP1's OBS screen recording one meeting later (Tue 11/10) - students arrive at CP1 having already recorded once, so the checkpoint never teaches the tool. The A day runs video + practice + commit, and the B day's 72 minutes absorb the 15-min OBS + commit block; the recording content stays yesterday's rolling ball (the Video 03 proof). The OBS instruction video is posted to Classroom before Day 38.
+**The V03 OBS lesson.** V03's recording proof is the first OBS recording students make, so Day 38 (B day) carries a how-to-OBS block: capture source setup, region select, start/stop, and where the file lands. This is the primer for CP1's OBS screen recording on Thu 11/12 - students arrive at CP1 having already recorded once, so the checkpoint never teaches the tool. The A day runs video + practice + commit, and the B day's 72 minutes absorb the 15-min OBS + commit block; the recording content stays yesterday's rolling ball (the Video 03 proof). The OBS instruction video is posted to Classroom before Day 38.
 
 **Grading shape.** Screenshot submissions are presence-based: the thing being there earns its points, one glance per submission. The V03 recording is the only one that takes attention (watch 5-10 seconds, check the ball actually rolls). All six submit to Google Classroom, named like the Q1 pattern ("GP1 Roll-A-Ball: Video NN Proof").
 
@@ -82,10 +84,10 @@ All 16 videos are published on YouTube (reused SY26 recordings).
 
 ## Checkpoint dates
 
-- **CP1** Day 40, Tue 11/10: ball fully moves, jumps, camera follows (V01-V05 range)
-- **CP2** Day 45, Wed 11/18: obstacles + pickups work end to end (V06-V09 range)
+- **CP1** Day 42, Thu 11/12: ball fully moves, jumps, camera follows, obstacles placed (V01-V06 range). Moved off Day 40 11/11 (Nick); the 20-minute recorded-proof shape narrows what the CP1 brief can require.
+- **CP2** lands later under chunk pacing (Nick 11/11): handles everything through Video 12 whenever that work lands - obstacles, pickups, health, game over (V06-V12 range). The old Day 45 date is released; the Videos 7-9 chunk's Day 45 due date is a chunk checkpoint, not CP2.
 - **CP3** Day 48, Wed 12/2: hazards-so-far + health + game-over loop in (V10-V11 range; V12 lands after). CP3 sits before the Q2 progress-report grade posts (also 12/2) so the posted grade carries a committed checkpoint build. 48 minutes is tight for a checkpoint, so the CP3 brief runs presence-based (screenshots, count-and-type) and grades in minutes. V12 rides Day 49's B day, which keeps its catch-up room.
 - **CP4** Day 54, Mon 12/14: landscape world with effects (V13-V16 range). **Gate:** if V15/V16 have not both landed by Day 53, CP4's evidence scope narrows to V13-V14 and the remaining videos bump to W17 as refreshers; CP4's date holds either way.
 - **CP5** Day 64, Thu 1/14 (B day): final demo of the students' customized games. Last project week is 1/11-1/14; Days 65-67 are reserved for post-project content.
 
-Checkpoint rhythm: one every 5 meetings pre-break (CP1 at meeting 8 of the run, then every 5), consistent with the standing 1-per-2-3-weeks rule given the one-video-per-day pace.
+Checkpoint rhythm: one every 5 meetings pre-break under the original one-video-per-day pace (CP1 at meeting 8 of the run, then every 5). That arithmetic is the 10/15 counting; under chunk planning the due dates inside chunks (Days 43-45, 46-49) do the between-checkpoint collection work, and the rhythm statement is history if pacing drifts again.

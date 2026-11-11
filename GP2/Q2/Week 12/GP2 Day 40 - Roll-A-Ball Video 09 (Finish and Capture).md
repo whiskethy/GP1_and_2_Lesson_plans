@@ -84,6 +84,7 @@ Finish to the end state, pick a RollSpeed (default 20.0f; slower or faster, your
 | Starter project repo | https://github.com/ChicagoTechAcademy/UE_Roll_a_Ball |
 | Paste blocks | The V09 include line, in the Video 09 YouTube description |
 | Predict-test-record | Student's own Doc/card: the value named before the run, the result recorded after |
+| Daily slides 11.10 | ✅ built 11/10 (Do Now, answers, agenda, riddle/joke Day 40 pair, slide 7 exit ticket refreshed); verified by read-back |
 
 ### EdPuzzle embeds
 

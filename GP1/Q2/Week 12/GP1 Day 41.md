@@ -9,7 +9,7 @@ type: new idea (EdPuzzle)
 class_minutes: 48
 unit: 1
 status: active
-updated: 2026-11-02
+updated: 2026-11-11
 riddle: What kind of room has no doors or windows?
 joke: Did you hear about the king that went to the dentist?
 sub: false
@@ -30,15 +30,15 @@ Day 41 (A day, 48 min) - Video 06 (Obstacle Blueprints, 12:49), finished. Yester
 
 | # | Type | Question |
 |---|------|----------|
-| 1 | Review | Which key snaps the object you are dragging down onto the surface below it? |
-| 2 | Review | BP_MovableBox's physical material ran friction near zero. What did that make the boxes do in play? |
-| 3 | Preview | You want spheres that behave exactly like your movable boxes. Two ways: rebuild a whole new Blueprint from scratch, or make one FROM BP_MovableBox. What could the rebuild-from-scratch way go wrong at that you would then have to fix in two places? |
+| 1 | Review | Your ball stops rolling a beat after you release the key instead of spinning on forever. Which setting from Video 05 made that happen, and what does it do? |
+| 2 | Preview | You placed several copies of BP_MovableBox in the level. If a change is made to BP_MovableBox itself, what do you think happens to those placed copies? And the other way: you edit ONE placed copy - does BP_MovableBox change? |
+| 3 | Check-in | Scale of 1 to 4: how far through the obstacle work are you? Name the one thing blocking you - a video piece, a bug, or time. |
 
 ## Shared Block
 
 | Field | Value |
 |---|---|
-| Learning target | Create child Blueprint classes (BP_MovableSpheres from BP_MovableBox; BP_ImmovableBox and an immovable tower from BP_ImmovableObject), state and test the one-way rule (parent changes flow down; child changes never flow up), place the whole obstacle family in the level, and submit the proof screenshot. |
+| Learning target | Grow the obstacle family: make child Blueprints of BP_MovableBox and BP_ImmovableObject, keep the immovable family's Simulate Physics OFF, and finish the level's push-and-stop pair so the proof screenshot shows both families placed. |
 | New concept | Inheritance in practice: one parent Blueprint is a family's base, and children copy its behavior while keeping their own. |
 | Content standard | CSTA 3B-AP-14 (construct solutions using student-created components, such as procedures, modules and/or objects; the obstacle family is one) |
 | ACT standard | WME 402 (parent, child, inherit, base class: the vocabulary is the concept here) |
@@ -56,9 +56,18 @@ Day 41 (A day, 48 min) - Video 06 (Obstacle Blueprints, 12:49), finished. Yester
 
 ## Exit ticket
 
-1. Parent changed, child follows; child changed, parent does not. Say the rule once more in your own words, and name the experiment from the video that proved it.
-2. What makes BP_ImmovableObject immovable? Name the one setting it does NOT have that BP_MovableBox does.
-3. List the obstacle instances your level now holds, and name the one you created yourself as a child (the video's challenge counts).
+| # | Question |
+|---|----------|
+| 1 | A change is made on the parent Blueprint. What happens to each child? A change is made on one child. What happens to the parent? |
+| 2 | BP_ImmovableObject is the ball's wall. What does the video turn OFF on that parent, and what does that mean for the ball that runs into it and its children? |
+| 3 | Name the child you created in the challenge and one thing it inherited from its parent. |
+
+## Agenda (A day, 48 min)
+
+1. Do Now review (5 min)
+2. Video 06 follow-along (33 min)
+3. Practice: place obstacle instances, test the wall (5 min)
+4. Exit ticket (5 min)
 
 ## Differentiation & Accommodations
 
@@ -72,6 +81,5 @@ Day 41 (A day, 48 min) - Video 06 (Obstacle Blueprints, 12:49), finished. Yester
 
 | Item | Link |
 |------|------|
-| Video 06 - Obstacle Blueprints on EdPuzzle | https://youtu.be/Bn7A0IQ5pZo (in the Roll-A-Ball playlist) |
-| Proof: Video 06 obstacle screenshot | Classroom: "GP1 Roll-A-Ball: Video 06 Proof" |
-| Roll-A-Ball starter project repo | https://github.com/ChicagoTechAcademy/Unreal_Roll_a_Ball_Starter |
+| Video 06 follow-along | https://youtu.be/Bn7A0IQ5pZo |
+

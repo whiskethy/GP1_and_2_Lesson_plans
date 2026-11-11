@@ -27,15 +27,12 @@ Day 39 (A day, 48 min) - Video 05 (Physics & Jump, 13:38). Two jobs: the ball's 
 
 | # | Type | Question |
 |---|------|----------|
-| 1 | Review | Use Pawn Control Rotation stopped one specific behavior. Name it. |
-| 2 | Review | Which tuning knob changed how far the camera sits from the ball, and which knob smoothed the camera's follow? |
-| 3 | Preview | Roll a marble across the gym floor and a soccer ball across carpet. Which one stops and turns easier, and what is the surface adding that the other surface is not? |
 
 ## Shared Block
 
 | Field | Value |
 |---|---|
-| Learning target | Tune the ball until it turns and stops on command (physical material friction, mass, linear and angular damping, speed, CCD), then give it a single jump: Add Impulse on Z driven by IA_Jump, gated by a Can Jump boolean that flips false right after the jump and resets true on Event Hit. |
+| Learning target |  |
 | New concept | The gate. A boolean and a Branch control WHEN an event's instruction is allowed to fire, and a second event resets the flag: jump once, land, jump again. The friction/mass/damping tuning rides the same collider as feel-setting, not a second idea. |
 | Content standard | CSTA 3A-AP-21 (evaluate and refine computational artifacts: friction, damping, and jump force get tested against intended feel) |
 | ACT standard | A 406 (the impulse-to-jump-height relationship is the slope reasoning; push the force and the arc changes) |
@@ -52,9 +49,13 @@ Day 39 (A day, 48 min) - Video 05 (Physics & Jump, 13:38). Two jobs: the ball's 
 
 ## Exit ticket
 
-1. The ball turns like it is on ice. Name today's fix for that and the value you set.
-2. Holding Space kept re-adding the impulse so the ball hovered instead of jumping. What stops the repeat: name the variable, the node, and the event that re-arms it.
-3. Jump Force went from 100 to 10,000 to 500 across the video. What were you tuning when you changed it, and what did each number show you?
+
+
+## Agenda (A day, 48 min)
+
+1. Do Now review (5 min)
+2. Video 05 follow-along (38 min)
+3. Exit ticket (5 min)
 
 ## Differentiation & Accommodations
 
@@ -68,6 +69,5 @@ Day 39 (A day, 48 min) - Video 05 (Physics & Jump, 13:38). Two jobs: the ball's 
 
 | Item | Link |
 |------|------|
-| Video 05 - Physics & Jump on EdPuzzle | https://youtu.be/mN8DWV3sS9I (in the Roll-A-Ball playlist) |
-| Proof: commit and push | GitHub Desktop - commit trail inspected at CP1 (Tue 11/10) |
-| Known-good CP1 restart project (state at V05) | Not built yet - on the Course Planning build queue; check before Day 40 |
+| Video 05 follow-along | https://youtu.be/mN8DWV3sS9I |
+

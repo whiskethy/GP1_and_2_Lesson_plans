@@ -3,7 +3,7 @@ status: active
 project: classes
 type: plan
 tags: [gp1, unreal-engine]
-updated: 2026-10-23
+updated: 2026-11-11
 ---
 # Scope & Sequence - Game Programming 1 (GP1)
 
@@ -203,7 +203,7 @@ Student prior-knowledge gaps, not content gaps.
 
 ## Q2 (35 meetings, 1,920 min) 10/26/26 to 1/22/27
 
-Roll-A-Ball in Unreal Blueprint, one video per day with no standalone practice days. B days (72 min) carry the catch-up cushion and the checkpoint builds absorb slack. The date plan is in [[GP1 Semester Map - SY27 Q2]]; the units below are the content plan. 25 meetings before winter break carry Days 33-57 (setup days, V01-V16, CP1-CP4, buffer, capstone kickoff, demo day); the capstone build runs W17-W18 (1/5-1/14) and closes at CP5 on Day 64; Days 65-67 are reserved for post-project content.
+Roll-A-Ball in Unreal Blueprint. W10-W12 ran one video per day with no standalone practice days. From W13 the course runs CHUNK PLANNING (Nick 11/11): a set of videos gets several meetings with a due date at the end of the chunk, and the due date replaces the daily ~80% bar. The date plan is in [[GP1 Semester Map - SY27 Q2]]; the units below are the content plan. 25 meetings before winter break carry Days 33-57 (setup days, V01-V16, CP1-CP4, buffer, capstone kickoff, demo day); the capstone build runs W17-W18 (1/5-1/14) and closes at CP5 on Day 64; Days 65-67 are reserved for post-project content.
 
 ### Units
 
@@ -221,19 +221,20 @@ Roll-A-Ball in Unreal Blueprint, one video per day with no standalone practice d
 5. Video 03 Player Movement (Day 37) - *new idea*
 6. Video 04 Camera Movement: spring arm/camera (Day 38, B) - *new idea*
 7. Video 05 Physics & Jump: physics materials, angular damping (Day 39) - *new idea*
-8. **Checkpoint 1 build** (Day 40) - ball moves, jumps, camera follows, project committed · *Performance Task Connection: first graded evidence that the GitHub cycle works on a real project.*
+8. **Checkpoint 1 build** (Day 42, moved off Day 40) - ball moves, jumps, camera follows, obstacles placed (Videos 01-06 range), project committed · *Performance Task Connection: first graded evidence that the GitHub cycle works on a real project.*
 
 **Phase C - Obstacles, Pickups & Game State** (Days 41-49, 9 meetings)
 
 9. Video 06 Obstacle Blueprints: base obstacle class, inheritance in practice (Day 41) - *new idea*
 10. Video 07 Pick Up Items pt. 1 (Day 42, B) - *new idea*
-11. Video 08 Pick Up Items pt. 2 (Day 43) - *practice/consolidation (incremental, not fully new)*
-12. Video 09 Pick Up Items pt. 3 (Day 44) - *new idea*
-13. **Checkpoint 2 build** (Day 45) - obstacles + pickups collectible, committed
-14. Video 10 Player Health: conditionals, persistent state (Day 46, B) - *new idea*
-15. Video 11 Game Over Screen: first UI widget (Day 47) - *new idea*
-16. **Checkpoint 3 build** (Day 48) - health + game-over loop committed (V10-V11 range; lands with the Q2 progress-report grade, so the posted grade carries a committed checkpoint build)
-17. Video 12 Ground Traps (Day 49, B) - *new idea, applies the conditionals/state pattern to a new context*
+11. Video 08 Pick Up Items pt. 2 (inside the Videos 7-9 chunk) - *practice/consolidation (incremental, not fully new)*
+12. Video 09 Pick Up Items pt. 3 (inside the Videos 7-9 chunk) - *new idea*
+- **Videos 7-9 chunk** (chunk planning, Nick 11/11): Days 43-45 carry Videos 07-09 with the chunk due date at the end of Day 45 (Wed 11/18). The due-date gate replaces what a daily ~80% bar would check: items bob and spin (V07), the score chain reaches the screen (V08), pickups award points on overlap (V09), and the whole run is committed and pushed.
+13. **Checkpoint 2 build** (date open under chunk pacing - Nick 11/11: CP2 handles up to Video 12 whenever that work lands) - obstacles, pickups, health and game over in, committed · *Performance Task Connection: second graded evidence pass that the GitHub cycle works on a real project.*
+14. Video 10 Player Health: persistent state on the PlayerController, the score chain generalized to health (conditionals land in V11-V12's work; corrected against the video, 11/11) (Day 46, B, starts the Videos 10-12 chunk) - *new idea*
+15. Video 11 Game Over Screen: first UI widget, the conditionals that end the game (Day 47, inside the Videos 10-12 chunk) - *new idea*
+16. **Checkpoint 3 build** (Day 48; scope V10-V11 range: health + game-over loop committed. Whether CP3's scope folds into CP2's expanded range is open, Nick 11/11. Sits before the Q2 progress-report grade posts, so the posted grade carries a committed checkpoint build)
+17. Video 12 Ground Traps (Day 49, B; the Videos 10-12 chunk's working window closes here unless Nick re-cuts it) - *new idea, applies the conditionals/state pattern to a new context*
 
 **Phase D - World, Models & Effects** (Days 50-55, 6 meetings)
 
